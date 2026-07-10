@@ -1,0 +1,329 @@
+{
+  "block": "14",
+  "title": "Pronunciación y fonética",
+  "kicker": "Bloque 14 · Base A2–C1",
+  "intro": "La gramática perfecta no sirve de mucho si el sonido no se entiende — este bloque es transversal, se puede repasar en cualquier momento. Cubrimos los sonidos que más cuestan a hispanohablantes, la diferencia entre vocales largas y cortas, el acento/entonación de la frase, y las diferencias entre los acentos regionales más comunes. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b> (aquí, \"tu frase\" significa practicarla en voz alta).",
+  "legend": [
+    {
+      "label": "sonido clave",
+      "desc": "el que hay que cuidar"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "14.1",
+      "title": "Sonidos difíciles para hispanohablantes",
+      "level": "A2",
+      "rule": "5 sonidos que no existen (o son distintos) en español, y que cambian el significado de una palabra si se pronuncian mal.",
+      "examples": [
+        {
+          "en": "<span class=\"r-verb\">very</span> (muy) vs. <span class=\"r-verb\">berry</span> (baya) — la diferencia es solo V vs. B",
+          "es": "Un error de V/B aquí cambia completamente el significado."
+        },
+        {
+          "en": "<span class=\"r-verb\">think</span> (pensar) vs. <span class=\"r-verb\">sink</span> (hundirse) — TH vs. S",
+          "es": "Otro par que confunde mucho a hispanohablantes."
+        },
+        {
+          "en": "<span class=\"r-verb\">ship</span> (barco) vs. <span class=\"r-verb\">chip</span> (patata frita/chip) — SH vs. CH",
+          "es": "Sonidos parecidos pero distintos en la boca."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Sonido",
+            "Cómo producirlo",
+            "Practica con"
+          ],
+          "rows": [
+            [
+              "R inglesa",
+              "La lengua no vibra ni toca el paladar — se arquea hacia atrás, como al decir \"uh\"",
+              "red, run, arrive, refrigerator"
+            ],
+            [
+              "TH suave (θ)",
+              "Lengua entre los dientes, soplas sin vibrar — no es una \"t\" española",
+              "think, thanks, path"
+            ],
+            [
+              "TH fuerte (ð)",
+              "Misma posición, pero con vibración de las cuerdas vocales",
+              "this, that, father"
+            ],
+            [
+              "SH",
+              "Más suave y prolongado que la \"sh\" española, lengua hacia atrás",
+              "ship, fish, shop"
+            ],
+            [
+              "V",
+              "Dientes superiores tocan el labio inferior — nunca juntar los labios como en \"b\"",
+              "very, voice, victory"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b14-s1q1",
+          "question": "1. \"Think\" empieza con el sonido:",
+          "options": [
+            "TH suave (θ), lengua entre los dientes",
+            "Una \"t\" como en español"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s1q2",
+          "question": "2. Para pronunciar \"very\" correctamente:",
+          "options": [
+            "Dientes superiores tocan el labio inferior",
+            "Juntar ambos labios como en \"b\""
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s1q3",
+          "question": "3. La R inglesa se diferencia de la española en que:",
+          "options": [
+            "No vibra, la lengua no toca el paladar",
+            "Se pronuncia igual, solo cambia la ortografía"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b14-s1",
+        "label": "<span class=\"badge\">tu turno</span>Practica en voz alta: \"I think this refrigerator is very heavy.\" Escribe qué sonidos te costaron más.",
+        "placeholder": "Ej: Me costó la TH de 'think' y la V de 'very' — las repetí 5 veces."
+      }
+    },
+    {
+      "idx": "14.2",
+      "title": "Vocales largas vs. cortas",
+      "level": "B1",
+      "rule": "El inglés distingue significado según la duración de la vocal — algo que el español no hace. Pronunciar la vocal con la duración equivocada puede cambiar totalmente la palabra.",
+      "examples": [
+        {
+          "en": "I need to <span class=\"r-verb\">book</span> (corta) three rooms, not <span class=\"r-verb\">boot</span> them out. (juego fonético para practicar)",
+          "es": "Necesito reservar tres habitaciones, no echarlos."
+        },
+        {
+          "en": "Please <span class=\"r-verb\">sit</span> (corta, /ɪ/) here, not <span class=\"r-verb\">seat</span> (larga, /iː/) — ambas suenan parecido pero son distintas.",
+          "es": "Por favor siéntate aquí — mismo significado en español, pero en inglés son dos palabras."
+        },
+        {
+          "en": "The <span class=\"r-verb\">pool</span> (larga) is full (corta) of guests today.",
+          "es": "La piscina está llena de huéspedes hoy."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Vocal corta",
+            "Vocal larga",
+            "Diferencia de significado"
+          ],
+          "rows": [
+            [
+              "ship /ɪ/ (corta)",
+              "sheep /iː/ (larga)",
+              "barco vs. oveja"
+            ],
+            [
+              "full /ʊ/ (corta)",
+              "fool /uː/ (larga)",
+              "lleno vs. tonto"
+            ],
+            [
+              "cat /æ/ (corta)",
+              "car /ɑː/ (larga)",
+              "gato vs. coche"
+            ],
+            [
+              "hat /æ/ (corta)",
+              "heart /ɑː/ (larga)",
+              "sombrero vs. corazón"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b14-s2q1",
+          "question": "1. ¿Cuál tiene la vocal larga /iː/?",
+          "options": [
+            "ship",
+            "sheep"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s2q2",
+          "question": "2. ¿Cuál significa \"coche\"?",
+          "options": [
+            "cat",
+            "car"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s2q3",
+          "question": "3. \"Full\" (lleno) tiene una vocal:",
+          "options": [
+            "corta",
+            "larga"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b14-s2",
+        "label": "<span class=\"badge\">tu turno</span>Practica en voz alta el par \"ship/sheep\" y \"full/fool\" varias veces. Anota cuál te costó distinguir más.",
+        "placeholder": "Ej: Me costó más distinguir full/fool que ship/sheep."
+      }
+    },
+    {
+      "idx": "14.3",
+      "title": "Acento e intonación",
+      "level": "B2",
+      "rule": "El <b>acento</b> (word stress) es dónde recae el énfasis dentro de una palabra o frase. La <b>entonación</b> es la melodía de la oración completa: sube en preguntas de sí/no, baja en afirmaciones y preguntas wh-.",
+      "examples": [
+        {
+          "en": "I never <span class=\"r-verb\">SAID</span> she stole the money. (énfasis en \"said\" — quizás otra persona lo dijo)",
+          "es": "Nunca dije que ella robó el dinero."
+        },
+        {
+          "en": "I never said she <span class=\"r-verb\">STOLE</span> the money. (énfasis en \"stole\" — insinúa otra cosa)",
+          "es": "Nunca dije que ella robó el dinero (quizás hizo otra cosa con él)."
+        },
+        {
+          "en": "Do you know if the report is ready? ↗ (tono ascendente en preguntas sí/no)",
+          "es": "¿Sabes si el informe está listo?"
+        },
+        {
+          "en": "The report is ready for review. ↘ (tono descendente en afirmaciones)",
+          "es": "El informe está listo para revisión."
+        },
+        {
+          "en": "Although the presentation went well ↗, we need to make some changes ↘. (primera cláusula sube, segunda baja)",
+          "es": "Aunque la presentación fue bien, necesitamos hacer algunos cambios."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b14-s3q1",
+          "question": "1. En una pregunta de sí/no, la entonación al final:",
+          "options": [
+            "sube",
+            "baja"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s3q2",
+          "question": "2. En una afirmación normal, la entonación al final:",
+          "options": [
+            "baja",
+            "sube"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s3q3",
+          "question": "3. Cambiar el énfasis dentro de una frase puede:",
+          "options": [
+            "cambiar lo que realmente se comunica",
+            "no afecta el significado en absoluto"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b14-s3",
+        "label": "<span class=\"badge\">tu turno</span>Practica la frase \"I thought the meeting was tomorrow, not today\" enfatizando \"tomorrow\" y luego \"today\". Anota la diferencia de matiz.",
+        "placeholder": "Ej: Al enfatizar 'tomorrow' suena a que corrijo una fecha equivocada."
+      }
+    },
+    {
+      "idx": "14.4",
+      "title": "Acentos regionales",
+      "level": "C1",
+      "rule": "Reconocer (no necesariamente imitar) los acentos principales te ayuda muchísimo en listening — sobre todo con huéspedes internacionales de distintos países de habla inglesa.",
+      "examples": [
+        {
+          "en": "En Club by Meliá tratarás con huéspedes VIP de múltiples nacionalidades — no hace falta imitar ningún acento, pero sí reconocerlos ayuda a entender mejor en el listening del examen y en conversaciones reales.",
+          "es": "(Nota metodológica, sin traducción.)"
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Acento",
+            "Característica distintiva",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "Británico (RP)",
+              "Pronunciación clara y marcada, \"t\" bien definida",
+              "water suena como \"wa-tuh\""
+            ],
+            [
+              "Americano",
+              "La \"t\" interna suena como una \"d\" suave (flap T)",
+              "water suena más como \"wader\""
+            ],
+            [
+              "Australiano",
+              "Más nasal, vocales ligeramente distintas al RP",
+              "\"today\" suena algo como \"to-dai\""
+            ],
+            [
+              "Canadiense",
+              "Muy cercano al americano, con matices propios",
+              "\"about\" se acerca a \"aboot\""
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b14-s4q1",
+          "question": "1. La \"t\" que suena como \"d\" suave es típica del acento:",
+          "options": [
+            "británico",
+            "americano"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s4q2",
+          "question": "2. \"Water\" pronunciada de forma muy clara y marcada es más típica del acento:",
+          "options": [
+            "británico",
+            "americano"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s4q3",
+          "question": "3. El acento con \"about\" sonando como \"aboot\" es el:",
+          "options": [
+            "australiano",
+            "canadiense"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b14-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escucha (mentalmente o en un video) una palabra en 2 acentos distintos y anota la diferencia que notaste.",
+        "placeholder": "Ej: Escuché 'water' en inglés británico vs. americano — la 't' cambia mucho."
+      }
+    }
+  ]
+}

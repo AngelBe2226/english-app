@@ -1,0 +1,420 @@
+{
+  "block": "02",
+  "title": "Preposiciones",
+  "kicker": "Bloque 02 · Base A1–B2",
+  "intro": "Las preposiciones casi nunca se traducen de forma literal del español — cada una tiene un uso fijo en inglés. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "lugar",
+      "desc": "posición fija"
+    },
+    {
+      "label": "tiempo",
+      "desc": "cuándo"
+    },
+    {
+      "label": "movimiento",
+      "desc": "dirección"
+    },
+    {
+      "label": "dependiente",
+      "desc": "fija al verbo/adjetivo"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "2.1",
+      "title": "De lugar",
+      "level": "A1",
+      "rule": "<b>in</b> = dentro de un espacio. <b>on</b> = sobre una superficie. <b>at</b> = un punto concreto. Luego posición relativa: under/over, between/among, behind/in front of, next to/near/beside.",
+      "examples": [
+        {
+          "en": "The keys are <span class=\"r-place\">in</span> the drawer.",
+          "es": "Las llaves están en el cajón."
+        },
+        {
+          "en": "Your coffee is <span class=\"r-place\">on</span> the table.",
+          "es": "Tu café está en la mesa."
+        },
+        {
+          "en": "I'll meet you <span class=\"r-place\">at</span> the entrance.",
+          "es": "Te veo en la entrada."
+        },
+        {
+          "en": "The cat is hiding <span class=\"r-place\">under</span> the bed, <span class=\"r-place\">between</span> two boxes.",
+          "es": "El gato se esconde bajo la cama, entre dos cajas."
+        },
+        {
+          "en": "The hotel is <span class=\"r-place\">next to</span> the beach, right <span class=\"r-place\">in front of</span> the marina.",
+          "es": "El hotel está al lado de la playa, justo frente al puerto deportivo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s1q1",
+          "question": "1. She works <span class=\"blank\">___</span> a hotel <span class=\"blank\">___</span> the city center. (en / en)",
+          "options": [
+            "in / in",
+            "at / on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s1q2",
+          "question": "2. Sign your name <span class=\"blank\">___</span> the dotted line. (sobre una línea)",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s1q3",
+          "question": "3. Wait for me <span class=\"blank\">___</span> the reception desk. (punto concreto)",
+          "options": [
+            "at",
+            "in"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s1",
+        "label": "<span class=\"badge\">tu turno</span>Describe dónde está algo en tu escritorio usando 2 preposiciones de lugar distintas.",
+        "placeholder": "Ej: My laptop is on the desk, between the lamp and the notebook."
+      }
+    },
+    {
+      "idx": "2.2",
+      "title": "De tiempo",
+      "level": "A1",
+      "rule": "<b>in</b> = meses/años/estaciones. <b>on</b> = días y fechas. <b>at</b> = horas exactas. <b>since</b> = desde un punto, <b>for</b> = duración. <b>during</b> = mientras dura algo. <b>by</b> = fecha límite, <b>until</b> = hasta un punto.",
+      "examples": [
+        {
+          "en": "The meeting is <span class=\"r-time\">in</span> July, <span class=\"r-time\">on</span> Monday, <span class=\"r-time\">at</span> 9am.",
+          "es": "La reunión es en julio, el lunes, a las 9am."
+        },
+        {
+          "en": "I've worked here <span class=\"r-time\">since</span> 2022 — that's three years <span class=\"r-time\">for</span> me now.",
+          "es": "He trabajado aquí desde 2022 — ya son tres años para mí."
+        },
+        {
+          "en": "Please don't call <span class=\"r-time\">during</span> the presentation.",
+          "es": "Por favor no llames durante la presentación."
+        },
+        {
+          "en": "I need the report <span class=\"r-time\">by</span> Friday.",
+          "es": "Necesito el informe para el viernes."
+        },
+        {
+          "en": "We'll be open <span class=\"r-time\">until</span> midnight.",
+          "es": "Estaremos abiertos hasta medianoche."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s2q1",
+          "question": "1. I'll finish this <span class=\"blank\">___</span> 5 o'clock. (a esa hora exacta)",
+          "options": [
+            "at",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s2q2",
+          "question": "2. She's been on holiday <span class=\"blank\">___</span> two weeks. (duración)",
+          "options": [
+            "since",
+            "for"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s2q3",
+          "question": "3. Please submit it <span class=\"blank\">___</span> Monday at the latest. (fecha límite)",
+          "options": [
+            "by",
+            "until"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"since\" y otra con \"for\".",
+        "placeholder": "Ej: I've worked in real estate since 2023. / I've been here for two years."
+      }
+    },
+    {
+      "idx": "2.3",
+      "title": "De movimiento / dirección",
+      "level": "A2",
+      "rule": "<b>to</b> = destino, <b>into/onto</b> = entrar, <b>from</b> = origen, <b>out of</b> = salir de, <b>through</b> = atravesar, <b>across</b> = cruzar, <b>along</b> = a lo largo de, <b>towards</b> = hacia, <b>past</b> = pasar por delante de.",
+      "examples": [
+        {
+          "en": "We drove <span class=\"r-move\">from</span> Madrid <span class=\"r-move\">to</span> Barcelona.",
+          "es": "Condujimos de Madrid a Barcelona."
+        },
+        {
+          "en": "She jumped <span class=\"r-move\">into</span> the pool.",
+          "es": "Ella saltó a la piscina."
+        },
+        {
+          "en": "He ran <span class=\"r-move\">out of</span> the building <span class=\"r-move\">through</span> the back door.",
+          "es": "Salió corriendo del edificio por la puerta trasera."
+        },
+        {
+          "en": "Walk <span class=\"r-move\">along</span> the beach and <span class=\"r-move\">past</span> the lighthouse.",
+          "es": "Camina a lo largo de la playa y pasa el faro."
+        },
+        {
+          "en": "The car was heading <span class=\"r-move\">towards</span> us, then swerved <span class=\"r-move\">across</span> the road.",
+          "es": "El coche venía hacia nosotros, luego giró cruzando la carretera."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s3q1",
+          "question": "1. She walked <span class=\"blank\">___</span> the room and closed the door. (entrar a)",
+          "options": [
+            "into",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s3q2",
+          "question": "2. The tunnel goes <span class=\"blank\">___</span> the mountain. (atraviesa)",
+          "options": [
+            "along",
+            "through"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s3q3",
+          "question": "3. We walked <span class=\"blank\">___</span> the river for an hour. (a lo largo de)",
+          "options": [
+            "along",
+            "across"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s3",
+        "label": "<span class=\"badge\">tu turno</span>Describe un trayecto usando al menos 2 preposiciones de movimiento.",
+        "placeholder": "Ej: I walk from my house, along the main road, and into the office."
+      }
+    },
+    {
+      "idx": "2.4",
+      "title": "De causa, propósito y modo",
+      "level": "B1",
+      "rule": "<b>because of / due to</b> = causa (+ sustantivo). <b>for</b> = propósito. <b>by</b> = medio/modo. <b>with / without</b> = compañía o instrumento. <b>despite / in spite of</b> = concesión (+ sustantivo o -ing).",
+      "examples": [
+        {
+          "en": "The flight was delayed <span class=\"r-dep\">because of</span> the storm.",
+          "es": "El vuelo se retrasó por la tormenta."
+        },
+        {
+          "en": "I called <span class=\"r-dep\">for</span> more information.",
+          "es": "Llamé para pedir más información."
+        },
+        {
+          "en": "You can pay <span class=\"r-dep\">by</span> card or <span class=\"r-dep\">with</span> cash.",
+          "es": "Puedes pagar con tarjeta o con efectivo."
+        },
+        {
+          "en": "<span class=\"r-dep\">Despite</span> the rain, the event was a success.",
+          "es": "A pesar de la lluvia, el evento fue un éxito."
+        },
+        {
+          "en": "She solved it <span class=\"r-dep\">without</span> any help, <span class=\"r-dep\">due to</span> her experience.",
+          "es": "Lo resolvió sin ayuda, gracias a su experiencia."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s4q1",
+          "question": "1. The trip was cancelled <span class=\"blank\">___</span> bad weather. (causa + sustantivo)",
+          "options": [
+            "due to",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s4q2",
+          "question": "2. I bought this <span class=\"blank\">___</span> you. (propósito)",
+          "options": [
+            "for",
+            "by"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s4q3",
+          "question": "3. <span class=\"blank\">___</span> the traffic, we arrived on time. (concesión)",
+          "options": [
+            "Despite",
+            "Because of"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase de venta usando \"despite\" o \"due to\".",
+        "placeholder": "Ej: Despite the higher price, most guests choose the premium package."
+      }
+    },
+    {
+      "idx": "2.5",
+      "title": "Dependientes: verbo + preposición",
+      "level": "B2",
+      "rule": "Ciertos verbos van siempre con la misma preposición fija. Si va seguida de otro verbo, ese verbo va en <b>gerundio (-ing)</b>.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Verbo + preposición",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "depend on",
+              "It depends on the weather."
+            ],
+            [
+              "look forward to + -ing",
+              "I look forward to hearing from you."
+            ],
+            [
+              "apologize for",
+              "She apologized for being late."
+            ],
+            [
+              "insist on",
+              "He insisted on paying the bill."
+            ],
+            [
+              "succeed in",
+              "They succeeded in closing the deal."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b02-s5q1",
+          "question": "1. I'm looking forward <span class=\"blank\">___</span> you soon. (a + gerundio)",
+          "options": [
+            "to see",
+            "to seeing"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s5q2",
+          "question": "2. It all depends <span class=\"blank\">___</span> your budget.",
+          "options": [
+            "on",
+            "of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s5q3",
+          "question": "3. He apologized <span class=\"blank\">___</span> the mistake.",
+          "options": [
+            "of",
+            "for"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b02-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"look forward to\" pensando en un email a un cliente.",
+        "placeholder": "Ej: I look forward to welcoming you to the resort."
+      }
+    },
+    {
+      "idx": "2.6",
+      "title": "Dependientes: adjetivo + preposición",
+      "level": "B2",
+      "rule": "Igual que con los verbos, muchos adjetivos llevan una preposición fija que no coincide con el español.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Adjetivo + preposición",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "good at",
+              "She's good at negotiating."
+            ],
+            [
+              "afraid of",
+              "He's afraid of failing."
+            ],
+            [
+              "interested in",
+              "I'm interested in real estate."
+            ],
+            [
+              "married to",
+              "He's married to a doctor."
+            ],
+            [
+              "responsible for",
+              "She's responsible for the whole team."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b02-s6q1",
+          "question": "1. He's married <span class=\"blank\">___</span> a lawyer.",
+          "options": [
+            "with",
+            "to"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s6q2",
+          "question": "2. I'm really interested <span class=\"blank\">___</span> this property.",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s6q3",
+          "question": "3. She's responsible <span class=\"blank\">___</span> all the bookings.",
+          "options": [
+            "for",
+            "of"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase describiéndote a ti mismo con un adjetivo + preposición.",
+        "placeholder": "Ej: I'm good at handling difficult clients."
+      }
+    }
+  ]
+}

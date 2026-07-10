@@ -1,0 +1,414 @@
+{
+  "block": "10",
+  "title": "Condicionales y modales",
+  "kicker": "Bloque 10 · Base A2–C1",
+  "intro": "Los condicionales expresan hipótesis con distinto grado de realidad: desde verdades universales (0) hasta escenarios pasados que ya no se pueden cambiar (3) y combinaciones entre ellos (mixtos). Los modales matizan capacidad, obligación, consejo y posibilidad. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "if-clause",
+      "desc": "la condición"
+    },
+    {
+      "label": "main clause",
+      "desc": "el resultado"
+    },
+    {
+      "label": "modal",
+      "desc": "matiza el verbo"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "10.1",
+      "title": "Condicional 0 (verdades generales)",
+      "level": "A2",
+      "rule": "Estructura: <b>If + presente simple, presente simple</b>. Se usa para hechos siempre verdaderos, científicos o rutinas automáticas — no hipótesis, sino certezas.",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">If</span> you heat ice, <span class=\"r-corr\">it melts</span>.",
+          "es": "Si calientas el hielo, se derrite."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> a guest cancels within 48 hours, <span class=\"r-corr\">we don't charge a fee</span>. (política fija)",
+          "es": "Si un huésped cancela dentro de 48 horas, no cobramos tarifa."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you don't water plants, <span class=\"r-corr\">they die</span>.",
+          "es": "Si no riegas las plantas, se mueren."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the system detects an error, <span class=\"r-corr\">it sends an alert</span>. (automatismo)",
+          "es": "Si el sistema detecta un error, envía una alerta."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> demand rises, <span class=\"r-corr\">prices go up</span>. (regla económica)",
+          "es": "Si la demanda sube, los precios suben."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s1q1",
+          "question": "1. If you <span class=\"blank\">___</span> the button, the light turns on. (press, verdad general)",
+          "options": [
+            "press",
+            "will press"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s1q2",
+          "question": "2. If a guest arrives early, we <span class=\"blank\">___</span> them wait in the lounge. (let, política fija)",
+          "options": [
+            "let",
+            "will let"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s1q3",
+          "question": "3. Water freezes if the temperature <span class=\"blank\">___</span> below 0°C.",
+          "options": [
+            "drops",
+            "will drop"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s1",
+        "label": "<span class=\"badge\">tu turno</span>Describe una política fija de tu trabajo usando condicional 0.",
+        "placeholder": "Ej: If a client pays in full, we apply a 5% discount."
+      }
+    },
+    {
+      "idx": "10.2",
+      "title": "Condicional 1 (futuro real/posible)",
+      "level": "A2",
+      "rule": "Estructura: <b>If + presente simple, will + infinitivo</b>. Se usa para situaciones futuras realmente posibles — una condición razonable que puede cumplirse.",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">If</span> you book today, <span class=\"r-corr\">you'll get</span> a discount.",
+          "es": "Si reservas hoy, tendrás un descuento."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she confirms by Friday, <span class=\"r-corr\">we'll hold</span> the room.",
+          "es": "Si ella confirma para el viernes, mantendremos la habitación."
+        },
+        {
+          "en": "You <span class=\"r-corr\">won't get</span> the rate <span class=\"r-sub\">if</span> you cancel now.",
+          "es": "No obtendrás la tarifa si cancelas ahora."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the client agrees, <span class=\"r-corr\">I'll send</span> the contract right away.",
+          "es": "Si el cliente acepta, enviaré el contrato de inmediato."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> it rains tomorrow, <span class=\"r-corr\">we'll move</span> the event indoors.",
+          "es": "Si llueve mañana, moveremos el evento al interior."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s2q1",
+          "question": "1. If you sign today, we <span class=\"blank\">___</span> you a 10% discount.",
+          "options": [
+            "will give",
+            "would give"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s2q2",
+          "question": "2. If she <span class=\"blank\">___</span> late, we'll start without her. (is/be, condición real)",
+          "options": [
+            "is",
+            "will be"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s2q3",
+          "question": "3. We won't proceed unless you <span class=\"blank\">___</span>. (confirm — presente en if-clause)",
+          "options": [
+            "confirm",
+            "will confirm"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una oferta condicional real usando condicional 1.",
+        "placeholder": "Ej: If you sign this week, we'll include a free upgrade."
+      }
+    },
+    {
+      "idx": "10.3",
+      "title": "Condicional 2 (hipotético presente/futuro)",
+      "level": "B1",
+      "rule": "Estructura: <b>If + pasado simple, would + infinitivo</b>. Se usa para situaciones hipotéticas, poco probables o imaginarias en el presente/futuro — no lo que realmente pasará, sino lo que pasaría. Con \"be\", se prefiere <b>were</b> para todas las personas en registro formal.",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">If</span> I <span class=\"r-sub\">were</span> you, <span class=\"r-corr\">I would take</span> the offer.",
+          "es": "Si yo fuera tú, aceptaría la oferta."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we lowered the price, <span class=\"r-corr\">we would sell</span> more units. (hipotético, no plan real)",
+          "es": "Si bajáramos el precio, venderíamos más unidades."
+        },
+        {
+          "en": "What <span class=\"r-corr\">would you do</span> <span class=\"r-sub\">if</span> the client refused?",
+          "es": "¿Qué harías si el cliente se negara?"
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I had more time, <span class=\"r-corr\">I would review</span> the whole contract again.",
+          "es": "Si tuviera más tiempo, revisaría todo el contrato otra vez."
+        },
+        {
+          "en": "<span class=\"r-corr\">She would understand</span> <span class=\"r-sub\">if</span> you explained the situation.",
+          "es": "Ella entendería si le explicaras la situación."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s3q1",
+          "question": "1. If I <span class=\"blank\">___</span> the manager, I would approve it. (were, hipotético)",
+          "options": [
+            "were",
+            "am"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s3q2",
+          "question": "2. If we had a bigger budget, we <span class=\"blank\">___</span> hire more staff.",
+          "options": [
+            "would",
+            "will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s3q3",
+          "question": "3. What would you do if the deal <span class=\"blank\">___</span> through? (fall, hipotético)",
+          "options": [
+            "fell",
+            "falls"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe un escenario hipotético usando condicional 2.",
+        "placeholder": "Ej: If I were in charge, I would simplify the onboarding process."
+      }
+    },
+    {
+      "idx": "10.4",
+      "title": "Condicional 3 (hipotético pasado)",
+      "level": "B2",
+      "rule": "Estructura: <b>If + pasado perfecto, would have + participio</b>. Se usa para hablar de algo que no ocurrió en el pasado y su consecuencia imaginaria — ya no se puede cambiar, es puro \"y si hubiera pasado\".",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">If</span> I had known about the delay, <span class=\"r-corr\">I would have rebooked</span> earlier.",
+          "es": "Si hubiera sabido del retraso, habría reprogramado antes."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she had signed sooner, <span class=\"r-corr\">she would have gotten</span> the discount.",
+          "es": "Si hubiera firmado antes, habría conseguido el descuento."
+        },
+        {
+          "en": "<span class=\"r-corr\">We wouldn't have lost</span> the client <span class=\"r-sub\">if</span> we had responded faster.",
+          "es": "No habríamos perdido al cliente si hubiéramos respondido más rápido."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> they had prepared better, <span class=\"r-corr\">they would have won</span> the bid.",
+          "es": "Si se hubieran preparado mejor, habrían ganado la licitación."
+        },
+        {
+          "en": "<span class=\"r-corr\">I would have called</span> you <span class=\"r-sub\">if</span> I had had your number.",
+          "es": "Te habría llamado si hubiera tenido tu número."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s4q1",
+          "question": "1. If I had known, I <span class=\"blank\">___</span> you. (habría llamado)",
+          "options": [
+            "would have called",
+            "would call"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s4q2",
+          "question": "2. If she <span class=\"blank\">___</span> earlier, she wouldn't have missed the flight. (had left)",
+          "options": [
+            "had left",
+            "left"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s4q3",
+          "question": "3. They would have closed the deal if they <span class=\"blank\">___</span> more flexible. (habían sido)",
+          "options": [
+            "had been",
+            "were"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s4",
+        "label": "<span class=\"badge\">tu turno</span>Reflexiona sobre algo del pasado usando condicional 3.",
+        "placeholder": "Ej: If I had followed up sooner, I would have closed that deal."
+      }
+    },
+    {
+      "idx": "10.5",
+      "title": "Condicionales mixtos",
+      "level": "C1",
+      "rule": "Combinan dos tiempos distintos cuando la condición y el resultado no ocurren en el mismo momento. <b>Pasado + presente</b>: una condición pasada con consecuencia en el presente. <b>Presente + pasado</b>: una condición permanente con consecuencia en el pasado.",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">If</span> I had taken that job, <span class=\"r-corr\">I would be</span> living abroad now. (pasado → presente)",
+          "es": "Si hubiera aceptado ese trabajo, ahora estaría viviendo en el extranjero."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she were more organized, <span class=\"r-corr\">she wouldn't have missed</span> the deadline. (presente → pasado)",
+          "es": "Si ella fuera más organizada, no habría perdido el plazo."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we hadn't invested then, <span class=\"r-corr\">we wouldn't be</span> in this position today.",
+          "es": "Si no hubiéramos invertido entonces, no estaríamos en esta posición hoy."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> he weren't so stubborn, <span class=\"r-corr\">he would have accepted</span> the deal.",
+          "es": "Si él no fuera tan terco, habría aceptado el trato."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I hadn't studied English, <span class=\"r-corr\">I wouldn't be</span> able to do this job now.",
+          "es": "Si no hubiera estudiado inglés, no podría hacer este trabajo ahora."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s5q1",
+          "question": "1. If I had accepted that offer, I <span class=\"blank\">___</span> somewhere else now. (estaría — presente)",
+          "options": [
+            "would be working",
+            "would have worked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s5q2",
+          "question": "2. If she were more careful, she <span class=\"blank\">___</span> that mistake. (no habría cometido)",
+          "options": [
+            "wouldn't have made",
+            "wouldn't make"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s5q3",
+          "question": "3. If we hadn't launched that campaign, we <span class=\"blank\">___</span> so many clients now. (no tendríamos)",
+          "options": [
+            "wouldn't have",
+            "wouldn't have had"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase mixta conectando una decisión pasada con una consecuencia presente.",
+        "placeholder": "Ej: If I hadn't taken this course, I wouldn't be this confident in English now."
+      }
+    },
+    {
+      "idx": "10.6",
+      "title": "Verbos modales",
+      "level": "A2",
+      "rule": "Matizan el significado del verbo principal: capacidad, obligación, consejo o posibilidad. Siempre van seguidos del verbo en infinitivo sin \"to\" (excepto \"have to\" y \"ought to\").",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Modal",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "can / could",
+              "habilidad, permiso (could = más cortés/pasado)",
+              "I can help you. / Could you sign here, please?"
+            ],
+            [
+              "must / have to",
+              "obligación (must = interna/fuerte, have to = externa/norma)",
+              "You must read the terms. / Guests have to check out by noon."
+            ],
+            [
+              "should / ought to",
+              "consejo, recomendación",
+              "You should call the client back. / We ought to follow up soon."
+            ],
+            [
+              "might / may",
+              "posibilidad (may = más formal)",
+              "She might join us later. / This may take a few days."
+            ],
+            [
+              "would",
+              "hipótesis, cortesía, hábito pasado",
+              "Would you like a coffee? / He would always double-check contracts."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b10-s6q1",
+          "question": "1. Guests <span class=\"blank\">___</span> check out by 11am. (norma externa del hotel)",
+          "options": [
+            "have to",
+            "must"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s6q2",
+          "question": "2. You <span class=\"blank\">___</span> follow up with that client — it's a great opportunity. (consejo fuerte)",
+          "options": [
+            "should",
+            "can"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s6q3",
+          "question": "3. <span class=\"blank\">___</span> you help me with this proposal? (petición cortés)",
+          "options": [
+            "Could",
+            "Must"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe 2 frases usando modales distintos en un contexto de atención al cliente.",
+        "placeholder": "Ej: You could upgrade your room for a small fee. / We must confirm the booking within 24 hours."
+      }
+    }
+  ]
+}

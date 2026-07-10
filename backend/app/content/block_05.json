@@ -1,0 +1,345 @@
+{
+  "block": "05",
+  "title": "Estructura de la oración",
+  "kicker": "Bloque 05 · Base A2–B2",
+  "intro": "Toda oración inglesa gira en torno a Sujeto + Verbo + Complementos. Aquí distinguimos los 4 tipos de complemento: directo (recibe la acción), indirecto (recibe el beneficio), circunstancial (lugar/tiempo/modo) y predicativo (con verbos copulativos). Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "verbo",
+      "desc": "la acción"
+    },
+    {
+      "label": "C. directo",
+      "desc": "recibe la acción"
+    },
+    {
+      "label": "C. indirecto",
+      "desc": "recibe el beneficio"
+    },
+    {
+      "label": "C. circunstancial",
+      "desc": "lugar/tiempo/modo"
+    },
+    {
+      "label": "predicativo",
+      "desc": "con verbos copulativos"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "5.1",
+      "title": "Sujeto y verbo (SV)",
+      "level": "A1",
+      "rule": "El orden básico en inglés es fijo: <b>Sujeto + Verbo</b> (+ el resto). A diferencia del español, casi nunca se puede omitir el sujeto. El verbo concuerda con el sujeto — en 3ª persona singular (he/she/it) del presente simple, el verbo añade <b>-s/-es</b>.",
+      "examples": [
+        {
+          "en": "The manager <span class=\"r-verb\">approves</span> every booking.",
+          "es": "El gerente aprueba cada reserva."
+        },
+        {
+          "en": "She <span class=\"r-verb\">works</span> at the front desk.",
+          "es": "Ella trabaja en la recepción."
+        },
+        {
+          "en": "Guests <span class=\"r-verb\">check in</span> after 3pm.",
+          "es": "Los huéspedes hacen el check-in después de las 3pm."
+        },
+        {
+          "en": "He <span class=\"r-verb\">doesn't like</span> early meetings. (3ª persona negativa)",
+          "es": "A él no le gustan las reuniones tempranas."
+        },
+        {
+          "en": "It <span class=\"r-verb\">rains</span> a lot in winter here.",
+          "es": "Llueve mucho aquí en invierno."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s1q1",
+          "question": "1. She <span class=\"blank\">___</span> the property every morning. (visit, 3ª persona)",
+          "options": [
+            "visit",
+            "visits"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s1q2",
+          "question": "2. He <span class=\"blank\">___</span> speak French. (no habla)",
+          "options": [
+            "don't",
+            "doesn't"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s1q3",
+          "question": "3. <span class=\"blank\">___</span> rains a lot here. (sujeto obligatorio en inglés)",
+          "options": [
+            "It",
+            "(sin sujeto)"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase simple sujeto + verbo en 3ª persona sobre tu trabajo.",
+        "placeholder": "Ej: My manager reviews every contract before signing."
+      }
+    },
+    {
+      "idx": "5.2",
+      "title": "Complemento directo (CD)",
+      "level": "A2",
+      "rule": "Recibe la acción del verbo directamente — responde a \"¿qué?\" o \"¿a quién?\". Se puede sustituir por un pronombre de objeto (it, them, her, him...).",
+      "examples": [
+        {
+          "en": "I bought <span class=\"r-cd\">a new car</span>. → I bought <span class=\"r-cd\">it</span>.",
+          "es": "Compré un coche nuevo. → Lo compré."
+        },
+        {
+          "en": "She called <span class=\"r-cd\">the client</span> this morning.",
+          "es": "Ella llamó al cliente esta mañana."
+        },
+        {
+          "en": "We finished <span class=\"r-cd\">the report</span> on time.",
+          "es": "Terminamos el informe a tiempo."
+        },
+        {
+          "en": "He signed <span class=\"r-cd\">the contract</span> yesterday.",
+          "es": "Él firmó el contrato ayer."
+        },
+        {
+          "en": "They offered <span class=\"r-cd\">a discount</span> to loyal guests.",
+          "es": "Ofrecieron un descuento a los huéspedes leales."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s2q1",
+          "question": "1. Identifica el CD: \"She confirmed <u>the reservation</u> by phone.\"",
+          "options": [
+            "the reservation",
+            "by phone"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s2q2",
+          "question": "2. I saw <span class=\"blank\">___</span> at the meeting. (a ella, como CD)",
+          "options": [
+            "she",
+            "her"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s2q3",
+          "question": "3. He read <span class=\"blank\">___</span> twice before signing. (lo, sustituyendo \"the contract\")",
+          "options": [
+            "it",
+            "them"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase identificando claramente su complemento directo.",
+        "placeholder": "Ej: I reviewed the proposal before sending it."
+      }
+    },
+    {
+      "idx": "5.3",
+      "title": "Complemento indirecto (CI)",
+      "level": "B1",
+      "rule": "La persona (normalmente) que se beneficia de la acción — responde a \"¿a quién?\" o \"¿para quién?\". Puede ir sin preposición (justo después del verbo, antes del CD) o con <b>to/for</b> (después del CD).",
+      "examples": [
+        {
+          "en": "I gave <span class=\"r-ci\">her</span> a book. = I gave a book <span class=\"r-ci\">to her</span>.",
+          "es": "Le di un libro (a ella)."
+        },
+        {
+          "en": "She sent <span class=\"r-ci\">the client</span> an email.",
+          "es": "Ella le envió un email al cliente."
+        },
+        {
+          "en": "Can you explain the process <span class=\"r-ci\">to me</span>?",
+          "es": "¿Puedes explicarme el proceso?"
+        },
+        {
+          "en": "He bought <span class=\"r-ci\">his wife</span> flowers. = He bought flowers <span class=\"r-ci\">for his wife</span>.",
+          "es": "Le compró flores a su esposa."
+        },
+        {
+          "en": "We offered <span class=\"r-ci\">the guests</span> a free upgrade.",
+          "es": "Les ofrecimos a los huéspedes una mejora gratis."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s3q1",
+          "question": "1. She explained the situation <span class=\"blank\">___</span> me. (a mí — con preposición)",
+          "options": [
+            "to",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s3q2",
+          "question": "2. He bought a gift <span class=\"blank\">___</span> his mother. (para — beneficio)",
+          "options": [
+            "for",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s3q3",
+          "question": "3. Reordena: \"I gave the report / my manager / to\" → orden correcto sin preposición.",
+          "options": [
+            "I gave my manager the report",
+            "I gave the report my manager"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con complemento indirecto, con y sin preposición.",
+        "placeholder": "Ej: I sent the client the invoice. / I sent the invoice to the client."
+      }
+    },
+    {
+      "idx": "5.4",
+      "title": "Complemento circunstancial (CC)",
+      "level": "B1",
+      "rule": "Añade información de lugar, tiempo, modo o causa. No es esencial para que la frase tenga sentido gramatical, pero sí aporta contexto. Orden típico en inglés: <b>modo → lugar → tiempo</b> (M-P-T).",
+      "examples": [
+        {
+          "en": "She works <span class=\"r-cc\">carefully</span> <span class=\"r-cc\">at the front desk</span> <span class=\"r-cc\">every day</span>. (modo-lugar-tiempo)",
+          "es": "Ella trabaja cuidadosamente en recepción todos los días."
+        },
+        {
+          "en": "We met <span class=\"r-cc\">the client</span> <span class=\"r-cc\">yesterday</span> <span class=\"r-cc\">at the office</span>.",
+          "es": "Nos reunimos con el cliente ayer en la oficina."
+        },
+        {
+          "en": "He answered <span class=\"r-cc\">quickly</span> <span class=\"r-cc\">during the call</span>.",
+          "es": "Él respondió rápidamente durante la llamada."
+        },
+        {
+          "en": "They arrived <span class=\"r-cc\">late</span> <span class=\"r-cc\">at the hotel</span> <span class=\"r-cc\">last night</span>.",
+          "es": "Llegaron tarde al hotel anoche."
+        },
+        {
+          "en": "She signed the contract <span class=\"r-cc\">without hesitation</span>. (modo)",
+          "es": "Firmó el contrato sin dudar."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s4q1",
+          "question": "1. Orden correcto: \"She spoke ___ ___ ___\" (politely / at the meeting / this morning)",
+          "options": [
+            "politely at the meeting this morning",
+            "this morning at the meeting politely"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s4q2",
+          "question": "2. Identifica el CC de modo: \"He replied calmly to the complaint.\"",
+          "options": [
+            "calmly",
+            "to the complaint"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s4q3",
+          "question": "3. Identifica el CC de tiempo: \"We'll finish the report by Friday.\"",
+          "options": [
+            "by Friday",
+            "the report"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con complementos circunstanciales de modo, lugar y tiempo en el orden correcto.",
+        "placeholder": "Ej: She presented the offer confidently at the meeting yesterday."
+      }
+    },
+    {
+      "idx": "5.5",
+      "title": "Complemento predicativo",
+      "level": "B2",
+      "rule": "Aparece con <b>verbos copulativos</b> (be, seem, look, become, feel...) describiendo al sujeto, o con verbos como \"elect/name/consider\" describiendo al complemento directo.",
+      "examples": [
+        {
+          "en": "She <span class=\"r-pred\">seems</span> <span class=\"r-pred\">tired</span> today. (describe al sujeto)",
+          "es": "Ella parece cansada hoy."
+        },
+        {
+          "en": "The offer <span class=\"r-pred\">looks</span> <span class=\"r-pred\">promising</span>.",
+          "es": "La oferta parece prometedora."
+        },
+        {
+          "en": "They elected <span class=\"r-cd\">him</span> <span class=\"r-pred\">president</span>. (describe al CD)",
+          "es": "Lo eligieron presidente."
+        },
+        {
+          "en": "He became <span class=\"r-pred\">the top salesperson</span> this year.",
+          "es": "Él se convirtió en el mejor vendedor este año."
+        },
+        {
+          "en": "We consider <span class=\"r-cd\">this deal</span> <span class=\"r-pred\">excellent</span>.",
+          "es": "Consideramos este trato excelente."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s5q1",
+          "question": "1. The client seems <span class=\"blank\">___</span> with the offer. (satisfecho)",
+          "options": [
+            "satisfied",
+            "satisfy"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s5q2",
+          "question": "2. They named her <span class=\"blank\">___</span> of the year. (empleada — describe al CD)",
+          "options": [
+            "employee",
+            "employ"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s5q3",
+          "question": "3. This plan looks <span class=\"blank\">___</span> for your needs. (perfecto)",
+          "options": [
+            "perfect",
+            "perfectly"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con un verbo copulativo (seem/look/feel/become) describiendo algo.",
+        "placeholder": "Ej: This package looks perfect for a family of four."
+      }
+    }
+  ]
+}

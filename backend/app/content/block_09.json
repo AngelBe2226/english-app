@@ -1,0 +1,774 @@
+{
+  "block": "09",
+  "title": "El verbo: tiempos y usos",
+  "kicker": "Bloque 09 · Base A1–C1 · Completo",
+  "intro": "El bloque más grande de todos: los 12 tiempos verbales del inglés, organizados por eje temporal (presente → pasado → futuro) y dentro de cada eje, por aspecto (simple → continuo → perfecto → perfecto continuo). Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "verbo conjugado",
+      "desc": "forma del tiempo"
+    },
+    {
+      "label": "marcador temporal",
+      "desc": "palabra que señala el tiempo"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "9.1",
+      "title": "Presente simple",
+      "level": "A1",
+      "rule": "Estructura: sujeto + verbo (+s en 3ª persona) / don't-doesn't + verbo / Do-Does + sujeto + verbo? Usos: rutinas, hechos generales, horarios fijos. Marcadores: <b>always, usually, every day, on Mondays</b>.",
+      "examples": [
+        {
+          "en": "She <span class=\"r-verb\">checks</span> in guests <span class=\"r-adv\">every morning</span>.",
+          "es": "Ella registra a los huéspedes todas las mañanas."
+        },
+        {
+          "en": "The office <span class=\"r-verb\">opens</span> at 9am <span class=\"r-adv\">on weekdays</span>.",
+          "es": "La oficina abre a las 9am los días laborables."
+        },
+        {
+          "en": "I <span class=\"r-verb\">don't usually work</span> weekends.",
+          "es": "Normalmente no trabajo los fines de semana."
+        },
+        {
+          "en": "<span class=\"r-verb\">Does</span> the price <span class=\"r-verb\">include</span> breakfast?",
+          "es": "¿El precio incluye el desayuno?"
+        },
+        {
+          "en": "Water <span class=\"r-verb\">boils</span> at 100°C. (hecho general)",
+          "es": "El agua hierve a 100°C."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s1q1",
+          "question": "1. She <span class=\"blank\">___</span> the reports every Friday. (submit, 3ª persona)",
+          "options": [
+            "submit",
+            "submits"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s1q2",
+          "question": "2. <span class=\"blank\">___</span> you speak German? (pregunta)",
+          "options": [
+            "Do",
+            "Are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s1q3",
+          "question": "3. He <span class=\"blank\">___</span> like early meetings. (no le gusta)",
+          "options": [
+            "don't",
+            "doesn't"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b09-s1",
+        "label": "<span class=\"badge\">tu turno</span>Describe una rutina de tu trabajo en presente simple.",
+        "placeholder": "Ej: I check my emails first thing every morning."
+      }
+    },
+    {
+      "idx": "9.2",
+      "title": "Presente continuo",
+      "level": "A1",
+      "rule": "Estructura: am/is/are + verbo-ing. Usos: acción en progreso ahora mismo, planes futuros ya confirmados. No se usa con \"state verbs\" (know, like, want, believe...) que expresan estados, no acciones.",
+      "examples": [
+        {
+          "en": "She <span class=\"r-verb\">is reviewing</span> the contract <span class=\"r-adv\">right now</span>.",
+          "es": "Ella está revisando el contrato ahora mismo."
+        },
+        {
+          "en": "We <span class=\"r-verb\">are meeting</span> the client <span class=\"r-adv\">tomorrow</span>. (plan confirmado)",
+          "es": "Nos reunimos con el cliente mañana."
+        },
+        {
+          "en": "I <span class=\"r-verb\">'m working</span> on the proposal <span class=\"r-adv\">at the moment</span>.",
+          "es": "Estoy trabajando en la propuesta en este momento."
+        },
+        {
+          "en": "<span class=\"r-verb\">Are</span> you <span class=\"r-verb\">listening</span>?",
+          "es": "¿Estás escuchando?"
+        },
+        {
+          "en": "I <span class=\"r-verb\">know</span> the answer. (NO \"I am knowing\" — state verb)",
+          "es": "Sé la respuesta."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s2q1",
+          "question": "1. She <span class=\"blank\">___</span> the presentation right now. (preparing)",
+          "options": [
+            "is preparing",
+            "prepares"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s2q2",
+          "question": "2. I <span class=\"blank\">___</span> this product. (lo quiero — state verb, no continuo)",
+          "options": [
+            "want",
+            "am wanting"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s2q3",
+          "question": "3. We <span class=\"blank\">___</span> the office tomorrow at 10. (plan confirmado)",
+          "options": [
+            "are visiting",
+            "visit"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s2",
+        "label": "<span class=\"badge\">tu turno</span>Describe algo que estás haciendo ahora mismo, y un plan confirmado para mañana.",
+        "placeholder": "Ej: I'm reviewing a contract right now. I'm meeting a client tomorrow."
+      }
+    },
+    {
+      "idx": "9.3",
+      "title": "Presente perfecto simple",
+      "level": "A2",
+      "rule": "Estructura: have/has + participio pasado. Usos: experiencias de vida (sin decir cuándo), acciones que empezaron en el pasado y continúan, resultado presente de una acción pasada. Marcadores: <b>ever, never, already, just, yet, since, for</b>.",
+      "examples": [
+        {
+          "en": "<span class=\"r-adv\">Have</span> you <span class=\"r-verb\">ever worked</span> in sales?",
+          "es": "¿Alguna vez has trabajado en ventas?"
+        },
+        {
+          "en": "She <span class=\"r-verb\">has already signed</span> the contract.",
+          "es": "Ella ya ha firmado el contrato."
+        },
+        {
+          "en": "I <span class=\"r-verb\">have lived</span> here <span class=\"r-adv\">since</span> 2022.",
+          "es": "He vivido aquí desde 2022."
+        },
+        {
+          "en": "We <span class=\"r-verb\">haven't received</span> the payment <span class=\"r-adv\">yet</span>.",
+          "es": "Aún no hemos recibido el pago."
+        },
+        {
+          "en": "He <span class=\"r-verb\">has just finished</span> the call. (resultado presente)",
+          "es": "Acaba de terminar la llamada."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s3q1",
+          "question": "1. I <span class=\"blank\">___</span> never <span class=\"blank\">___</span> such a complicated case. (nunca he visto)",
+          "options": [
+            "have / seen",
+            "had / seen"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s3q2",
+          "question": "2. She's worked here <span class=\"blank\">___</span> five years. (durante — duración)",
+          "options": [
+            "for",
+            "since"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s3q3",
+          "question": "3. Has he called <span class=\"blank\">___</span>? (todavía, pregunta)",
+          "options": [
+            "yet",
+            "already"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase sobre tu experiencia profesional usando presente perfecto.",
+        "placeholder": "Ej: I have worked in real estate for two years."
+      }
+    },
+    {
+      "idx": "9.4",
+      "title": "Presente perfecto continuo",
+      "level": "B1",
+      "rule": "Estructura: have/has been + verbo-ing. Énfasis en la <b>duración</b> del proceso hasta ahora, no en el resultado final. Muy usado con \"for/since\" para describir cuánto tiempo lleva ocurriendo algo.",
+      "examples": [
+        {
+          "en": "I <span class=\"r-verb\">have been working</span> on this deal <span class=\"r-adv\">for</span> three weeks.",
+          "es": "Llevo tres semanas trabajando en este trato."
+        },
+        {
+          "en": "She <span class=\"r-verb\">has been calling</span> clients all morning.",
+          "es": "Ha estado llamando a clientes toda la mañana."
+        },
+        {
+          "en": "We <span class=\"r-verb\">have been waiting</span> for a response <span class=\"r-adv\">since</span> Monday.",
+          "es": "Llevamos esperando una respuesta desde el lunes."
+        },
+        {
+          "en": "He looks tired — he <span class=\"r-verb\">has been negotiating</span> all day.",
+          "es": "Se ve cansado — ha estado negociando todo el día."
+        },
+        {
+          "en": "How long <span class=\"r-verb\">have</span> you <span class=\"r-verb\">been learning</span> English?",
+          "es": "¿Cuánto tiempo llevas aprendiendo inglés?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s4q1",
+          "question": "1. I <span class=\"blank\">___</span> for two hours. (llevo esperando)",
+          "options": [
+            "have been waiting",
+            "have waited"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s4q2",
+          "question": "2. How long <span class=\"blank\">___</span> you been studying English?",
+          "options": [
+            "have",
+            "are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s4q3",
+          "question": "3. She's tired because she <span class=\"blank\">___</span> all day. (ha estado trabajando)",
+          "options": [
+            "has been working",
+            "has worked"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s4",
+        "label": "<span class=\"badge\">tu turno</span>Describe cuánto tiempo llevas haciendo algo en tu trabajo actual.",
+        "placeholder": "Ej: I've been preparing for this English exam for a few weeks."
+      }
+    },
+    {
+      "idx": "9.5",
+      "title": "Pasado simple",
+      "level": "A1",
+      "rule": "Estructura: verbo + -ed (regulares) o forma irregular / did + verbo base en negativa/pregunta. Usos: acciones terminadas en un momento específico del pasado. Marcadores: <b>yesterday, last week, in 2020, ago</b>.",
+      "examples": [
+        {
+          "en": "She <span class=\"r-verb\">signed</span> the contract <span class=\"r-adv\">yesterday</span>.",
+          "es": "Ella firmó el contrato ayer."
+        },
+        {
+          "en": "We <span class=\"r-verb\">met</span> the client <span class=\"r-adv\">last week</span>. (irregular: meet→met)",
+          "es": "Nos reunimos con el cliente la semana pasada."
+        },
+        {
+          "en": "I <span class=\"r-verb\">didn't receive</span> the email.",
+          "es": "No recibí el correo."
+        },
+        {
+          "en": "<span class=\"r-verb\">Did</span> you <span class=\"r-verb\">call</span> the client?",
+          "es": "¿Llamaste al cliente?"
+        },
+        {
+          "en": "The company <span class=\"r-verb\">was founded</span> ten years <span class=\"r-adv\">ago</span>.",
+          "es": "La empresa fue fundada hace diez años."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s5q1",
+          "question": "1. She <span class=\"blank\">___</span> the report last night. (finish, pasado)",
+          "options": [
+            "finished",
+            "finish"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s5q2",
+          "question": "2. They <span class=\"blank\">___</span> to Madrid last year. (irregular: go)",
+          "options": [
+            "went",
+            "goed"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s5q3",
+          "question": "3. <span class=\"blank\">___</span> she call you back? (pregunta)",
+          "options": [
+            "Did",
+            "Was"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s5",
+        "label": "<span class=\"badge\">tu turno</span>Cuenta algo que hiciste ayer o la semana pasada en el trabajo.",
+        "placeholder": "Ej: I closed two deals last week."
+      }
+    },
+    {
+      "idx": "9.6",
+      "title": "Pasado continuo",
+      "level": "A2",
+      "rule": "Estructura: was/were + verbo-ing. Usos: acción en progreso en un momento pasado, a menudo interrumpida por otra acción (en pasado simple), o dos acciones simultáneas en el pasado.",
+      "examples": [
+        {
+          "en": "I <span class=\"r-verb\">was reviewing</span> the contract when she called.",
+          "es": "Estaba revisando el contrato cuando ella llamó."
+        },
+        {
+          "en": "They <span class=\"r-verb\">were negotiating</span> while we <span class=\"r-verb\">were preparing</span> the paperwork. (simultáneas)",
+          "es": "Ellos estaban negociando mientras nosotros preparábamos el papeleo."
+        },
+        {
+          "en": "What <span class=\"r-verb\">were</span> you <span class=\"r-verb\">doing</span> at 9pm last night?",
+          "es": "¿Qué estabas haciendo a las 9pm anoche?"
+        },
+        {
+          "en": "She <span class=\"r-verb\">wasn't paying</span> attention during the call.",
+          "es": "Ella no estaba prestando atención durante la llamada."
+        },
+        {
+          "en": "While I <span class=\"r-verb\">was presenting</span>, the client <span class=\"r-verb\">interrupted</span> me.",
+          "es": "Mientras yo estaba presentando, el cliente me interrumpió."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s6q1",
+          "question": "1. I <span class=\"blank\">___</span> lunch when the phone rang. (estaba comiendo)",
+          "options": [
+            "was having",
+            "had"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s6q2",
+          "question": "2. They <span class=\"blank\">___</span> a meeting all afternoon yesterday.",
+          "options": [
+            "were having",
+            "had"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s6q3",
+          "question": "3. What <span class=\"blank\">___</span> you doing when I called?",
+          "options": [
+            "were",
+            "did"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s6",
+        "label": "<span class=\"badge\">tu turno</span>Describe qué estabas haciendo cuando pasó algo inesperado en el trabajo.",
+        "placeholder": "Ej: I was preparing the presentation when the client called to reschedule."
+      }
+    },
+    {
+      "idx": "9.7",
+      "title": "Pasado perfecto simple",
+      "level": "B1",
+      "rule": "Estructura: had + participio pasado. Se usa para una acción que ocurrió <b>antes</b> de otra en el pasado — el \"pasado del pasado\". Muy común con \"by the time\", \"already\", \"just\", \"before\".",
+      "examples": [
+        {
+          "en": "By the time I arrived, she <span class=\"r-verb\">had</span> already <span class=\"r-verb\">left</span>.",
+          "es": "Para cuando llegué, ella ya se había ido."
+        },
+        {
+          "en": "They <span class=\"r-verb\">had signed</span> the contract before we called. (dos acciones pasadas, orden claro)",
+          "es": "Habían firmado el contrato antes de que llamáramos."
+        },
+        {
+          "en": "I <span class=\"r-verb\">had never seen</span> such a difficult negotiation before that day.",
+          "es": "Nunca había visto una negociación tan difícil antes de ese día."
+        },
+        {
+          "en": "He <span class=\"r-verb\">had just finished</span> the call when I walked in.",
+          "es": "Acababa de terminar la llamada cuando entré."
+        },
+        {
+          "en": "She <span class=\"r-verb\">had worked</span> there for years before she got promoted.",
+          "es": "Había trabajado allí durante años antes de que la ascendieran."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s7q1",
+          "question": "1. When I arrived, the meeting <span class=\"blank\">___</span> already <span class=\"blank\">___</span>. (había terminado)",
+          "options": [
+            "had / ended",
+            "has / ended"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s7q2",
+          "question": "2. She <span class=\"blank\">___</span> the report before the deadline. (había enviado)",
+          "options": [
+            "had sent",
+            "sent"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s7q3",
+          "question": "3. By the time we called, they <span class=\"blank\">___</span> the decision. (ya habían tomado)",
+          "options": [
+            "had already made",
+            "already made"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s7",
+        "label": "<span class=\"badge\">tu turno</span>Describe dos acciones pasadas conectadas, usando pasado perfecto para la que ocurrió primero.",
+        "placeholder": "Ej: By the time the client called, I had already prepared the proposal."
+      }
+    },
+    {
+      "idx": "9.8",
+      "title": "Pasado perfecto continuo",
+      "level": "B2",
+      "rule": "Estructura: had been + verbo-ing. Enfatiza la <b>duración</b> de una acción que venía ocurriendo antes de otro momento/acción en el pasado.",
+      "examples": [
+        {
+          "en": "She <span class=\"r-verb\">had been working</span> there for years before she got promoted.",
+          "es": "Llevaba años trabajando allí antes de que la ascendieran."
+        },
+        {
+          "en": "We <span class=\"r-verb\">had been negotiating</span> for hours when they finally agreed.",
+          "es": "Llevábamos horas negociando cuando finalmente aceptaron."
+        },
+        {
+          "en": "He was tired because he <span class=\"r-verb\">had been traveling</span> all week.",
+          "es": "Estaba cansado porque había estado viajando toda la semana."
+        },
+        {
+          "en": "They <span class=\"r-verb\">had been waiting</span> for a reply for days before we responded.",
+          "es": "Llevaban días esperando una respuesta antes de que contestáramos."
+        },
+        {
+          "en": "How long <span class=\"r-verb\">had</span> you <span class=\"r-verb\">been studying</span> English before the exam?",
+          "es": "¿Cuánto tiempo llevabas estudiando inglés antes del examen?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s8q1",
+          "question": "1. She was exhausted because she <span class=\"blank\">___</span> since dawn. (había estado trabajando)",
+          "options": [
+            "had been working",
+            "had worked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s8q2",
+          "question": "2. How long <span class=\"blank\">___</span> you been waiting when they arrived?",
+          "options": [
+            "had",
+            "have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s8q3",
+          "question": "3. They <span class=\"blank\">___</span> for an hour before the client showed up. (llevaban negociando)",
+          "options": [
+            "had been negotiating",
+            "had negotiated"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s8",
+        "label": "<span class=\"badge\">tu turno</span>Describe cuánto tiempo llevabas haciendo algo antes de que ocurriera otro evento pasado.",
+        "placeholder": "Ej: I had been preparing the pitch for weeks before the client finally agreed to meet."
+      }
+    },
+    {
+      "idx": "9.9",
+      "title": "Futuro: will / going to",
+      "level": "A1",
+      "rule": "<b>will</b> + infinitivo: decisiones espontáneas (tomadas en el momento de hablar), predicciones sin evidencia clara, promesas y ofrecimientos. <b>going to</b> + infinitivo: planes e intenciones ya decididos de antemano, predicciones basadas en evidencia visible ahora.",
+      "examples": [
+        {
+          "en": "The phone is ringing — I <span class=\"r-verb\">'ll answer</span> it. (decisión espontánea)",
+          "es": "El teléfono está sonando — lo contesto yo."
+        },
+        {
+          "en": "We <span class=\"r-verb\">are going to launch</span> the new package next month. (plan ya decidido)",
+          "es": "Vamos a lanzar el nuevo paquete el próximo mes."
+        },
+        {
+          "en": "Look at those clouds — it <span class=\"r-verb\">'s going to rain</span>. (evidencia visible ahora)",
+          "es": "Mira esas nubes — va a llover."
+        },
+        {
+          "en": "I promise I <span class=\"r-verb\">'ll call</span> you back today. (promesa)",
+          "es": "Prometo que te devolveré la llamada hoy."
+        },
+        {
+          "en": "I think sales <span class=\"r-verb\">will increase</span> next quarter. (predicción sin evidencia concreta)",
+          "es": "Creo que las ventas aumentarán el próximo trimestre."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s9q1",
+          "question": "1. I've already booked the flights — we <span class=\"blank\">___</span> to Madrid next week. (plan decidido)",
+          "options": [
+            "will go",
+            "are going"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s9q2",
+          "question": "2. This bag is heavy — I <span class=\"blank\">___</span> help you. (decisión espontánea)",
+          "options": [
+            "will",
+            "am going to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s9q3",
+          "question": "3. Look at the traffic — we <span class=\"blank\">___</span> late. (evidencia visible)",
+          "options": [
+            "are going to be",
+            "will be"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"will\" (decisión espontánea) y otra con \"going to\" (plan decidido).",
+        "placeholder": "Ej: I'll send the contract right now. / We are going to meet the client on Friday."
+      }
+    },
+    {
+      "idx": "9.10",
+      "title": "Futuro continuo",
+      "level": "B1",
+      "rule": "Estructura: will be + verbo-ing. Se usa para una acción que estará en progreso en un momento específico del futuro, o para hablar de algo ya planeado de forma natural (sin énfasis en decisión).",
+      "examples": [
+        {
+          "en": "This time tomorrow, I <span class=\"r-verb\">'ll be flying</span> to Madrid.",
+          "es": "A esta hora mañana, estaré volando a Madrid."
+        },
+        {
+          "en": "She <span class=\"r-verb\">will be presenting</span> the proposal at 10am.",
+          "es": "Ella estará presentando la propuesta a las 10am."
+        },
+        {
+          "en": "Don't call at 3pm — we <span class=\"r-verb\">'ll be meeting</span> the client then.",
+          "es": "No llames a las 3pm — estaremos reunidos con el cliente entonces."
+        },
+        {
+          "en": "This time next year, they <span class=\"r-verb\">will be living</span> in a new house.",
+          "es": "Para esta época el próximo año, estarán viviendo en una casa nueva."
+        },
+        {
+          "en": "I <span class=\"r-verb\">'ll be working</span> late tonight, so don't wait for me.",
+          "es": "Estaré trabajando hasta tarde esta noche, así que no me esperes."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s10q1",
+          "question": "1. At 9am tomorrow, I <span class=\"blank\">___</span> the client. (estaré llamando)",
+          "options": [
+            "will be calling",
+            "will call"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s10q2",
+          "question": "2. This time next week, we <span class=\"blank\">___</span> on the beach. (estaremos relajándonos)",
+          "options": [
+            "will be relaxing",
+            "relax"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s10q3",
+          "question": "3. She <span class=\"blank\">___</span> the report at that time tomorrow.",
+          "options": [
+            "will be writing",
+            "writes"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s10",
+        "label": "<span class=\"badge\">tu turno</span>Describe qué estarás haciendo mañana a una hora específica.",
+        "placeholder": "Ej: At 10am tomorrow, I'll be presenting the proposal to the client."
+      }
+    },
+    {
+      "idx": "9.11",
+      "title": "Futuro perfecto simple",
+      "level": "B2",
+      "rule": "Estructura: will have + participio pasado. Se usa para una acción que estará completada antes de un momento específico en el futuro. Muy común con \"by\".",
+      "examples": [
+        {
+          "en": "<span class=\"r-adv\">By</span> Friday, I <span class=\"r-verb\">will have finished</span> the report.",
+          "es": "Para el viernes, habré terminado el informe."
+        },
+        {
+          "en": "She <span class=\"r-verb\">will have signed</span> the contract by the time you arrive.",
+          "es": "Ella habrá firmado el contrato para cuando llegues."
+        },
+        {
+          "en": "<span class=\"r-adv\">By</span> next year, we <span class=\"r-verb\">will have opened</span> three new offices.",
+          "es": "Para el próximo año, habremos abierto tres oficinas nuevas."
+        },
+        {
+          "en": "They <span class=\"r-verb\">will have left</span> by the time we call.",
+          "es": "Se habrán ido para cuando llamemos."
+        },
+        {
+          "en": "<span class=\"r-adv\">By</span> the end of the month, she <span class=\"r-verb\">will have closed</span> five deals.",
+          "es": "Para fin de mes, ella habrá cerrado cinco tratos."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s11q1",
+          "question": "1. By next week, we <span class=\"blank\">___</span> the negotiation. (habremos terminado)",
+          "options": [
+            "will have finished",
+            "will finish"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s11q2",
+          "question": "2. She <span class=\"blank\">___</span> the report by 5pm. (habrá enviado)",
+          "options": [
+            "will have sent",
+            "will send"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s11q3",
+          "question": "3. By the time you call, they <span class=\"blank\">___</span>. (ya se habrán ido)",
+          "options": [
+            "will have left",
+            "will leave"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s11",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase describiendo algo que habrás completado para una fecha límite.",
+        "placeholder": "Ej: By Friday, I will have sent the contract to every client on the list."
+      }
+    },
+    {
+      "idx": "9.12",
+      "title": "Futuro perfecto continuo",
+      "level": "C1",
+      "rule": "Estructura: will have been + verbo-ing. El tiempo más avanzado del sistema verbal: enfatiza la <b>duración</b> de una acción que seguirá en curso hasta un punto futuro (aún sin terminar en ese momento).",
+      "examples": [
+        {
+          "en": "By December, I <span class=\"r-verb\">will have been working</span> here for five years.",
+          "es": "Para diciembre, llevaré cinco años trabajando aquí."
+        },
+        {
+          "en": "When she retires, she <span class=\"r-verb\">will have been managing</span> this team for a decade.",
+          "es": "Cuando se jubile, llevará una década dirigiendo este equipo."
+        },
+        {
+          "en": "<span class=\"r-adv\">By</span> the time the project ends, we <span class=\"r-verb\">will have been collaborating</span> for six months.",
+          "es": "Para cuando termine el proyecto, llevaremos seis meses colaborando."
+        },
+        {
+          "en": "Next month, they <span class=\"r-verb\">will have been renting</span> that property for two years.",
+          "es": "El próximo mes, llevarán dos años alquilando esa propiedad."
+        },
+        {
+          "en": "By the end of this course, I <span class=\"r-verb\">will have been studying</span> English intensively for months.",
+          "es": "Para el final de este curso, llevaré meses estudiando inglés intensivamente."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s12q1",
+          "question": "1. By next year, she <span class=\"blank\">___</span> at this company for a decade. (llevará trabajando)",
+          "options": [
+            "will have been working",
+            "will have worked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s12q2",
+          "question": "2. By June, we <span class=\"blank\">___</span> this client for a full year. (llevaremos atendiendo)",
+          "options": [
+            "will have been serving",
+            "will serve"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s12q3",
+          "question": "3. When the deal closes, they <span class=\"blank\">___</span> for three months. (llevarán negociando)",
+          "options": [
+            "will have been negotiating",
+            "will negotiate"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s12",
+        "label": "<span class=\"badge\">tu turno</span>Describe cuánto tiempo llevarás haciendo algo para una fecha futura específica.",
+        "placeholder": "Ej: By next summer, I will have been working in real estate for three years."
+      }
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "block": "01",
+  "title": "Pronombres y determinantes",
+  "kicker": "Bloque 01 · Base A1–B1",
+  "intro": "Los pronombres son los ladrillos de toda oración: sustituyen a los sustantivos para no repetirlos. Misma ruta en cada apartado: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "sujeto",
+      "desc": "hace la acción"
+    },
+    {
+      "label": "objeto",
+      "desc": "la recibe"
+    },
+    {
+      "label": "posesivo",
+      "desc": "indica pertenencia"
+    },
+    {
+      "label": "reflexivo",
+      "desc": "sujeto = objeto"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "1.1",
+      "title": "Pronombres personales",
+      "level": "A1",
+      "rule": "Los de <b>sujeto</b> (I, you, he, she, it, we, they) hacen la acción y van antes del verbo. Los de <b>objeto</b> (me, you, him, her, it, us, them) la reciben y van después del verbo o preposición.",
+      "examples": [
+        {
+          "en": "<span class=\"r-subj\">I</span> call <span class=\"r-obj\">her</span> every day.",
+          "es": "Yo la llamo todos los días."
+        },
+        {
+          "en": "<span class=\"r-subj\">She</span> helped <span class=\"r-obj\">me</span> with the report.",
+          "es": "Ella me ayudó con el informe."
+        },
+        {
+          "en": "<span class=\"r-subj\">They</span> invited <span class=\"r-obj\">us</span> to the party.",
+          "es": "Ellos nos invitaron a la fiesta."
+        },
+        {
+          "en": "<span class=\"r-subj\">We</span> saw <span class=\"r-obj\">them</span> at the airport.",
+          "es": "Nosotros los vimos en el aeropuerto."
+        },
+        {
+          "en": "<span class=\"r-subj\">He</span> gave <span class=\"r-obj\">it</span> to <span class=\"r-obj\">me</span>.",
+          "es": "Él me lo dio."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s1q1",
+          "question": "1. <span class=\"blank\">___</span> are my best friends. (ellos)",
+          "options": [
+            "They",
+            "Them"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s1q2",
+          "question": "2. Can you help <span class=\"blank\">___</span>? (a mí)",
+          "options": [
+            "I",
+            "me"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s1q3",
+          "question": "3. The manager trained <span class=\"blank\">___</span> yesterday. (a nosotros)",
+          "options": [
+            "we",
+            "us"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando un pronombre de <b>sujeto</b> y uno de <b>objeto</b>.",
+        "placeholder": "Ej: We invited them to dinner."
+      }
+    },
+    {
+      "idx": "1.2",
+      "title": "Posesivos",
+      "level": "A1",
+      "rule": "Los <b>adjetivos posesivos</b> (my, your, his, her, its, our, their) van <b>antes de un sustantivo</b>. Los <b>pronombres posesivos</b> (mine, yours, his, hers, ours, theirs) <b>sustituyen</b> al sustantivo y van solos.",
+      "examples": [
+        {
+          "en": "This is <span class=\"r-poss\">my</span> car. / This car is <span class=\"r-poss\">mine</span>.",
+          "es": "Este es mi coche. / Este coche es mío."
+        },
+        {
+          "en": "<span class=\"r-poss\">Your</span> idea is better than <span class=\"r-poss\">mine</span>.",
+          "es": "Tu idea es mejor que la mía."
+        },
+        {
+          "en": "<span class=\"r-poss\">Their</span> house is bigger than <span class=\"r-poss\">ours</span>.",
+          "es": "Su casa es más grande que la nuestra."
+        },
+        {
+          "en": "Is this pen <span class=\"r-poss\">yours</span>?",
+          "es": "¿Es tuyo este bolígrafo?"
+        },
+        {
+          "en": "She lent me <span class=\"r-poss\">her</span> umbrella because I forgot <span class=\"r-poss\">mine</span>.",
+          "es": "Me prestó su paraguas porque olvidé el mío."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s2q1",
+          "question": "1. That book is <span class=\"blank\">___</span>. (mío, va solo)",
+          "options": [
+            "my",
+            "mine"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s2q2",
+          "question": "2. <span class=\"blank\">___</span> team won the match. (su, antes del sustantivo)",
+          "options": [
+            "Their",
+            "Theirs"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s2q3",
+          "question": "3. My phone is broken. Can I use <span class=\"blank\">___</span>? (el tuyo)",
+          "options": [
+            "your",
+            "yours"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s2",
+        "label": "<span class=\"badge\">tu turno</span>Compara dos cosas usando un adjetivo posesivo <b>y</b> un pronombre posesivo.",
+        "placeholder": "Ej: Your car is fast, but mine is faster."
+      }
+    },
+    {
+      "idx": "1.3",
+      "title": "Interrogativos (question words)",
+      "level": "A1",
+      "rule": "Introducen preguntas: <b>what</b> (qué), <b>which</b> (cuál), <b>who</b> (quién), <b>whom</b> (a quién), <b>whose</b> (de quién), <b>where</b> (dónde), <b>when</b> (cuándo), <b>why</b> (por qué), <b>how</b> (cómo).",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">What</b> do you do for a living?",
+          "es": "¿A qué te dedicas?"
+        },
+        {
+          "en": "<b class=\"hl\">Where</b> are you from?",
+          "es": "¿De dónde eres?"
+        },
+        {
+          "en": "<b class=\"hl\">Whose</b> jacket is this?",
+          "es": "¿De quién es esta chaqueta?"
+        },
+        {
+          "en": "<b class=\"hl\">How long</b> have you worked here?",
+          "es": "¿Cuánto tiempo llevas trabajando aquí?"
+        },
+        {
+          "en": "<b class=\"hl\">Which</b> option do you prefer?",
+          "es": "¿Qué/Cuál opción prefieres?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s3q1",
+          "question": "1. <span class=\"blank\">___</span> is your birthday? (cuándo)",
+          "options": [
+            "When",
+            "What"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s3q2",
+          "question": "2. <span class=\"blank\">___</span> car is parked outside? (de quién)",
+          "options": [
+            "Who",
+            "Whose"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s3q3",
+          "question": "3. <span class=\"blank\">___</span> did you get here? (cómo — medio)",
+          "options": [
+            "How",
+            "Why"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres preguntas que le harías a un huésped, empezando cada una con un interrogativo distinto.",
+        "placeholder": "Ej: How long will you be staying with us?"
+      }
+    },
+    {
+      "idx": "1.4",
+      "title": "Demostrativos",
+      "level": "A1",
+      "rule": "<b>this / these</b> = algo <b>cerca</b> (esto/estos). <b>that / those</b> = algo <b>lejos</b> (eso/aquellos). This/that son singular; these/those son plural.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">This</b> is my desk.",
+          "es": "Este es mi escritorio."
+        },
+        {
+          "en": "<b class=\"hl\">These</b> shoes are new.",
+          "es": "Estos zapatos son nuevos."
+        },
+        {
+          "en": "<b class=\"hl\">That</b> was a great meeting.",
+          "es": "Esa fue una gran reunión."
+        },
+        {
+          "en": "<b class=\"hl\">Those</b> were the best years.",
+          "es": "Aquellos fueron los mejores años."
+        },
+        {
+          "en": "I prefer <b class=\"hl\">this</b> one, not <b class=\"hl\">that</b> one.",
+          "es": "Prefiero este, no ese."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s4q1",
+          "question": "1. <span class=\"blank\">___</span> apples over there look fresh. (aquellos, lejos + plural)",
+          "options": [
+            "These",
+            "Those"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s4q2",
+          "question": "2. <span class=\"blank\">___</span> is my phone (lo tengo en la mano).",
+          "options": [
+            "This",
+            "That"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s4q3",
+          "question": "3. <span class=\"blank\">___</span> documents on my desk are ready. (estos, cerca + plural)",
+          "options": [
+            "These",
+            "This"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s4",
+        "label": "<span class=\"badge\">tu turno</span>Describe algo cerca de ti y algo lejos, usando un demostrativo en cada frase.",
+        "placeholder": "Ej: This is my laptop, and that is the meeting room."
+      }
+    },
+    {
+      "idx": "1.5",
+      "title": "Relativos",
+      "level": "B1",
+      "rule": "Unen dos ideas describiendo a alguien o algo. <b>who/whom</b> (personas), <b>which</b> (cosas), <b>that</b> (ambos, restrictivo), <b>whose</b> (posesión), <b>where/when/why</b> (lugar/tiempo/razón).",
+      "examples": [
+        {
+          "en": "The woman <b class=\"hl\">who</b> called is my boss.",
+          "es": "La mujer que llamó es mi jefa."
+        },
+        {
+          "en": "The house <b class=\"hl\">which</b> we bought is old.",
+          "es": "La casa que compramos es vieja."
+        },
+        {
+          "en": "The man <b class=\"hl\">whose</b> car broke down is here.",
+          "es": "El hombre cuyo coche se averió está aquí."
+        },
+        {
+          "en": "This is the restaurant <b class=\"hl\">where</b> we met.",
+          "es": "Este es el restaurante donde nos conocimos."
+        },
+        {
+          "en": "Do you remember the day <b class=\"hl\">when</b> we arrived?",
+          "es": "¿Recuerdas el día en que llegamos?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s5q1",
+          "question": "1. The book <span class=\"blank\">___</span> I read was great. (cosa)",
+          "options": [
+            "who",
+            "which"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s5q2",
+          "question": "2. The client <span class=\"blank\">___</span> bag was lost is upset. (posesión)",
+          "options": [
+            "who",
+            "whose"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s5q3",
+          "question": "3. That's the hotel <span class=\"blank\">___</span> I used to work. (lugar)",
+          "options": [
+            "where",
+            "which"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s5",
+        "label": "<span class=\"badge\">tu turno</span>Une dos ideas en una sola frase usando un pronombre relativo.",
+        "placeholder": "Ej: The guest who complained yesterday came back today."
+      }
+    },
+    {
+      "idx": "1.6",
+      "title": "Reflexivos y enfáticos",
+      "level": "A2",
+      "rule": "<b>myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.</b> Reflexivo: cuando el sujeto y el objeto son la misma persona. Enfático: para recalcar que alguien hizo algo por sí mismo.",
+      "examples": [
+        {
+          "en": "I taught <span class=\"r-refl\">myself</span> English.",
+          "es": "Aprendí inglés por mi cuenta."
+        },
+        {
+          "en": "She hurt <span class=\"r-refl\">herself</span>.",
+          "es": "Ella se lastimó."
+        },
+        {
+          "en": "We enjoyed <span class=\"r-refl\">ourselves</span> at the party.",
+          "es": "Nos divertimos en la fiesta."
+        },
+        {
+          "en": "He fixed it <span class=\"r-refl\">himself</span>. <span style=\"color:var(--ink-faint)\">(enfático)</span>",
+          "es": "Lo arregló él mismo."
+        },
+        {
+          "en": "The system updates <span class=\"r-refl\">itself</span>.",
+          "es": "El sistema se actualiza solo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s6q1",
+          "question": "1. They blamed <span class=\"blank\">___</span> for the mistake. (a sí mismos)",
+          "options": [
+            "them",
+            "themselves"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s6q2",
+          "question": "2. I made this cake <span class=\"blank\">___</span>. (yo mismo, enfático)",
+          "options": [
+            "myself",
+            "me"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s6q3",
+          "question": "3. Please make <span class=\"blank\">___</span> at home. (a ti mismo — cortesía)",
+          "options": [
+            "you",
+            "yourself"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase reflexiva (sujeto = objeto) y otra enfática.",
+        "placeholder": "Ej: I introduced myself. / She designed the whole website herself."
+      }
+    },
+    {
+      "idx": "1.7",
+      "title": "Indefinidos",
+      "level": "A2",
+      "rule": "Se forman con <b>some / any / no / every</b> + <b>body/one/thing/where</b>. Regla rápida: <b>some-</b> en afirmativas y ofertas, <b>any-</b> en negativas y preguntas, <b>no-</b> ya es negativo (el verbo va en afirmativo), <b>every-</b> = todo/todos.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">Someone</b> called you.",
+          "es": "Alguien te llamó."
+        },
+        {
+          "en": "Is there <b class=\"hl\">anything</b> I can do?",
+          "es": "¿Hay algo que pueda hacer?"
+        },
+        {
+          "en": "<b class=\"hl\">Nobody</b> knows the answer.",
+          "es": "Nadie sabe la respuesta."
+        },
+        {
+          "en": "<b class=\"hl\">Everyone</b> is welcome.",
+          "es": "Todos son bienvenidos."
+        },
+        {
+          "en": "I looked <b class=\"hl\">everywhere</b> but found <b class=\"hl\">nothing</b>.",
+          "es": "Busqué por todas partes pero no encontré nada."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s7q1",
+          "question": "1. <span class=\"blank\">___</span> was at home. (nadie — el verbo va afirmativo)",
+          "options": [
+            "Nobody",
+            "Anybody"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s7q2",
+          "question": "2. Would you like <span class=\"blank\">___</span> to drink? (oferta)",
+          "options": [
+            "something",
+            "anything"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s7q3",
+          "question": "3. I didn't tell <span class=\"blank\">___</span>. (nadie — frase negativa)",
+          "options": [
+            "nobody",
+            "anybody"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase afirmativa con <b>some-</b> y una negativa con <b>any-</b>.",
+        "placeholder": "Ej: Someone left a message. / I didn't see anyone."
+      }
+    },
+    {
+      "idx": "1.8",
+      "title": "De lugar (adverbios pronominales)",
+      "level": "A1",
+      "rule": "<b>here</b> (aquí), <b>there</b> (ahí/allí), <b>somewhere</b> (en algún lugar), <b>anywhere</b> (en cualquier lugar / en ningún lugar en preguntas y negativas), <b>nowhere</b> (en ningún lugar), <b>everywhere</b> (en todas partes).",
+      "examples": [
+        {
+          "en": "Come <b class=\"hl\">here</b>, please.",
+          "es": "Ven aquí, por favor."
+        },
+        {
+          "en": "Put it <b class=\"hl\">there</b>.",
+          "es": "Ponlo ahí."
+        },
+        {
+          "en": "I can't find my keys <b class=\"hl\">anywhere</b>.",
+          "es": "No encuentro mis llaves por ningún lado."
+        },
+        {
+          "en": "Let's go <b class=\"hl\">somewhere</b> quiet.",
+          "es": "Vamos a algún lugar tranquilo."
+        },
+        {
+          "en": "She travels <b class=\"hl\">everywhere</b> for work.",
+          "es": "Ella viaja a todas partes por trabajo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s8q1",
+          "question": "1. I've searched <span class=\"blank\">___</span> and it's not here. (por todas partes)",
+          "options": [
+            "somewhere",
+            "everywhere"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s8q2",
+          "question": "2. There's <span class=\"blank\">___</span> to sit; it's full. (en ningún lugar)",
+          "options": [
+            "nowhere",
+            "anywhere"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s8q3",
+          "question": "3. Is there a pharmacy <span class=\"blank\">___</span> near here? (pregunta)",
+          "options": [
+            "anywhere",
+            "somewhere"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s8",
+        "label": "<span class=\"badge\">tu turno</span>Da una indicación a un huésped usando un adverbio de lugar.",
+        "placeholder": "Ej: The elevator is over there, on your right."
+      }
+    }
+  ]
+}

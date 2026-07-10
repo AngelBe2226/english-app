@@ -1,0 +1,410 @@
+{
+  "block": "13",
+  "title": "Vocabulario y colocaciones",
+  "kicker": "Bloque 13 · Base B1–C1",
+  "intro": "Aquí cubrimos las combinaciones de palabras que \"suenan bien juntas\" (colocaciones), las trampas de palabras que se parecen al español pero no significan lo mismo (falsos amigos), y el vocabulario específico que más vas a necesitar: hostelería/ventas para Meliá, e inmobiliario para D-Live. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "colocación",
+      "desc": "combinación fija de palabras"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "13.1",
+      "title": "Colocaciones (collocations)",
+      "level": "B2",
+      "rule": "Palabras que van juntas por convención, no por lógica traducible — un nativo las reconoce de inmediato aunque otra combinación \"debería\" funcionar igual de bien. Aprenderlas en bloque (no palabra por palabra) es la única forma de dominarlas.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Colocación",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "make a decision (NO \"do a decision\")",
+              "We need to make a decision by Friday."
+            ],
+            [
+              "have a party (NO \"make a party\")",
+              "They had a party to celebrate the launch."
+            ],
+            [
+              "strong coffee (NO \"powerful coffee\")",
+              "I need a strong coffee this morning."
+            ],
+            [
+              "heavy rain (NO \"strong rain\")",
+              "The event was cancelled due to heavy rain."
+            ],
+            [
+              "completely different",
+              "These two packages are completely different."
+            ],
+            [
+              "highly likely",
+              "It's highly likely the client will sign this week."
+            ],
+            [
+              "take a break",
+              "Let's take a break and continue after lunch."
+            ],
+            [
+              "pay attention",
+              "Please pay attention to the terms and conditions."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s1q1",
+          "question": "1. We need to <span class=\"blank\">___</span> a decision soon.",
+          "options": [
+            "do",
+            "make"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s1q2",
+          "question": "2. Let's <span class=\"blank\">___</span> a party for the team. (tener)",
+          "options": [
+            "have",
+            "make"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s1q3",
+          "question": "3. It's very <span class=\"blank\">___</span> likely she'll accept. (colocación con \"likely\")",
+          "options": [
+            "highly",
+            "strongly"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b13-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"make a decision\" o \"pay attention\".",
+        "placeholder": "Ej: Please pay attention to the cancellation policy before booking."
+      }
+    },
+    {
+      "idx": "13.2",
+      "title": "Falsos amigos",
+      "level": "B1",
+      "rule": "Palabras que se parecen al español pero significan algo distinto — una fuente muy común de errores incluso en niveles avanzados.",
+      "examples": [
+        {
+          "en": "I'm <span class=\"r-verb\">currently</span> working on that proposal. (no \"actually\")",
+          "es": "Actualmente estoy trabajando en esa propuesta."
+        },
+        {
+          "en": "She's very <span class=\"r-verb\">sensible</span> about financial decisions. (sensata)",
+          "es": "Ella es muy sensata con las decisiones financieras."
+        },
+        {
+          "en": "I'll <span class=\"r-verb\">attend</span> the conference next week. (no \"assist\")",
+          "es": "Asistiré a la conferencia la próxima semana."
+        },
+        {
+          "en": "We <span class=\"r-verb\">carried out</span> a full review of the contract. (realizamos)",
+          "es": "Realizamos una revisión completa del contrato."
+        },
+        {
+          "en": "<span class=\"r-verb\">Eventually</span>, the client agreed to the terms. (finalmente)",
+          "es": "Finalmente, el cliente aceptó los términos."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Palabra en inglés",
+            "Significado real",
+            "No confundir con"
+          ],
+          "rows": [
+            [
+              "actually",
+              "en realidad / de hecho",
+              "\"actualmente\" = currently"
+            ],
+            [
+              "sensible",
+              "sensato",
+              "\"sensible\" (emocional) = sensitive"
+            ],
+            [
+              "embarrassed",
+              "avergonzado",
+              "\"embarazada\" = pregnant"
+            ],
+            [
+              "realize",
+              "darse cuenta",
+              "\"realizar\" (hacer) = carry out / do"
+            ],
+            [
+              "assist",
+              "ayudar",
+              "\"asistir\" (a un evento) = attend"
+            ],
+            [
+              "library",
+              "biblioteca",
+              "\"librería\" = bookshop"
+            ],
+            [
+              "large",
+              "grande",
+              "\"largo\" (longitud) = long"
+            ],
+            [
+              "eventually",
+              "finalmente / con el tiempo",
+              "\"eventualmente\" = possibly / occasionally"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s2q1",
+          "question": "1. \"Estoy actualmente trabajando en esto\" — la palabra correcta es:",
+          "options": [
+            "actually",
+            "currently"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s2q2",
+          "question": "2. \"Voy a asistir a la reunión\" se dice:",
+          "options": [
+            "assist",
+            "attend"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s2q3",
+          "question": "3. \"Realizamos el proyecto\" (hacer) se dice:",
+          "options": [
+            "realize the project",
+            "carry out the project"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b13-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"currently\" y otra usando \"attend\" correctamente.",
+        "placeholder": "Ej: I'm currently reviewing the contract. I'll attend the meeting tomorrow."
+      }
+    },
+    {
+      "idx": "13.3",
+      "title": "Vocabulario temático — hostelería/ventas",
+      "level": "B1",
+      "rule": "Vocabulario clave para tu rol de Sales Advisor en Meliá — ya trabajado en contexto en las exposiciones de Speaking, aquí queda fijado como referencia rápida.",
+      "examples": [
+        {
+          "en": "We offered an <span class=\"r-verb\">upgrade</span> to the premium suite.",
+          "es": "Ofrecimos una mejora a la suite premium."
+        },
+        {
+          "en": "Building <span class=\"r-verb\">customer loyalty</span> is our top priority.",
+          "es": "Construir la lealtad del cliente es nuestra prioridad principal."
+        },
+        {
+          "en": "Good <span class=\"r-verb\">objection handling</span> can turn a \"no\" into a \"yes\".",
+          "es": "Un buen manejo de objeciones puede convertir un \"no\" en un \"sí\"."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Término",
+            "Significado"
+          ],
+          "rows": [
+            [
+              "upselling",
+              "venta ascendente (ofrecer una opción superior)"
+            ],
+            [
+              "cross-selling",
+              "venta cruzada (ofrecer productos complementarios)"
+            ],
+            [
+              "customer loyalty",
+              "lealtad del cliente"
+            ],
+            [
+              "check-in / check-out",
+              "entrada / salida del huésped"
+            ],
+            [
+              "booking / reservation",
+              "reserva"
+            ],
+            [
+              "upgrade",
+              "mejora (de habitación, servicio)"
+            ],
+            [
+              "negotiation",
+              "negociación"
+            ],
+            [
+              "closing (a sale)",
+              "cierre (de una venta)"
+            ],
+            [
+              "objection handling",
+              "manejo de objeciones"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s3q1",
+          "question": "1. Ofrecer una habitación mejor de la reservada es:",
+          "options": [
+            "upselling",
+            "cross-selling"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s3q2",
+          "question": "2. Ofrecer un spa junto con la habitación es:",
+          "options": [
+            "upselling",
+            "cross-selling"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s3q3",
+          "question": "3. \"Cierre de una venta\" se dice:",
+          "options": [
+            "closing a sale",
+            "booking a sale"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b13-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"upselling\" o \"objection handling\".",
+        "placeholder": "Ej: Effective objection handling is key to closing more deals."
+      }
+    },
+    {
+      "idx": "13.4",
+      "title": "Vocabulario temático — inmobiliario",
+      "level": "B1",
+      "rule": "Vocabulario clave para tu rol en D-Live Real Estate.",
+      "examples": [
+        {
+          "en": "We need a professional <span class=\"r-verb\">valuation</span> before listing the property.",
+          "es": "Necesitamos una valoración profesional antes de publicar la propiedad."
+        },
+        {
+          "en": "The <span class=\"r-verb\">tenant</span> signed a two-year <span class=\"r-verb\">lease</span>.",
+          "es": "El inquilino firmó un contrato de alquiler de dos años."
+        },
+        {
+          "en": "Based on recent <span class=\"r-verb\">comparable sales</span>, the <span class=\"r-verb\">market value</span> is higher than expected.",
+          "es": "Basándonos en ventas comparables recientes, el valor de mercado es más alto de lo esperado."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Término",
+            "Significado"
+          ],
+          "rows": [
+            [
+              "listing",
+              "anuncio/publicación de una propiedad en venta"
+            ],
+            [
+              "valuation",
+              "valoración/tasación"
+            ],
+            [
+              "mortgage",
+              "hipoteca"
+            ],
+            [
+              "deed",
+              "escritura (documento legal de propiedad)"
+            ],
+            [
+              "tenant",
+              "inquilino"
+            ],
+            [
+              "landlord",
+              "propietario (que alquila)"
+            ],
+            [
+              "lease",
+              "contrato de alquiler"
+            ],
+            [
+              "comparable sale (\"comp\")",
+              "venta comparable (referencia de precio)"
+            ],
+            [
+              "market value",
+              "valor de mercado"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s4q1",
+          "question": "1. El documento legal que prueba la propiedad es:",
+          "options": [
+            "deed",
+            "lease"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s4q2",
+          "question": "2. La persona que alquila su propiedad a otros es:",
+          "options": [
+            "tenant",
+            "landlord"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s4q3",
+          "question": "3. Una venta reciente usada como referencia de precio:",
+          "options": [
+            "comparable sale",
+            "valuation"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b13-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"market value\" o \"comparable sale\" en un contexto de captación.",
+        "placeholder": "Ej: Based on comparable sales in the area, we recommend listing at this market value."
+      }
+    }
+  ]
+}

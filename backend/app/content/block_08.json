@@ -1,0 +1,409 @@
+{
+  "block": "08",
+  "title": "Voz pasiva y estilo indirecto",
+  "kicker": "Bloque 08 · Base B1–C1",
+  "intro": "Dos herramientas para cambiar el foco de una oración: la voz pasiva pone el énfasis en la acción o el receptor (no en quién la hizo), y el estilo indirecto (reported speech) sirve para contar lo que alguien dijo sin citarlo textualmente. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "verbo pasivo/reportado",
+      "desc": "be + participio, o backshift"
+    },
+    {
+      "label": "agente",
+      "desc": "quién hizo la acción (opcional, con \"by\")"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "8.1",
+      "title": "Voz pasiva — todos los tiempos",
+      "level": "B1",
+      "rule": "Estructura: <b>be (en el tiempo que corresponda) + participio pasado</b>. Se usa cuando el receptor de la acción importa más que quien la realiza, o cuando el agente es desconocido/irrelevante. El agente, si se menciona, va con <b>by</b>.",
+      "examples": [
+        {
+          "en": "The proposal <span class=\"r-verb\">was reviewed</span> <span class=\"r-cd\">by the legal team</span>.",
+          "es": "La propuesta fue revisada por el equipo legal."
+        },
+        {
+          "en": "This property <span class=\"r-verb\">was listed</span> <span class=\"r-cd\">by our agency</span> last month.",
+          "es": "Esta propiedad fue publicada por nuestra agencia el mes pasado."
+        },
+        {
+          "en": "The decision <span class=\"r-verb\">is being made</span> right now. (pasado continuo → presente continuo pasivo)",
+          "es": "La decisión se está tomando ahora mismo."
+        },
+        {
+          "en": "All contracts <span class=\"r-verb\">had been signed</span> before the deadline. (pasado perfecto pasivo)",
+          "es": "Todos los contratos habían sido firmados antes del plazo."
+        },
+        {
+          "en": "The new policy <span class=\"r-verb\">will have been implemented</span> by next quarter. (futuro perfecto pasivo)",
+          "es": "La nueva política habrá sido implementada para el próximo trimestre."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Tiempo",
+            "Activa",
+            "Pasiva"
+          ],
+          "rows": [
+            [
+              "Presente simple",
+              "They confirm the booking.",
+              "The booking <span class=\"r-verb\">is confirmed</span>."
+            ],
+            [
+              "Pasado simple",
+              "She signed the contract.",
+              "The contract <span class=\"r-verb\">was signed</span>."
+            ],
+            [
+              "Presente perfecto",
+              "They have approved the loan.",
+              "The loan <span class=\"r-verb\">has been approved</span>."
+            ],
+            [
+              "Futuro (will)",
+              "We will send the invoice.",
+              "The invoice <span class=\"r-verb\">will be sent</span>."
+            ],
+            [
+              "Modal pasivo",
+              "You must complete the form.",
+              "The form <span class=\"r-verb\">must be completed</span>."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b08-s1q1",
+          "question": "1. The report <span class=\"blank\">___</span> yesterday. (fue enviado — pasado simple pasivo)",
+          "options": [
+            "was sent",
+            "sent"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s1q2",
+          "question": "2. The rooms <span class=\"blank\">___</span> by housekeeping every morning. (son limpiadas — presente)",
+          "options": [
+            "clean",
+            "are cleaned"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s1q3",
+          "question": "3. The contract <span class=\"blank\">___</span> before you arrive. (habrá sido firmado — futuro perfecto)",
+          "options": [
+            "will have been signed",
+            "will be signed"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b08-s1",
+        "label": "<span class=\"badge\">tu turno</span>Convierte una frase activa de tu trabajo a voz pasiva.",
+        "placeholder": "Ej: The contract has been reviewed by our legal team."
+      }
+    },
+    {
+      "idx": "8.2",
+      "title": "Reported statements",
+      "level": "B2",
+      "rule": "Al reportar lo que alguien dijo, el tiempo verbal normalmente retrocede un paso (\"backshift\"): presente→pasado, pasado→pasado perfecto, will→would. Se suele introducir con <b>said (that) / told + persona (that)</b>.",
+      "examples": [
+        {
+          "en": "\"I <span class=\"r-verb\">am</span> busy.\" → She said <span class=\"r-verb\">she was</span> busy.",
+          "es": "\"Estoy ocupada.\" → Ella dijo que estaba ocupada."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">signed</span> the contract.\" → He said <span class=\"r-verb\">he had signed</span> the contract.",
+          "es": "\"Firmé el contrato.\" → Él dijo que había firmado el contrato."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">will</span> call you.\" → She told me <span class=\"r-verb\">she would</span> call me.",
+          "es": "\"Te llamaré.\" → Ella me dijo que me llamaría."
+        },
+        {
+          "en": "\"We <span class=\"r-verb\">have finished</span> the project.\" → They said <span class=\"r-verb\">they had finished</span> the project.",
+          "es": "\"Hemos terminado el proyecto.\" → Dijeron que habían terminado el proyecto."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">can</span> help.\" → He said <span class=\"r-verb\">he could</span> help.",
+          "es": "\"Puedo ayudar.\" → Dijo que podía ayudar."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b08-s2q1",
+          "question": "1. \"I'm tired.\" → She said she <span class=\"blank\">___</span> tired.",
+          "options": [
+            "was",
+            "is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s2q2",
+          "question": "2. \"I'll send it.\" → He said he <span class=\"blank\">___</span> send it.",
+          "options": [
+            "would",
+            "will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s2q3",
+          "question": "3. \"I finished the report.\" → She said she <span class=\"blank\">___</span> the report.",
+          "options": [
+            "finished",
+            "had finished"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b08-s2",
+        "label": "<span class=\"badge\">tu turno</span>Reporta algo que un cliente o compañero te dijo recientemente.",
+        "placeholder": "Ej: The client said she needed more time to decide."
+      }
+    },
+    {
+      "idx": "8.3",
+      "title": "Reported questions",
+      "level": "B2",
+      "rule": "Al reportar preguntas, se pierde la estructura de pregunta (no auxiliar al principio, no signo de interrogación). Preguntas <b>wh-</b> mantienen la palabra interrogativa; preguntas de <b>sí/no</b> usan <b>if/whether</b>.",
+      "examples": [
+        {
+          "en": "\"Where do you live?\" → She asked <span class=\"r-verb\">where I lived</span>.",
+          "es": "\"¿Dónde vives?\" → Ella preguntó dónde vivía."
+        },
+        {
+          "en": "\"Are you interested?\" → He asked <span class=\"r-verb\">if I was interested</span>.",
+          "es": "\"¿Estás interesado?\" → Él preguntó si yo estaba interesado."
+        },
+        {
+          "en": "\"What time does it start?\" → They asked <span class=\"r-verb\">what time it started</span>.",
+          "es": "\"¿A qué hora empieza?\" → Preguntaron a qué hora empezaba."
+        },
+        {
+          "en": "\"Have you signed the contract?\" → She asked <span class=\"r-verb\">whether I had signed</span> the contract.",
+          "es": "\"¿Has firmado el contrato?\" → Preguntó si yo había firmado el contrato."
+        },
+        {
+          "en": "\"Can you help me?\" → He asked <span class=\"r-verb\">if I could help</span> him.",
+          "es": "\"¿Puedes ayudarme?\" → Preguntó si podía ayudarlo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b08-s3q1",
+          "question": "1. \"Where is the office?\" → She asked <span class=\"blank\">___</span> the office was.",
+          "options": [
+            "where",
+            "if"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s3q2",
+          "question": "2. \"Do you like it?\" → He asked <span class=\"blank\">___</span> I liked it.",
+          "options": [
+            "if",
+            "what"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s3q3",
+          "question": "3. Reordena: \"asked / she / where / I lived\"",
+          "options": [
+            "She asked where I lived",
+            "She asked where did I live"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b08-s3",
+        "label": "<span class=\"badge\">tu turno</span>Reporta una pregunta que un huésped o cliente te haya hecho.",
+        "placeholder": "Ej: The guest asked if breakfast was included."
+      }
+    },
+    {
+      "idx": "8.4",
+      "title": "Reported commands",
+      "level": "B1",
+      "rule": "Las órdenes o peticiones se reportan con <b>tell/ask + persona + to + infinitivo</b> (afirmativo) o <b>not to + infinitivo</b> (negativo). No hay backshift de tiempo porque el infinitivo no cambia.",
+      "examples": [
+        {
+          "en": "\"Close the door.\" → She told me <span class=\"r-verb\">to close</span> the door.",
+          "es": "\"Cierra la puerta.\" → Ella me dijo que cerrara la puerta."
+        },
+        {
+          "en": "\"Please confirm by Friday.\" → He asked me <span class=\"r-verb\">to confirm</span> by Friday.",
+          "es": "\"Por favor confirma para el viernes.\" → Me pidió que confirmara para el viernes."
+        },
+        {
+          "en": "\"Don't be late.\" → She told him <span class=\"r-verb\">not to be</span> late.",
+          "es": "\"No llegues tarde.\" → Ella le dijo que no llegara tarde."
+        },
+        {
+          "en": "\"Send me the invoice.\" → He asked me <span class=\"r-verb\">to send</span> him the invoice.",
+          "es": "\"Envíame la factura.\" → Me pidió que le enviara la factura."
+        },
+        {
+          "en": "\"Don't cancel the reservation.\" → She told us <span class=\"r-verb\">not to cancel</span> the reservation.",
+          "es": "\"No canceles la reserva.\" → Ella nos dijo que no canceláramos la reserva."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b08-s4q1",
+          "question": "1. \"Sign here.\" → He told me <span class=\"blank\">___</span> there.",
+          "options": [
+            "to sign",
+            "sign"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s4q2",
+          "question": "2. \"Don't be late.\" → She told him <span class=\"blank\">___</span> late.",
+          "options": [
+            "to not be",
+            "not to be"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s4q3",
+          "question": "3. \"Please wait.\" → She asked us <span class=\"blank\">___</span>.",
+          "options": [
+            "to wait",
+            "wait"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b08-s4",
+        "label": "<span class=\"badge\">tu turno</span>Reporta una instrucción que le diste a un colega o cliente.",
+        "placeholder": "Ej: I told the client to send the signed contract by email."
+      }
+    },
+    {
+      "idx": "8.5",
+      "title": "Cambios de tiempo y lugar",
+      "level": "B2",
+      "rule": "Al reportar, las referencias de tiempo y lugar también cambian porque el contexto ya no es \"ahora/aquí\" sino el momento del reporte.",
+      "examples": [
+        {
+          "en": "\"I'll call you tomorrow.\" → He said he'd call me <span class=\"r-verb\">the next day</span>.",
+          "es": "\"Te llamaré mañana.\" → Dijo que me llamaría al día siguiente."
+        },
+        {
+          "en": "\"I saw her here yesterday.\" → He said he'd seen her <span class=\"r-verb\">there the day before</span>.",
+          "es": "\"La vi aquí ayer.\" → Dijo que la había visto allí el día anterior."
+        },
+        {
+          "en": "\"We're meeting next week.\" → They said they were meeting <span class=\"r-verb\">the following week</span>.",
+          "es": "\"Nos reunimos la semana que viene.\" → Dijeron que se reunían la semana siguiente."
+        },
+        {
+          "en": "\"I finished this two days ago.\" → She said she'd finished it <span class=\"r-verb\">two days before</span>.",
+          "es": "\"Terminé esto hace dos días.\" → Dijo que lo había terminado dos días antes."
+        },
+        {
+          "en": "\"This offer ends today.\" → He said <span class=\"r-verb\">that offer ended that day</span>.",
+          "es": "\"Esta oferta termina hoy.\" → Dijo que esa oferta terminaba ese día."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Directo",
+            "Reportado"
+          ],
+          "rows": [
+            [
+              "now",
+              "then / at that time"
+            ],
+            [
+              "today",
+              "that day"
+            ],
+            [
+              "tomorrow",
+              "the next/following day"
+            ],
+            [
+              "yesterday",
+              "the day before / the previous day"
+            ],
+            [
+              "this",
+              "that"
+            ],
+            [
+              "here",
+              "there"
+            ],
+            [
+              "next week",
+              "the following week"
+            ],
+            [
+              "ago",
+              "before"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b08-s5q1",
+          "question": "1. \"I'll finish it tomorrow.\" → She said she'd finish it <span class=\"blank\">___</span>.",
+          "options": [
+            "the next day",
+            "tomorrow"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s5q2",
+          "question": "2. \"I was here yesterday.\" → He said he'd been <span class=\"blank\">___</span> the day before.",
+          "options": [
+            "there",
+            "here"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s5q3",
+          "question": "3. \"I called three days ago.\" → She said she'd called three days <span class=\"blank\">___</span>.",
+          "options": [
+            "before",
+            "ago"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b08-s5",
+        "label": "<span class=\"badge\">tu turno</span>Reporta algo que alguien te dijo ayer, cambiando correctamente las referencias de tiempo.",
+        "placeholder": "Ej: She said she would send the offer the next day."
+      }
+    }
+  ]
+}

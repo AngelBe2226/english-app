@@ -1,0 +1,522 @@
+{
+  "block": "06",
+  "title": "Oraciones subordinadas",
+  "kicker": "Bloque 06 · Base B1–C1",
+  "intro": "Este es el bloque más denso hasta ahora: 8 subtemas. Una cláusula subordinada no tiene sentido completo por sí sola — depende de la cláusula principal. Las dividimos en 3 familias: <b class=\"hl\">sustantivas</b> (funcionan como sustantivo), <b class=\"hl\">adjetivas/relativas</b> (describen un sustantivo, ya viste sus pronombres en el bloque 01) y <b class=\"hl\">adverbiales</b> (6 tipos, según la relación lógica: tiempo, condición, causa, concesión, finalidad, resultado). Misma ruta en cada una: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "conector",
+      "desc": "introduce la subordinada"
+    },
+    {
+      "label": "cláusula",
+      "desc": "la parte subordinada completa"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "6.1",
+      "title": "Sustantivas (Noun clauses)",
+      "level": "B1",
+      "rule": "Funcionan como un sustantivo dentro de la oración (sujeto, objeto o complemento). Se introducen con <b>that</b> (a menudo omitible), <b>wh-words</b> (what, where, why...), o <b>if/whether</b> para preguntas indirectas.",
+      "examples": [
+        {
+          "en": "I know <span class=\"r-sub\">that</span> <span class=\"r-corr\">he's right</span>. (objeto del verbo \"know\")",
+          "es": "Sé que él tiene razón."
+        },
+        {
+          "en": "<span class=\"r-corr\">What she said</span> surprised me. (sujeto de la oración)",
+          "es": "Lo que ella dijo me sorprendió."
+        },
+        {
+          "en": "I wonder <span class=\"r-sub\">if</span> <span class=\"r-corr\">he'll come</span> tonight.",
+          "es": "Me pregunto si él vendrá esta noche."
+        },
+        {
+          "en": "She asked me <span class=\"r-sub\">whether</span> <span class=\"r-corr\">I was interested</span>.",
+          "es": "Ella me preguntó si estaba interesado."
+        },
+        {
+          "en": "The problem is <span class=\"r-corr\">that we're out of time</span>. (complemento tras \"be\")",
+          "es": "El problema es que se nos acaba el tiempo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s1q1",
+          "question": "1. I don't know <span class=\"blank\">___</span> she's coming. (pregunta indirecta sí/no)",
+          "options": [
+            "if",
+            "that"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s1q2",
+          "question": "2. <span class=\"blank\">___</span> he decides is up to him. (lo que)",
+          "options": [
+            "What",
+            "That"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s1q3",
+          "question": "3. She believes <span class=\"blank\">___</span> the deal will close soon. (que — objeto directo)",
+          "options": [
+            "that",
+            "if"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con una cláusula sustantiva usando \"that\" o \"what\".",
+        "placeholder": "Ej: I think that this offer is worth considering."
+      }
+    },
+    {
+      "idx": "6.2",
+      "title": "Adjetivas / Relativas",
+      "level": "B1",
+      "rule": "Describen a un sustantivo, igual que un adjetivo. <b>Restrictivas</b> (sin comas, esenciales para identificar de quién/qué hablamos) vs. <b>no restrictivas</b> (con comas, información extra — solo con \"which\", nunca \"that\"). También existen versiones <b>reducidas</b>, sin pronombre relativo.",
+      "examples": [
+        {
+          "en": "The man <span class=\"r-sub\">who</span> <span class=\"r-corr\">called earlier</span> is my boss. (restrictiva)",
+          "es": "El hombre que llamó antes es mi jefe."
+        },
+        {
+          "en": "My laptop, <span class=\"r-sub\">which</span> <span class=\"r-corr\">I bought last year</span>, still works perfectly. (no restrictiva)",
+          "es": "Mi portátil, que compré el año pasado, todavía funciona perfectamente."
+        },
+        {
+          "en": "The man <span class=\"r-corr\">talking to the manager</span> is a new client. (reducida, sin \"who is\")",
+          "es": "El hombre que habla con el gerente es un cliente nuevo."
+        },
+        {
+          "en": "The report <span class=\"r-sub\">that</span> <span class=\"r-corr\">you sent</span> had an error.",
+          "es": "El informe que enviaste tenía un error."
+        },
+        {
+          "en": "This is the property <span class=\"r-sub\">where</span> <span class=\"r-corr\">we held the event</span>.",
+          "es": "Esta es la propiedad donde celebramos el evento."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s2q1",
+          "question": "1. The building, <span class=\"blank\">___</span> was built in 1990, needs renovation. (no restrictiva)",
+          "options": [
+            "that",
+            "which"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b06-s2q2",
+          "question": "2. The woman <span class=\"blank\">___</span> to the client is the manager. (reducida: \"talking\", sin pronombre)",
+          "options": [
+            "talking",
+            "who talking"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s2q3",
+          "question": "3. Elige la restrictiva: ¿cuál necesita coma?",
+          "options": [
+            "The car that I bought is red. (sin coma)",
+            "The car, that I bought, is red."
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase restrictiva y otra no restrictiva usando cláusulas relativas.",
+        "placeholder": "Ej: The guest who complained got a refund. / My colleague, who speaks four languages, handled the call."
+      }
+    },
+    {
+      "idx": "6.3",
+      "title": "Adverbiales de tiempo",
+      "level": "A2",
+      "rule": "Indican cuándo ocurre la acción principal. <b>when, while, before, after, as soon as, until</b>. Importante: tras estos conectores, para hablar de futuro se usa <b>presente</b>, no \"will\".",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">When</span> <span class=\"r-corr\">the guest arrives</span>, call me. (no \"will arrive\")",
+          "es": "Cuando llegue el huésped, llámame."
+        },
+        {
+          "en": "She checked her email <span class=\"r-sub\">while</span> <span class=\"r-corr\">she waited</span> for the meeting.",
+          "es": "Revisó su correo mientras esperaba la reunión."
+        },
+        {
+          "en": "Please confirm <span class=\"r-sub\">before</span> <span class=\"r-corr\">you leave</span>.",
+          "es": "Por favor confirma antes de irte."
+        },
+        {
+          "en": "<span class=\"r-sub\">As soon as</span> <span class=\"r-corr\">I hear back</span>, I'll let you know.",
+          "es": "En cuanto tenga noticias, te aviso."
+        },
+        {
+          "en": "We'll wait <span class=\"r-sub\">until</span> <span class=\"r-corr\">the manager confirms</span>.",
+          "es": "Esperaremos hasta que el gerente confirme."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s3q1",
+          "question": "1. I'll call you when I <span class=\"blank\">___</span> home. (llegue — presente, no futuro)",
+          "options": [
+            "get",
+            "will get"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s3q2",
+          "question": "2. <span class=\"blank\">___</span> you sign, read the terms carefully. (antes de)",
+          "options": [
+            "Before",
+            "Until"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s3q3",
+          "question": "3. She'll stay <span class=\"blank\">___</span> the issue is resolved. (hasta que)",
+          "options": [
+            "until",
+            "while"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"as soon as\" o \"before\" sobre seguimiento a un cliente.",
+        "placeholder": "Ej: As soon as the client confirms, I'll send the contract."
+      }
+    },
+    {
+      "idx": "6.4",
+      "title": "Adverbiales de condición",
+      "level": "B1",
+      "rule": "Expresan una condición para que se cumpla la principal. <b>if, unless, provided that, as long as, in case</b>. (\"unless\" = \"if...not\"; ya se vio en conjunciones, aquí se profundiza como cláusula completa).",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">If</span> <span class=\"r-corr\">you book today</span>, you'll get a discount.",
+          "es": "Si reservas hoy, tendrás un descuento."
+        },
+        {
+          "en": "We won't proceed <span class=\"r-sub\">unless</span> <span class=\"r-corr\">you confirm in writing</span>.",
+          "es": "No procederemos a menos que confirmes por escrito."
+        },
+        {
+          "en": "You can cancel for free, <span class=\"r-sub\">provided that</span> <span class=\"r-corr\">it's within 48 hours</span>.",
+          "es": "Puedes cancelar gratis, siempre que sea dentro de 48 horas."
+        },
+        {
+          "en": "<span class=\"r-sub\">As long as</span> <span class=\"r-corr\">you meet the deadline</span>, there's no penalty.",
+          "es": "Mientras cumplas el plazo, no hay penalización."
+        },
+        {
+          "en": "Take an umbrella <span class=\"r-sub\">in case</span> <span class=\"r-corr\">it rains</span>.",
+          "es": "Lleva un paraguas por si llueve."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s4q1",
+          "question": "1. You'll get the rate <span class=\"blank\">___</span> you pay upfront. (siempre que)",
+          "options": [
+            "provided that",
+            "in case"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s4q2",
+          "question": "2. Bring your ID <span class=\"blank\">___</span> they ask for it. (por si)",
+          "options": [
+            "in case",
+            "unless"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s4q3",
+          "question": "3. We'll hold the room <span class=\"blank\">___</span> you confirm today. (a menos que)",
+          "options": [
+            "unless",
+            "as long as"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una condición de venta usando \"provided that\" o \"as long as\".",
+        "placeholder": "Ej: We can offer a discount, provided that you sign this week."
+      }
+    },
+    {
+      "idx": "6.5",
+      "title": "Adverbiales de causa",
+      "level": "A2",
+      "rule": "Explican por qué ocurre la acción principal. <b>because</b> (la más neutra/común), <b>since/as</b> (más formales, a menudo al principio de la frase), <b>due to the fact that</b> (muy formal, + oración completa a diferencia de \"due to\" + sustantivo).",
+      "examples": [
+        {
+          "en": "We upgraded her room <span class=\"r-sub\">because</span> <span class=\"r-corr\">she's a loyal member</span>.",
+          "es": "Mejoramos su habitación porque es miembro leal."
+        },
+        {
+          "en": "<span class=\"r-sub\">Since</span> <span class=\"r-corr\">you're already here</span>, let's finish the paperwork.",
+          "es": "Ya que estás aquí, terminemos el papeleo."
+        },
+        {
+          "en": "<span class=\"r-sub\">As</span> <span class=\"r-corr\">the flight was delayed</span>, we rebooked the transfer.",
+          "es": "Como el vuelo se retrasó, reprogramamos el traslado."
+        },
+        {
+          "en": "The event was postponed <span class=\"r-sub\">due to the fact that</span> <span class=\"r-corr\">the venue wasn't ready</span>.",
+          "es": "El evento se pospuso debido a que el lugar no estaba listo."
+        },
+        {
+          "en": "She got the promotion <span class=\"r-sub\">because</span> <span class=\"r-corr\">she exceeded her targets</span>.",
+          "es": "Consiguió el ascenso porque superó sus objetivos."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s5q1",
+          "question": "1. <span class=\"blank\">___</span> you're a returning guest, we'd like to offer an upgrade. (ya que, formal)",
+          "options": [
+            "Since",
+            "Because of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s5q2",
+          "question": "2. The trip was cancelled <span class=\"blank\">___</span> the weather. (+ sustantivo, no cláusula)",
+          "options": [
+            "because of",
+            "because"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s5q3",
+          "question": "3. We closed the deal <span class=\"blank\">___</span> she trusted our proposal.",
+          "options": [
+            "because",
+            "due to"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"since\" o \"as\" explicando una decisión de negocio.",
+        "placeholder": "Ej: Since the client is a VIP member, we upgraded her suite."
+      }
+    },
+    {
+      "idx": "6.6",
+      "title": "Adverbiales de concesión",
+      "level": "B2",
+      "rule": "Expresan un contraste inesperado — algo ocurre \"a pesar de\" otra cosa. <b>although, even though, though</b> (+ oración completa) vs. <b>despite/in spite of</b> (+ sustantivo o -ing, ya vistos en preposiciones).",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">Although</span> <span class=\"r-corr\">the price was high</span>, she signed the contract.",
+          "es": "Aunque el precio era alto, ella firmó el contrato."
+        },
+        {
+          "en": "<span class=\"r-sub\">Even though</span> <span class=\"r-corr\">he was tired</span>, he finished the presentation.",
+          "es": "Aunque estaba cansado, terminó la presentación."
+        },
+        {
+          "en": "The event was a success, <span class=\"r-sub\">though</span> <span class=\"r-corr\">it rained all day</span>. (más informal, a menudo al final)",
+          "es": "El evento fue un éxito, aunque llovió todo el día."
+        },
+        {
+          "en": "<span class=\"r-sub\">Although</span> <span class=\"r-corr\">she's new to the team</span>, she's already exceeding expectations.",
+          "es": "Aunque es nueva en el equipo, ya está superando las expectativas."
+        },
+        {
+          "en": "We closed the deal, <span class=\"r-sub\">even though</span> <span class=\"r-corr\">the client had doubts at first</span>.",
+          "es": "Cerramos el trato, aunque el cliente tenía dudas al principio."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s6q1",
+          "question": "1. <span class=\"blank\">___</span> the offer was limited, most guests found it worth it. (aunque, + cláusula)",
+          "options": [
+            "Although",
+            "Despite"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s6q2",
+          "question": "2. She accepted the role <span class=\"blank\">___</span> the long hours. (a pesar de, + sustantivo)",
+          "options": [
+            "despite",
+            "although"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s6q3",
+          "question": "3. <span class=\"blank\">___</span> he had no experience, he closed the sale. (aunque)",
+          "options": [
+            "Even though",
+            "In spite of"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"although\" contrastando una dificultad con un buen resultado.",
+        "placeholder": "Ej: Although the client hesitated at first, she ended up loving the package."
+      }
+    },
+    {
+      "idx": "6.7",
+      "title": "Adverbiales de finalidad",
+      "level": "B1",
+      "rule": "Expresan el propósito de la acción principal. <b>so that</b> (+ cláusula completa, a menudo con \"can/could/would\"), <b>in order to / to</b> (+ infinitivo, mismo sujeto en ambas partes).",
+      "examples": [
+        {
+          "en": "I called early <span class=\"r-sub\">so that</span> <span class=\"r-corr\">I could confirm the details</span>.",
+          "es": "Llamé temprano para poder confirmar los detalles."
+        },
+        {
+          "en": "She sent the invoice <span class=\"r-sub\">in order to</span> <span class=\"r-corr\">avoid delays</span>.",
+          "es": "Envió la factura para evitar retrasos."
+        },
+        {
+          "en": "We upgraded the system <span class=\"r-sub\">to</span> <span class=\"r-corr\">improve efficiency</span>. (más simple/común)",
+          "es": "Actualizamos el sistema para mejorar la eficiencia."
+        },
+        {
+          "en": "He explained everything twice <span class=\"r-sub\">so that</span> <span class=\"r-corr\">the client would understand</span>.",
+          "es": "Explicó todo dos veces para que el cliente entendiera."
+        },
+        {
+          "en": "They offer a free trial <span class=\"r-sub\">in order to</span> <span class=\"r-corr\">attract new members</span>.",
+          "es": "Ofrecen una prueba gratis para atraer nuevos miembros."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s7q1",
+          "question": "1. She called <span class=\"blank\">___</span> confirm the reservation. (mismo sujeto, simple)",
+          "options": [
+            "to",
+            "so that"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s7q2",
+          "question": "2. We repeat the policy <span class=\"blank\">___</span> guests understand it clearly. (que otro sujeto entienda)",
+          "options": [
+            "so that",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s7q3",
+          "question": "3. He arrived early <span class=\"blank\">___</span> avoid the traffic. (formal)",
+          "options": [
+            "in order to",
+            "so"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"so that\" explicando el propósito de una acción con un cliente.",
+        "placeholder": "Ej: I explained the terms clearly so that the client would feel confident."
+      }
+    },
+    {
+      "idx": "6.8",
+      "title": "Adverbiales de resultado",
+      "level": "B2",
+      "rule": "Expresan la consecuencia de algo, casi siempre ligado a una intensidad. <b>so + adjetivo/adverbio + that</b>, <b>such + (a/an) + sustantivo + that</b>, y simplemente <b>so</b> (más informal, ya visto como coordinante FANBOYS).",
+      "examples": [
+        {
+          "en": "The offer was <span class=\"r-sub\">so</span> good <span class=\"r-corr\">that</span> <span class=\"r-corr\">she signed immediately</span>.",
+          "es": "La oferta era tan buena que ella firmó de inmediato."
+        },
+        {
+          "en": "It was <span class=\"r-sub\">such</span> a great deal <span class=\"r-corr\">that</span> <span class=\"r-corr\">we told all our friends</span>.",
+          "es": "Fue un trato tan bueno que se lo contamos a todos nuestros amigos."
+        },
+        {
+          "en": "He explained it <span class=\"r-sub\">so</span> clearly <span class=\"r-corr\">that</span> <span class=\"r-corr\">everyone understood</span>.",
+          "es": "Lo explicó tan claramente que todos entendieron."
+        },
+        {
+          "en": "There were <span class=\"r-sub\">so</span> many requests <span class=\"r-corr\">that</span> <span class=\"r-corr\">we had to hire more staff</span>. (\"so many\" + sustantivo contable)",
+          "es": "Hubo tantas solicitudes que tuvimos que contratar más personal."
+        },
+        {
+          "en": "It was raining, <span class=\"r-sub\">so</span> <span class=\"r-corr\">we cancelled the outdoor event</span>. (resultado simple, informal)",
+          "es": "Estaba lloviendo, así que cancelamos el evento al aire libre."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b06-s8q1",
+          "question": "1. It was <span class=\"blank\">___</span> hot that we turned on the AC. (tan)",
+          "options": [
+            "so",
+            "such"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s8q2",
+          "question": "2. It was <span class=\"blank\">___</span> good offer that everyone accepted. (tan, + sustantivo)",
+          "options": [
+            "such a",
+            "so a"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b06-s8q3",
+          "question": "3. There was <span class=\"blank\">___</span> demand that we ran out of stock. (tanta)",
+          "options": [
+            "such",
+            "so"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b06-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase de resultado usando \"so...that\" o \"such...that\" sobre una oferta o servicio.",
+        "placeholder": "Ej: The service was so good that they became loyal customers."
+      }
+    }
+  ]
+}

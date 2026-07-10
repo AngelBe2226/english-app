@@ -1,0 +1,424 @@
+{
+  "block": "11",
+  "title": "Verbos: conjugación completa",
+  "kicker": "Bloque 11 · Base A1–C1",
+  "intro": "Aquí fijamos las formas de los verbos que usaste en tiempos verbales (bloque 09) y voz pasiva (bloque 08): regulares, irregulares por grupos, auxiliares, phrasal verbs de alta frecuencia, y la distinción gerundio/infinitivo que cambia el significado de muchos verbos. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "forma verbal",
+      "desc": "base / pasado / participio"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "11.1",
+      "title": "Verbos regulares",
+      "level": "A1",
+      "rule": "Se forman añadiendo <b>-ed</b> al infinitivo para pasado y participio (misma forma para ambos). Hay 3 cambios ortográficos según la terminación: consonante+y→ied, -e→solo +d, consonante-vocal-consonante en sílaba tónica → se dobla la consonante final.",
+      "examples": [
+        {
+          "en": "She <span class=\"r-verb\">confirmed</span> the booking yesterday.",
+          "es": "Ella confirmó la reserva ayer."
+        },
+        {
+          "en": "We have already <span class=\"r-verb\">closed</span> the deal.",
+          "es": "Ya hemos cerrado el trato."
+        },
+        {
+          "en": "He <span class=\"r-verb\">studied</span> the contract carefully.",
+          "es": "Él estudió el contrato cuidadosamente."
+        },
+        {
+          "en": "They <span class=\"r-verb\">stopped</span> the negotiation halfway.",
+          "es": "Detuvieron la negociación a mitad de camino."
+        },
+        {
+          "en": "The team <span class=\"r-verb\">planned</span> the whole event. (doblado: plan→planned)",
+          "es": "El equipo planificó todo el evento."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Regla",
+            "Base",
+            "Pasado / Participio"
+          ],
+          "rows": [
+            [
+              "+ed normal",
+              "work",
+              "<span class=\"r-verb\">worked</span>"
+            ],
+            [
+              "+d (termina en -e)",
+              "close",
+              "<span class=\"r-verb\">closed</span>"
+            ],
+            [
+              "consonante+y → ied",
+              "study",
+              "<span class=\"r-verb\">studied</span>"
+            ],
+            [
+              "se dobla consonante final",
+              "stop",
+              "<span class=\"r-verb\">stopped</span>"
+            ],
+            [
+              "+ed normal",
+              "confirm",
+              "<span class=\"r-verb\">confirmed</span>"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b11-s1q1",
+          "question": "1. Pasado de \"carry\": <span class=\"blank\">___</span>",
+          "options": [
+            "carryed",
+            "carried"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s1q2",
+          "question": "2. Pasado de \"prefer\" (sílaba tónica final): <span class=\"blank\">___</span>",
+          "options": [
+            "preferred",
+            "prefered"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s1q3",
+          "question": "3. Pasado de \"arrive\": <span class=\"blank\">___</span>",
+          "options": [
+            "arrived",
+            "arriveed"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b11-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase en pasado con un verbo regular relacionado con tu trabajo.",
+        "placeholder": "Ej: I confirmed the appointment this morning."
+      }
+    },
+    {
+      "idx": "11.2",
+      "title": "Verbos irregulares — por grupos",
+      "level": "A1",
+      "rule": "No siguen la regla -ed; hay que memorizarlos, pero agruparlos por patrón ayuda mucho. 4 grupos principales según cómo cambian.",
+      "examples": [
+        {
+          "en": "<b>Sin cambio:</b> hit-hit-hit, hurt-hurt-hurt, set-set-set, cost-cost-cost, let-let-let",
+          "es": "golpear, herir/doler, poner/fijar, costar, permitir"
+        },
+        {
+          "en": "<b>Cambio de vocal:</b> drink-drank-drunk, swim-swam-swum, ring-rang-rung",
+          "es": "beber, nadar, sonar (timbre)"
+        },
+        {
+          "en": "<b>Cambio total:</b> see-saw-seen, take-took-taken, give-gave-given, do-did-done",
+          "es": "ver, tomar, dar, hacer"
+        },
+        {
+          "en": "<b>-ought/-aught:</b> think-thought-thought, buy-bought-bought, teach-taught-taught",
+          "es": "pensar, comprar, enseñar"
+        },
+        {
+          "en": "He <span class=\"r-verb\">brought</span> the documents, and she <span class=\"r-verb\">gave</span> him the keys.",
+          "es": "Él trajo los documentos, y ella le dio las llaves."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Grupo",
+            "Base → Pasado → Participio"
+          ],
+          "rows": [
+            [
+              "Sin cambio",
+              "cut → <span class=\"r-verb\">cut</span> → <span class=\"r-verb\">cut</span> / put → <span class=\"r-verb\">put</span> → <span class=\"r-verb\">put</span>"
+            ],
+            [
+              "Cambio de vocal",
+              "sing → <span class=\"r-verb\">sang</span> → <span class=\"r-verb\">sung</span> / begin → <span class=\"r-verb\">began</span> → <span class=\"r-verb\">begun</span>"
+            ],
+            [
+              "Cambio total",
+              "go → <span class=\"r-verb\">went</span> → <span class=\"r-verb\">gone</span> / be → <span class=\"r-verb\">was/were</span> → <span class=\"r-verb\">been</span>"
+            ],
+            [
+              "-ought/-aught",
+              "bring → <span class=\"r-verb\">brought</span> → <span class=\"r-verb\">brought</span> / catch → <span class=\"r-verb\">caught</span> → <span class=\"r-verb\">caught</span>"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b11-s2q1",
+          "question": "1. Participio de \"take\": <span class=\"blank\">___</span>",
+          "options": [
+            "took",
+            "taken"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s2q2",
+          "question": "2. Pasado de \"catch\": <span class=\"blank\">___</span>",
+          "options": [
+            "caught",
+            "catched"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s2q3",
+          "question": "3. Pasado de \"cut\" (sin cambio): <span class=\"blank\">___</span>",
+          "options": [
+            "cut",
+            "cutted"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b11-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe 2 frases con verbos irregulares de grupos distintos.",
+        "placeholder": "Ej: I brought the contract. She took the offer seriously."
+      }
+    },
+    {
+      "idx": "11.3",
+      "title": "Verbos auxiliares",
+      "level": "A1",
+      "rule": "<b>be, do, have</b> funcionan como auxiliares (ayudan a formar tiempos, negativas y preguntas) o como verbos principales con significado propio. Los modales (can, will, must...) son siempre auxiliares.",
+      "examples": [
+        {
+          "en": "I <span class=\"r-verb\">am</span> working. (auxiliar, presente continuo) vs. I <span class=\"r-verb\">am</span> a manager. (verbo principal)",
+          "es": "Estoy trabajando. / Soy gerente."
+        },
+        {
+          "en": "<span class=\"r-verb\">Do</span> you understand? (auxiliar, pregunta) vs. I <span class=\"r-verb\">do</span> my best. (verbo principal: \"hacer\")",
+          "es": "¿Entiendes? / Hago lo mejor que puedo."
+        },
+        {
+          "en": "She <span class=\"r-verb\">has</span> signed the contract. (auxiliar, presente perfecto) vs. She <span class=\"r-verb\">has</span> two properties. (verbo principal: \"tener\")",
+          "es": "Ella ha firmado el contrato. / Ella tiene dos propiedades."
+        },
+        {
+          "en": "We <span class=\"r-verb\">didn't</span> receive the email. (auxiliar \"do\" en negativa pasada)",
+          "es": "No recibimos el correo."
+        },
+        {
+          "en": "You <span class=\"r-verb\">can</span> upgrade anytime. (modal, siempre auxiliar)",
+          "es": "Puedes mejorar tu plan en cualquier momento."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b11-s3q1",
+          "question": "1. She <span class=\"blank\">___</span> two houses. (tiene — verbo principal)",
+          "options": [
+            "has",
+            "is having"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s3q2",
+          "question": "2. <span class=\"blank\">___</span> you like some coffee? (auxiliar en pregunta)",
+          "options": [
+            "Would",
+            "Are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s3q3",
+          "question": "3. He <span class=\"blank\">___</span> his homework every day. (hace — verbo principal \"do\")",
+          "options": [
+            "does",
+            "is"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b11-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase donde \"have\" sea auxiliar y otra donde sea verbo principal.",
+        "placeholder": "Ej: I have finished the report. / I have two meetings today."
+      }
+    },
+    {
+      "idx": "11.4",
+      "title": "Phrasal verbs por frecuencia de uso",
+      "level": "B1",
+      "rule": "Combinaciones verbo+partícula con significado propio, muchas veces distinto de sus partes. Pueden ser <b>separables</b> (el objeto puede ir entre verbo y partícula) o <b>inseparables</b> (el objeto va siempre después).",
+      "examples": [
+        {
+          "en": "Can you <span class=\"r-verb\">set up</span> a meeting for Thursday? / <span class=\"r-verb\">Set</span> it <span class=\"r-verb\">up</span> for 3pm. (separable)",
+          "es": "¿Puedes organizar una reunión para el jueves? / Organízala para las 3pm."
+        },
+        {
+          "en": "We'll <span class=\"r-verb\">look into</span> the issue right away.",
+          "es": "Investigaremos el problema de inmediato."
+        },
+        {
+          "en": "I'll <span class=\"r-verb\">follow up on</span> this next week.",
+          "es": "Daré seguimiento a esto la próxima semana."
+        },
+        {
+          "en": "Please <span class=\"r-verb\">fill out</span> this form. / Please <span class=\"r-verb\">fill</span> this form <span class=\"r-verb\">out</span>.",
+          "es": "Por favor rellena este formulario."
+        },
+        {
+          "en": "I <span class=\"r-verb\">came across</span> an old contract while cleaning up.",
+          "es": "Me encontré con un contrato viejo mientras ordenaba."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Phrasal verb",
+            "Tipo",
+            "Significado"
+          ],
+          "rows": [
+            [
+              "set up",
+              "separable",
+              "establecer / preparar"
+            ],
+            [
+              "look into",
+              "inseparable",
+              "investigar"
+            ],
+            [
+              "follow up (on)",
+              "inseparable",
+              "dar seguimiento"
+            ],
+            [
+              "fill out / fill in",
+              "separable",
+              "rellenar (un formulario)"
+            ],
+            [
+              "come across",
+              "inseparable",
+              "encontrarse con algo por casualidad"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b11-s4q1",
+          "question": "1. I'll <span class=\"blank\">___</span> the complaint before responding. (investigar)",
+          "options": [
+            "look into",
+            "look for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s4q2",
+          "question": "2. Could you <span class=\"blank\">___</span> this form? (rellenar)",
+          "options": [
+            "fill out",
+            "fill up"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s4q3",
+          "question": "3. I'll <span class=\"blank\">___</span> with you next Monday. (dar seguimiento)",
+          "options": [
+            "follow up",
+            "follow on"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b11-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"follow up on\" o \"set up\" pensando en un cliente.",
+        "placeholder": "Ej: I'll follow up on this proposal in a few days."
+      }
+    },
+    {
+      "idx": "11.5",
+      "title": "Gerundio vs. infinitivo",
+      "level": "B1",
+      "rule": "Algunos verbos siempre van seguidos de <b>-ing</b> (enjoy, avoid, suggest, finish), otros de <b>to + infinitivo</b> (want, decide, promise, agree), y algunos cambian de significado según cuál usen (stop to do ≠ stop doing).",
+      "examples": [
+        {
+          "en": "She <span class=\"r-verb\">enjoys negotiating</span> with difficult clients. (+ -ing)",
+          "es": "Ella disfruta negociando con clientes difíciles."
+        },
+        {
+          "en": "We <span class=\"r-verb\">decided to postpone</span> the meeting. (+ to + infinitivo)",
+          "es": "Decidimos posponer la reunión."
+        },
+        {
+          "en": "He <span class=\"r-verb\">stopped to answer</span> the phone. (se detuvo PARA contestar — propósito)",
+          "es": "Se detuvo para contestar el teléfono."
+        },
+        {
+          "en": "He <span class=\"r-verb\">stopped answering</span> emails after 6pm. (dejó de hacer esa acción)",
+          "es": "Dejó de contestar correos después de las 6pm."
+        },
+        {
+          "en": "They <span class=\"r-verb\">suggested reviewing</span> the contract again. (+ -ing, no \"to review\")",
+          "es": "Sugirieron revisar el contrato otra vez."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b11-s5q1",
+          "question": "1. I avoid <span class=\"blank\">___</span> decisions under pressure. (making)",
+          "options": [
+            "making",
+            "to make"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s5q2",
+          "question": "2. She promised <span class=\"blank\">___</span> back by Friday. (to call)",
+          "options": [
+            "to call",
+            "calling"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s5q3",
+          "question": "3. He stopped <span class=\"blank\">___</span> coffee for health reasons. (dejó de tomar — hábito)",
+          "options": [
+            "drinking",
+            "to drink"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b11-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con un verbo + gerundio y otra con verbo + infinitivo.",
+        "placeholder": "Ej: I enjoy meeting new clients. I promised to send the offer today."
+      }
+    }
+  ]
+}

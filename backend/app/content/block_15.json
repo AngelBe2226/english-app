@@ -1,0 +1,57 @@
+{
+  "block": "15",
+  "title": "Práctica, quizzes y seguimiento",
+  "kicker": "Bloque 15 · Panel funcional",
+  "intro": "Este bloque es distinto a los anteriores: en vez de contenido nuevo, agrega y aprovecha todo lo que ya construiste en los bloques 01-14. Aquí tienes tu progreso real (calculado en vivo desde tus respuestas guardadas), un repaso rápido tipo flashcard de los 50 idioms, un simulador de Speaking cronometrado al estilo goFLUENT, y un espacio de notas.",
+  "legend": [],
+  "sections": [
+    {
+      "idx": "15.1",
+      "title": "Panel de progreso general",
+      "level": "",
+      "rule": "Se calcula en vivo a partir de tus respuestas guardadas en todos los bloques — no hace falta que hayas visitado un bloque en esta sesión, con que lo hayas contestado alguna vez basta.",
+      "examples": [],
+      "tables": [],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "15.2",
+      "title": "Repaso rápido de idioms",
+      "level": "",
+      "rule": "Clic en la tarjeta para ver el significado. Luego marca si ya la dominas o si necesitas repasarla — esto alimenta el sistema de repetición espaciada: las que marques \"repasar\" volverán a aparecer primero.",
+      "examples": [],
+      "tables": [],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "15.3",
+      "title": "Simulacro Speaking cronometrado",
+      "level": "goFLUENT",
+      "rule": "Igual que en el examen real: te sale una pregunta al azar y tienes un tiempo limitado para responder en voz alta, encadenando los conectores que trabajamos. Pulsa \"Nueva pregunta\", lee el prompt, dale a \"Empezar\" y responde antes de que llegue a 0.",
+      "examples": [],
+      "tables": [],
+      "quiz": [],
+      "produce": {
+        "id": "b15-s3-notes",
+        "label": "<span class=\"badge\">notas</span>¿Cómo te fue? Anota qué conectores usaste o dónde te trabaste.",
+        "placeholder": "Ej: Usé 'the thing is' y 'as a result', pero me quedé en blanco en el cierre."
+      }
+    },
+    {
+      "idx": "15.4",
+      "title": "Notas y próximos pasos",
+      "level": "",
+      "rule": "Espacio libre para anotar lo que quieras reforzar, dudas recurrentes, o el plan para la próxima sesión de estudio.",
+      "examples": [],
+      "tables": [],
+      "quiz": [],
+      "produce": {
+        "id": "b15-s4-notes",
+        "label": "<span class=\"badge\">notas libres</span>Escribe lo que quieras recordar para la próxima sesión.",
+        "placeholder": "Ej: Repasar el bloque 09 completo (falta futuro y perfectos). Reforzar TH y V en pronunciación."
+      }
+    }
+  ]
+}

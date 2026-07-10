@@ -1,0 +1,270 @@
+{
+  "block": "07",
+  "title": "Inversión y énfasis",
+  "kicker": "Bloque 07 · Base C1–C2",
+  "intro": "El nivel más alto de gramática inglesa: en vez del orden normal sujeto-verbo, colocamos el auxiliar (o una parte enfática) al principio de la oración para sonar más formal, literario o enfático. Es la \"guinda\" tras dominar condicionales, subordinadas y estructura básica. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "elemento invertido",
+      "desc": "va al principio"
+    },
+    {
+      "label": "resto de la oración",
+      "desc": "orden normal"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "7.1",
+      "title": "Inversión en condicionales",
+      "level": "C1",
+      "rule": "En vez de empezar con \"if\", se coloca el auxiliar al principio y se omite \"if\" — mucho más formal, típico de contratos, discursos y escritura académica. <b>Should</b> (1er cond.), <b>Were</b> (2do cond.), <b>Had</b> (3er cond.).",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">you need anything</span>, don't hesitate to call.",
+          "es": "Si necesitara algo, no dude en llamar."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">I in your position</span>, I'd accept the offer.",
+          "es": "Si estuviera en su posición, aceptaría la oferta."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">I known about the delay</span>, I would have rebooked earlier.",
+          "es": "Si hubiera sabido del retraso, habría reprogramado antes."
+        },
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">the client cancel</span>, we'll offer a full refund.",
+          "es": "Si el cliente cancelara, ofreceremos un reembolso completo."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">she signed earlier</span>, she would have got the discount.",
+          "es": "Si hubiera firmado antes, habría conseguido el descuento."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s1q1",
+          "question": "1. <span class=\"blank\">___</span> you have any questions, feel free to ask. (should invertido)",
+          "options": [
+            "Should",
+            "If should"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s1q2",
+          "question": "2. <span class=\"blank\">___</span> I known, I would have told you sooner. (had invertido, 3er cond.)",
+          "options": [
+            "Had",
+            "Have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s1q3",
+          "question": "3. <span class=\"blank\">___</span> I you, I wouldn't sign yet. (were invertido, 2do cond.)",
+          "options": [
+            "Were",
+            "Was"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b07-s1",
+        "label": "<span class=\"badge\">tu turno</span>Reescribe una condición usando inversión formal (Should/Were/Had).",
+        "placeholder": "Ej: Should you need any further information, please don't hesitate to contact me."
+      }
+    },
+    {
+      "idx": "7.2",
+      "title": "Inversión con adverbios negativos",
+      "level": "C1",
+      "rule": "Cuando una oración empieza con un adverbio negativo o restrictivo (never, rarely, not only, seldom, little...), el sujeto y el auxiliar se invierten, como en una pregunta.",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">Never</span> <span class=\"r-corr\">have I seen</span> such a professional team.",
+          "es": "Nunca había visto un equipo tan profesional."
+        },
+        {
+          "en": "<span class=\"r-sub\">Rarely</span> <span class=\"r-corr\">does she arrive</span> late to a meeting.",
+          "es": "Rara vez llega tarde a una reunión."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not only</span> <span class=\"r-corr\">did he close the deal</span>, but he also secured a referral.",
+          "es": "No solo cerró el trato, sino que también consiguió una referencia."
+        },
+        {
+          "en": "<span class=\"r-sub\">Seldom</span> <span class=\"r-corr\">do we receive</span> such positive feedback.",
+          "es": "Rara vez recibimos comentarios tan positivos."
+        },
+        {
+          "en": "<span class=\"r-sub\">Little</span> <span class=\"r-corr\">did they know</span> the offer would double in value.",
+          "es": "Poco sabían que la oferta duplicaría su valor."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s2q1",
+          "question": "1. Never <span class=\"blank\">___</span> I received such a generous offer.",
+          "options": [
+            "have",
+            "I have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s2q2",
+          "question": "2. Not only <span class=\"blank\">___</span> she close the sale, but she also upsold. (auxiliar invertido)",
+          "options": [
+            "did",
+            "she did"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s2q3",
+          "question": "3. Rarely <span class=\"blank\">___</span> guests complain about this service.",
+          "options": [
+            "do",
+            "guests do"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b07-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase empezando con \"Never\" o \"Not only\" con inversión.",
+        "placeholder": "Ej: Never have I closed a deal so quickly."
+      }
+    },
+    {
+      "idx": "7.3",
+      "title": "Cleft sentences (oraciones hendidas)",
+      "level": "C1",
+      "rule": "Dividen una oración simple en dos partes para enfatizar la información más importante. Formas: <b>It is/was + parte enfática + that/who...</b>, <b>What + resto + is/was...</b>, <b>All + resto + is/was...</b>.",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">It was</span> the manager <span class=\"r-corr\">who approved the discount</span>. (énfasis en quién)",
+          "es": "Fue el gerente quien aprobó el descuento."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">really impressed the client</span> was the personalized service.",
+          "es": "Lo que realmente impresionó al cliente fue el servicio personalizado."
+        },
+        {
+          "en": "<span class=\"r-sub\">All</span> <span class=\"r-corr\">she wants</span> is a clear answer.",
+          "es": "Todo lo que ella quiere es una respuesta clara."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> last week <span class=\"r-corr\">that we closed the biggest deal of the year</span>. (énfasis en cuándo)",
+          "es": "Fue la semana pasada que cerramos el mayor trato del año."
+        },
+        {
+          "en": "<span class=\"r-sub\">The thing that</span> <span class=\"r-corr\">surprised me most</span> was how fast she decided.",
+          "es": "Lo que más me sorprendió fue lo rápido que decidió."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s3q1",
+          "question": "1. <span class=\"blank\">___</span> I need is a bit more time. (todo lo que)",
+          "options": [
+            "All",
+            "What"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s3q2",
+          "question": "2. It was Carlos <span class=\"blank\">___</span> helped me close the deal. (énfasis en persona)",
+          "options": [
+            "who",
+            "that only"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s3q3",
+          "question": "3. <span class=\"blank\">___</span> bothers me most is the lack of communication. (lo que)",
+          "options": [
+            "What",
+            "That"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b07-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una oración hendida enfatizando algo importante de tu trabajo.",
+        "placeholder": "Ej: What I enjoy most about this job is helping clients find the right property."
+      }
+    },
+    {
+      "idx": "7.4",
+      "title": "Otras inversiones enfáticas",
+      "level": "C2",
+      "rule": "El nivel más alto: inversión tras \"so + adjetivo\" y tras expresiones restrictivas como \"only then/only after\". Muy propio de discurso formal, académico o literario — reconocerlo es más importante que producirlo constantemente.",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">So impressed was she</span> <span class=\"r-corr\">that she signed on the spot</span>.",
+          "es": "Tan impresionada estaba que firmó en el acto."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only then</span> <span class=\"r-corr\">did I realize</span> the offer was too good to be true.",
+          "es": "Solo entonces me di cuenta de que la oferta era demasiado buena para ser cierta."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only after reviewing the contract</span> <span class=\"r-corr\">did she agree</span> to the terms.",
+          "es": "Solo después de revisar el contrato aceptó los términos."
+        },
+        {
+          "en": "<span class=\"r-sub\">So confident was he</span> <span class=\"r-corr\">that he doubled the price</span>.",
+          "es": "Tan seguro estaba que duplicó el precio."
+        },
+        {
+          "en": "<span class=\"r-sub\">Under no circumstances</span> <span class=\"r-corr\">should you offer that discount</span>.",
+          "es": "Bajo ninguna circunstancia deberías ofrecer ese descuento."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s4q1",
+          "question": "1. Only after checking the reviews <span class=\"blank\">___</span> she decide to book. (auxiliar invertido)",
+          "options": [
+            "did",
+            "she did"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s4q2",
+          "question": "2. So <span class=\"blank\">___</span> was the offer that everyone applied. (tan buena)",
+          "options": [
+            "good",
+            "goodly"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s4q3",
+          "question": "3. Under no circumstances <span class=\"blank\">___</span> share client data. (deberías)",
+          "options": [
+            "should you",
+            "you should"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b07-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"Only after\" u \"Only then\" con inversión.",
+        "placeholder": "Ej: Only after negotiating for an hour did we reach an agreement."
+      }
+    }
+  ]
+}

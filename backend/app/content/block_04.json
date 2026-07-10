@@ -1,0 +1,333 @@
+{
+  "block": "04",
+  "title": "Adjetivos y adverbios",
+  "kicker": "Bloque 04 · Base A1–B2",
+  "intro": "Los adjetivos describen sustantivos; los adverbios modifican verbos, adjetivos u otros adverbios. Aquí cubrimos el orden fijo de adjetivos (algo que no existe como tal en español), comparativos/superlativos, y los 3 tipos de adverbios más usados. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "adjetivo",
+      "desc": "describe un sustantivo"
+    },
+    {
+      "label": "adverbio",
+      "desc": "modifica verbo/adjetivo"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "4.1",
+      "title": "Orden de adjetivos",
+      "level": "B1",
+      "rule": "En inglés, varios adjetivos delante de un sustantivo siguen un orden fijo: <b>opinión → tamaño → edad → forma → color → origen → material → propósito</b>. No hace falta memorizar la regla al pie de la letra — se interioriza con exposición, pero conocerla te evita sonar \"raro\" sin saber por qué.",
+      "examples": [
+        {
+          "en": "She bought a <span class=\"r-adj\">nice</span> <span class=\"r-adj\">small</span> <span class=\"r-adj\">black</span> table. (opinión → tamaño → color)",
+          "es": "Ella compró una linda mesa pequeña y negra."
+        },
+        {
+          "en": "He wore a <span class=\"r-adj\">beautiful</span> <span class=\"r-adj\">old</span> <span class=\"r-adj\">Italian</span> suit. (opinión → edad → origen)",
+          "es": "Él llevaba un hermoso traje italiano antiguo."
+        },
+        {
+          "en": "It's a <span class=\"r-adj\">large</span> <span class=\"r-adj\">round</span> <span class=\"r-adj\">wooden</span> table. (tamaño → forma → material)",
+          "es": "Es una mesa grande, redonda y de madera."
+        },
+        {
+          "en": "They live in a <span class=\"r-adj\">charming</span> <span class=\"r-adj\">small</span> <span class=\"r-adj\">Spanish</span> village.",
+          "es": "Viven en un encantador pueblo pequeño español."
+        },
+        {
+          "en": "She has <span class=\"r-adj\">long</span> <span class=\"r-adj\">straight</span> <span class=\"r-adj\">black</span> hair. (tamaño → forma → color)",
+          "es": "Ella tiene el pelo largo, liso y negro."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s1q1",
+          "question": "1. She bought a <span class=\"blank\">___</span> dress. (nice blue / blue nice)",
+          "options": [
+            "nice blue",
+            "blue nice"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s1q2",
+          "question": "2. A <span class=\"blank\">___</span> table. (small square black / black small square)",
+          "options": [
+            "small square black",
+            "black small square"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s1q3",
+          "question": "3. An <span class=\"blank\">___</span> car. (old red French / French old red)",
+          "options": [
+            "old red French",
+            "French old red"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s1",
+        "label": "<span class=\"badge\">tu turno</span>Describe un objeto usando 3 adjetivos en el orden correcto.",
+        "placeholder": "Ej: I have a beautiful small wooden desk."
+      }
+    },
+    {
+      "idx": "4.2",
+      "title": "Comparativos y superlativos",
+      "level": "A2",
+      "rule": "Adjetivos cortos: <b>-er / the -est</b> (big → bigger → the biggest). Adjetivos largos: <b>more / the most</b> (interesting → more interesting → the most interesting). Igualdad: <b>as...as</b>. Irregulares: good→better→best, bad→worse→worst.",
+      "examples": [
+        {
+          "en": "This room is <span class=\"r-adj\">bigger</span> than the other one.",
+          "es": "Esta habitación es más grande que la otra."
+        },
+        {
+          "en": "It's <span class=\"r-adj\">the most expensive</span> package we offer.",
+          "es": "Es el paquete más caro que ofrecemos."
+        },
+        {
+          "en": "This plan is <span class=\"r-adj\">not as flexible as</span> the premium one.",
+          "es": "Este plan no es tan flexible como el premium."
+        },
+        {
+          "en": "Her English is <span class=\"r-adj\">better</span> than mine.",
+          "es": "Su inglés es mejor que el mío."
+        },
+        {
+          "en": "This is <span class=\"r-adj\">the best</span> deal you'll find this year.",
+          "es": "Esta es la mejor oferta que encontrarás este año."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s2q1",
+          "question": "1. This hotel is <span class=\"blank\">___</span> than the one downtown. (más tranquilo)",
+          "options": [
+            "quieter",
+            "more quiet"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s2q2",
+          "question": "2. It's <span class=\"blank\">___</span> option available. (la más cómoda — largo)",
+          "options": [
+            "the comfortablest",
+            "the most comfortable"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s2q3",
+          "question": "3. This service is <span class=\"blank\">___</span> as the other one. (tan bueno como)",
+          "options": [
+            "as good",
+            "so good"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s2",
+        "label": "<span class=\"badge\">tu turno</span>Compara dos opciones de venta usando un comparativo y un superlativo.",
+        "placeholder": "Ej: This package is cheaper, but the premium one is the most complete."
+      }
+    },
+    {
+      "idx": "4.3",
+      "title": "Adverbios de modo",
+      "level": "A2",
+      "rule": "Describen cómo se hace algo. Se forman normalmente añadiendo <b>-ly</b> al adjetivo (quick → quickly), con excepciones irregulares como <b>good → well</b>.",
+      "examples": [
+        {
+          "en": "She explained it <span class=\"r-adv\">clearly</span>.",
+          "es": "Ella lo explicó claramente."
+        },
+        {
+          "en": "He handled the complaint <span class=\"r-adv\">professionally</span>.",
+          "es": "Manejó la queja profesionalmente."
+        },
+        {
+          "en": "They responded <span class=\"r-adv\">quickly</span> to the request.",
+          "es": "Respondieron rápidamente a la solicitud."
+        },
+        {
+          "en": "She speaks English <span class=\"r-adv\">well</span>. (irregular, no \"goodly\")",
+          "es": "Ella habla inglés bien."
+        },
+        {
+          "en": "He carefully reviewed the contract before signing.",
+          "es": "Revisó cuidadosamente el contrato antes de firmar."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s3q1",
+          "question": "1. She did the presentation <span class=\"blank\">___</span>. (bien)",
+          "options": [
+            "good",
+            "well"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s3q2",
+          "question": "2. He drives very <span class=\"blank\">___</span>. (cuidadosamente)",
+          "options": [
+            "carefully",
+            "careful"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s3q3",
+          "question": "3. They solved the issue <span class=\"blank\">___</span>. (rápidamente)",
+          "options": [
+            "quickly",
+            "quick"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s3",
+        "label": "<span class=\"badge\">tu turno</span>Describe cómo hiciste algo en el trabajo usando un adverbio de modo.",
+        "placeholder": "Ej: I handled the objection calmly and professionally."
+      }
+    },
+    {
+      "idx": "4.4",
+      "title": "Adverbios de frecuencia",
+      "level": "A1",
+      "rule": "<b>always, usually, often, sometimes, rarely, never</b> — van antes del verbo principal, pero después del verbo \"to be\" y de los auxiliares.",
+      "examples": [
+        {
+          "en": "I <span class=\"r-adv\">always</span> confirm the booking by email.",
+          "es": "Siempre confirmo la reserva por correo."
+        },
+        {
+          "en": "She's <span class=\"r-adv\">usually</span> on time. (después de \"be\")",
+          "es": "Ella suele ser puntual."
+        },
+        {
+          "en": "We <span class=\"r-adv\">often</span> get last-minute requests.",
+          "es": "A menudo recibimos solicitudes de última hora."
+        },
+        {
+          "en": "He's <span class=\"r-adv\">rarely</span> late for a meeting.",
+          "es": "Rara vez llega tarde a una reunión."
+        },
+        {
+          "en": "I've <span class=\"r-adv\">never</span> seen a complaint handled that well. (entre auxiliar y participio)",
+          "es": "Nunca había visto una queja manejada tan bien."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s4q1",
+          "question": "1. She <span class=\"blank\">___</span> arrives early. (siempre — antes del verbo)",
+          "options": [
+            "always",
+            "is always"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s4q2",
+          "question": "2. They are <span class=\"blank\">___</span> polite. (usualmente — después de \"be\")",
+          "options": [
+            "usually",
+            "usually are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s4q3",
+          "question": "3. I have <span class=\"blank\">___</span> been late. (nunca — con auxiliar)",
+          "options": [
+            "never",
+            "ever"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s4",
+        "label": "<span class=\"badge\">tu turno</span>Describe con qué frecuencia haces algo en tu trabajo.",
+        "placeholder": "Ej: I always double-check the reservation details."
+      }
+    },
+    {
+      "idx": "4.5",
+      "title": "Adverbios de grado",
+      "level": "B1",
+      "rule": "<b>very, really, quite, extremely, fairly, too</b> — intensifican un adjetivo u otro adverbio. \"Too\" implica un exceso negativo (\"too expensive\" = demasiado caro, un problema), mientras que \"very\" es solo énfasis neutro.",
+      "examples": [
+        {
+          "en": "The room is <span class=\"r-adv\">very</span> comfortable.",
+          "es": "La habitación es muy cómoda."
+        },
+        {
+          "en": "I'm <span class=\"r-adv\">really</span> happy with the service.",
+          "es": "Estoy muy contento con el servicio."
+        },
+        {
+          "en": "It's <span class=\"r-adv\">quite</span> good, but not perfect.",
+          "es": "Es bastante bueno, pero no perfecto."
+        },
+        {
+          "en": "The offer was <span class=\"r-adv\">extremely</span> generous.",
+          "es": "La oferta fue extremadamente generosa."
+        },
+        {
+          "en": "This plan is <span class=\"r-adv\">too</span> expensive for them. (exceso negativo)",
+          "es": "Este plan es demasiado caro para ellos."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s5q1",
+          "question": "1. The price is <span class=\"blank\">___</span> high — they can't afford it. (demasiado, exceso negativo)",
+          "options": [
+            "very",
+            "too"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s5q2",
+          "question": "2. She was <span class=\"blank\">___</span> pleased with the upgrade. (muy — énfasis neutro)",
+          "options": [
+            "really",
+            "too"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s5q3",
+          "question": "3. It's <span class=\"blank\">___</span> good, though not the best. (bastante)",
+          "options": [
+            "quite",
+            "too"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s5",
+        "label": "<span class=\"badge\">tu turno</span>Describe un producto/servicio usando \"very\" o \"too\" correctamente según el matiz que quieras dar.",
+        "placeholder": "Ej: The premium package is very complete, but the basic one is too limited for families."
+      }
+    }
+  ]
+}

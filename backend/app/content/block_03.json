@@ -1,0 +1,278 @@
+{
+  "block": "03",
+  "title": "Conjunciones y conectores",
+  "kicker": "Bloque 03 · Base A2–C1",
+  "intro": "El pegamento entre ideas. Subimos de nivel progresivamente: FANBOYS → subordinantes → correlativas → conectores discursivos C1. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "coordinante",
+      "desc": "une ideas iguales"
+    },
+    {
+      "label": "subordinante",
+      "desc": "depende de la principal"
+    },
+    {
+      "label": "correlativa",
+      "desc": "va en pareja"
+    },
+    {
+      "label": "discursivo",
+      "desc": "conecta párrafos"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "3.1",
+      "title": "Coordinantes (FANBOYS)",
+      "level": "A1",
+      "rule": "Unen dos ideas del mismo nivel gramatical. <b>FANBOYS</b>: <b>For, And, Nor, But, Or, Yet, So</b>.",
+      "examples": [
+        {
+          "en": "I called the client, <span class=\"r-coord\">for</span> I needed to confirm the booking.",
+          "es": "Llamé al cliente, pues necesitaba confirmar la reserva."
+        },
+        {
+          "en": "She checked in <span class=\"r-coord\">and</span> went straight to her room.",
+          "es": "Hizo el check-in y fue directo a su habitación."
+        },
+        {
+          "en": "He doesn't like the pool, <span class=\"r-coord\">nor</span> does he enjoy the beach.",
+          "es": "A él no le gusta la piscina, ni tampoco disfruta la playa."
+        },
+        {
+          "en": "The offer is good, <span class=\"r-coord\">but</span> it's not what she needs.",
+          "es": "La oferta es buena, pero no es lo que ella necesita."
+        },
+        {
+          "en": "We can upgrade the room, <span class=\"r-coord\">or</span> keep the original booking.",
+          "es": "Podemos mejorar la habitación, o mantener la reserva original."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s1q1",
+          "question": "1. He's tired, <span class=\"blank\">___</span> he keeps working. (contraste inesperado)",
+          "options": [
+            "so",
+            "yet"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b03-s1q2",
+          "question": "2. It was raining, <span class=\"blank\">___</span> we cancelled the trip. (consecuencia)",
+          "options": [
+            "so",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s1q3",
+          "question": "3. She doesn't drink coffee, <span class=\"blank\">___</span> tea. (negación conjunta)",
+          "options": [
+            "or",
+            "nor"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b03-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"but\" y otra con \"so\" sobre una situación de trabajo.",
+        "placeholder": "Ej: The client was upset, but I stayed calm. / He complained, so I offered a discount."
+      }
+    },
+    {
+      "idx": "3.2",
+      "title": "Subordinantes",
+      "level": "B1",
+      "rule": "Introducen una cláusula que depende de la principal. <b>because/since/as</b> (causa), <b>although/though</b> (concesión), <b>if/unless</b> (condición), <b>while/whereas</b> (contraste).",
+      "examples": [
+        {
+          "en": "<span class=\"r-sub\">Because</span> the flight was delayed, they missed the transfer.",
+          "es": "Porque el vuelo se retrasó, perdieron el traslado."
+        },
+        {
+          "en": "<span class=\"r-sub\">Although</span> the price was high, she signed the contract.",
+          "es": "Aunque el precio era alto, ella firmó el contrato."
+        },
+        {
+          "en": "You won't get the discount <span class=\"r-sub\">unless</span> you book today.",
+          "es": "No tendrás el descuento a menos que reserves hoy."
+        },
+        {
+          "en": "<span class=\"r-sub\">Since</span> you're already a member, this upgrade is free.",
+          "es": "Como ya eres miembro, esta mejora es gratis."
+        },
+        {
+          "en": "He prefers the mountains, <span class=\"r-sub\">whereas</span> she loves the beach.",
+          "es": "A él le gustan más las montañas, mientras que a ella le encanta la playa."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s2q1",
+          "question": "1. <span class=\"blank\">___</span> you sign today, you'll get a special rate. (condición)",
+          "options": [
+            "If",
+            "Although"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s2q2",
+          "question": "2. <span class=\"blank\">___</span> the price, she decided to buy it. (concesión)",
+          "options": [
+            "Despite",
+            "Even though"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b03-s2q3",
+          "question": "3. We won't proceed <span class=\"blank\">___</span> you confirm in writing. (condición negativa)",
+          "options": [
+            "if",
+            "unless"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b03-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"although\" y otra con \"unless\".",
+        "placeholder": "Ej: Although the offer is limited, most guests find it worth it. / We can't hold the room unless you confirm today."
+      }
+    },
+    {
+      "idx": "3.3",
+      "title": "Correlativas",
+      "level": "B2",
+      "rule": "Van siempre en pareja. <b>both...and</b>, <b>either...or</b>, <b>neither...nor</b>, <b>not only...but also</b>.",
+      "examples": [
+        {
+          "en": "The resort has <span class=\"r-corr\">both</span> a spa <span class=\"r-corr\">and</span> a private beach.",
+          "es": "El resort tiene tanto un spa como una playa privada."
+        },
+        {
+          "en": "You can pay <span class=\"r-corr\">either</span> in full <span class=\"r-corr\">or</span> in installments.",
+          "es": "Puedes pagar ya sea en su totalidad o en cuotas."
+        },
+        {
+          "en": "<span class=\"r-corr\">Neither</span> the manager <span class=\"r-corr\">nor</span> the team knew about the issue.",
+          "es": "Ni el gerente ni el equipo sabían del problema."
+        },
+        {
+          "en": "This plan is <span class=\"r-corr\">not only</span> more flexible <span class=\"r-corr\">but also</span> cheaper.",
+          "es": "Este plan no solo es más flexible sino también más barato."
+        },
+        {
+          "en": "She's <span class=\"r-corr\">both</span> professional <span class=\"r-corr\">and</span> friendly with guests.",
+          "es": "Ella es tanto profesional como amable con los huéspedes."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s3q1",
+          "question": "1. <span class=\"blank\">___</span> you like it <span class=\"blank\">___</span> not, this is the policy.",
+          "options": [
+            "Whether / or",
+            "Either / nor"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s3q2",
+          "question": "2. This membership offers <span class=\"blank\">___</span> flexibility <span class=\"blank\">___</span> savings.",
+          "options": [
+            "both / and",
+            "neither / nor"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s3q3",
+          "question": "3. It's <span class=\"blank\">___</span> good for families <span class=\"blank\">___</span> great value for couples.",
+          "options": [
+            "either / or",
+            "not only / but also"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b03-s3",
+        "label": "<span class=\"badge\">tu turno</span>Vende un beneficio usando \"not only...but also\".",
+        "placeholder": "Ej: This membership is not only affordable but also incredibly flexible."
+      }
+    },
+    {
+      "idx": "3.4",
+      "title": "Conectores discursivos avanzados",
+      "level": "C1",
+      "rule": "Organizan ideas a nivel de párrafo o discurso completo. El banco extenso ya trabajado en el contexto de goFLUENT queda fijado aquí como referencia permanente.",
+      "examples": [
+        {
+          "en": "The results were positive. <span class=\"r-disc\">However</span>, there's still room for improvement.",
+          "es": "Los resultados fueron positivos. Sin embargo, todavía hay margen de mejora."
+        },
+        {
+          "en": "She's new to the role. <span class=\"r-disc\">Moreover</span>, she's already exceeding targets.",
+          "es": "Ella es nueva en el puesto. Es más, ya está superando los objetivos."
+        },
+        {
+          "en": "The plan failed. <span class=\"r-disc\">Nevertheless</span>, we learned a lot from it.",
+          "es": "El plan falló. No obstante, aprendimos mucho de ello."
+        },
+        {
+          "en": "Sales dropped in Q1. <span class=\"r-disc\">Furthermore</span>, costs increased.",
+          "es": "Las ventas cayeron en el primer trimestre. Además, los costos aumentaron."
+        },
+        {
+          "en": "Demand is high. <span class=\"r-disc\">Consequently</span>, we're raising prices.",
+          "es": "La demanda es alta. En consecuencia, estamos subiendo los precios."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s4q1",
+          "question": "1. The client complained. <span class=\"blank\">___</span>, we offered a refund. (consecuencia)",
+          "options": [
+            "As a result",
+            "On the other hand"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s4q2",
+          "question": "2. The price is high. <span class=\"blank\">___</span>, the quality justifies it. (contraste)",
+          "options": [
+            "However",
+            "Moreover"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s4q3",
+          "question": "3. She's experienced. <span class=\"blank\">___</span>, she speaks three languages. (añadir)",
+          "options": [
+            "Therefore",
+            "Moreover"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b03-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases conectadas con \"however\" o \"as a result\".",
+        "placeholder": "Ej: The client hesitated at first. However, after seeing the benefits, she signed up."
+      }
+    }
+  ]
+}

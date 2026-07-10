@@ -1,0 +1,632 @@
+{
+  "block": "12",
+  "title": "Frases idiomáticas",
+  "kicker": "Bloque 12 · Base B1–C2 · Idioms #1-50",
+  "intro": "Empezamos con 50 idioms organizados en 6 categorías temáticas para que sea más fácil retenerlos por contexto. A diferencia de la gramática, esto es memoria pura — por eso este bloque está pensado para el motor de <b class=\"hl\">repetición espaciada</b> (Anki/Leitner) que planeamos en la metodología: revisar cada idiom en intervalos crecientes según lo aciertes o no. De momento, cada categoría tiene su tabla de referencia + ejercicio + tu propia frase.",
+  "legend": [
+    {
+      "label": "idiom",
+      "desc": "expresión fija, no traducir literal"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "12.1",
+      "title": "Trabajo y negocios",
+      "level": "B1",
+      "rule": "Idioms #1–9. Muy usados en reuniones, negociaciones y entornos de oficina.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "1",
+              "hit the ground running",
+              "empezar con energía desde el primer día",
+              "She hit the ground running in her new role."
+            ],
+            [
+              "2",
+              "get the ball rolling",
+              "poner algo en marcha",
+              "Let's get the ball rolling on this project."
+            ],
+            [
+              "3",
+              "touch base",
+              "ponerse en contacto brevemente",
+              "I'll touch base with you next week."
+            ],
+            [
+              "4",
+              "on the same page",
+              "estar de acuerdo / entender lo mismo",
+              "Let's make sure we're on the same page before the meeting."
+            ],
+            [
+              "5",
+              "think outside the box",
+              "pensar de forma creativa/no convencional",
+              "We need to think outside the box to solve this."
+            ],
+            [
+              "6",
+              "call it a day",
+              "terminar de trabajar por hoy",
+              "Let's call it a day, we've done enough."
+            ],
+            [
+              "7",
+              "bring to the table",
+              "aportar (valor, experiencia)",
+              "She brings a lot of experience to the table."
+            ],
+            [
+              "8",
+              "back to the drawing board",
+              "volver a empezar de cero",
+              "The client rejected it, so it's back to the drawing board."
+            ],
+            [
+              "9",
+              "in the loop",
+              "informado / al tanto",
+              "Please keep me in the loop on this deal."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s1q1",
+          "question": "1. \"Vamos a ponerlo en marcha\" se dice:",
+          "options": [
+            "Let's get the ball rolling",
+            "Let's call it a day"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s1q2",
+          "question": "2. Mantenerme informado sobre algo:",
+          "options": [
+            "keep me in the loop",
+            "bring to the table"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s1q3",
+          "question": "3. \"Volver a empezar de cero\" tras un rechazo:",
+          "options": [
+            "back to the drawing board",
+            "on the same page"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando uno de estos idioms en un contexto real de trabajo.",
+        "placeholder": "Ej: After the client rejected the proposal, it was back to the drawing board."
+      }
+    },
+    {
+      "idx": "12.2",
+      "title": "Tiempo y urgencia",
+      "level": "B1",
+      "rule": "Idioms #10–17. Para hablar de plazos, prisa y aprovechar el momento.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "10",
+              "against the clock",
+              "contrarreloj, con poco tiempo",
+              "We're working against the clock to finish this."
+            ],
+            [
+              "11",
+              "in the nick of time",
+              "justo a tiempo, en el último momento",
+              "She sent the contract in the nick of time."
+            ],
+            [
+              "12",
+              "once in a blue moon",
+              "muy rara vez",
+              "We get a client like this once in a blue moon."
+            ],
+            [
+              "13",
+              "run out of time",
+              "quedarse sin tiempo",
+              "We're running out of time to close this deal."
+            ],
+            [
+              "14",
+              "strike while the iron is hot",
+              "aprovechar el momento oportuno",
+              "The client is interested now — strike while the iron is hot."
+            ],
+            [
+              "15",
+              "around the clock",
+              "las 24 horas, sin parar",
+              "Our support team works around the clock."
+            ],
+            [
+              "16",
+              "time flies",
+              "el tiempo pasa volando",
+              "Time flies when you're busy closing deals."
+            ],
+            [
+              "17",
+              "on short notice",
+              "con poco margen de aviso",
+              "She organized the event on short notice."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s2q1",
+          "question": "1. \"Justo a tiempo\" se dice:",
+          "options": [
+            "in the nick of time",
+            "around the clock"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s2q2",
+          "question": "2. Aprovechar un momento oportuno:",
+          "options": [
+            "strike while the iron is hot",
+            "once in a blue moon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s2q3",
+          "question": "3. \"Con poco margen de aviso\":",
+          "options": [
+            "on short notice",
+            "against the clock"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"strike while the iron is hot\" o \"run out of time\".",
+        "placeholder": "Ej: The client seems ready to sign — let's strike while the iron is hot."
+      }
+    },
+    {
+      "idx": "12.3",
+      "title": "Dificultades y problemas",
+      "level": "B2",
+      "rule": "Idioms #18–25. Para hablar de retos, obstáculos y decisiones difíciles.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "18",
+              "bite the bullet",
+              "afrontar algo difícil/inevitable",
+              "We had to bite the bullet and raise our prices."
+            ],
+            [
+              "19",
+              "a blessing in disguise",
+              "algo malo que resulta ser bueno",
+              "Losing that client was a blessing in disguise."
+            ],
+            [
+              "20",
+              "hit a snag",
+              "encontrarse con un obstáculo inesperado",
+              "We hit a snag with the paperwork."
+            ],
+            [
+              "21",
+              "caught between a rock and a hard place",
+              "entre la espada y la pared",
+              "I was caught between a rock and a hard place with that decision."
+            ],
+            [
+              "22",
+              "throw in the towel",
+              "rendirse, abandonar",
+              "After three rejections, he almost threw in the towel."
+            ],
+            [
+              "23",
+              "a tough nut to crack",
+              "un problema/persona difícil de resolver o convencer",
+              "This client is a tough nut to crack."
+            ],
+            [
+              "24",
+              "out of the woods",
+              "fuera de peligro/problema",
+              "We're not out of the woods yet with this project."
+            ],
+            [
+              "25",
+              "a double-edged sword",
+              "algo con ventajas y desventajas a la vez",
+              "Remote work is a double-edged sword."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s3q1",
+          "question": "1. \"Afrontar algo difícil e inevitable\":",
+          "options": [
+            "bite the bullet",
+            "throw in the towel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s3q2",
+          "question": "2. \"Entre la espada y la pared\":",
+          "options": [
+            "caught between a rock and a hard place",
+            "out of the woods"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s3q3",
+          "question": "3. Un problema malo que resulta positivo:",
+          "options": [
+            "a blessing in disguise",
+            "a tough nut to crack"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"bite the bullet\" o \"a tough nut to crack\".",
+        "placeholder": "Ej: This client has been a tough nut to crack, but we're making progress."
+      }
+    },
+    {
+      "idx": "12.4",
+      "title": "Éxito y fracaso",
+      "level": "B2",
+      "rule": "Idioms #26–33. Para describir logros, victorias y también decepciones.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "26",
+              "hit the jackpot",
+              "tener mucho éxito/suerte",
+              "We hit the jackpot with that client."
+            ],
+            [
+              "27",
+              "a piece of cake",
+              "algo muy fácil",
+              "Closing that deal was a piece of cake."
+            ],
+            [
+              "28",
+              "go the extra mile",
+              "esforzarse más de lo esperado",
+              "She always goes the extra mile for her clients."
+            ],
+            [
+              "29",
+              "fall through",
+              "fracasar, no concretarse",
+              "Unfortunately, the deal fell through."
+            ],
+            [
+              "30",
+              "back to square one",
+              "volver al punto de partida",
+              "The client changed their mind — back to square one."
+            ],
+            [
+              "31",
+              "make or break",
+              "decisivo, que determina el éxito o fracaso",
+              "This presentation could make or break the deal."
+            ],
+            [
+              "32",
+              "miss the boat",
+              "perder una oportunidad",
+              "If we don't act now, we'll miss the boat."
+            ],
+            [
+              "33",
+              "pay off",
+              "dar frutos, resultar rentable",
+              "All that hard work finally paid off."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s4q1",
+          "question": "1. \"Perder una oportunidad\":",
+          "options": [
+            "miss the boat",
+            "hit the jackpot"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s4q2",
+          "question": "2. Algo decisivo para el éxito o fracaso:",
+          "options": [
+            "make or break",
+            "a piece of cake"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s4q3",
+          "question": "3. \"Dar frutos\" tras esfuerzo:",
+          "options": [
+            "pay off",
+            "fall through"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"go the extra mile\" o \"pay off\".",
+        "placeholder": "Ej: All the effort we put into that presentation finally paid off."
+      }
+    },
+    {
+      "idx": "12.5",
+      "title": "Dinero",
+      "level": "B2",
+      "rule": "Idioms #34–41. Muy útiles en ventas, negociación y finanzas.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "34",
+              "break the bank",
+              "gastar demasiado",
+              "This package won't break the bank."
+            ],
+            [
+              "35",
+              "a good deal",
+              "un buen trato/precio",
+              "This is a good deal for a property like this."
+            ],
+            [
+              "36",
+              "cut corners",
+              "ahorrar de forma que reduce calidad",
+              "We never cut corners on quality."
+            ],
+            [
+              "37",
+              "in the red / in the black",
+              "con pérdidas / con ganancias",
+              "The company was in the red last year but is in the black now."
+            ],
+            [
+              "38",
+              "worth its weight in gold",
+              "muy valioso",
+              "A good assistant is worth their weight in gold."
+            ],
+            [
+              "39",
+              "bang for your buck",
+              "buena relación calidad-precio",
+              "This plan gives you more bang for your buck."
+            ],
+            [
+              "40",
+              "foot the bill",
+              "pagar la cuenta/costo",
+              "The company footed the bill for the trip."
+            ],
+            [
+              "41",
+              "tighten your belt",
+              "reducir gastos",
+              "We had to tighten our belt during the slow season."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s5q1",
+          "question": "1. \"No costará demasiado\":",
+          "options": [
+            "won't break the bank",
+            "foot the bill"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s5q2",
+          "question": "2. \"Reducir la calidad para ahorrar\":",
+          "options": [
+            "cut corners",
+            "tighten your belt"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s5q3",
+          "question": "3. Buena relación calidad-precio:",
+          "options": [
+            "bang for your buck",
+            "worth its weight in gold"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase de ventas usando \"a good deal\" o \"bang for your buck\".",
+        "placeholder": "Ej: This package really gives you more bang for your buck."
+      }
+    },
+    {
+      "idx": "12.6",
+      "title": "Comunicación y actitud",
+      "level": "C1",
+      "rule": "Idioms #42–50. Para describir cómo alguien habla, actúa o se comporta.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "42",
+              "beat around the bush",
+              "andarse con rodeos",
+              "Stop beating around the bush and tell me the price."
+            ],
+            [
+              "43",
+              "break the ice",
+              "romper el hielo",
+              "She told a joke to break the ice."
+            ],
+            [
+              "44",
+              "keep someone posted",
+              "mantener informado",
+              "I'll keep you posted on the negotiation."
+            ],
+            [
+              "45",
+              "read between the lines",
+              "leer entre líneas, entender lo implícito",
+              "You need to read between the lines with this client."
+            ],
+            [
+              "46",
+              "get straight to the point",
+              "ir directo al grano",
+              "Let's get straight to the point — what's your budget?"
+            ],
+            [
+              "47",
+              "put your foot in your mouth",
+              "meter la pata al hablar",
+              "He really put his foot in his mouth during the call."
+            ],
+            [
+              "48",
+              "on the same wavelength",
+              "en la misma sintonía",
+              "We're finally on the same wavelength about this project."
+            ],
+            [
+              "49",
+              "speak your mind",
+              "decir lo que piensas abiertamente",
+              "Feel free to speak your mind in this meeting."
+            ],
+            [
+              "50",
+              "rub someone the wrong way",
+              "caer mal / molestar a alguien",
+              "His tone rubbed the client the wrong way."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s6q1",
+          "question": "1. \"Ir directo al grano\":",
+          "options": [
+            "get straight to the point",
+            "beat around the bush"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s6q2",
+          "question": "2. \"Entender lo implícito, no dicho\":",
+          "options": [
+            "read between the lines",
+            "speak your mind"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s6q3",
+          "question": "3. \"Caerle mal a alguien\":",
+          "options": [
+            "rub someone the wrong way",
+            "break the ice"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"get straight to the point\" o \"keep someone posted\".",
+        "placeholder": "Ej: I'll keep you posted as soon as the client responds."
+      }
+    }
+  ]
+}
