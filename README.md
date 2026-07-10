@@ -62,6 +62,21 @@ cd ../backend && uvicorn app.main:app --port 8001
 ```
 Ahora http://localhost:8001 sirve la app completa (FastAPI entrega el build de React).
 
+## Desplegar en Railway
+
+El repo trae un `Dockerfile` (multi-stage: compila React y luego lo sirve con
+FastAPI) y `railway.json`. Railway detecta el Dockerfile automáticamente.
+
+1. Sube el repo a GitHub.
+2. En Railway: **New Project → Deploy from GitHub repo** y elige este repo.
+3. Railway construye la imagen y arranca el servicio. La app escucha en `$PORT`
+   (Railway lo inyecta solo) y sirve React + API en el mismo dominio.
+4. **Para que tu progreso no se borre en cada redeploy** (el disco del contenedor
+   es efímero), añade un **Volume** montado en `/data` y una variable de entorno
+   `DATABASE_PATH=/data/progress.db`.
+
+El healthcheck ya apunta a `/api/health`.
+
 ## Agregar o editar contenido
 
 Todo el contenido pedagógico vive en `backend/app/content/block_XX.json`. Para

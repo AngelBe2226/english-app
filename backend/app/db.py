@@ -5,11 +5,17 @@ The frontend and original site both address progress by string keys
 "idiom:3" for a flashcard status). We mirror that with a single
 key/value table so migrating the old localStorage data is trivial.
 """
+import os
 import sqlite3
 import time
 from pathlib import Path
 
-DB_PATH = Path(__file__).resolve().parent.parent / "data" / "progress.db"
+# Default to backend/data/progress.db, but allow an override so a Railway
+# volume (e.g. DATABASE_PATH=/data/progress.db) survives redeploys.
+DB_PATH = Path(
+    os.environ.get("DATABASE_PATH")
+    or Path(__file__).resolve().parent.parent / "data" / "progress.db"
+)
 
 
 def get_conn() -> sqlite3.Connection:
