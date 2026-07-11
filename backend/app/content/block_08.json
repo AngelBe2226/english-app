@@ -39,6 +39,26 @@
         {
           "en": "The new policy <span class=\"r-verb\">will have been implemented</span> by next quarter. (futuro perfecto pasivo)",
           "es": "La nueva política habrá sido implementada para el próximo trimestre."
+        },
+        {
+          "en": "The rooms <span class=\"r-verb\">are cleaned</span> every morning.",
+          "es": "Las habitaciones se limpian cada mañana."
+        },
+        {
+          "en": "Your booking <span class=\"r-verb\">has been confirmed</span>.",
+          "es": "Tu reserva ha sido confirmada."
+        },
+        {
+          "en": "The contract <span class=\"r-verb\">will be signed</span> <span class=\"r-cd\">by the owner</span> tomorrow.",
+          "es": "El contrato será firmado por el propietario mañana."
+        },
+        {
+          "en": "Breakfast <span class=\"r-verb\">is being prepared</span> right now.",
+          "es": "El desayuno se está preparando ahora mismo."
+        },
+        {
+          "en": "The suite <span class=\"r-verb\">was redecorated</span> <span class=\"r-cd\">by a famous designer</span>.",
+          "es": "La suite fue redecorada por un diseñador famoso."
         }
       ],
       "tables": [
@@ -137,6 +157,26 @@
         {
           "en": "\"I <span class=\"r-verb\">can</span> help.\" → He said <span class=\"r-verb\">he could</span> help.",
           "es": "\"Puedo ayudar.\" → Dijo que podía ayudar."
+        },
+        {
+          "en": "\"I'm interested.\" → He said he <span class=\"r-verb\">was</span> interested.",
+          "es": "Dijo que estaba interesado."
+        },
+        {
+          "en": "\"We offer free cancellation.\" → She said they <span class=\"r-verb\">offered</span> free cancellation.",
+          "es": "Dijo que ofrecían cancelación gratuita."
+        },
+        {
+          "en": "\"I booked the suite.\" → He said he <span class=\"r-verb\">had booked</span> the suite.",
+          "es": "Dijo que había reservado la suite."
+        },
+        {
+          "en": "\"I'll call you.\" → She said she <span class=\"r-verb\">would</span> call me.",
+          "es": "Dijo que me llamaría."
+        },
+        {
+          "en": "\"The price has gone up.\" → He said the price <span class=\"r-verb\">had gone</span> up.",
+          "es": "Dijo que el precio había subido."
         }
       ],
       "tables": [],
@@ -200,6 +240,26 @@
         {
           "en": "\"Can you help me?\" → He asked <span class=\"r-verb\">if I could help</span> him.",
           "es": "\"¿Puedes ayudarme?\" → Preguntó si podía ayudarlo."
+        },
+        {
+          "en": "\"Where is the spa?\" → She asked where the spa <span class=\"r-verb\">was</span>.",
+          "es": "Preguntó dónde estaba el spa."
+        },
+        {
+          "en": "\"Do you have a sea view?\" → He asked <span class=\"r-verb\">if</span> we had a sea view.",
+          "es": "Preguntó si teníamos vista al mar."
+        },
+        {
+          "en": "\"When does check-in start?\" → She asked when check-in <span class=\"r-verb\">started</span>.",
+          "es": "Preguntó cuándo empezaba el check-in."
+        },
+        {
+          "en": "\"Can I pay later?\" → He asked <span class=\"r-verb\">if</span> he could pay later.",
+          "es": "Preguntó si podía pagar más tarde."
+        },
+        {
+          "en": "\"Why did the price change?\" → She asked why the price <span class=\"r-verb\">had changed</span>.",
+          "es": "Preguntó por qué había cambiado el precio."
         }
       ],
       "tables": [],
@@ -263,6 +323,26 @@
         {
           "en": "\"Don't cancel the reservation.\" → She told us <span class=\"r-verb\">not to cancel</span> the reservation.",
           "es": "\"No canceles la reserva.\" → Ella nos dijo que no canceláramos la reserva."
+        },
+        {
+          "en": "\"Please wait here.\" → She asked me <span class=\"r-verb\">to wait</span> there.",
+          "es": "Me pidió que esperara allí."
+        },
+        {
+          "en": "\"Don't be late.\" → He told me <span class=\"r-verb\">not to be</span> late.",
+          "es": "Me dijo que no llegara tarde."
+        },
+        {
+          "en": "\"Confirm the booking.\" → The manager told me <span class=\"r-verb\">to confirm</span> the booking.",
+          "es": "El gerente me dijo que confirmara la reserva."
+        },
+        {
+          "en": "\"Please sign here.\" → She asked the client <span class=\"r-verb\">to sign</span> there.",
+          "es": "Le pidió al cliente que firmara allí."
+        },
+        {
+          "en": "\"Don't cancel yet.\" → He told us <span class=\"r-verb\">not to cancel</span> yet.",
+          "es": "Nos dijo que no canceláramos todavía."
         }
       ],
       "tables": [],
@@ -326,6 +406,26 @@
         {
           "en": "\"This offer ends today.\" → He said <span class=\"r-verb\">that offer ended that day</span>.",
           "es": "\"Esta oferta termina hoy.\" → Dijo que esa oferta terminaba ese día."
+        },
+        {
+          "en": "\"I'll call you tomorrow.\" → He said he'd call me <span class=\"r-verb\">the next day</span>.",
+          "es": "Dijo que me llamaría al día siguiente."
+        },
+        {
+          "en": "\"We arrived yesterday.\" → They said they'd arrived <span class=\"r-verb\">the day before</span>.",
+          "es": "Dijeron que habían llegado el día anterior."
+        },
+        {
+          "en": "\"Meet me here.\" → She said to meet her <span class=\"r-verb\">there</span>.",
+          "es": "Dijo que me reuniera con ella allí."
+        },
+        {
+          "en": "\"I saw it this morning.\" → He said he'd seen it <span class=\"r-verb\">that morning</span>.",
+          "es": "Dijo que lo había visto esa mañana."
+        },
+        {
+          "en": "\"Come next week.\" → She said to come <span class=\"r-verb\">the following week</span>.",
+          "es": "Dijo que fuera la semana siguiente."
         }
       ],
       "tables": [

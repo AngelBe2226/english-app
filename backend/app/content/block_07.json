@@ -39,6 +39,26 @@
         {
           "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">she signed earlier</span>, she would have got the discount.",
           "es": "Si hubiera firmado antes, habría conseguido el descuento."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">you to book now</span>, you'd get the best rate.",
+          "es": "Si reservaras ahora, obtendrías la mejor tarifa."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">we known</span>, we would have upgraded you.",
+          "es": "Si lo hubiéramos sabido, te habríamos mejorado la habitación."
+        },
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">the price rise</span>, we'll honour today's rate.",
+          "es": "Si el precio subiera, respetaríamos la tarifa de hoy."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">it not for the deposit</span>, the booking would lapse.",
+          "es": "De no ser por el depósito, la reserva caducaría."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">she signed earlier</span>, she'd have saved more.",
+          "es": "Si hubiera firmado antes, habría ahorrado más."
         }
       ],
       "tables": [],
@@ -102,6 +122,26 @@
         {
           "en": "<span class=\"r-sub\">Little</span> <span class=\"r-corr\">did they know</span> the offer would double in value.",
           "es": "Poco sabían que la oferta duplicaría su valor."
+        },
+        {
+          "en": "<span class=\"r-sub\">Never</span> <span class=\"r-corr\">have I received</span> such kind service.",
+          "es": "Nunca he recibido un servicio tan amable."
+        },
+        {
+          "en": "<span class=\"r-sub\">Rarely</span> <span class=\"r-corr\">do we offer</span> such a discount.",
+          "es": "Rara vez ofrecemos un descuento así."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not only</span> <span class=\"r-corr\">did they upgrade us</span>, but they added breakfast.",
+          "es": "No solo nos mejoraron la habitación, sino que añadieron el desayuno."
+        },
+        {
+          "en": "<span class=\"r-sub\">Seldom</span> <span class=\"r-corr\">has the resort been</span> so busy.",
+          "es": "Pocas veces ha estado el resort tan lleno."
+        },
+        {
+          "en": "<span class=\"r-sub\">Little</span> <span class=\"r-corr\">did the client know</span> about the surprise upgrade.",
+          "es": "Poco sabía el cliente sobre la mejora sorpresa."
         }
       ],
       "tables": [],
@@ -165,6 +205,26 @@
         {
           "en": "<span class=\"r-sub\">The thing that</span> <span class=\"r-corr\">surprised me most</span> was how fast she decided.",
           "es": "Lo que más me sorprendió fue lo rápido que decidió."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> the sea view <span class=\"r-corr\">that convinced her</span>.",
+          "es": "Fue la vista al mar lo que la convenció."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">the guest wanted</span> was a quiet room.",
+          "es": "Lo que el huésped quería era una habitación tranquila."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> on Friday <span class=\"r-corr\">that we closed the deal</span>.",
+          "es": "Fue el viernes cuando cerramos el trato."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">we offer</span> is total flexibility.",
+          "es": "Lo que ofrecemos es flexibilidad total."
+        },
+        {
+          "en": "<span class=\"r-sub\">It's</span> the service <span class=\"r-corr\">that keeps guests coming back</span>.",
+          "es": "Es el servicio lo que hace que los huéspedes vuelvan."
         }
       ],
       "tables": [],
@@ -228,6 +288,26 @@
         {
           "en": "<span class=\"r-sub\">Under no circumstances</span> <span class=\"r-corr\">should you offer that discount</span>.",
           "es": "Bajo ninguna circunstancia deberías ofrecer ese descuento."
+        },
+        {
+          "en": "<span class=\"r-sub\">So</span> impressed <span class=\"r-corr\">were the guests</span> that they extended their stay.",
+          "es": "Tan impresionados estaban los huéspedes que ampliaron su estancia."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only then</span> <span class=\"r-corr\">did we realise</span> the mistake.",
+          "es": "Solo entonces nos dimos cuenta del error."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only after the tour</span> <span class=\"r-corr\">did she decide</span> to book.",
+          "es": "Solo después de la visita decidió reservar."
+        },
+        {
+          "en": "<span class=\"r-sub\">So</span> popular <span class=\"r-corr\">is the suite</span> that it's booked all summer.",
+          "es": "Tan popular es la suite que está reservada todo el verano."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not until the deposit cleared</span> <span class=\"r-corr\">did we confirm</span> the room.",
+          "es": "No fue hasta que se abonó el depósito que confirmamos la habitación."
         }
       ],
       "tables": [],

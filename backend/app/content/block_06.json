@@ -39,6 +39,26 @@
         {
           "en": "The problem is <span class=\"r-corr\">that we're out of time</span>. (complemento tras \"be\")",
           "es": "El problema es que se nos acaba el tiempo."
+        },
+        {
+          "en": "She explained <span class=\"r-sub\">why</span> <span class=\"r-corr\">the price had changed</span>.",
+          "es": "Explicó por qué había cambiado el precio."
+        },
+        {
+          "en": "I don't know <span class=\"r-sub\">if</span> <span class=\"r-corr\">the suite is available</span>.",
+          "es": "No sé si la suite está disponible."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">the client wants</span> is a sea view.",
+          "es": "Lo que el cliente quiere es vista al mar."
+        },
+        {
+          "en": "Tell me <span class=\"r-sub\">when</span> <span class=\"r-corr\">you can check in</span>.",
+          "es": "Dime cuándo puedes hacer el check-in."
+        },
+        {
+          "en": "We believe <span class=\"r-sub\">that</span> <span class=\"r-corr\">this offer suits you</span>.",
+          "es": "Creemos que esta oferta te conviene."
         }
       ],
       "tables": [],
@@ -102,6 +122,26 @@
         {
           "en": "This is the property <span class=\"r-sub\">where</span> <span class=\"r-corr\">we held the event</span>.",
           "es": "Esta es la propiedad donde celebramos el evento."
+        },
+        {
+          "en": "The guest <span class=\"r-sub\">who</span> <span class=\"r-corr\">complained</span> got an upgrade.",
+          "es": "El huésped que se quejó recibió una mejora."
+        },
+        {
+          "en": "This is the suite <span class=\"r-sub\">that</span> <span class=\"r-corr\">overlooks the sea</span>.",
+          "es": "Esta es la suite que da al mar."
+        },
+        {
+          "en": "The manager, <span class=\"r-sub\">who</span> <span class=\"r-corr\">speaks four languages</span>, closed the deal.",
+          "es": "El gerente, que habla cuatro idiomas, cerró el trato."
+        },
+        {
+          "en": "That's the offer <span class=\"r-sub\">which</span> <span class=\"r-corr\">ends tomorrow</span>.",
+          "es": "Esa es la oferta que termina mañana."
+        },
+        {
+          "en": "She's the colleague <span class=\"r-sub\">whose</span> <span class=\"r-corr\">client booked the villa</span>.",
+          "es": "Es la compañera cuyo cliente reservó la villa."
         }
       ],
       "tables": [],
@@ -165,6 +205,26 @@
         {
           "en": "We'll wait <span class=\"r-sub\">until</span> <span class=\"r-corr\">the manager confirms</span>.",
           "es": "Esperaremos hasta que el gerente confirme."
+        },
+        {
+          "en": "<span class=\"r-sub\">When</span> <span class=\"r-corr\">the guest arrives</span>, offer a welcome drink.",
+          "es": "Cuando llegue el huésped, ofrécele una bebida de bienvenida."
+        },
+        {
+          "en": "I'll call you <span class=\"r-sub\">as soon as</span> <span class=\"r-corr\">I confirm the booking</span>.",
+          "es": "Te llamo en cuanto confirme la reserva."
+        },
+        {
+          "en": "<span class=\"r-sub\">Before</span> <span class=\"r-corr\">you sign</span>, read the terms.",
+          "es": "Antes de firmar, lee las condiciones."
+        },
+        {
+          "en": "We'll wait <span class=\"r-sub\">until</span> <span class=\"r-corr\">the owner replies</span>.",
+          "es": "Esperaremos hasta que responda el propietario."
+        },
+        {
+          "en": "<span class=\"r-sub\">After</span> <span class=\"r-corr\">they check out</span>, we clean the room.",
+          "es": "Después de que hagan el check-out, limpiamos la habitación."
         }
       ],
       "tables": [],
@@ -228,6 +288,26 @@
         {
           "en": "Take an umbrella <span class=\"r-sub\">in case</span> <span class=\"r-corr\">it rains</span>.",
           "es": "Lleva un paraguas por si llueve."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> <span class=\"r-corr\">you book today</span>, you'll save 15%.",
+          "es": "Si reservas hoy, ahorras un 15%."
+        },
+        {
+          "en": "<span class=\"r-sub\">Unless</span> <span class=\"r-corr\">you confirm by 6pm</span>, we release the room.",
+          "es": "A menos que confirmes antes de las 6, liberamos la habitación."
+        },
+        {
+          "en": "You can cancel <span class=\"r-sub\">provided that</span> <span class=\"r-corr\">you tell us 48h ahead</span>.",
+          "es": "Puedes cancelar siempre que nos avises con 48h."
+        },
+        {
+          "en": "<span class=\"r-sub\">As long as</span> <span class=\"r-corr\">you're flexible</span>, I can find a deal.",
+          "es": "Mientras seas flexible, puedo encontrar una oferta."
+        },
+        {
+          "en": "Take my card <span class=\"r-sub\">in case</span> <span class=\"r-corr\">you have questions</span>.",
+          "es": "Toma mi tarjeta por si tienes preguntas."
         }
       ],
       "tables": [],
@@ -291,6 +371,26 @@
         {
           "en": "She got the promotion <span class=\"r-sub\">because</span> <span class=\"r-corr\">she exceeded her targets</span>.",
           "es": "Consiguió el ascenso porque superó sus objetivos."
+        },
+        {
+          "en": "We upgraded them <span class=\"r-sub\">because</span> <span class=\"r-corr\">their flight was delayed</span>.",
+          "es": "Les mejoramos la habitación porque su vuelo se retrasó."
+        },
+        {
+          "en": "<span class=\"r-sub\">Since</span> <span class=\"r-corr\">you're a loyal member</span>, here's a gift.",
+          "es": "Como eres un miembro fiel, aquí tienes un regalo."
+        },
+        {
+          "en": "<span class=\"r-sub\">As</span> <span class=\"r-corr\">the resort was full</span>, we offered another.",
+          "es": "Como el resort estaba lleno, ofrecimos otro."
+        },
+        {
+          "en": "She got a discount <span class=\"r-sub\">because</span> <span class=\"r-corr\">she booked early</span>.",
+          "es": "Consiguió un descuento porque reservó pronto."
+        },
+        {
+          "en": "<span class=\"r-sub\">Since</span> <span class=\"r-corr\">it's low season</span>, rates are lower.",
+          "es": "Como es temporada baja, las tarifas son más bajas."
         }
       ],
       "tables": [],
@@ -354,6 +454,26 @@
         {
           "en": "We closed the deal, <span class=\"r-sub\">even though</span> <span class=\"r-corr\">the client had doubts at first</span>.",
           "es": "Cerramos el trato, aunque el cliente tenía dudas al principio."
+        },
+        {
+          "en": "<span class=\"r-sub\">Although</span> <span class=\"r-corr\">the room was pricey</span>, they took it.",
+          "es": "Aunque la habitación era cara, la cogieron."
+        },
+        {
+          "en": "<span class=\"r-sub\">Even though</span> <span class=\"r-corr\">it rained</span>, the gala went ahead.",
+          "es": "Aunque llovió, la gala siguió adelante."
+        },
+        {
+          "en": "She stayed calm <span class=\"r-sub\">though</span> <span class=\"r-corr\">the guest was angry</span>.",
+          "es": "Se mantuvo tranquila aunque el huésped estaba enfadado."
+        },
+        {
+          "en": "<span class=\"r-sub\">Even if</span> <span class=\"r-corr\">you cancel</span>, you keep the points.",
+          "es": "Aunque canceles, conservas los puntos."
+        },
+        {
+          "en": "<span class=\"r-sub\">While</span> <span class=\"r-corr\">the price is higher</span>, the value is better.",
+          "es": "Si bien el precio es más alto, el valor es mejor."
         }
       ],
       "tables": [],
@@ -417,6 +537,26 @@
         {
           "en": "They offer a free trial <span class=\"r-sub\">in order to</span> <span class=\"r-corr\">attract new members</span>.",
           "es": "Ofrecen una prueba gratis para atraer nuevos miembros."
+        },
+        {
+          "en": "I confirmed early <span class=\"r-sub\">so that</span> <span class=\"r-corr\">we could secure the suite</span>.",
+          "es": "Confirmé pronto para poder asegurar la suite."
+        },
+        {
+          "en": "She lowered the rate <span class=\"r-sub\">so that</span> <span class=\"r-corr\">the client would accept</span>.",
+          "es": "Bajó la tarifa para que el cliente aceptara."
+        },
+        {
+          "en": "We sent a reminder <span class=\"r-sub\">so that</span> <span class=\"r-corr\">they wouldn't forget</span>.",
+          "es": "Enviamos un recordatorio para que no lo olvidaran."
+        },
+        {
+          "en": "Call me <span class=\"r-sub\">so that</span> <span class=\"r-corr\">I can arrange the transfer</span>.",
+          "es": "Llámame para que pueda organizar el traslado."
+        },
+        {
+          "en": "He explained slowly <span class=\"r-sub\">so that</span> <span class=\"r-corr\">everyone understood</span>.",
+          "es": "Explicó despacio para que todos entendieran."
         }
       ],
       "tables": [],
@@ -480,6 +620,26 @@
         {
           "en": "It was raining, <span class=\"r-sub\">so</span> <span class=\"r-corr\">we cancelled the outdoor event</span>. (resultado simple, informal)",
           "es": "Estaba lloviendo, así que cancelamos el evento al aire libre."
+        },
+        {
+          "en": "The suite was <span class=\"r-sub\">so</span> beautiful <span class=\"r-corr\">that they booked two more nights</span>.",
+          "es": "La suite era tan bonita que reservaron dos noches más."
+        },
+        {
+          "en": "It was <span class=\"r-sub\">such</span> a good deal <span class=\"r-corr\">that she signed at once</span>.",
+          "es": "Era una oferta tan buena que firmó enseguida."
+        },
+        {
+          "en": "He spoke <span class=\"r-sub\">so</span> convincingly <span class=\"r-corr\">that the client upgraded</span>.",
+          "es": "Habló tan convincentemente que el cliente mejoró su reserva."
+        },
+        {
+          "en": "The service was <span class=\"r-sub\">so</span> good <span class=\"r-corr\">that they left a five-star review</span>.",
+          "es": "El servicio fue tan bueno que dejaron una reseña de cinco estrellas."
+        },
+        {
+          "en": "It was <span class=\"r-sub\">such</span> a busy day <span class=\"r-corr\">that we sold out</span>.",
+          "es": "Fue un día tan ajetreado que colgamos el cartel de completo."
         }
       ],
       "tables": [],
