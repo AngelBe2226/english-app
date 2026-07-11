@@ -39,6 +39,26 @@
         {
           "en": "She has <span class=\"r-adj\">long</span> <span class=\"r-adj\">straight</span> <span class=\"r-adj\">black</span> hair. (tamaño → forma → color)",
           "es": "Ella tiene el pelo largo, liso y negro."
+        },
+        {
+          "en": "A <span class=\"r-adj\">beautiful</span> <span class=\"r-adj\">large</span> sea view.",
+          "es": "Una hermosa y amplia vista al mar."
+        },
+        {
+          "en": "A <span class=\"r-adj\">comfortable</span> <span class=\"r-adj\">modern</span> <span class=\"r-adj\">Italian</span> sofa.",
+          "es": "Un cómodo y moderno sofá italiano."
+        },
+        {
+          "en": "They booked a <span class=\"r-adj\">lovely</span> <span class=\"r-adj\">small</span> <span class=\"r-adj\">old</span> villa.",
+          "es": "Reservaron una encantadora, pequeña y antigua villa."
+        },
+        {
+          "en": "We offer <span class=\"r-adj\">exclusive</span> <span class=\"r-adj\">new</span> <span class=\"r-adj\">luxury</span> suites.",
+          "es": "Ofrecemos exclusivas y nuevas suites de lujo."
+        },
+        {
+          "en": "A <span class=\"r-adj\">stunning</span> <span class=\"r-adj\">round</span> <span class=\"r-adj\">white</span> marble table.",
+          "es": "Una impresionante mesa redonda de mármol blanco."
         }
       ],
       "tables": [],
@@ -102,6 +122,26 @@
         {
           "en": "This is <span class=\"r-adj\">the best</span> deal you'll find this year.",
           "es": "Esta es la mejor oferta que encontrarás este año."
+        },
+        {
+          "en": "This room is <span class=\"r-adj\">bigger</span> than the standard one.",
+          "es": "Esta habitación es más grande que la estándar."
+        },
+        {
+          "en": "It's <span class=\"r-adj\">the most popular</span> package we have.",
+          "es": "Es el paquete más popular que tenemos."
+        },
+        {
+          "en": "The premium rate is <span class=\"r-adj\">more flexible</span> than the basic.",
+          "es": "La tarifa premium es más flexible que la básica."
+        },
+        {
+          "en": "This is <span class=\"r-adj\">the best</span> deal of the season.",
+          "es": "Es la mejor oferta de la temporada."
+        },
+        {
+          "en": "Summer is <span class=\"r-adj\">busier</span> than winter.",
+          "es": "El verano tiene más movimiento que el invierno."
         }
       ],
       "tables": [],
@@ -165,6 +205,26 @@
         {
           "en": "He carefully reviewed the contract before signing.",
           "es": "Revisó cuidadosamente el contrato antes de firmar."
+        },
+        {
+          "en": "She handled the complaint <span class=\"r-adv\">calmly</span>.",
+          "es": "Gestionó la queja con calma."
+        },
+        {
+          "en": "He speaks English <span class=\"r-adv\">fluently</span>.",
+          "es": "Habla inglés con fluidez."
+        },
+        {
+          "en": "The team works <span class=\"r-adv\">efficiently</span>.",
+          "es": "El equipo trabaja de forma eficiente."
+        },
+        {
+          "en": "Please answer the phone <span class=\"r-adv\">politely</span>.",
+          "es": "Por favor contesta el teléfono con educación."
+        },
+        {
+          "en": "She closed the deal <span class=\"r-adv\">quickly</span> and <span class=\"r-adv\">professionally</span>.",
+          "es": "Cerró el trato rápida y profesionalmente."
         }
       ],
       "tables": [],
@@ -228,6 +288,26 @@
         {
           "en": "I've <span class=\"r-adv\">never</span> seen a complaint handled that well. (entre auxiliar y participio)",
           "es": "Nunca había visto una queja manejada tan bien."
+        },
+        {
+          "en": "I <span class=\"r-adv\">always</span> greet guests with a smile.",
+          "es": "Siempre saludo a los huéspedes con una sonrisa."
+        },
+        {
+          "en": "She is <span class=\"r-adv\">never</span> late for a meeting.",
+          "es": "Ella nunca llega tarde a una reunión."
+        },
+        {
+          "en": "We <span class=\"r-adv\">often</span> get repeat customers.",
+          "es": "A menudo tenemos clientes que repiten."
+        },
+        {
+          "en": "He <span class=\"r-adv\">rarely</span> offers a discount.",
+          "es": "Rara vez ofrece un descuento."
+        },
+        {
+          "en": "They <span class=\"r-adv\">usually</span> book the sea-view suite.",
+          "es": "Normalmente reservan la suite con vistas al mar."
         }
       ],
       "tables": [],
@@ -291,6 +371,26 @@
         {
           "en": "This plan is <span class=\"r-adv\">too</span> expensive for them. (exceso negativo)",
           "es": "Este plan es demasiado caro para ellos."
+        },
+        {
+          "en": "This suite is <span class=\"r-adv\">really</span> spacious.",
+          "es": "Esta suite es realmente espaciosa."
+        },
+        {
+          "en": "The price is <span class=\"r-adv\">quite</span> reasonable.",
+          "es": "El precio es bastante razonable."
+        },
+        {
+          "en": "That room is <span class=\"r-adv\">too</span> expensive for their budget.",
+          "es": "Esa habitación es demasiado cara para su presupuesto."
+        },
+        {
+          "en": "The service was <span class=\"r-adv\">extremely</span> professional.",
+          "es": "El servicio fue extremadamente profesional."
+        },
+        {
+          "en": "The beach is <span class=\"r-adv\">fairly</span> close to the hotel.",
+          "es": "La playa está bastante cerca del hotel."
         }
       ],
       "tables": [],

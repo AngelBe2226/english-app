@@ -47,6 +47,26 @@
         {
           "en": "We can upgrade the room, <span class=\"r-coord\">or</span> keep the original booking.",
           "es": "Podemos mejorar la habitación, o mantener la reserva original."
+        },
+        {
+          "en": "I called the client, <span class=\"r-coord\">but</span> he didn't answer.",
+          "es": "Llamé al cliente, pero no contestó."
+        },
+        {
+          "en": "We can meet today <span class=\"r-coord\">or</span> tomorrow.",
+          "es": "Podemos vernos hoy o mañana."
+        },
+        {
+          "en": "The suite is booked, <span class=\"r-coord\">so</span> I'll offer another.",
+          "es": "La suite está reservada, así que ofreceré otra."
+        },
+        {
+          "en": "She was tired, <span class=\"r-coord\">yet</span> she finished the report.",
+          "es": "Estaba cansada, pero aun así terminó el informe."
+        },
+        {
+          "en": "He didn't call, <span class=\"r-coord\">nor</span> did he email.",
+          "es": "No llamó, ni tampoco escribió."
         }
       ],
       "tables": [],
@@ -110,6 +130,26 @@
         {
           "en": "He prefers the mountains, <span class=\"r-sub\">whereas</span> she loves the beach.",
           "es": "A él le gustan más las montañas, mientras que a ella le encanta la playa."
+        },
+        {
+          "en": "<span class=\"r-sub\">Because</span> the flight was delayed, we upgraded them.",
+          "es": "Como el vuelo se retrasó, les mejoramos la habitación."
+        },
+        {
+          "en": "<span class=\"r-sub\">Although</span> it was expensive, they booked it.",
+          "es": "Aunque era caro, lo reservaron."
+        },
+        {
+          "en": "I'll confirm <span class=\"r-sub\">as soon as</span> I hear back.",
+          "es": "Confirmaré en cuanto tenga respuesta."
+        },
+        {
+          "en": "<span class=\"r-sub\">Unless</span> you cancel today, we'll charge the deposit.",
+          "es": "A menos que canceles hoy, cobraremos el depósito."
+        },
+        {
+          "en": "She smiled <span class=\"r-sub\">while</span> she explained the offer.",
+          "es": "Sonreía mientras explicaba la oferta."
         }
       ],
       "tables": [],
@@ -173,6 +213,26 @@
         {
           "en": "She's <span class=\"r-corr\">both</span> professional <span class=\"r-corr\">and</span> friendly with guests.",
           "es": "Ella es tanto profesional como amable con los huéspedes."
+        },
+        {
+          "en": "<span class=\"r-corr\">Both</span> the spa <span class=\"r-corr\">and</span> the pool are included.",
+          "es": "Tanto el spa como la piscina están incluidos."
+        },
+        {
+          "en": "You can pay <span class=\"r-corr\">either</span> now <span class=\"r-corr\">or</span> at check-in.",
+          "es": "Puedes pagar o ahora o en el check-in."
+        },
+        {
+          "en": "<span class=\"r-corr\">Neither</span> the price <span class=\"r-corr\">nor</span> the dates suited them.",
+          "es": "Ni el precio ni las fechas les convenían."
+        },
+        {
+          "en": "<span class=\"r-corr\">Not only</span> did we upgrade the room, <span class=\"r-corr\">but also</span> we added breakfast.",
+          "es": "No solo mejoramos la habitación, sino que además añadimos el desayuno."
+        },
+        {
+          "en": "The package covers <span class=\"r-corr\">both</span> flights <span class=\"r-corr\">and</span> transfers.",
+          "es": "El paquete cubre tanto los vuelos como los traslados."
         }
       ],
       "tables": [],
@@ -236,6 +296,26 @@
         {
           "en": "Demand is high. <span class=\"r-disc\">Consequently</span>, we're raising prices.",
           "es": "La demanda es alta. En consecuencia, estamos subiendo los precios."
+        },
+        {
+          "en": "<span class=\"r-disc\">However</span>, the client still had concerns.",
+          "es": "Sin embargo, el cliente aún tenía dudas."
+        },
+        {
+          "en": "<span class=\"r-disc\">Therefore</span>, I recommended the flexible rate.",
+          "es": "Por lo tanto, le recomendé la tarifa flexible."
+        },
+        {
+          "en": "<span class=\"r-disc\">In addition</span>, we offer free cancellation.",
+          "es": "Además, ofrecemos cancelación gratuita."
+        },
+        {
+          "en": "<span class=\"r-disc\">On the other hand</span>, the premium room costs more.",
+          "es": "Por otro lado, la habitación premium cuesta más."
+        },
+        {
+          "en": "<span class=\"r-disc\">As a result</span>, bookings increased by 20%.",
+          "es": "Como resultado, las reservas subieron un 20%."
         }
       ],
       "tables": [],

@@ -51,6 +51,26 @@
         {
           "en": "It <span class=\"r-verb\">rains</span> a lot in winter here.",
           "es": "Llueve mucho aquí en invierno."
+        },
+        {
+          "en": "The receptionist <span class=\"r-verb\">smiled</span>.",
+          "es": "La recepcionista sonrió."
+        },
+        {
+          "en": "It <span class=\"r-verb\">is</span> raining, so the tour is cancelled.",
+          "es": "Está lloviendo, así que la visita se cancela."
+        },
+        {
+          "en": "There <span class=\"r-verb\">are</span> two suites available.",
+          "es": "Hay dos suites disponibles."
+        },
+        {
+          "en": "My colleagues <span class=\"r-verb\">arrived</span> early.",
+          "es": "Mis compañeros llegaron temprano."
+        },
+        {
+          "en": "The system <span class=\"r-verb\">works</span> perfectly now.",
+          "es": "El sistema funciona perfectamente ahora."
         }
       ],
       "tables": [],
@@ -114,6 +134,26 @@
         {
           "en": "They offered <span class=\"r-cd\">a discount</span> to loyal guests.",
           "es": "Ofrecieron un descuento a los huéspedes leales."
+        },
+        {
+          "en": "She booked <span class=\"r-cd\">the suite</span>.",
+          "es": "Reservó la suite."
+        },
+        {
+          "en": "I sent <span class=\"r-cd\">the invoice</span> this morning.",
+          "es": "Envié la factura esta mañana."
+        },
+        {
+          "en": "The guest cancelled <span class=\"r-cd\">his reservation</span>.",
+          "es": "El huésped canceló su reserva."
+        },
+        {
+          "en": "We upgraded <span class=\"r-cd\">it</span> for free.",
+          "es": "La mejoramos gratis."
+        },
+        {
+          "en": "They signed <span class=\"r-cd\">the contract</span> yesterday.",
+          "es": "Firmaron el contrato ayer."
         }
       ],
       "tables": [],
@@ -177,6 +217,26 @@
         {
           "en": "We offered <span class=\"r-ci\">the guests</span> a free upgrade.",
           "es": "Les ofrecimos a los huéspedes una mejora gratis."
+        },
+        {
+          "en": "I gave <span class=\"r-ci\">the client</span> a discount.",
+          "es": "Le di al cliente un descuento."
+        },
+        {
+          "en": "She showed <span class=\"r-ci\">the guests</span> their room.",
+          "es": "Les enseñó a los huéspedes su habitación."
+        },
+        {
+          "en": "We offered <span class=\"r-ci\">him</span> a free upgrade.",
+          "es": "Le ofrecimos una mejora gratis."
+        },
+        {
+          "en": "Send <span class=\"r-ci\">me</span> the details, please.",
+          "es": "Envíame los detalles, por favor."
+        },
+        {
+          "en": "The manager told <span class=\"r-ci\">the team</span> the good news.",
+          "es": "El gerente le contó al equipo la buena noticia."
         }
       ],
       "tables": [],
@@ -240,6 +300,26 @@
         {
           "en": "She signed the contract <span class=\"r-cc\">without hesitation</span>. (modo)",
           "es": "Firmó el contrato sin dudar."
+        },
+        {
+          "en": "We'll meet <span class=\"r-cc\">at the lobby</span>.",
+          "es": "Nos vemos en el vestíbulo."
+        },
+        {
+          "en": "She called <span class=\"r-cc\">this morning</span>.",
+          "es": "Llamó esta mañana."
+        },
+        {
+          "en": "He handled it <span class=\"r-cc\">very professionally</span>.",
+          "es": "Lo gestionó muy profesionalmente."
+        },
+        {
+          "en": "They arrived <span class=\"r-cc\">late</span> <span class=\"r-cc\">because of the traffic</span>.",
+          "es": "Llegaron tarde por el tráfico."
+        },
+        {
+          "en": "The gala takes place <span class=\"r-cc\">on the terrace</span> <span class=\"r-cc\">every summer</span>.",
+          "es": "La gala se celebra en la terraza cada verano."
         }
       ],
       "tables": [],
@@ -303,6 +383,26 @@
         {
           "en": "We consider <span class=\"r-cd\">this deal</span> <span class=\"r-pred\">excellent</span>.",
           "es": "Consideramos este trato excelente."
+        },
+        {
+          "en": "The service seems <span class=\"r-pred\">excellent</span>.",
+          "es": "El servicio parece excelente."
+        },
+        {
+          "en": "She became <span class=\"r-pred\">the top seller</span>.",
+          "es": "Se convirtió en la mejor vendedora."
+        },
+        {
+          "en": "The guests looked <span class=\"r-pred\">satisfied</span>.",
+          "es": "Los huéspedes parecían satisfechos."
+        },
+        {
+          "en": "They elected her <span class=\"r-pred\">team leader</span>.",
+          "es": "La eligieron líder del equipo."
+        },
+        {
+          "en": "We consider <span class=\"r-cd\">this deal</span> <span class=\"r-pred\">a success</span>.",
+          "es": "Consideramos este trato un éxito."
         }
       ],
       "tables": [],
