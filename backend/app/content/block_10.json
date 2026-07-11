@@ -43,6 +43,26 @@
         {
           "en": "<span class=\"r-sub\">If</span> demand rises, <span class=\"r-corr\">prices go up</span>. (regla económica)",
           "es": "Si la demanda sube, los precios suben."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you don't confirm, <span class=\"r-corr\">the room is released</span>.",
+          "es": "Si no confirmas, la habitación se libera."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> a guest complains, <span class=\"r-corr\">we act immediately</span>.",
+          "es": "Si un huésped se queja, actuamos de inmediato."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you book direct, <span class=\"r-corr\">you get the best price</span>.",
+          "es": "Si reservas directo, obtienes el mejor precio."
+        },
+        {
+          "en": "<span class=\"r-sub\">When</span> the season ends, <span class=\"r-corr\">prices drop</span>.",
+          "es": "Cuando termina la temporada, bajan los precios."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you pay in cash, <span class=\"r-corr\">there's no surcharge</span>.",
+          "es": "Si pagas en efectivo, no hay recargo."
         }
       ],
       "tables": [],
@@ -79,7 +99,13 @@
         "id": "b10-s1",
         "label": "<span class=\"badge\">tu turno</span>Describe una política fija de tu trabajo usando condicional 0.",
         "placeholder": "Ej: If a client pays in full, we apply a 5% discount."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "En el condicional 0 puedes cambiar <b>if</b> por <b>when</b> sin que cambie el sentido: son verdades que se cumplen siempre."
+        }
+      ]
     },
     {
       "idx": "10.2",
@@ -106,6 +132,26 @@
         {
           "en": "<span class=\"r-sub\">If</span> it rains tomorrow, <span class=\"r-corr\">we'll move</span> the event indoors.",
           "es": "Si llueve mañana, moveremos el evento al interior."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you book today, <span class=\"r-corr\">I'll waive the fee</span>.",
+          "es": "Si reservas hoy, te quito la tasa."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the flight is delayed, <span class=\"r-corr\">we'll hold your room</span>.",
+          "es": "Si el vuelo se retrasa, te guardamos la habitación."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you upgrade, <span class=\"r-corr\">you'll get lounge access</span>.",
+          "es": "Si mejoras, tendrás acceso al lounge."
+        },
+        {
+          "en": "<span class=\"r-sub\">Unless</span> you cancel, <span class=\"r-corr\">we'll charge the deposit</span>.",
+          "es": "A menos que canceles, cobraremos el depósito."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you're not satisfied, <span class=\"r-corr\">we'll refund you</span>.",
+          "es": "Si no quedas satisfecho, te reembolsamos."
         }
       ],
       "tables": [],
@@ -142,7 +188,13 @@
         "id": "b10-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe una oferta condicional real usando condicional 1.",
         "placeholder": "Ej: If you sign this week, we'll include a free upgrade."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Nunca uses <b>will</b> en la parte del <i>if</i>: se dice \"If it <b>rains</b>...\", no \"If it will rain\"."
+        }
+      ]
     },
     {
       "idx": "10.3",
@@ -169,6 +221,26 @@
         {
           "en": "<span class=\"r-corr\">She would understand</span> <span class=\"r-sub\">if</span> you explained the situation.",
           "es": "Ella entendería si le explicaras la situación."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I were you, <span class=\"r-corr\">I'd take the sea-view suite</span>.",
+          "es": "Yo que tú, cogería la suite con vistas al mar."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had more rooms, <span class=\"r-corr\">we'd offer you one</span>.",
+          "es": "Si tuviéramos más habitaciones, te ofreceríamos una."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the price were lower, <span class=\"r-corr\">they'd book now</span>.",
+          "es": "Si el precio fuera más bajo, reservarían ahora."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you joined the club, <span class=\"r-corr\">you'd save on every trip</span>.",
+          "es": "Si te unieras al club, ahorrarías en cada viaje."
+        },
+        {
+          "en": "What <span class=\"r-corr\">would you do</span> <span class=\"r-sub\">if</span> the client refused?",
+          "es": "¿Qué harías si el cliente se negara?"
         }
       ],
       "tables": [],
@@ -205,7 +277,13 @@
         "id": "b10-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe un escenario hipotético usando condicional 2.",
         "placeholder": "Ej: If I were in charge, I would simplify the onboarding process."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "\"If I <b>were</b> you...\" usa <i>were</i> para todas las personas (no <i>was</i>): es el subjuntivo, típico para dar consejos."
+        }
+      ]
     },
     {
       "idx": "10.4",
@@ -232,6 +310,26 @@
         {
           "en": "<span class=\"r-corr\">I would have called</span> you <span class=\"r-sub\">if</span> I had had your number.",
           "es": "Te habría llamado si hubiera tenido tu número."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had known, <span class=\"r-corr\">we'd have upgraded them</span>.",
+          "es": "Si lo hubiéramos sabido, los habríamos mejorado."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she had booked earlier, <span class=\"r-corr\">she'd have paid less</span>.",
+          "es": "Si hubiera reservado antes, habría pagado menos."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you had called, <span class=\"r-corr\">I'd have arranged it</span>.",
+          "es": "Si hubieras llamado, lo habría organizado."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the deposit hadn't cleared, <span class=\"r-corr\">we'd have lost the room</span>.",
+          "es": "Si el depósito no se hubiera abonado, habríamos perdido la habitación."
+        },
+        {
+          "en": "<span class=\"r-corr\">They'd have complained</span> <span class=\"r-sub\">if</span> we hadn't apologized.",
+          "es": "Se habrían quejado si no nos hubiéramos disculpado."
         }
       ],
       "tables": [],
@@ -268,7 +366,13 @@
         "id": "b10-s4",
         "label": "<span class=\"badge\">tu turno</span>Reflexiona sobre algo del pasado usando condicional 3.",
         "placeholder": "Ej: If I had followed up sooner, I would have closed that deal."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "El condicional 3 habla de un pasado <b>imposible de cambiar</b>: sirve para lamentar o explicar por qué algo no salió."
+        }
+      ]
     },
     {
       "idx": "10.5",
@@ -295,6 +399,26 @@
         {
           "en": "<span class=\"r-sub\">If</span> I hadn't studied English, <span class=\"r-corr\">I wouldn't be</span> able to do this job now.",
           "es": "Si no hubiera estudiado inglés, no podría hacer este trabajo ahora."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I had studied law, <span class=\"r-corr\">I'd be a lawyer now</span>.",
+          "es": "Si hubiera estudiado derecho, ahora sería abogado."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she had taken the job, <span class=\"r-corr\">she'd be in Madrid today</span>.",
+          "es": "Si hubiera aceptado el trabajo, hoy estaría en Madrid."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you weren't so busy, <span class=\"r-corr\">you'd have joined us</span>.",
+          "es": "Si no estuvieras tan ocupado, te habrías unido."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had signed then, <span class=\"r-corr\">we'd own the villa now</span>.",
+          "es": "Si hubiéramos firmado entonces, ahora seríamos dueños de la villa."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> he were more careful, <span class=\"r-corr\">he wouldn't have lost the client</span>.",
+          "es": "Si fuera más cuidadoso, no habría perdido al cliente."
         }
       ],
       "tables": [],
@@ -331,14 +455,53 @@
         "id": "b10-s5",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase mixta conectando una decisión pasada con una consecuencia presente.",
         "placeholder": "Ej: If I hadn't taken this course, I wouldn't be this confident in English now."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Mezcla los tiempos según <b>cuándo</b> pasa cada parte: condición pasada + resultado presente, o al revés."
+        }
+      ]
     },
     {
       "idx": "10.6",
       "title": "Verbos modales",
       "level": "A2",
       "rule": "Matizan el significado del verbo principal: capacidad, obligación, consejo o posibilidad. Siempre van seguidos del verbo en infinitivo sin \"to\" (excepto \"have to\" y \"ought to\").",
-      "examples": [],
+      "examples": [
+        {
+          "en": "You <span class=\"r-verb\">can</span> check in from 3pm.",
+          "es": "Puedes hacer el check-in desde las 3pm."
+        },
+        {
+          "en": "Guests <span class=\"r-verb\">must</span> show ID at reception.",
+          "es": "Los huéspedes deben mostrar el DNI en recepción."
+        },
+        {
+          "en": "You <span class=\"r-verb\">should</span> book early for August.",
+          "es": "Deberías reservar pronto para agosto."
+        },
+        {
+          "en": "We <span class=\"r-verb\">might</span> have a cancellation later.",
+          "es": "Puede que tengamos una cancelación más tarde."
+        },
+        {
+          "en": "<span class=\"r-verb\">Could</span> you send me the invoice?",
+          "es": "¿Podrías enviarme la factura?"
+        },
+        {
+          "en": "You <span class=\"r-verb\">don't have to</span> pay now.",
+          "es": "No tienes que pagar ahora."
+        },
+        {
+          "en": "Members <span class=\"r-verb\">can</span> access the lounge for free.",
+          "es": "Los socios pueden acceder al lounge gratis."
+        },
+        {
+          "en": "You <span class=\"r-verb\">mustn't</span> smoke in the rooms.",
+          "es": "No debes fumar en las habitaciones."
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -408,7 +571,13 @@
         "id": "b10-s6",
         "label": "<span class=\"badge\">tu turno</span>Escribe 2 frases usando modales distintos en un contexto de atención al cliente.",
         "placeholder": "Ej: You could upgrade your room for a small fee. / We must confirm the booking within 24 hours."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Los modales <b>no llevan -s</b> en 3ª persona (she <i>can</i>, no \"she cans\") y van seguidos de <b>infinitivo sin to</b> (must <i>go</i>)."
+        }
+      ]
     }
   ]
 }

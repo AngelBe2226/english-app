@@ -265,31 +265,70 @@ body {
 .level-c2 { background: var(--c2); }
 .level-goflu { background: var(--iris); }
 
+/* ---------- rule box (contenedor resaltado de la regla) ---------- */
+.rule-box {
+  position: relative;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--iris);
+  border-radius: 10px;
+  padding: 0.85rem 1rem 0.9rem;
+  margin: 0 0 1rem;
+}
+.rule-tag {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--iris);
+  margin-bottom: 0.35rem;
+}
 .rule {
-  color: var(--ink-soft);
-  margin-bottom: 1rem;
+  color: var(--ink);
+  margin: 0;
 }
 .rule b {
   color: var(--ink);
 }
 
-.reasoning {
-  background: var(--iris-soft);
+/* ---------- notes (excepción / énfasis / truco / por qué) ---------- */
+.note {
   border-radius: 10px;
   padding: 0.7rem 0.9rem;
   margin: 0 0 1rem;
-  font-size: 0.92rem;
+  font-size: 0.9rem;
   color: var(--ink-soft);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--ink-faint);
 }
-.reasoning-tag {
+.note-body {
+  margin: 0;
+}
+.note-body b {
+  color: var(--ink);
+}
+.note-tag {
   display: inline-block;
   font-family: var(--mono);
-  font-size: 0.68rem;
+  font-size: 0.64rem;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--iris);
-  margin-bottom: 0.25rem;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
 }
+/* por qué (iris) */
+.note-why { background: var(--iris-soft); border-left-color: var(--iris); }
+.note-why .note-tag { color: var(--iris); }
+/* énfasis / clave (iris fuerte) */
+.note-emphasis { background: var(--iris-soft); border-left-color: var(--iris); }
+.note-emphasis .note-tag { color: var(--iris); }
+/* excepción (rojo) */
+.note-exception { background: var(--no-bg); border-left-color: var(--no); }
+.note-exception .note-tag { color: var(--no); }
+/* truco (verde) */
+.note-tip { background: var(--ok-bg); border-left-color: var(--ok); }
+.note-tip .note-tag { color: var(--ok); }
 
 /* ---------- examples ---------- */
 .examples {

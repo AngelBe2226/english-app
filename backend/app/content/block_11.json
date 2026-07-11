@@ -35,6 +35,26 @@
         {
           "en": "The team <span class=\"r-verb\">planned</span> the whole event. (doblado: plan→planned)",
           "es": "El equipo planificó todo el evento."
+        },
+        {
+          "en": "We <span class=\"r-verb\">booked</span> the transfer online.",
+          "es": "Reservamos el traslado online."
+        },
+        {
+          "en": "She <span class=\"r-verb\">emailed</span> the client this morning.",
+          "es": "Le escribió al cliente esta mañana."
+        },
+        {
+          "en": "They <span class=\"r-verb\">arrived</span> before noon.",
+          "es": "Llegaron antes del mediodía."
+        },
+        {
+          "en": "I <span class=\"r-verb\">stopped</span> by reception.",
+          "es": "Pasé por recepción."
+        },
+        {
+          "en": "He <span class=\"r-verb\">studied</span> hospitality management.",
+          "es": "Estudió gestión hotelera."
         }
       ],
       "tables": [
@@ -106,7 +126,13 @@
         "id": "b11-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase en pasado con un verbo regular relacionado con tu trabajo.",
         "placeholder": "Ej: I confirmed the appointment this morning."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cambios ortográficos: verbo corto CVC dobla la consonante (stop→stop<b>p</b>ed); acabados en <b>-y</b> tras consonante → <b>-ied</b> (study→stud<b>ied</b>); acabados en <b>-e</b> solo añaden <b>-d</b> (like→like<b>d</b>)."
+        }
+      ]
     },
     {
       "idx": "11.2",
@@ -133,6 +159,26 @@
         {
           "en": "He <span class=\"r-verb\">brought</span> the documents, and she <span class=\"r-verb\">gave</span> him the keys.",
           "es": "Él trajo los documentos, y ella le dio las llaves."
+        },
+        {
+          "en": "She <span class=\"r-verb\">sold</span> three units last week.",
+          "es": "Vendió tres unidades la semana pasada."
+        },
+        {
+          "en": "I <span class=\"r-verb\">sent</span> you the quote.",
+          "es": "Te envié el presupuesto."
+        },
+        {
+          "en": "They <span class=\"r-verb\">took</span> the sea-view suite.",
+          "es": "Cogieron la suite con vistas al mar."
+        },
+        {
+          "en": "He <span class=\"r-verb\">spoke</span> to the manager.",
+          "es": "Habló con el gerente."
+        },
+        {
+          "en": "We <span class=\"r-verb\">put</span> them in room 204.",
+          "es": "Los pusimos en la habitación 204."
         }
       ],
       "tables": [
@@ -194,7 +240,13 @@
         "id": "b11-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe 2 frases con verbos irregulares de grupos distintos.",
         "placeholder": "Ej: I brought the contract. She took the offer seriously."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Agrúpalos por patrón (ver el <b>Glosario §17.1</b>): iguales las 3 formas, iguales pasado y participio, o las 3 distintas."
+        }
+      ]
     },
     {
       "idx": "11.3",
@@ -221,6 +273,26 @@
         {
           "en": "You <span class=\"r-verb\">can</span> upgrade anytime. (modal, siempre auxiliar)",
           "es": "Puedes mejorar tu plan en cualquier momento."
+        },
+        {
+          "en": "<span class=\"r-verb\">Do</span> you have a reservation?",
+          "es": "¿Tienes una reserva?"
+        },
+        {
+          "en": "She <span class=\"r-verb\">has</span> already checked in.",
+          "es": "Ya ha hecho el check-in."
+        },
+        {
+          "en": "They <span class=\"r-verb\">are</span> waiting in the lobby.",
+          "es": "Están esperando en el vestíbulo."
+        },
+        {
+          "en": "We <span class=\"r-verb\">don't</span> charge for cancellations.",
+          "es": "No cobramos por cancelaciones."
+        },
+        {
+          "en": "<span class=\"r-verb\">Have</span> you been here before?",
+          "es": "¿Has estado aquí antes?"
         }
       ],
       "tables": [],
@@ -257,7 +329,13 @@
         "id": "b11-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase donde \"have\" sea auxiliar y otra donde sea verbo principal.",
         "placeholder": "Ej: I have finished the report. / I have two meetings today."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "<b>be / do / have</b> son a la vez verbos con significado propio y auxiliares para formar tiempos, negativas y preguntas."
+        }
+      ]
     },
     {
       "idx": "11.4",
@@ -284,6 +362,26 @@
         {
           "en": "I <span class=\"r-verb\">came across</span> an old contract while cleaning up.",
           "es": "Me encontré con un contrato viejo mientras ordenaba."
+        },
+        {
+          "en": "Please <span class=\"r-verb\">fill in</span> this form.",
+          "es": "Por favor rellena este formulario."
+        },
+        {
+          "en": "We had to <span class=\"r-verb\">call off</span> the tour.",
+          "es": "Tuvimos que cancelar la visita."
+        },
+        {
+          "en": "Can you <span class=\"r-verb\">look after</span> the VIP guest?",
+          "es": "¿Puedes ocuparte del huésped VIP?"
+        },
+        {
+          "en": "Prices have <span class=\"r-verb\">gone up</span> this year.",
+          "es": "Los precios han subido este año."
+        },
+        {
+          "en": "Let's <span class=\"r-verb\">set up</span> a meeting.",
+          "es": "Organicemos una reunión."
         }
       ],
       "tables": [
@@ -355,7 +453,13 @@
         "id": "b11-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"follow up on\" o \"set up\" pensando en un cliente.",
         "placeholder": "Ej: I'll follow up on this proposal in a few days."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Con phrasal verbs <b>separables</b>, si el objeto es un pronombre va <b>en medio</b> obligatoriamente: \"set <b>it</b> up\", nunca \"set up it\"."
+        }
+      ]
     },
     {
       "idx": "11.5",
@@ -382,6 +486,26 @@
         {
           "en": "They <span class=\"r-verb\">suggested reviewing</span> the contract again. (+ -ing, no \"to review\")",
           "es": "Sugirieron revisar el contrato otra vez."
+        },
+        {
+          "en": "She enjoys <span class=\"r-verb\">meeting</span> new clients.",
+          "es": "Disfruta conociendo nuevos clientes."
+        },
+        {
+          "en": "We decided <span class=\"r-verb\">to upgrade</span> the suite.",
+          "es": "Decidimos mejorar la suite."
+        },
+        {
+          "en": "He avoids <span class=\"r-verb\">making</span> promises.",
+          "es": "Evita hacer promesas."
+        },
+        {
+          "en": "They promised <span class=\"r-verb\">to confirm</span> by Friday.",
+          "es": "Prometieron confirmar para el viernes."
+        },
+        {
+          "en": "I suggested <span class=\"r-verb\">booking</span> early.",
+          "es": "Sugerí reservar pronto."
         }
       ],
       "tables": [],
@@ -418,7 +542,13 @@
         "id": "b11-s5",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con un verbo + gerundio y otra con verbo + infinitivo.",
         "placeholder": "Ej: I enjoy meeting new clients. I promised to send the offer today."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Tras preposición siempre va <b>-ing</b> (good at <i>closing</i>). Verbos como <i>remember/stop</i> cambian de sentido según lleven gerundio o infinitivo."
+        }
+      ]
     }
   ]
 }

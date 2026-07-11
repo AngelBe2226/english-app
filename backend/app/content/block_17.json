@@ -1,0 +1,769 @@
+{
+  "block": "17",
+  "title": "Glosario y tablas de referencia",
+  "kicker": "Bloque 17 · Referencia rápida",
+  "intro": "Un glosario para consultar de un vistazo: las reglas y listas más importantes resumidas en tablas. Empieza por la <b class=\"hl\">tabla extensa de verbos irregulares</b> y sigue con resúmenes de tiempos, preposiciones, conectores y comparativos.",
+  "legend": [],
+  "sections": [
+    {
+      "idx": "17.1",
+      "title": "Verbos irregulares (tabla extensa)",
+      "level": "A1–C1",
+      "rule": "Los verbos irregulares no forman el pasado ni el participio con <b>-ed</b>: hay que memorizarlos. Aquí tienes los <b>más frecuentes</b> con sus tres formas (infinitivo · pasado simple · participio pasado) y su significado. El <b>participio</b> es el que se usa en los tiempos perfectos (have <b>done</b>) y en la voz pasiva (was <b>done</b>).",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Infinitivo",
+            "Pasado simple",
+            "Participio",
+            "Español"
+          ],
+          "rows": [
+            [
+              "be",
+              "was / were",
+              "been",
+              "ser / estar"
+            ],
+            [
+              "become",
+              "became",
+              "become",
+              "convertirse"
+            ],
+            [
+              "begin",
+              "began",
+              "begun",
+              "empezar"
+            ],
+            [
+              "break",
+              "broke",
+              "broken",
+              "romper"
+            ],
+            [
+              "bring",
+              "brought",
+              "brought",
+              "traer"
+            ],
+            [
+              "build",
+              "built",
+              "built",
+              "construir"
+            ],
+            [
+              "buy",
+              "bought",
+              "bought",
+              "comprar"
+            ],
+            [
+              "catch",
+              "caught",
+              "caught",
+              "atrapar / coger"
+            ],
+            [
+              "choose",
+              "chose",
+              "chosen",
+              "elegir"
+            ],
+            [
+              "come",
+              "came",
+              "come",
+              "venir"
+            ],
+            [
+              "cost",
+              "cost",
+              "cost",
+              "costar"
+            ],
+            [
+              "cut",
+              "cut",
+              "cut",
+              "cortar"
+            ],
+            [
+              "do",
+              "did",
+              "done",
+              "hacer"
+            ],
+            [
+              "draw",
+              "drew",
+              "drawn",
+              "dibujar"
+            ],
+            [
+              "drink",
+              "drank",
+              "drunk",
+              "beber"
+            ],
+            [
+              "drive",
+              "drove",
+              "driven",
+              "conducir"
+            ],
+            [
+              "eat",
+              "ate",
+              "eaten",
+              "comer"
+            ],
+            [
+              "fall",
+              "fell",
+              "fallen",
+              "caer"
+            ],
+            [
+              "feel",
+              "felt",
+              "felt",
+              "sentir"
+            ],
+            [
+              "find",
+              "found",
+              "found",
+              "encontrar"
+            ],
+            [
+              "fly",
+              "flew",
+              "flown",
+              "volar"
+            ],
+            [
+              "forget",
+              "forgot",
+              "forgotten",
+              "olvidar"
+            ],
+            [
+              "get",
+              "got",
+              "got / gotten",
+              "conseguir / obtener"
+            ],
+            [
+              "give",
+              "gave",
+              "given",
+              "dar"
+            ],
+            [
+              "go",
+              "went",
+              "gone",
+              "ir"
+            ],
+            [
+              "grow",
+              "grew",
+              "grown",
+              "crecer"
+            ],
+            [
+              "have",
+              "had",
+              "had",
+              "tener / haber"
+            ],
+            [
+              "hear",
+              "heard",
+              "heard",
+              "oír"
+            ],
+            [
+              "hide",
+              "hid",
+              "hidden",
+              "esconder"
+            ],
+            [
+              "hit",
+              "hit",
+              "hit",
+              "golpear"
+            ],
+            [
+              "hold",
+              "held",
+              "held",
+              "sostener"
+            ],
+            [
+              "keep",
+              "kept",
+              "kept",
+              "guardar / mantener"
+            ],
+            [
+              "know",
+              "knew",
+              "known",
+              "saber / conocer"
+            ],
+            [
+              "lead",
+              "led",
+              "led",
+              "liderar / guiar"
+            ],
+            [
+              "learn",
+              "learnt / learned",
+              "learnt / learned",
+              "aprender"
+            ],
+            [
+              "leave",
+              "left",
+              "left",
+              "dejar / irse"
+            ],
+            [
+              "lend",
+              "lent",
+              "lent",
+              "prestar"
+            ],
+            [
+              "let",
+              "let",
+              "let",
+              "dejar / permitir"
+            ],
+            [
+              "lose",
+              "lost",
+              "lost",
+              "perder"
+            ],
+            [
+              "make",
+              "made",
+              "made",
+              "hacer / fabricar"
+            ],
+            [
+              "mean",
+              "meant",
+              "meant",
+              "significar"
+            ],
+            [
+              "meet",
+              "met",
+              "met",
+              "conocer / reunirse"
+            ],
+            [
+              "pay",
+              "paid",
+              "paid",
+              "pagar"
+            ],
+            [
+              "put",
+              "put",
+              "put",
+              "poner"
+            ],
+            [
+              "read",
+              "read",
+              "read",
+              "leer"
+            ],
+            [
+              "ride",
+              "rode",
+              "ridden",
+              "montar"
+            ],
+            [
+              "ring",
+              "rang",
+              "rung",
+              "sonar / llamar"
+            ],
+            [
+              "rise",
+              "rose",
+              "risen",
+              "subir / elevarse"
+            ],
+            [
+              "run",
+              "ran",
+              "run",
+              "correr"
+            ],
+            [
+              "say",
+              "said",
+              "said",
+              "decir"
+            ],
+            [
+              "see",
+              "saw",
+              "seen",
+              "ver"
+            ],
+            [
+              "sell",
+              "sold",
+              "sold",
+              "vender"
+            ],
+            [
+              "send",
+              "sent",
+              "sent",
+              "enviar"
+            ],
+            [
+              "set",
+              "set",
+              "set",
+              "fijar / poner"
+            ],
+            [
+              "show",
+              "showed",
+              "shown",
+              "mostrar"
+            ],
+            [
+              "shut",
+              "shut",
+              "shut",
+              "cerrar"
+            ],
+            [
+              "sing",
+              "sang",
+              "sung",
+              "cantar"
+            ],
+            [
+              "sit",
+              "sat",
+              "sat",
+              "sentarse"
+            ],
+            [
+              "sleep",
+              "slept",
+              "slept",
+              "dormir"
+            ],
+            [
+              "speak",
+              "spoke",
+              "spoken",
+              "hablar"
+            ],
+            [
+              "spend",
+              "spent",
+              "spent",
+              "gastar / pasar (tiempo)"
+            ],
+            [
+              "stand",
+              "stood",
+              "stood",
+              "estar de pie"
+            ],
+            [
+              "steal",
+              "stole",
+              "stolen",
+              "robar"
+            ],
+            [
+              "swim",
+              "swam",
+              "swum",
+              "nadar"
+            ],
+            [
+              "take",
+              "took",
+              "taken",
+              "tomar / llevar"
+            ],
+            [
+              "teach",
+              "taught",
+              "taught",
+              "enseñar"
+            ],
+            [
+              "tell",
+              "told",
+              "told",
+              "decir / contar"
+            ],
+            [
+              "think",
+              "thought",
+              "thought",
+              "pensar"
+            ],
+            [
+              "throw",
+              "threw",
+              "thrown",
+              "lanzar"
+            ],
+            [
+              "understand",
+              "understood",
+              "understood",
+              "entender"
+            ],
+            [
+              "wake",
+              "woke",
+              "woken",
+              "despertar"
+            ],
+            [
+              "wear",
+              "wore",
+              "worn",
+              "llevar puesto"
+            ],
+            [
+              "win",
+              "won",
+              "won",
+              "ganar"
+            ],
+            [
+              "write",
+              "wrote",
+              "written",
+              "escribir"
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Muchos se agrupan por patrón: <b>iguales las 3 formas</b> (cut-cut-cut, put-put-put), <b>iguales pasado y participio</b> (buy-bought-bought, make-made-made) o <b>las 3 distintas</b> (go-went-gone, drink-drank-drunk). Agruparlos así reduce mucho lo que hay que memorizar."
+        },
+        {
+          "type": "exception",
+          "text": "<b>read</b> se escribe igual en las tres formas, pero cambia la pronunciación: infinitivo /riːd/ (\"rid\") y pasado/participio /red/ (\"red\"). <b>get</b> tiene dos participios: <i>got</i> (británico) y <i>gotten</i> (americano)."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.2",
+      "title": "Resumen de los 12 tiempos verbales",
+      "level": "A1–C1",
+      "rule": "Los 12 tiempos del inglés en una tabla: su <b>estructura</b>, su <b>uso principal</b> y los <b>marcadores</b> que los delatan. Es el mapa completo del bloque 09.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Tiempo",
+            "Estructura",
+            "Uso principal",
+            "Marcadores"
+          ],
+          "rows": [
+            [
+              "Presente simple",
+              "sujeto + verbo (+s)",
+              "rutinas, hechos, horarios",
+              "always, every day, usually"
+            ],
+            [
+              "Presente continuo",
+              "am/is/are + -ing",
+              "acción ahora, plan futuro",
+              "now, at the moment"
+            ],
+            [
+              "Presente perfecto",
+              "have/has + participio",
+              "experiencia, resultado presente",
+              "ever, just, already, yet"
+            ],
+            [
+              "Pres. perfecto continuo",
+              "have/has been + -ing",
+              "duración hasta ahora",
+              "for, since, all day"
+            ],
+            [
+              "Pasado simple",
+              "verbo+ed / irregular",
+              "acción terminada en el pasado",
+              "yesterday, ago, last week"
+            ],
+            [
+              "Pasado continuo",
+              "was/were + -ing",
+              "acción en progreso pasada",
+              "while, when"
+            ],
+            [
+              "Pasado perfecto",
+              "had + participio",
+              "el pasado del pasado",
+              "by the time, before, after"
+            ],
+            [
+              "Pas. perfecto continuo",
+              "had been + -ing",
+              "duración antes de otro pasado",
+              "for, before"
+            ],
+            [
+              "Futuro (will)",
+              "will + infinitivo",
+              "decisión, predicción, promesa",
+              "tomorrow, I think, probably"
+            ],
+            [
+              "Futuro (going to)",
+              "going to + infinitivo",
+              "plan, evidencia",
+              "going to"
+            ],
+            [
+              "Futuro continuo",
+              "will be + -ing",
+              "en progreso en el futuro",
+              "this time tomorrow"
+            ],
+            [
+              "Futuro perfecto",
+              "will have + participio",
+              "completado antes de un punto futuro",
+              "by, by the time"
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Regla de oro: <b>continuo</b> = énfasis en el <b>proceso/duración</b>; <b>perfecto</b> = énfasis en el <b>resultado/conexión</b> con otro momento. Cruza los dos ejes (tiempo × aspecto) y tienes los 12."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.3",
+      "title": "Preposiciones dependientes frecuentes",
+      "level": "B1–B2",
+      "rule": "Verbos y adjetivos que llevan una <b>preposición fija</b> distinta de la del español. Memorízalos como un bloque: verbo + preposición.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Expresión",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "depend on",
+              "It depends on the price."
+            ],
+            [
+              "look forward to (+ -ing)",
+              "I look forward to hearing from you."
+            ],
+            [
+              "apologize for",
+              "She apologized for the delay."
+            ],
+            [
+              "insist on",
+              "He insisted on paying."
+            ],
+            [
+              "succeed in",
+              "They succeeded in closing the deal."
+            ],
+            [
+              "good at",
+              "He's good at closing deals."
+            ],
+            [
+              "interested in",
+              "I'm interested in the offer."
+            ],
+            [
+              "afraid of",
+              "They're afraid of losing the client."
+            ],
+            [
+              "responsible for",
+              "She's responsible for bookings."
+            ],
+            [
+              "married to",
+              "He's married to a colleague."
+            ],
+            [
+              "belong to",
+              "This belongs to a guest."
+            ],
+            [
+              "consist of",
+              "The deal consists of three nights."
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Ojo con <b>look forward to</b>: aquí <i>to</i> es preposición, no infinitivo, así que va seguido de <b>-ing</b> (look forward to <b>seeing</b> you), nunca \"to see\"."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.4",
+      "title": "Conectores por función",
+      "level": "A2–C1",
+      "rule": "El banco de conectores organizado por <b>lo que quieres hacer</b> con ellos: añadir, contrastar, dar causa o consecuencia, etc. Ideal para redacción y speaking.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Función",
+            "Conectores"
+          ],
+          "rows": [
+            [
+              "Añadir",
+              "and · in addition · moreover · furthermore"
+            ],
+            [
+              "Contrastar",
+              "but · however · although · on the other hand"
+            ],
+            [
+              "Causa",
+              "because · since · as · due to"
+            ],
+            [
+              "Consecuencia",
+              "so · therefore · as a result · thus"
+            ],
+            [
+              "Condición",
+              "if · unless · provided that · as long as"
+            ],
+            [
+              "Tiempo",
+              "when · while · before · after · as soon as"
+            ],
+            [
+              "Ejemplificar / aclarar",
+              "for example · such as · in other words"
+            ],
+            [
+              "Concluir",
+              "in conclusion · to sum up · overall"
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "tip",
+          "text": "En un examen de speaking, encadenar 2–3 conectores de funciones distintas (\"<b>Although</b> it's pricier, <b>as a result</b> you get..., <b>so</b> overall...\") es lo que más sube la nota de fluidez."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.5",
+      "title": "Comparativos y superlativos irregulares",
+      "level": "A2",
+      "rule": "Estos adjetivos <b>no</b> siguen la regla -er / -est ni more / most: tienen formas propias que hay que memorizar.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Adjetivo",
+            "Comparativo",
+            "Superlativo"
+          ],
+          "rows": [
+            [
+              "good",
+              "better",
+              "the best"
+            ],
+            [
+              "bad",
+              "worse",
+              "the worst"
+            ],
+            [
+              "far",
+              "farther / further",
+              "the farthest / furthest"
+            ],
+            [
+              "little",
+              "less",
+              "the least"
+            ],
+            [
+              "much / many",
+              "more",
+              "the most"
+            ],
+            [
+              "old",
+              "older / elder",
+              "the oldest / eldest"
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>further</b> (no <i>farther</i>) es el que se usa para distancia abstracta o \"adicional\": <i>further information</i>, <i>further details</i>. <b>elder/eldest</b> solo para personas de una familia (my <i>elder</i> brother)."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    }
+  ]
+}

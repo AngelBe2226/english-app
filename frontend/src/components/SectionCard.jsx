@@ -3,10 +3,34 @@ import Table from "./Table";
 import Quiz from "./Quiz";
 import ProduceBox from "./ProduceBox";
 
-// A subtopic card: heading + level badge, the rule, optional "reasoning"
-// (the pedagogical why), examples, reference tables, quizzes, produce box.
+// Etiqueta que se muestra en cada tipo de nota (excepción / énfasis / truco).
+const NOTE_LABEL = {
+  exception: "excepción",
+  emphasis: "ojo",
+  tip: "truco",
+  why: "por qué",
+};
+
+function Note({ note }) {
+  const type = note.type || "emphasis";
+  return (
+    <div className={`note note-${type}`}>
+      <span className="note-tag">{note.title || NOTE_LABEL[type] || type}</span>
+      <RichText as="div" className="note-body" html={note.text} />
+    </div>
+  );
+}
+
+// A subtopic card: heading + level badge, the rule (in a highlighted box),
+// optional reasoning, examples, reference tables, exception/emphasis notes,
+// quizzes and the produce box.
 export default function SectionCard({ section }) {
   const level = (section.level || "").toLowerCase();
+  // Notas al principio (before) y al final (after) del epígrafe.
+  const notes = section.notes || [];
+  const notesBefore = notes.filter((n) => n.at === "start");
+  const notesAfter = notes.filter((n) => n.at !== "start");
+
   return (
     <section className="section-card" id={`sec-${section.idx.replace(/\./g, "-")}`}>
       <header className="section-head">
@@ -17,14 +41,23 @@ export default function SectionCard({ section }) {
         {section.level && <span className={`level-badge level-${level}`}>{section.level}</span>}
       </header>
 
-      {section.rule && <RichText as="div" className="rule" html={section.rule} />}
-
-      {section.reasoning && (
-        <div className="reasoning">
-          <span className="reasoning-tag">por qué</span>
-          <RichText as="div" html={section.reasoning} />
+      {section.rule && (
+        <div className="rule-box">
+          <span className="rule-tag">regla</span>
+          <RichText as="div" className="rule" html={section.rule} />
         </div>
       )}
+
+      {section.reasoning && (
+        <div className="note note-why">
+          <span className="note-tag">por qué</span>
+          <RichText as="div" className="note-body" html={section.reasoning} />
+        </div>
+      )}
+
+      {notesBefore.map((n, i) => (
+        <Note key={`nb-${i}`} note={n} />
+      ))}
 
       {section.examples?.length > 0 && (
         <ul className="examples">
@@ -39,6 +72,10 @@ export default function SectionCard({ section }) {
 
       {section.tables?.map((t, i) => (
         <Table key={i} table={t} />
+      ))}
+
+      {notesAfter.map((n, i) => (
+        <Note key={`na-${i}`} note={n} />
       ))}
 
       {section.quiz?.length > 0 && (

@@ -15,7 +15,44 @@
       "title": "Trabajo y negocios",
       "level": "B1",
       "rule": "Idioms #1–9. Muy usados en reuniones, negociaciones y entornos de oficina.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "The new advisor <b class=\"hl\">hit the ground running</b> on day one.",
+          "es": "El nuevo asesor empezó con energía desde el primer día."
+        },
+        {
+          "en": "Let's <b class=\"hl\">get the ball rolling</b> with the proposal.",
+          "es": "Pongamos en marcha la propuesta."
+        },
+        {
+          "en": "I'll <b class=\"hl\">touch base</b> with you after lunch.",
+          "es": "Me pongo en contacto contigo después de comer."
+        },
+        {
+          "en": "Are we all <b class=\"hl\">on the same page</b> about the price?",
+          "es": "¿Estamos todos de acuerdo con el precio?"
+        },
+        {
+          "en": "We need to <b class=\"hl\">think outside the box</b> to close this.",
+          "es": "Tenemos que pensar de forma creativa para cerrar esto."
+        },
+        {
+          "en": "It's late — let's <b class=\"hl\">call it a day</b>.",
+          "es": "Es tarde, dejémoslo por hoy."
+        },
+        {
+          "en": "She really <b class=\"hl\">brings a lot to the table</b>.",
+          "es": "Aporta mucho valor."
+        },
+        {
+          "en": "The plan failed, so it's <b class=\"hl\">back to the drawing board</b>.",
+          "es": "El plan falló, así que a empezar de cero."
+        },
+        {
+          "en": "Keep me <b class=\"hl\">in the loop</b> on the booking.",
+          "es": "Mantenme al tanto de la reserva."
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -115,14 +152,53 @@
         "id": "b12-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando uno de estos idioms en un contexto real de trabajo.",
         "placeholder": "Ej: After the client rejected the proposal, it was back to the drawing board."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Los idioms no se traducen literalmente: memoriza el <b>significado</b> y una <b>frase modelo</b> de cada uno."
+        }
+      ]
     },
     {
       "idx": "12.2",
       "title": "Tiempo y urgencia",
       "level": "B1",
       "rule": "Idioms #10–17. Para hablar de plazos, prisa y aprovechar el momento.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "We're working <b class=\"hl\">against the clock</b> to confirm.",
+          "es": "Trabajamos contrarreloj para confirmar."
+        },
+        {
+          "en": "They arrived <b class=\"hl\">in the nick of time</b>.",
+          "es": "Llegaron justo a tiempo."
+        },
+        {
+          "en": "We get suites like this <b class=\"hl\">once in a blue moon</b>.",
+          "es": "Suites así salen muy rara vez."
+        },
+        {
+          "en": "Hurry, we're about to <b class=\"hl\">run out of time</b>.",
+          "es": "Date prisa, nos quedamos sin tiempo."
+        },
+        {
+          "en": "The offer is hot — let's <b class=\"hl\">strike while the iron is hot</b>.",
+          "es": "La oferta está caliente, aprovechemos el momento."
+        },
+        {
+          "en": "Reception is open <b class=\"hl\">around the clock</b>.",
+          "es": "Recepción abre las 24 horas."
+        },
+        {
+          "en": "<b class=\"hl\">Time flies</b> during high season.",
+          "es": "El tiempo vuela en temporada alta."
+        },
+        {
+          "en": "Can you cover the shift <b class=\"hl\">on short notice</b>?",
+          "es": "¿Puedes cubrir el turno con poco aviso?"
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -223,7 +299,40 @@
       "title": "Dificultades y problemas",
       "level": "B2",
       "rule": "Idioms #18–25. Para hablar de retos, obstáculos y decisiones difíciles.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "We had to <b class=\"hl\">bite the bullet</b> and refund them.",
+          "es": "Tuvimos que asumirlo y reembolsarles."
+        },
+        {
+          "en": "The cancellation was <b class=\"hl\">a blessing in disguise</b>.",
+          "es": "La cancelación fue una bendición encubierta."
+        },
+        {
+          "en": "We <b class=\"hl\">hit a snag</b> with the payment system.",
+          "es": "Nos topamos con un obstáculo en el sistema de pago."
+        },
+        {
+          "en": "I'm <b class=\"hl\">between a rock and a hard place</b> on the price.",
+          "es": "Estoy entre la espada y la pared con el precio."
+        },
+        {
+          "en": "Don't <b class=\"hl\">throw in the towel</b> yet.",
+          "es": "No tires la toalla todavía."
+        },
+        {
+          "en": "This client is <b class=\"hl\">a tough nut to crack</b>.",
+          "es": "Este cliente es difícil de convencer."
+        },
+        {
+          "en": "Once the deposit clears, we're <b class=\"hl\">out of the woods</b>.",
+          "es": "Cuando se abone el depósito, estaremos fuera de peligro."
+        },
+        {
+          "en": "The discount is <b class=\"hl\">a double-edged sword</b>.",
+          "es": "El descuento es un arma de doble filo."
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -317,14 +426,53 @@
         "id": "b12-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"bite the bullet\" o \"a tough nut to crack\".",
         "placeholder": "Ej: This client has been a tough nut to crack, but we're making progress."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "En una negociación un idiom bien colocado suena natural, pero <b>no abuses</b>: uno o dos por conversación."
+        }
+      ]
     },
     {
       "idx": "12.4",
       "title": "Éxito y fracaso",
       "level": "B2",
       "rule": "Idioms #26–33. Para describir logros, victorias y también decepciones.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "With that suite, you've <b class=\"hl\">hit the jackpot</b>.",
+          "es": "Con esa suite, has dado en el clavo."
+        },
+        {
+          "en": "Closing that sale was <b class=\"hl\">a piece of cake</b>.",
+          "es": "Cerrar esa venta fue pan comido."
+        },
+        {
+          "en": "We always <b class=\"hl\">go the extra mile</b> for VIPs.",
+          "es": "Siempre hacemos un esfuerzo extra por los VIP."
+        },
+        {
+          "en": "The deal <b class=\"hl\">fell through</b> at the last minute.",
+          "es": "El trato se cayó a última hora."
+        },
+        {
+          "en": "If they cancel, we're <b class=\"hl\">back to square one</b>.",
+          "es": "Si cancelan, volvemos al punto de partida."
+        },
+        {
+          "en": "This quarter is <b class=\"hl\">make or break</b> for us.",
+          "es": "Este trimestre es decisivo para nosotros."
+        },
+        {
+          "en": "Book now or you'll <b class=\"hl\">miss the boat</b>.",
+          "es": "Reserva ya o perderás la oportunidad."
+        },
+        {
+          "en": "All that effort finally <b class=\"hl\">paid off</b>.",
+          "es": "Todo ese esfuerzo por fin dio frutos."
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -425,7 +573,40 @@
       "title": "Dinero",
       "level": "B2",
       "rule": "Idioms #34–41. Muy útiles en ventas, negociación y finanzas.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "This package won't <b class=\"hl\">break the bank</b>.",
+          "es": "Este paquete no te arruinará."
+        },
+        {
+          "en": "It's <b class=\"hl\">a good deal</b> for the location.",
+          "es": "Es un buen trato por la ubicación."
+        },
+        {
+          "en": "We never <b class=\"hl\">cut corners</b> on service.",
+          "es": "Nunca escatimamos en el servicio."
+        },
+        {
+          "en": "The resort is finally <b class=\"hl\">in the black</b>.",
+          "es": "El resort por fin tiene ganancias."
+        },
+        {
+          "en": "A loyal client is <b class=\"hl\">worth their weight in gold</b>.",
+          "es": "Un cliente fiel vale su peso en oro."
+        },
+        {
+          "en": "This suite gives great <b class=\"hl\">bang for your buck</b>.",
+          "es": "Esta suite da mucho por tu dinero."
+        },
+        {
+          "en": "The company will <b class=\"hl\">foot the bill</b> for the gala.",
+          "es": "La empresa pagará la cuenta de la gala."
+        },
+        {
+          "en": "In low season we <b class=\"hl\">tighten our belt</b>.",
+          "es": "En temporada baja apretamos el cinturón."
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -519,14 +700,57 @@
         "id": "b12-s5",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase de ventas usando \"a good deal\" o \"bang for your buck\".",
         "placeholder": "Ej: This package really gives you more bang for your buck."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Los de dinero (#34–41) son oro para <b>ventas</b>: transmiten valor y cierre sin sonar agresivo."
+        }
+      ]
     },
     {
       "idx": "12.6",
       "title": "Comunicación y actitud",
       "level": "C1",
       "rule": "Idioms #42–50. Para describir cómo alguien habla, actúa o se comporta.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "Don't <b class=\"hl\">beat around the bush</b> — quote the price.",
+          "es": "No te andes con rodeos, di el precio."
+        },
+        {
+          "en": "A welcome drink helps <b class=\"hl\">break the ice</b>.",
+          "es": "Una bebida de bienvenida ayuda a romper el hielo."
+        },
+        {
+          "en": "I'll <b class=\"hl\">keep you posted</b> on the upgrade.",
+          "es": "Te mantendré informado sobre la mejora."
+        },
+        {
+          "en": "You have to <b class=\"hl\">read between the lines</b> with this guest.",
+          "es": "Con este huésped hay que leer entre líneas."
+        },
+        {
+          "en": "Let me <b class=\"hl\">get straight to the point</b>.",
+          "es": "Déjame ir directo al grano."
+        },
+        {
+          "en": "I really <b class=\"hl\">put my foot in my mouth</b> there.",
+          "es": "Ahí metí la pata."
+        },
+        {
+          "en": "The client and I are <b class=\"hl\">on the same wavelength</b>.",
+          "es": "El cliente y yo estamos en la misma sintonía."
+        },
+        {
+          "en": "Feel free to <b class=\"hl\">speak your mind</b>.",
+          "es": "Siéntete libre de decir lo que piensas."
+        },
+        {
+          "en": "His tone <b class=\"hl\">rubbed the guest the wrong way</b>.",
+          "es": "Su tono le cayó mal al huésped."
+        }
+      ],
       "tables": [
         {
           "headers": [
