@@ -14,7 +14,7 @@
       "idx": "13.1",
       "title": "Colocaciones (collocations)",
       "level": "B2",
-      "rule": "Palabras que van juntas por convención, no por lógica traducible — un nativo las reconoce de inmediato aunque otra combinación \"debería\" funcionar igual de bien. Aprenderlas en bloque (no palabra por palabra) es la única forma de dominarlas.",
+      "rule": "Son combinaciones de palabras que van <b>juntas por convención</b>, no por lógica traducible: se dice <b>make</b> a decision (no 'do'), <b>heavy</b> rain (no 'strong'), <b>do</b> business. Un nativo las reconoce al instante y cualquier otra combinación 'suena mal' aunque sea gramaticalmente correcta. La única forma de dominarlas es aprenderlas <b>en bloque</b> (verbo+sustantivo, adjetivo+sustantivo), no palabra por palabra.",
       "examples": [
         {
           "en": "We need to <b class=\"hl\">make a decision</b> today.",
@@ -136,7 +136,7 @@
       "idx": "13.2",
       "title": "Falsos amigos",
       "level": "B1",
-      "rule": "Palabras que se parecen al español pero significan algo distinto — una fuente muy común de errores incluso en niveles avanzados.",
+      "rule": "Palabras que se <b>parecen</b> al español pero significan otra cosa, una trampa frecuente incluso en niveles altos: <b>actually</b> = de hecho (no 'actualmente'), <b>assist</b> = ayudar (no 'asistir a'), <b>sensible</b> = sensato (no 'sensible'), <b>embarrassed</b> = avergonzado (no 'embarazada'). El parecido engaña, así que conviene memorizar el <b>significado real</b> junto a una frase de ejemplo.",
       "examples": [
         {
           "en": "I'm <span class=\"r-verb\">currently</span> working on that proposal. (no \"actually\")",
@@ -275,7 +275,7 @@
       "idx": "13.3",
       "title": "Vocabulario temático — hostelería/ventas",
       "level": "B1",
-      "rule": "Vocabulario clave para tu rol de Sales Advisor en Meliá — ya trabajado en contexto en las exposiciones de Speaking, aquí queda fijado como referencia rápida.",
+      "rule": "Vocabulario clave para tu rol de <b>Sales Advisor en Meliá</b>: check-in, full board, upgrade, waive the fee, non-refundable, loyalty programme, sea view… Son las palabras que más vas a repetir en el examen y en el trabajo real, así que aquí quedan fijadas como <b>referencia rápida</b>. Domínalas hasta que salgan sin pensar.",
       "examples": [
         {
           "en": "We offered an <span class=\"r-verb\">upgrade</span> to the premium suite.",
@@ -409,7 +409,7 @@
       "idx": "13.4",
       "title": "Vocabulario temático — inmobiliario",
       "level": "B1",
-      "rule": "Vocabulario clave para tu rol en D-Live Real Estate.",
+      "rule": "Vocabulario clave para tu rol en <b>D-Live Real Estate</b>: property, listing, valuation, lease, mortgage, commission, tenant, viewing, investment… Es el léxico técnico del sector; conocerlo te permite explicar una operación con <b>precisión y confianza</b> ante un cliente, sin recurrir a rodeos.",
       "examples": [
         {
           "en": "We need a professional <span class=\"r-verb\">valuation</span> before listing the property.",

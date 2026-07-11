@@ -14,7 +14,7 @@
       "idx": "14.1",
       "title": "Sonidos difíciles para hispanohablantes",
       "level": "A2",
-      "rule": "5 sonidos que no existen (o son distintos) en español, y que cambian el significado de una palabra si se pronuncian mal.",
+      "rule": "Cinco sonidos que <b>no existen o son distintos</b> en español y que, mal pronunciados, cambian el significado de la palabra: la <b>TH</b> (think, this) con la lengua entre los dientes; la <b>V</b> (very) mordiendo el labio, distinta de la B; la <b>H</b> aspirada (house); la <b>SH</b> (ship); y la <b>Z</b> sonora (houses). No son un detalle estético: confundir very/berry o think/sink cambia lo que dices.",
       "examples": [
         {
           "en": "<span class=\"r-verb\">very</span> (muy) vs. <span class=\"r-verb\">berry</span> (baya) — la diferencia es solo V vs. B",
@@ -130,7 +130,7 @@
       "idx": "14.2",
       "title": "Vocales largas vs. cortas",
       "level": "B1",
-      "rule": "El inglés distingue significado según la duración de la vocal — algo que el español no hace. Pronunciar la vocal con la duración equivocada puede cambiar totalmente la palabra.",
+      "rule": "El inglés <b>distingue significado</b> según la <b>duración</b> de la vocal, algo que el español no hace: <b>ship</b> (barco, corta) ≠ <b>sheep</b> (oveja, larga); <b>live</b> ≠ <b>leave</b>; <b>full</b> ≠ <b>fool</b>. Alargar o acortar mal la vocal puede cambiar la palabra por completo, así que la duración es tan importante como el propio sonido.",
       "examples": [
         {
           "en": "I need to <span class=\"r-verb\">book</span> (corta) three rooms, not <span class=\"r-verb\">boot</span> them out. (juego fonético para practicar)",
@@ -241,7 +241,7 @@
       "idx": "14.3",
       "title": "Acento e intonación",
       "level": "B2",
-      "rule": "El <b>acento</b> (word stress) es dónde recae el énfasis dentro de una palabra o frase. La <b>entonación</b> es la melodía de la oración completa: sube en preguntas de sí/no, baja en afirmaciones y preguntas wh-.",
+      "rule": "El <b>acento</b> (word stress) es la sílaba que suena más fuerte dentro de una palabra o frase; puede incluso cambiar la categoría (a <b>RE</b>cord = sustantivo vs to re<b>CORD</b> = verbo). La <b>entonación</b> es la melodía de toda la oración: <b>sube</b> en preguntas de sí/no y <b>baja</b> en afirmaciones y preguntas wh-. Colocar bien acento y melodía es lo que más ayuda a que te entiendan.",
       "examples": [
         {
           "en": "I never <span class=\"r-verb\">SAID</span> she stole the money. (énfasis en \"said\" — quizás otra persona lo dijo)",
@@ -330,7 +330,7 @@
       "idx": "14.4",
       "title": "Acentos regionales",
       "level": "C1",
-      "rule": "Reconocer (no necesariamente imitar) los acentos principales te ayuda muchísimo en listening — sobre todo con huéspedes internacionales de distintos países de habla inglesa.",
+      "rule": "<b>Reconocer</b> (no necesariamente imitar) los grandes acentos del inglés ayuda muchísimo en <b>listening</b>: el americano suele pronunciar la R final (car), el británico tiende a omitirla (cah), y hay diferencias de vocales con el australiano o el irlandés. Con huéspedes internacionales lo importante es <b>entender</b>, no cambiar tu acento.",
       "examples": [
         {
           "en": "En Club by Meliá tratarás con huéspedes VIP de múltiples nacionalidades — no hace falta imitar ningún acento, pero sí reconocerlos ayuda a entender mejor en el listening del examen y en conversaciones reales.",

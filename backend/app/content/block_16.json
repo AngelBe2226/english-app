@@ -14,7 +14,7 @@
       "idx": "16.1",
       "title": "do so / do it / do that",
       "level": "B2",
-      "rule": "Para no repetir un verbo y su complemento ya mencionados: <b>do so</b> (formal, escrito, registro cuidado), <b>do it</b> (una acción concreta y específica) o <b>do that</b> (con énfasis, sorpresa o distancia). Sustituyen a toda la frase verbal anterior.",
+      "rule": "Para no repetir un verbo y su complemento ya mencionados se usa un sustituto: <b>do so</b> (formal, escrito, registro cuidado), <b>do it</b> (una acción concreta y específica ya identificada) o <b>do that</b> (con énfasis, sorpresa o cierta distancia). Los tres sustituyen a <b>toda la frase verbal</b> anterior y evitan la repetición, que en inglés suena torpe.",
       "examples": [
         {
           "en": "She asked me to sign the contract, and I <b class=\"hl\">did so</b> immediately.",
@@ -99,7 +99,7 @@
       "idx": "16.2",
       "title": "so do I / neither do I / nor",
       "level": "B1",
-      "rule": "Para expresar acuerdo o añadir información sin repetir el verbo: <b>so + auxiliar + sujeto</b> en afirmativo (\"yo también\"), y <b>neither/nor + auxiliar + sujeto</b> en negativo (\"yo tampoco\"). Ojo al orden invertido y a que el auxiliar copia el tiempo de la frase anterior.",
+      "rule": "Sirven para expresar <b>acuerdo</b> o añadir información sin repetir el verbo. En afirmativo: <b>so + auxiliar + sujeto</b> ('yo también': So do I, So can he). En negativo: <b>neither/nor + auxiliar + sujeto</b> ('yo tampoco': Neither do I). Fíjate en dos cosas: el <b>orden invertido</b> (auxiliar antes del sujeto) y que el auxiliar <b>copia el tiempo</b> de la frase anterior.",
       "examples": [
         {
           "en": "\"I love this resort.\" \"<b class=\"hl\">So do I</b>.\"",
@@ -184,7 +184,7 @@
       "idx": "16.3",
       "title": "I think so / I hope not",
       "level": "B1",
-      "rule": "Tras verbos como think, believe, hope, suppose, guess, expect y be afraid, se usa <b>so</b> para no repetir una idea afirmativa ya dicha, y <b>not</b> (o <b>don't think so</b>) para la negativa. Nunca se repite toda la frase.",
+      "rule": "Tras verbos de opinión o expectativa (think, believe, hope, suppose, guess, expect, be afraid) se usa <b>so</b> para no repetir una idea afirmativa ya dicha (Is it available? — I think <b>so</b>) y <b>not</b> para la negativa (I'm afraid <b>not</b>; I hope <b>not</b>). Con think/believe la negativa suele hacerse en el verbo: <b>I don't think so</b>. Nunca se repite la frase entera ni se dice 'I think yes'.",
       "examples": [
         {
           "en": "\"Is the suite available?\" \"I <b class=\"hl\">think so</b>.\"",
@@ -265,7 +265,7 @@
       "idx": "16.4",
       "title": "one / ones",
       "level": "A2",
-      "rule": "<b>one</b> (singular) y <b>ones</b> (plural) sustituyen a un sustantivo contable ya mencionado para no repetirlo. Aparecen con this/that, which, the, o un adjetivo delante.",
+      "rule": "<b>one</b> (singular) y <b>ones</b> (plural) sustituyen a un sustantivo <b>contable</b> ya mencionado para no repetirlo (Which room? — The <b>one</b> with the sea view; the clean <b>ones</b>). Aparecen con this/that, which, the o un adjetivo delante. Con sustantivos <b>incontables</b> no se usan: se omite el nombre o se repite (some water → some).",
       "examples": [
         {
           "en": "\"Which room do you prefer?\" \"The <b class=\"hl\">one</b> with the sea view.\"",
@@ -346,7 +346,7 @@
       "idx": "16.5",
       "title": "Elipsis (omitir lo repetido)",
       "level": "B2",
-      "rule": "El inglés omite palabras que se sobreentienden, sobre todo tras conjunciones (and, but, or) y tras un auxiliar o el <b>to</b>. Se conserva solo la palabra clave y se elimina el resto. Abajo, entre paréntesis y resaltado, lo que se <b>omite</b>.",
+      "rule": "El inglés <b>omite</b> las palabras que se sobreentienden, sobre todo tras conjunciones (and, but, or) y tras un auxiliar o el <b>to</b>. Se conserva solo la <b>palabra clave</b> (el auxiliar, el 'to') y se elimina el resto (Have you booked? — Yes, I <b>have</b>; if you want <b>to</b>). Abajo, entre paréntesis y resaltado, lo que se <b>omite</b>. Es lo que da agilidad y evita repetir.",
       "examples": [
         {
           "en": "I'll help if you want me to <b class=\"hl\">(help)</b>.",
