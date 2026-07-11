@@ -26,7 +26,7 @@
       "idx": "1.1",
       "title": "Pronombres personales",
       "level": "A1",
-      "rule": "Los de <b>sujeto</b> (I, you, he, she, it, we, they) hacen la acción y van antes del verbo. Los de <b>objeto</b> (me, you, him, her, it, us, them) la reciben y van después del verbo o preposición.",
+      "rule": "Todo pronombre personal tiene <b>dos formas</b> según su papel en la oración. Los de <b>sujeto</b> (I, you, he, she, it, we, they) realizan la acción y van <b>antes del verbo</b>. Los de <b>objeto</b> (me, you, him, her, it, us, them) la reciben y aparecen <b>después del verbo</b> o de una <b>preposición</b> (with me, for us). Elegir bien sujeto vs objeto es la base de toda frase y evita el error más común al empezar.",
       "examples": [
         {
           "en": "<span class=\"r-subj\">I</span> call <span class=\"r-obj\">her</span> every day.",
@@ -115,7 +115,7 @@
       "idx": "1.2",
       "title": "Posesivos",
       "level": "A1",
-      "rule": "Los <b>adjetivos posesivos</b> (my, your, his, her, its, our, their) van <b>antes de un sustantivo</b>. Los <b>pronombres posesivos</b> (mine, yours, his, hers, ours, theirs) <b>sustituyen</b> al sustantivo y van solos.",
+      "rule": "Hay <b>dos tipos</b> y no se mezclan. Los <b>adjetivos posesivos</b> (my, your, his, her, its, our, their) acompañan a un sustantivo y van <b>siempre delante</b> de él (my car). Los <b>pronombres posesivos</b> (mine, yours, his, hers, ours, theirs) <b>sustituyen</b> al sustantivo y van <b>solos</b>, sin nada detrás (This car is mine). Ambos indican pertenencia, pero uno acompaña y el otro reemplaza.",
       "examples": [
         {
           "en": "This is <span class=\"r-poss\">my</span> car. / This car is <span class=\"r-poss\">mine</span>.",
@@ -204,7 +204,7 @@
       "idx": "1.3",
       "title": "Interrogativos (question words)",
       "level": "A1",
-      "rule": "Introducen preguntas: <b>what</b> (qué), <b>which</b> (cuál), <b>who</b> (quién), <b>whom</b> (a quién), <b>whose</b> (de quién), <b>where</b> (dónde), <b>when</b> (cuándo), <b>why</b> (por qué), <b>how</b> (cómo).",
+      "rule": "Son las 'wh-words' que abren preguntas de <b>información</b> (no de sí/no): <b>what</b> (qué), <b>which</b> (cuál, con opciones limitadas), <b>who</b> (quién), <b>whom</b> (a quién, formal), <b>whose</b> (de quién), <b>where</b> (dónde), <b>when</b> (cuándo), <b>why</b> (por qué) y <b>how</b> (cómo; y con adjetivos: how much, how many, how long). Van al <b>principio</b> de la pregunta, seguidas normalmente del auxiliar (What <b>do</b> you…?).",
       "examples": [
         {
           "en": "<b class=\"hl\">What</b> do you do for a living?",
@@ -293,7 +293,7 @@
       "idx": "1.4",
       "title": "Demostrativos",
       "level": "A1",
-      "rule": "<b>this / these</b> = algo <b>cerca</b> (esto/estos). <b>that / those</b> = algo <b>lejos</b> (eso/aquellos). This/that son singular; these/those son plural.",
+      "rule": "Señalan algo según la <b>distancia</b> y el <b>número</b>. <b>this</b> (sing.) / <b>these</b> (pl.) = algo <b>cerca</b> en espacio o tiempo (this week). <b>that</b> (sing.) / <b>those</b> (pl.) = algo <b>lejos</b> (that day). Funcionan como adjetivo (this room) o como pronombre solo (I'll take this), y <b>concuerdan siempre en número</b> con aquello a lo que se refieren.",
       "examples": [
         {
           "en": "<b class=\"hl\">This</b> is my desk.",
@@ -382,7 +382,7 @@
       "idx": "1.5",
       "title": "Relativos",
       "level": "B1",
-      "rule": "Unen dos ideas describiendo a alguien o algo. <b>who/whom</b> (personas), <b>which</b> (cosas), <b>that</b> (ambos, restrictivo), <b>whose</b> (posesión), <b>where/when/why</b> (lugar/tiempo/razón).",
+      "rule": "Unen dos ideas en una sola frase, describiendo a un sustantivo ya mencionado (como un adjetivo largo). <b>who/whom</b> para personas, <b>which</b> para cosas, <b>that</b> para ambos (solo en restrictivas), <b>whose</b> para posesión, y <b>where/when/why</b> para lugar, tiempo y razón. En las cláusulas <b>restrictivas</b> (esenciales, sin comas) el relativo puede <b>omitirse</b> si es el objeto (the offer (that) I sent).",
       "examples": [
         {
           "en": "The woman <b class=\"hl\">who</b> called is my boss.",
@@ -471,7 +471,7 @@
       "idx": "1.6",
       "title": "Reflexivos y enfáticos",
       "level": "A2",
-      "rule": "<b>myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.</b> Reflexivo: cuando el sujeto y el objeto son la misma persona. Enfático: para recalcar que alguien hizo algo por sí mismo.",
+      "rule": "La misma palabra (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) tiene <b>dos usos</b>. <b>Reflexivo</b>: cuando el sujeto y el objeto son <b>la misma persona</b> (She hurt herself). <b>Enfático</b>: para <b>recalcar</b> que fue esa persona y no otra (I'll do it myself). Se distinguen por la posición: el reflexivo es objeto del verbo; el enfático es opcional y solo refuerza.",
       "examples": [
         {
           "en": "I taught <span class=\"r-refl\">myself</span> English.",
@@ -560,7 +560,7 @@
       "idx": "1.7",
       "title": "Indefinidos",
       "level": "A2",
-      "rule": "Se forman con <b>some / any / no / every</b> + <b>body/one/thing/where</b>. Regla rápida: <b>some-</b> en afirmativas y ofertas, <b>any-</b> en negativas y preguntas, <b>no-</b> ya es negativo (el verbo va en afirmativo), <b>every-</b> = todo/todos.",
+      "rule": "Se construyen combinando <b>some / any / no / every</b> con <b>-body/-one</b> (personas), <b>-thing</b> (cosas) o <b>-where</b> (lugares). Criterio: <b>some-</b> en afirmativas y ofrecimientos (Someone called; Would you like something?); <b>any-</b> en negativas y preguntas (Is there anything?); <b>no-</b> ya es negativo, así que el verbo va en afirmativo (Nobody came); <b>every-</b> = la totalidad (Everyone knows). Todos llevan el verbo en <b>singular</b>.",
       "examples": [
         {
           "en": "<b class=\"hl\">Someone</b> called you.",
@@ -649,7 +649,7 @@
       "idx": "1.8",
       "title": "De lugar (adverbios pronominales)",
       "level": "A1",
-      "rule": "<b>here</b> (aquí), <b>there</b> (ahí/allí), <b>somewhere</b> (en algún lugar), <b>anywhere</b> (en cualquier lugar / en ningún lugar en preguntas y negativas), <b>nowhere</b> (en ningún lugar), <b>everywhere</b> (en todas partes).",
+      "rule": "Son adverbios pronominales que responden a '¿dónde?' sin nombrar el lugar: <b>here</b> (aquí), <b>there</b> (ahí/allí), <b>somewhere</b> (en algún sitio), <b>anywhere</b> (en cualquier sitio; en preguntas/negativas = algún/ningún sitio), <b>nowhere</b> (en ningún sitio) y <b>everywhere</b> (en todas partes). Siguen la misma lógica some/any/no/every de los indefinidos, y por ser adverbios <b>no llevan preposición</b> (go there, no 'go to there').",
       "examples": [
         {
           "en": "Come <b class=\"hl\">here</b>, please.",

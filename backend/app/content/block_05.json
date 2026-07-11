@@ -30,7 +30,7 @@
       "idx": "5.1",
       "title": "Sujeto y verbo (SV)",
       "level": "A1",
-      "rule": "El orden básico en inglés es fijo: <b>Sujeto + Verbo</b> (+ el resto). A diferencia del español, casi nunca se puede omitir el sujeto. El verbo concuerda con el sujeto — en 3ª persona singular (he/she/it) del presente simple, el verbo añade <b>-s/-es</b>.",
+      "rule": "El inglés tiene un orden <b>fijo y explícito</b>: <b>Sujeto + Verbo</b> (+ complementos). A diferencia del español, el sujeto <b>casi nunca se omite</b> (It's raining, no 'Is raining') y para expresar existencia ('hay') se usa <b>there is / there are</b>. El verbo <b>concuerda</b> con el sujeto; en 3ª persona del singular del presente simple (he/she/it) añade <b>-s/-es</b> (she works).",
       "examples": [
         {
           "en": "The manager <span class=\"r-verb\">approves</span> every booking.",
@@ -119,7 +119,7 @@
       "idx": "5.2",
       "title": "Complemento directo (CD)",
       "level": "A2",
-      "rule": "Recibe la acción del verbo directamente — responde a \"¿qué?\" o \"¿a quién?\". Se puede sustituir por un pronombre de objeto (it, them, her, him...).",
+      "rule": "Es lo que <b>recibe directamente</b> la acción del verbo y responde a '¿qué?' o '¿a quién?' (I booked <b>the suite</b>). Va justo <b>después del verbo</b> y puede sustituirse por un pronombre de objeto (it, them, him, her): 'I booked <b>it</b>'. Los verbos que lo exigen se llaman <b>transitivos</b>; sin CD la frase queda incompleta.",
       "examples": [
         {
           "en": "I bought <span class=\"r-cd\">a new car</span>. → I bought <span class=\"r-cd\">it</span>.",
@@ -208,7 +208,7 @@
       "idx": "5.3",
       "title": "Complemento indirecto (CI)",
       "level": "B1",
-      "rule": "La persona (normalmente) que se beneficia de la acción — responde a \"¿a quién?\" o \"¿para quién?\". Puede ir sin preposición (justo después del verbo, antes del CD) o con <b>to/for</b> (después del CD).",
+      "rule": "Es normalmente la <b>persona que se beneficia</b> de la acción y responde a '¿a quién?' o '¿para quién?' (I gave <b>the client</b> a discount). Tiene dos posiciones equivalentes: <b>sin preposición</b>, entre el verbo y el CD (give <b>me</b> the key), o <b>con to/for</b> tras el CD (give the key <b>to me</b>). Aparece con verbos de transferencia: give, send, offer, show, tell.",
       "examples": [
         {
           "en": "I gave <span class=\"r-ci\">her</span> a book. = I gave a book <span class=\"r-ci\">to her</span>.",
@@ -297,7 +297,7 @@
       "idx": "5.4",
       "title": "Complemento circunstancial (CC)",
       "level": "B1",
-      "rule": "Añade información de lugar, tiempo, modo o causa. No es esencial para que la frase tenga sentido gramatical, pero sí aporta contexto. Orden típico en inglés: <b>modo → lugar → tiempo</b> (M-P-T).",
+      "rule": "Añade <b>circunstancias</b> — de lugar, tiempo, modo o causa — y, a diferencia del CD/CI, <b>no es imprescindible</b> para que la frase sea gramatical: solo aporta contexto. Cuando hay varios, el orden habitual en inglés es <b>modo → lugar → tiempo</b> (She worked hard at the office yesterday). El circunstancial de tiempo también puede ir al <b>principio</b> para dar énfasis.",
       "examples": [
         {
           "en": "She works <span class=\"r-cc\">carefully</span> <span class=\"r-cc\">at the front desk</span> <span class=\"r-cc\">every day</span>. (modo-lugar-tiempo)",
@@ -386,7 +386,7 @@
       "idx": "5.5",
       "title": "Complemento predicativo",
       "level": "B2",
-      "rule": "Aparece con <b>verbos copulativos</b> (be, seem, look, become, feel...) describiendo al sujeto, o con verbos como \"elect/name/consider\" describiendo al complemento directo.",
+      "rule": "Describe una cualidad o estado, no una acción recibida. Con <b>verbos copulativos</b> (be, seem, look, become, feel, sound) se refiere al <b>sujeto</b> (The service <b>is excellent</b>). Con verbos como elect, name, consider o make, se refiere al <b>complemento directo</b> (They elected her <b>president</b>). Punto clave: tras un copulativo se usa <b>adjetivo</b>, no adverbio (It looks <b>good</b>).",
       "examples": [
         {
           "en": "She <span class=\"r-pred\">seems</span> <span class=\"r-pred\">tired</span> today. (describe al sujeto)",

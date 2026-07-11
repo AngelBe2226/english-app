@@ -26,7 +26,7 @@
       "idx": "3.1",
       "title": "Coordinantes (FANBOYS)",
       "level": "A1",
-      "rule": "Unen dos ideas del mismo nivel gramatical. <b>FANBOYS</b>: <b>For, And, Nor, But, Or, Yet, So</b>.",
+      "rule": "Unen dos elementos <b>del mismo rango</b> gramatical (dos palabras, dos frases o dos oraciones completas). Se recuerdan con el acrónimo <b>FANBOYS</b>: <b>For</b> (pues/ya que), <b>And</b> (y), <b>Nor</b> (ni), <b>But</b> (pero), <b>Or</b> (o), <b>Yet</b> (pero/aun así), <b>So</b> (así que). Cuando conectan dos oraciones completas, suele escribirse <b>coma</b> antes de la conjunción.",
       "examples": [
         {
           "en": "I called the client, <span class=\"r-coord\">for</span> I needed to confirm the booking.",
@@ -115,7 +115,7 @@
       "idx": "3.2",
       "title": "Subordinantes",
       "level": "B1",
-      "rule": "Introducen una cláusula que depende de la principal. <b>because/since/as</b> (causa), <b>although/though</b> (concesión), <b>if/unless</b> (condición), <b>while/whereas</b> (contraste).",
+      "rule": "Introducen una cláusula <b>dependiente</b> que no funciona sola: necesita la principal. Por función: causa (<b>because, since, as</b>), concesión/contraste (<b>although, though, whereas, while</b>), condición (<b>if, unless</b>) y tiempo (<b>when, before, after, until</b>). La subordinada puede ir <b>delante</b> (con coma) o <b>detrás</b> de la principal sin cambiar el significado.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">Because</span> the flight was delayed, they missed the transfer.",
@@ -204,7 +204,7 @@
       "idx": "3.3",
       "title": "Correlativas",
       "level": "B2",
-      "rule": "Van siempre en pareja. <b>both...and</b>, <b>either...or</b>, <b>neither...nor</b>, <b>not only...but also</b>.",
+      "rule": "Trabajan siempre <b>en pareja</b> y conectan dos elementos equilibrados: <b>both…and</b> (tanto…como), <b>either…or</b> (o…o), <b>neither…nor</b> (ni…ni), <b>not only…but also</b> (no solo…sino también). La regla de oro es el <b>paralelismo</b>: lo que sigue a la primera parte debe ser de la misma categoría que lo que sigue a la segunda (both <b>the spa</b> and <b>the pool</b>).",
       "examples": [
         {
           "en": "The resort has <span class=\"r-corr\">both</span> a spa <span class=\"r-corr\">and</span> a private beach.",
@@ -293,7 +293,7 @@
       "idx": "3.4",
       "title": "Conectores discursivos avanzados",
       "level": "C1",
-      "rule": "Organizan ideas a nivel de párrafo o discurso completo. El banco extenso ya trabajado en el contexto de goFLUENT queda fijado aquí como referencia permanente.",
+      "rule": "Son los conectores que organizan el <b>discurso</b> a nivel de párrafo, no solo dentro de una frase: añadir (<b>in addition, moreover</b>), contrastar (<b>however, on the other hand</b>), consecuencia (<b>therefore, as a result</b>), ejemplificar (<b>for instance</b>) y concluir (<b>in conclusion, overall</b>). Suelen ir al <b>inicio</b> de la oración y seguidos de coma; dominarlos es lo que más eleva la fluidez en writing y speaking.",
       "examples": [
         {
           "en": "The results were positive. <span class=\"r-disc\">However</span>, there's still room for improvement.",

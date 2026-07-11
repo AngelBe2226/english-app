@@ -87,7 +87,13 @@
         "id": "b16-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una instrucción a un compañero de trabajo usando <b>do so</b>.",
         "placeholder": "Ej: If you need to escalate the issue, please do so before noon."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>do so</b> es formal (escrito/registro cuidado); en oral cotidiano se prefiere <b>do it / do that</b>. No sustituye a state verbs: 'I know' no se convierte en 'I do so'."
+        }
+      ]
     },
     {
       "idx": "16.2",
@@ -166,7 +172,13 @@
         "id": "b16-s2",
         "label": "<span class=\"badge\">tu turno</span>Un cliente dice algo; respóndele mostrando acuerdo con <b>so</b> o <b>neither</b>.",
         "placeholder": "Ej: \"I prefer a quiet room.\" \"So do I — let me find you one.\""
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "El auxiliar debe <b>copiar el tiempo y tipo</b> de la frase anterior: 'I love it' → So <b>do</b> I; 'I can go' → So <b>can</b> I; 'I'm tired' → So <b>am</b> I."
+        }
+      ]
     },
     {
       "idx": "16.3",
@@ -241,7 +253,13 @@
         "id": "b16-s3",
         "label": "<span class=\"badge\">tu turno</span>Responde a una pregunta de un huésped con <b>I think so</b>, <b>I hope so</b> o <b>I'm afraid not</b>.",
         "placeholder": "Ej: \"Can I check in early?\" \"I think so — let me confirm with housekeeping.\""
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "No se dice 'I think yes' ni 'I think it': es <b>I think so</b> / <b>I don't think so</b>. Con hope y afraid, la negativa suele ser '…not' (I hope <b>not</b>, I'm afraid <b>not</b>)."
+        }
+      ]
     },
     {
       "idx": "16.4",
@@ -316,7 +334,13 @@
         "id": "b16-s4",
         "label": "<span class=\"badge\">tu turno</span>Ofrece a un cliente dos opciones y deja que elija, usando <b>one</b> u <b>ones</b>.",
         "placeholder": "Ej: We have a garden-view room and a sea-view one — which one would you like?"
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>one/ones</b> solo sustituye a sustantivos <b>contables</b>. Con incontables (water, advice, information) se omite: 'I'd like some water' → 'I'd like <b>some</b>', no 'some one'."
+        }
+      ]
     },
     {
       "idx": "16.5",
@@ -391,7 +415,13 @@
         "id": "b16-s5",
         "label": "<span class=\"badge\">tu turno</span>Escribe un intercambio corto (pregunta y respuesta) usando elipsis para no repetir el verbo.",
         "placeholder": "Ej: \"Could you confirm by email?\" \"Of course I can.\""
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "En respuestas cortas conserva el <b>auxiliar</b> que aparece en la pregunta y omite el resto: 'Have you booked?' → 'Yes, I <b>have</b>'; 'Do you want to come?' → 'I'd love <b>to</b>'."
+        }
+      ]
     }
   ]
 }

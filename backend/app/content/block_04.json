@@ -18,7 +18,7 @@
       "idx": "4.1",
       "title": "Orden de adjetivos",
       "level": "B1",
-      "rule": "En inglés, varios adjetivos delante de un sustantivo siguen un orden fijo: <b>opinión → tamaño → edad → forma → color → origen → material → propósito</b>. No hace falta memorizar la regla al pie de la letra — se interioriza con exposición, pero conocerla te evita sonar \"raro\" sin saber por qué.",
+      "rule": "Cuando varios adjetivos preceden a un sustantivo, el inglés sigue un <b>orden fijo</b> por categoría: <b>opinión → tamaño → edad → forma → color → origen → material → propósito</b> + sustantivo (a lovely small old Italian leather bag). No se memoriza recitándolo: se interioriza con exposición, pero conocerlo explica por qué ciertos órdenes 'suenan mal' aunque las palabras sean correctas. Con dos o tres adjetivos casi nunca hace falta coma.",
       "examples": [
         {
           "en": "She bought a <span class=\"r-adj\">nice</span> <span class=\"r-adj\">small</span> <span class=\"r-adj\">black</span> table. (opinión → tamaño → color)",
@@ -107,7 +107,7 @@
       "idx": "4.2",
       "title": "Comparativos y superlativos",
       "level": "A2",
-      "rule": "Adjetivos cortos: <b>-er / the -est</b> (big → bigger → the biggest). Adjetivos largos: <b>more / the most</b> (interesting → more interesting → the most interesting). Igualdad: <b>as...as</b>. Irregulares: good→better→best, bad→worse→worst.",
+      "rule": "Para comparar, la forma depende de la <b>longitud</b> del adjetivo. Cortos (1 sílaba): <b>-er / the -est</b> (big → bigger → the biggest). Largos (2+ sílabas): <b>more / the most</b> (expensive → more expensive → the most expensive). Igualdad: <b>as … as</b>. Comparativo = entre dos; superlativo = destaca uno dentro de un grupo (siempre con <b>the</b>). Irregulares clave: good→better→best, bad→worse→worst (Glosario §17.5).",
       "examples": [
         {
           "en": "This room is <span class=\"r-adj\">bigger</span> than the other one.",
@@ -196,7 +196,7 @@
       "idx": "4.3",
       "title": "Adverbios de modo",
       "level": "A2",
-      "rule": "Describen cómo se hace algo. Se forman normalmente añadiendo <b>-ly</b> al adjetivo (quick → quickly), con excepciones irregulares como <b>good → well</b>.",
+      "rule": "Describen <b>cómo</b> se realiza la acción y suelen ir <b>después</b> del verbo o del objeto (She handled it calmly). Se forman casi siempre añadiendo <b>-ly</b> al adjetivo (quick→quickly, professional→professionally), con ajustes ortográficos (easy→easily). Ojo a las excepciones: good→<b>well</b>, y fast/hard, que no cambian de forma.",
       "examples": [
         {
           "en": "She explained it <span class=\"r-adv\">clearly</span>.",
@@ -285,7 +285,7 @@
       "idx": "4.4",
       "title": "Adverbios de frecuencia",
       "level": "A1",
-      "rule": "<b>always, usually, often, sometimes, rarely, never</b> — van antes del verbo principal, pero después del verbo \"to be\" y de los auxiliares.",
+      "rule": "Indican <b>cada cuánto</b> ocurre algo, en una escala de más a menos: <b>always, usually, often, sometimes, rarely, never</b>. La posición es la clave: van <b>antes del verbo principal</b> (I always check) pero <b>después</b> del verbo 'to be' y de los auxiliares (I am always busy; I have never seen). Las expresiones de frecuencia definida (every day, once a week) van al final.",
       "examples": [
         {
           "en": "I <span class=\"r-adv\">always</span> confirm the booking by email.",
@@ -374,7 +374,7 @@
       "idx": "4.5",
       "title": "Adverbios de grado",
       "level": "B1",
-      "rule": "<b>very, really, quite, extremely, fairly, too</b> — intensifican un adjetivo u otro adverbio. \"Too\" implica un exceso negativo (\"too expensive\" = demasiado caro, un problema), mientras que \"very\" es solo énfasis neutro.",
+      "rule": "Gradúan la <b>intensidad</b> de un adjetivo u otro adverbio: <b>very, really, extremely</b> (mucho), <b>quite, fairly</b> (bastante) y <b>too</b> (demasiado). La distinción crucial es <b>too</b> vs <b>very</b>: 'very' solo intensifica de forma neutra (very expensive = muy caro), mientras que <b>too</b> señala un <b>exceso negativo</b>, un problema (too expensive = demasiado caro, no me lo puedo permitir).",
       "examples": [
         {
           "en": "The room is <span class=\"r-adv\">very</span> comfortable.",

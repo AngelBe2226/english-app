@@ -26,7 +26,7 @@
       "idx": "2.1",
       "title": "De lugar",
       "level": "A1",
-      "rule": "<b>in</b> = dentro de un espacio. <b>on</b> = sobre una superficie. <b>at</b> = un punto concreto. Luego posición relativa: under/over, between/among, behind/in front of, next to/near/beside.",
+      "rule": "Las tres básicas se eligen por el <b>tipo</b> de lugar: <b>in</b> = dentro de un espacio con volumen (in the room, in Madrid), <b>on</b> = sobre una superficie o línea (on the table, on the wall), <b>at</b> = un punto concreto sin volumen (at the door, at reception). A partir de ahí, la posición relativa: <b>under/over</b>, <b>between</b> (entre dos) / <b>among</b> (entre varios), <b>behind / in front of</b>, <b>next to / beside / near</b>.",
       "examples": [
         {
           "en": "The keys are <span class=\"r-place\">in</span> the drawer.",
@@ -135,7 +135,7 @@
       "idx": "2.2",
       "title": "De tiempo",
       "level": "A1",
-      "rule": "<b>in</b> = meses/años/estaciones. <b>on</b> = días y fechas. <b>at</b> = horas exactas. <b>since</b> = desde un punto, <b>for</b> = duración. <b>during</b> = mientras dura algo. <b>by</b> = fecha límite, <b>until</b> = hasta un punto.",
+      "rule": "El mismo trío in/on/at, ahora por <b>amplitud</b> del periodo: <b>in</b> = periodos largos (in July, in 2025, in summer), <b>on</b> = días y fechas (on Monday, on 3rd May), <b>at</b> = horas y momentos puntuales (at 9am, at night). Para duración y límites: <b>since</b> (desde un inicio) y <b>for</b> (cuánto tiempo), <b>during</b> (mientras dura algo), <b>by</b> (fecha tope, 'para') y <b>until</b> (hasta un punto).",
       "examples": [
         {
           "en": "The meeting is <span class=\"r-time\">in</span> July, <span class=\"r-time\">on</span> Monday, <span class=\"r-time\">at</span> 9am.",
@@ -244,7 +244,7 @@
       "idx": "2.3",
       "title": "De movimiento / dirección",
       "level": "A2",
-      "rule": "<b>to</b> = destino, <b>into/onto</b> = entrar, <b>from</b> = origen, <b>out of</b> = salir de, <b>through</b> = atravesar, <b>across</b> = cruzar, <b>along</b> = a lo largo de, <b>towards</b> = hacia, <b>past</b> = pasar por delante de.",
+      "rule": "Marcan <b>dirección</b>, no posición, y acompañan a verbos de desplazamiento (go, walk, drive, run). <b>to</b> = destino, <b>into / onto</b> = entrar a un espacio o subir a una superficie, <b>from</b> = origen, <b>out of</b> = salir de, <b>through</b> = atravesar por dentro, <b>across</b> = cruzar de un lado a otro, <b>along</b> = a lo largo de, <b>towards</b> = en dirección a (sin llegar), <b>past</b> = pasar por delante de.",
       "examples": [
         {
           "en": "We drove <span class=\"r-move\">from</span> Madrid <span class=\"r-move\">to</span> Barcelona.",
@@ -353,7 +353,7 @@
       "idx": "2.4",
       "title": "De causa, propósito y modo",
       "level": "B1",
-      "rule": "<b>because of / due to</b> = causa (+ sustantivo). <b>for</b> = propósito. <b>by</b> = medio/modo. <b>with / without</b> = compañía o instrumento. <b>despite / in spite of</b> = concesión (+ sustantivo o -ing).",
+      "rule": "Un grupo que cubre el 'porqué' y el 'cómo'. Causa: <b>because of / due to</b> (+ sustantivo). Propósito: <b>for</b> (+ sustantivo o -ing). Medio o modo: <b>by</b> (by car, by email). Compañía o instrumento: <b>with / without</b>. Concesión ('a pesar de'): <b>despite / in spite of</b> (+ sustantivo o -ing). La clave es qué categoría (nombre, gerundio u oración) exige cada una.",
       "examples": [
         {
           "en": "The flight was delayed <span class=\"r-dep\">because of</span> the storm.",
@@ -462,7 +462,7 @@
       "idx": "2.5",
       "title": "Dependientes: verbo + preposición",
       "level": "B2",
-      "rule": "Ciertos verbos van siempre con la misma preposición fija. Si va seguida de otro verbo, ese verbo va en <b>gerundio (-ing)</b>.",
+      "rule": "Muchos verbos ingleses van 'pegados' a una <b>preposición fija</b> que no se traduce por lógica sino de memoria (depend <b>on</b>, apologize <b>for</b>, insist <b>on</b>, succeed <b>in</b>, look forward <b>to</b>). Aprende el bloque verbo+preposición como una <b>sola unidad</b>. Si detrás va otro verbo, este va en <b>gerundio (-ing)</b>, porque la palabra anterior es preposición (succeed in <b>closing</b>).",
       "examples": [
         {
           "en": "It <span class=\"r-dep\">depends on</span> your budget.",
@@ -588,7 +588,7 @@
       "idx": "2.6",
       "title": "Dependientes: adjetivo + preposición",
       "level": "B2",
-      "rule": "Igual que con los verbos, muchos adjetivos llevan una preposición fija que no coincide con el español.",
+      "rule": "Igual que los verbos, muchos adjetivos exigen una <b>preposición concreta</b> que rara vez coincide con el español (good <b>at</b>, interested <b>in</b>, afraid <b>of</b>, responsible <b>for</b>, married <b>to</b>, proud <b>of</b>). Memoriza el par adjetivo+preposición como un todo; traducir la preposición desde el español es la fuente de error más común en niveles altos.",
       "examples": [
         {
           "en": "She's <span class=\"r-dep\">good at</span> negotiating.",
