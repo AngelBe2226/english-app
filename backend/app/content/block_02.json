@@ -47,6 +47,46 @@
         {
           "en": "The hotel is <span class=\"r-place\">next to</span> the beach, right <span class=\"r-place\">in front of</span> the marina.",
           "es": "El hotel está al lado de la playa, justo frente al puerto deportivo."
+        },
+        {
+          "en": "She's waiting <span class=\"r-place\">in</span> the lobby.",
+          "es": "Está esperando en el vestíbulo."
+        },
+        {
+          "en": "Put the documents <span class=\"r-place\">on</span> my desk, please.",
+          "es": "Pon los documentos en mi escritorio, por favor."
+        },
+        {
+          "en": "Let's meet <span class=\"r-place\">at</span> the reception.",
+          "es": "Reunámonos en recepción."
+        },
+        {
+          "en": "The gym is <span class=\"r-place\">on</span> the third floor.",
+          "es": "El gimnasio está en la tercera planta."
+        },
+        {
+          "en": "There's a spa <span class=\"r-place\">inside</span> the hotel.",
+          "es": "Hay un spa dentro del hotel."
+        },
+        {
+          "en": "The pool is <span class=\"r-place\">behind</span> the main building.",
+          "es": "La piscina está detrás del edificio principal."
+        },
+        {
+          "en": "Your room is <span class=\"r-place\">between</span> the lift and the stairs.",
+          "es": "Tu habitación está entre el ascensor y las escaleras."
+        },
+        {
+          "en": "The car park is <span class=\"r-place\">below</span> reception, <span class=\"r-place\">on</span> level -1.",
+          "es": "El parking está debajo de recepción, en el nivel -1."
+        },
+        {
+          "en": "A painting hangs <span class=\"r-place\">above</span> the fireplace.",
+          "es": "Un cuadro cuelga encima de la chimenea."
+        },
+        {
+          "en": "Guests gathered <span class=\"r-place\">around</span> the bar, <span class=\"r-place\">near</span> the terrace.",
+          "es": "Los huéspedes se reunieron alrededor de la barra, cerca de la terraza."
         }
       ],
       "tables": [],
@@ -110,6 +150,46 @@
         {
           "en": "We'll be open <span class=\"r-time\">until</span> midnight.",
           "es": "Estaremos abiertos hasta medianoche."
+        },
+        {
+          "en": "Breakfast is served <span class=\"r-time\">at</span> 7am.",
+          "es": "El desayuno se sirve a las 7am."
+        },
+        {
+          "en": "The resort is busiest <span class=\"r-time\">in</span> summer.",
+          "es": "El resort tiene más movimiento en verano."
+        },
+        {
+          "en": "We're closed <span class=\"r-time\">on</span> public holidays.",
+          "es": "Cerramos los días festivos."
+        },
+        {
+          "en": "Check-in is available <span class=\"r-time\">from</span> 3pm <span class=\"r-time\">until</span> midnight.",
+          "es": "El check-in está disponible desde las 3pm hasta medianoche."
+        },
+        {
+          "en": "I've been in sales <span class=\"r-time\">for</span> over ten years.",
+          "es": "Llevo más de diez años en ventas."
+        },
+        {
+          "en": "She's worked here <span class=\"r-time\">since</span> the hotel opened.",
+          "es": "Ha trabajado aquí desde que abrió el hotel."
+        },
+        {
+          "en": "Please switch off your phone <span class=\"r-time\">during</span> the tour.",
+          "es": "Por favor apaga el teléfono durante la visita."
+        },
+        {
+          "en": "We'll confirm your booking <span class=\"r-time\">within</span> 24 hours.",
+          "es": "Confirmaremos tu reserva en un plazo de 24 horas."
+        },
+        {
+          "en": "The offer ends <span class=\"r-time\">at</span> the end of the month.",
+          "es": "La oferta termina a final de mes."
+        },
+        {
+          "en": "Call me back <span class=\"r-time\">after</span> lunch, <span class=\"r-time\">before</span> 4pm.",
+          "es": "Llámame después de comer, antes de las 4pm."
         }
       ],
       "tables": [],
@@ -173,6 +253,46 @@
         {
           "en": "The car was heading <span class=\"r-move\">towards</span> us, then swerved <span class=\"r-move\">across</span> the road.",
           "es": "El coche venía hacia nosotros, luego giró cruzando la carretera."
+        },
+        {
+          "en": "Please come <span class=\"r-move\">into</span> my office.",
+          "es": "Por favor pasa a mi despacho."
+        },
+        {
+          "en": "The shuttle goes <span class=\"r-move\">from</span> the airport <span class=\"r-move\">to</span> the resort.",
+          "es": "El shuttle va del aeropuerto al resort."
+        },
+        {
+          "en": "Guests walked <span class=\"r-move\">across</span> the lobby <span class=\"r-move\">towards</span> the desk.",
+          "es": "Los huéspedes cruzaron el vestíbulo hacia el mostrador."
+        },
+        {
+          "en": "He stepped <span class=\"r-move\">out of</span> the lift <span class=\"r-move\">onto</span> the terrace.",
+          "es": "Salió del ascensor a la terraza."
+        },
+        {
+          "en": "Drive <span class=\"r-move\">past</span> the marina and turn left.",
+          "es": "Pasa el puerto deportivo y gira a la izquierda."
+        },
+        {
+          "en": "We strolled <span class=\"r-move\">along</span> the promenade.",
+          "es": "Paseamos por el paseo marítimo."
+        },
+        {
+          "en": "The path leads <span class=\"r-move\">up to</span> the viewpoint.",
+          "es": "El sendero lleva hasta el mirador."
+        },
+        {
+          "en": "She went <span class=\"r-move\">down</span> the stairs <span class=\"r-move\">to</span> the beach.",
+          "es": "Bajó las escaleras hasta la playa."
+        },
+        {
+          "en": "The tour takes you <span class=\"r-move\">through</span> the old town.",
+          "es": "La visita te lleva por el casco antiguo."
+        },
+        {
+          "en": "Move the sofa <span class=\"r-move\">away from</span> the window <span class=\"r-move\">towards</span> the wall.",
+          "es": "Aparta el sofá de la ventana hacia la pared."
         }
       ],
       "tables": [],
@@ -236,6 +356,46 @@
         {
           "en": "She solved it <span class=\"r-dep\">without</span> any help, <span class=\"r-dep\">due to</span> her experience.",
           "es": "Lo resolvió sin ayuda, gracias a su experiencia."
+        },
+        {
+          "en": "We upgraded her room <span class=\"r-dep\">because of</span> the mix-up.",
+          "es": "Le mejoramos la habitación por el error."
+        },
+        {
+          "en": "<span class=\"r-dep\">Thanks to</span> your feedback, we improved the service.",
+          "es": "Gracias a tu opinión, mejoramos el servicio."
+        },
+        {
+          "en": "This package is <span class=\"r-dep\">for</span> families with children.",
+          "es": "Este paquete es para familias con niños."
+        },
+        {
+          "en": "You can check in <span class=\"r-dep\">by</span> using the app.",
+          "es": "Puedes hacer el check-in usando la app."
+        },
+        {
+          "en": "He closed the deal <span class=\"r-dep\">with</span> confidence.",
+          "es": "Cerró el trato con seguridad."
+        },
+        {
+          "en": "She handled the complaint <span class=\"r-dep\">without</span> hesitation.",
+          "es": "Gestionó la queja sin dudar."
+        },
+        {
+          "en": "<span class=\"r-dep\">In spite of</span> the delay, the guests stayed calm.",
+          "es": "A pesar del retraso, los huéspedes se mantuvieron tranquilos."
+        },
+        {
+          "en": "The event went ahead <span class=\"r-dep\">despite</span> the bad weather.",
+          "es": "El evento siguió adelante a pesar del mal tiempo."
+        },
+        {
+          "en": "We apologize <span class=\"r-dep\">for</span> any inconvenience.",
+          "es": "Pedimos disculpas por las molestias."
+        },
+        {
+          "en": "Payment can be made <span class=\"r-dep\">by</span> card or <span class=\"r-dep\">in</span> cash.",
+          "es": "El pago puede hacerse con tarjeta o en efectivo."
         }
       ],
       "tables": [],
@@ -279,7 +439,56 @@
       "title": "Dependientes: verbo + preposición",
       "level": "B2",
       "rule": "Ciertos verbos van siempre con la misma preposición fija. Si va seguida de otro verbo, ese verbo va en <b>gerundio (-ing)</b>.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "It <span class=\"r-dep\">depends on</span> your budget.",
+          "es": "Depende de tu presupuesto."
+        },
+        {
+          "en": "I <span class=\"r-dep\">look forward to</span> welcoming you.",
+          "es": "Espero darte la bienvenida."
+        },
+        {
+          "en": "She <span class=\"r-dep\">apologized for</span> the delay.",
+          "es": "Se disculpó por el retraso."
+        },
+        {
+          "en": "He <span class=\"r-dep\">insisted on</span> paying.",
+          "es": "Insistió en pagar."
+        },
+        {
+          "en": "We <span class=\"r-dep\">succeeded in</span> closing the sale.",
+          "es": "Logramos cerrar la venta."
+        },
+        {
+          "en": "Please <span class=\"r-dep\">listen to</span> the customer carefully.",
+          "es": "Por favor escucha con atención al cliente."
+        },
+        {
+          "en": "This <span class=\"r-dep\">belongs to</span> one of our guests.",
+          "es": "Esto pertenece a uno de nuestros huéspedes."
+        },
+        {
+          "en": "I'll <span class=\"r-dep\">deal with</span> the complaint now.",
+          "es": "Me ocuparé de la queja ahora."
+        },
+        {
+          "en": "The offer <span class=\"r-dep\">consists of</span> three nights and breakfast.",
+          "es": "La oferta consiste en tres noches y desayuno."
+        },
+        {
+          "en": "Don't <span class=\"r-dep\">worry about</span> the extra cost.",
+          "es": "No te preocupes por el coste extra."
+        },
+        {
+          "en": "We need to <span class=\"r-dep\">focus on</span> the client's needs.",
+          "es": "Tenemos que centrarnos en las necesidades del cliente."
+        },
+        {
+          "en": "She <span class=\"r-dep\">agreed with</span> my suggestion.",
+          "es": "Estuvo de acuerdo con mi sugerencia."
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -350,7 +559,56 @@
       "title": "Dependientes: adjetivo + preposición",
       "level": "B2",
       "rule": "Igual que con los verbos, muchos adjetivos llevan una preposición fija que no coincide con el español.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "She's <span class=\"r-dep\">good at</span> negotiating.",
+          "es": "Es buena negociando."
+        },
+        {
+          "en": "He's <span class=\"r-dep\">afraid of</span> losing the client.",
+          "es": "Teme perder al cliente."
+        },
+        {
+          "en": "I'm <span class=\"r-dep\">interested in</span> the premium package.",
+          "es": "Me interesa el paquete premium."
+        },
+        {
+          "en": "We're <span class=\"r-dep\">responsible for</span> guest satisfaction.",
+          "es": "Somos responsables de la satisfacción del huésped."
+        },
+        {
+          "en": "This room is <span class=\"r-dep\">similar to</span> the one you saw.",
+          "es": "Esta habitación es parecida a la que viste."
+        },
+        {
+          "en": "The price is <span class=\"r-dep\">different from</span> last year's.",
+          "es": "El precio es distinto al del año pasado."
+        },
+        {
+          "en": "She's <span class=\"r-dep\">proud of</span> her team.",
+          "es": "Está orgullosa de su equipo."
+        },
+        {
+          "en": "I'm <span class=\"r-dep\">used to</span> dealing with VIPs.",
+          "es": "Estoy acostumbrado a tratar con VIPs."
+        },
+        {
+          "en": "He's <span class=\"r-dep\">keen on</span> closing fast.",
+          "es": "Le entusiasma cerrar rápido."
+        },
+        {
+          "en": "We're <span class=\"r-dep\">aware of</span> your concerns.",
+          "es": "Somos conscientes de tus inquietudes."
+        },
+        {
+          "en": "This is <span class=\"r-dep\">suitable for</span> business travellers.",
+          "es": "Esto es adecuado para viajeros de negocios."
+        },
+        {
+          "en": "They were <span class=\"r-dep\">satisfied with</span> the service.",
+          "es": "Quedaron satisfechos con el servicio."
+        }
+      ],
       "tables": [
         {
           "headers": [

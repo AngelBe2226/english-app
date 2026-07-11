@@ -1,0 +1,397 @@
+{
+  "block": "16",
+  "title": "Sustitución y elipsis",
+  "kicker": "Bloque 16 · Sonar natural · B1–C1",
+  "intro": "El inglés evita repetir lo que ya se dijo: en vez de repetir el verbo o el sustantivo, usa un <b class=\"hl\">sustituto</b> (do so, one, so...) o directamente <b class=\"hl\">omite</b> la palabra (elipsis). Dominar esto es lo que separa a quien traduce del español de quien suena nativo. Misma ruta: <b class=\"hl\">regla → ejemplos → ejercicio → tu propia frase</b>.",
+  "legend": [
+    {
+      "label": "sustituto",
+      "desc": "reemplaza algo ya dicho"
+    }
+  ],
+  "sections": [
+    {
+      "idx": "16.1",
+      "title": "do so / do it / do that",
+      "level": "B2",
+      "rule": "Para no repetir un verbo y su complemento ya mencionados: <b>do so</b> (formal, escrito, registro cuidado), <b>do it</b> (una acción concreta y específica) o <b>do that</b> (con énfasis, sorpresa o distancia). Sustituyen a toda la frase verbal anterior.",
+      "examples": [
+        {
+          "en": "She asked me to sign the contract, and I <b class=\"hl\">did so</b> immediately.",
+          "es": "Me pidió firmar el contrato, y lo hice de inmediato."
+        },
+        {
+          "en": "If you wish to cancel, you must <b class=\"hl\">do so</b> 48 hours in advance.",
+          "es": "Si deseas cancelar, debes hacerlo con 48 horas de antelación."
+        },
+        {
+          "en": "He promised to call the client back, but he never <b class=\"hl\">did so</b>.",
+          "es": "Prometió devolver la llamada al cliente, pero nunca lo hizo."
+        },
+        {
+          "en": "\"Please upgrade her room.\" \"I've already <b class=\"hl\">done so</b>.\"",
+          "es": "\"Por favor mejora su habitación.\" \"Ya lo he hecho.\""
+        },
+        {
+          "en": "They told us to wait in the lobby, so we <b class=\"hl\">did so</b>.",
+          "es": "Nos dijeron que esperáramos en el vestíbulo, así que lo hicimos."
+        },
+        {
+          "en": "You can pay the deposit now, or <b class=\"hl\">do it</b> at check-in.",
+          "es": "Puedes pagar el depósito ahora, o hacerlo en el check-in."
+        },
+        {
+          "en": "\"Could you confirm the booking?\" \"I'll <b class=\"hl\">do it</b> right now.\"",
+          "es": "\"¿Puedes confirmar la reserva?\" \"Lo hago ahora mismo.\""
+        },
+        {
+          "en": "He raised his voice at a guest, and he should never <b class=\"hl\">do that</b>.",
+          "es": "Le levantó la voz a un huésped, y nunca debería hacer eso."
+        },
+        {
+          "en": "\"Why did you refund the full amount?\" \"You didn't have to <b class=\"hl\">do that</b>.\"",
+          "es": "\"¿Por qué reembolsaste el importe completo?\" \"No tenías que hacer eso.\""
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s1q1",
+          "question": "1. The report must be sent by Friday; please <span class=\"blank\">___</span> on time. (formal, sin repetir 'send the report')",
+          "options": [
+            "do so",
+            "do it so"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s1q2",
+          "question": "2. I asked him to apologize, and he <span class=\"blank\">___</span>. (pasado, formal)",
+          "options": [
+            "did so",
+            "made so"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s1q3",
+          "question": "3. \"Can you handle the complaint?\" \"I'll <span class=\"blank\">___</span> straight away.\" (acción concreta)",
+          "options": [
+            "do it",
+            "do so it"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una instrucción a un compañero de trabajo usando <b>do so</b>.",
+        "placeholder": "Ej: If you need to escalate the issue, please do so before noon."
+      }
+    },
+    {
+      "idx": "16.2",
+      "title": "so do I / neither do I / nor",
+      "level": "B1",
+      "rule": "Para expresar acuerdo o añadir información sin repetir el verbo: <b>so + auxiliar + sujeto</b> en afirmativo (\"yo también\"), y <b>neither/nor + auxiliar + sujeto</b> en negativo (\"yo tampoco\"). Ojo al orden invertido y a que el auxiliar copia el tiempo de la frase anterior.",
+      "examples": [
+        {
+          "en": "\"I love this resort.\" \"<b class=\"hl\">So do I</b>.\"",
+          "es": "\"Me encanta este resort.\" \"A mí también.\""
+        },
+        {
+          "en": "\"She works in sales.\" \"<b class=\"hl\">So does he</b>.\"",
+          "es": "\"Ella trabaja en ventas.\" \"Él también.\""
+        },
+        {
+          "en": "\"I can speak French.\" \"<b class=\"hl\">So can I</b>.\"",
+          "es": "\"Sé hablar francés.\" \"Yo también.\""
+        },
+        {
+          "en": "\"We visited the spa.\" \"<b class=\"hl\">So did they</b>.\"",
+          "es": "\"Visitamos el spa.\" \"Ellos también.\""
+        },
+        {
+          "en": "\"I'd like a sea view.\" \"<b class=\"hl\">So would I</b>.\"",
+          "es": "\"Me gustaría vista al mar.\" \"A mí también.\""
+        },
+        {
+          "en": "\"I don't like the noise.\" \"<b class=\"hl\">Neither do I</b>.\"",
+          "es": "\"No me gusta el ruido.\" \"A mí tampoco.\""
+        },
+        {
+          "en": "\"He can't come on Monday.\" \"<b class=\"hl\">Neither can I</b>.\"",
+          "es": "\"Él no puede venir el lunes.\" \"Yo tampoco.\""
+        },
+        {
+          "en": "\"I've never been to Bali.\" \"<b class=\"hl\">Neither have I</b>.\"",
+          "es": "\"Nunca he estado en Bali.\" \"Yo tampoco.\""
+        },
+        {
+          "en": "The manager wasn't informed, <b class=\"hl\">nor was</b> the rest of the team.",
+          "es": "No se informó al gerente, ni al resto del equipo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s2q1",
+          "question": "1. \"I love the sea view.\" \"<span class=\"blank\">___</span>.\" (yo también)",
+          "options": [
+            "So do I",
+            "So I do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s2q2",
+          "question": "2. \"I don't work weekends.\" \"<span class=\"blank\">___</span>.\" (yo tampoco)",
+          "options": [
+            "Neither do I",
+            "Neither I do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s2q3",
+          "question": "3. \"She can handle VIPs.\" \"<span class=\"blank\">___</span>.\" (él también)",
+          "options": [
+            "So can he",
+            "So he can"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s2",
+        "label": "<span class=\"badge\">tu turno</span>Un cliente dice algo; respóndele mostrando acuerdo con <b>so</b> o <b>neither</b>.",
+        "placeholder": "Ej: \"I prefer a quiet room.\" \"So do I — let me find you one.\""
+      }
+    },
+    {
+      "idx": "16.3",
+      "title": "I think so / I hope not",
+      "level": "B1",
+      "rule": "Tras verbos como think, believe, hope, suppose, guess, expect y be afraid, se usa <b>so</b> para no repetir una idea afirmativa ya dicha, y <b>not</b> (o <b>don't think so</b>) para la negativa. Nunca se repite toda la frase.",
+      "examples": [
+        {
+          "en": "\"Is the suite available?\" \"I <b class=\"hl\">think so</b>.\"",
+          "es": "\"¿Está disponible la suite?\" \"Creo que sí.\""
+        },
+        {
+          "en": "\"Will they upgrade us?\" \"I <b class=\"hl\">hope so</b>.\"",
+          "es": "\"¿Nos mejorarán la habitación?\" \"Eso espero.\""
+        },
+        {
+          "en": "\"Is it going to rain today?\" \"I'm <b class=\"hl\">afraid so</b>.\"",
+          "es": "\"¿Va a llover hoy?\" \"Me temo que sí.\""
+        },
+        {
+          "en": "\"Are we fully booked?\" \"I <b class=\"hl\">suppose so</b>.\"",
+          "es": "\"¿Estamos completos?\" \"Supongo que sí.\""
+        },
+        {
+          "en": "\"Did she accept the offer?\" \"I <b class=\"hl\">believe so</b>.\"",
+          "es": "\"¿Aceptó la oferta?\" \"Creo que sí.\""
+        },
+        {
+          "en": "\"Is there any availability?\" \"I'm <b class=\"hl\">afraid not</b>.\"",
+          "es": "\"¿Hay disponibilidad?\" \"Me temo que no.\""
+        },
+        {
+          "en": "\"Will it cost extra?\" \"I <b class=\"hl\">hope not</b>.\"",
+          "es": "\"¿Costará más?\" \"Espero que no.\""
+        },
+        {
+          "en": "\"Is he coming to the meeting?\" \"I <b class=\"hl\">don't think so</b>.\"",
+          "es": "\"¿Viene él a la reunión?\" \"Creo que no.\""
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s3q1",
+          "question": "1. \"Will the client sign today?\" \"I <span class=\"blank\">___</span>.\" (espero que sí)",
+          "options": [
+            "hope so",
+            "hope it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s3q2",
+          "question": "2. \"Is breakfast included?\" \"I'm <span class=\"blank\">___</span>.\" (me temo que no)",
+          "options": [
+            "afraid not",
+            "afraid no"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s3q3",
+          "question": "3. \"Are they angry?\" \"I <span class=\"blank\">___</span>.\" (creo que no)",
+          "options": [
+            "don't think so",
+            "think not so"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s3",
+        "label": "<span class=\"badge\">tu turno</span>Responde a una pregunta de un huésped con <b>I think so</b>, <b>I hope so</b> o <b>I'm afraid not</b>.",
+        "placeholder": "Ej: \"Can I check in early?\" \"I think so — let me confirm with housekeeping.\""
+      }
+    },
+    {
+      "idx": "16.4",
+      "title": "one / ones",
+      "level": "A2",
+      "rule": "<b>one</b> (singular) y <b>ones</b> (plural) sustituyen a un sustantivo contable ya mencionado para no repetirlo. Aparecen con this/that, which, the, o un adjetivo delante.",
+      "examples": [
+        {
+          "en": "\"Which room do you prefer?\" \"The <b class=\"hl\">one</b> with the sea view.\"",
+          "es": "\"¿Qué habitación prefieres?\" \"La que tiene vistas al mar.\""
+        },
+        {
+          "en": "I don't like this suite; I prefer that <b class=\"hl\">one</b>.",
+          "es": "No me gusta esta suite; prefiero esa."
+        },
+        {
+          "en": "These towels are dirty — could you bring clean <b class=\"hl\">ones</b>?",
+          "es": "Estas toallas están sucias, ¿puedes traer limpias?"
+        },
+        {
+          "en": "\"Do you want the standard package?\" \"No, the premium <b class=\"hl\">one</b>.\"",
+          "es": "\"¿Quieres el paquete estándar?\" \"No, el premium.\""
+        },
+        {
+          "en": "We have two offers: a cheap <b class=\"hl\">one</b> and a flexible <b class=\"hl\">one</b>.",
+          "es": "Tenemos dos ofertas: una barata y una flexible."
+        },
+        {
+          "en": "The red suitcases are mine; the black <b class=\"hl\">ones</b> are hers.",
+          "es": "Las maletas rojas son mías; las negras son suyas."
+        },
+        {
+          "en": "\"Which dates work for you?\" \"The <b class=\"hl\">ones</b> in July.\"",
+          "es": "\"¿Qué fechas te vienen bien?\" \"Las de julio.\""
+        },
+        {
+          "en": "This key card doesn't work. Try the new <b class=\"hl\">one</b>.",
+          "es": "Esta tarjeta no funciona. Prueba la nueva."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s4q1",
+          "question": "1. \"Which suite?\" \"The <span class=\"blank\">___</span> on the top floor.\" (singular)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s4q2",
+          "question": "2. These glasses are broken; bring clean <span class=\"blank\">___</span>. (plural)",
+          "options": [
+            "ones",
+            "one"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s4q3",
+          "question": "3. \"Do you want the small room?\" \"No, the big <span class=\"blank\">___</span>.\"",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s4",
+        "label": "<span class=\"badge\">tu turno</span>Ofrece a un cliente dos opciones y deja que elija, usando <b>one</b> u <b>ones</b>.",
+        "placeholder": "Ej: We have a garden-view room and a sea-view one — which one would you like?"
+      }
+    },
+    {
+      "idx": "16.5",
+      "title": "Elipsis (omitir lo repetido)",
+      "level": "B2",
+      "rule": "El inglés omite palabras que se sobreentienden, sobre todo tras conjunciones (and, but, or) y tras un auxiliar o el <b>to</b>. Se conserva solo la palabra clave y se elimina el resto. Abajo, entre paréntesis y resaltado, lo que se <b>omite</b>.",
+      "examples": [
+        {
+          "en": "I'll help if you want me to <b class=\"hl\">(help)</b>.",
+          "es": "Te ayudo si quieres."
+        },
+        {
+          "en": "He wanted to come but he couldn't <b class=\"hl\">(come)</b>.",
+          "es": "Quería venir pero no pudo."
+        },
+        {
+          "en": "\"Have you booked the table?\" \"Yes, I have <b class=\"hl\">(booked it)</b>.\"",
+          "es": "\"¿Reservaste la mesa?\" \"Sí, ya está.\""
+        },
+        {
+          "en": "You can leave now if you'd like to <b class=\"hl\">(leave)</b>.",
+          "es": "Puedes irte ahora si quieres."
+        },
+        {
+          "en": "Some guests wanted the tour; others didn't <b class=\"hl\">(want the tour)</b>.",
+          "es": "Algunos huéspedes querían la visita; otros no."
+        },
+        {
+          "en": "I haven't finished the report, but I will <b class=\"hl\">(finish it)</b> soon.",
+          "es": "No he terminado el informe, pero lo haré pronto."
+        },
+        {
+          "en": "\"Who's paying?\" \"I am <b class=\"hl\">(paying)</b>.\"",
+          "es": "\"¿Quién paga?\" \"Yo.\""
+        },
+        {
+          "en": "She's better at closing deals than I am <b class=\"hl\">(good at closing deals)</b>.",
+          "es": "Se le da mejor cerrar tratos que a mí."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s5q1",
+          "question": "1. \"Have you sent the invoice?\" \"Yes, I <span class=\"blank\">___</span>.\" (respuesta corta, elipsis)",
+          "options": [
+            "have",
+            "have sent"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s5q2",
+          "question": "2. He wanted to help but he couldn't. La palabra omitida tras 'couldn't' es:",
+          "options": [
+            "help",
+            "to help"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s5q3",
+          "question": "3. \"Will you join us?\" \"I'd love <span class=\"blank\">___</span>.\" (elipsis tras 'to')",
+          "options": [
+            "to",
+            "to join"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe un intercambio corto (pregunta y respuesta) usando elipsis para no repetir el verbo.",
+        "placeholder": "Ej: \"Could you confirm by email?\" \"Of course I can.\""
+      }
+    }
+  ]
+}

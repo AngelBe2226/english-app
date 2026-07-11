@@ -47,6 +47,26 @@
         {
           "en": "<span class=\"r-subj\">He</span> gave <span class=\"r-obj\">it</span> to <span class=\"r-obj\">me</span>.",
           "es": "Él me lo dio."
+        },
+        {
+          "en": "<span class=\"r-subj\">We</span> thanked <span class=\"r-obj\">them</span> for the booking.",
+          "es": "Les agradecimos la reserva."
+        },
+        {
+          "en": "<span class=\"r-subj\">He</span> showed <span class=\"r-obj\">us</span> the suite.",
+          "es": "Nos enseñó la suite."
+        },
+        {
+          "en": "Can <span class=\"r-subj\">you</span> email <span class=\"r-obj\">me</span> the details?",
+          "es": "¿Puedes enviarme los detalles por email?"
+        },
+        {
+          "en": "<span class=\"r-subj\">I</span> met <span class=\"r-obj\">her</span> at the conference.",
+          "es": "La conocí en el congreso."
+        },
+        {
+          "en": "<span class=\"r-subj\">They</span> offered <span class=\"r-obj\">him</span> a discount.",
+          "es": "Le ofrecieron un descuento."
         }
       ],
       "tables": [],
@@ -110,6 +130,26 @@
         {
           "en": "She lent me <span class=\"r-poss\">her</span> umbrella because I forgot <span class=\"r-poss\">mine</span>.",
           "es": "Me prestó su paraguas porque olvidé el mío."
+        },
+        {
+          "en": "Is this <span class=\"r-poss\">your</span> reservation or <span class=\"r-poss\">hers</span>?",
+          "es": "¿Es tu reserva o la de ella?"
+        },
+        {
+          "en": "<span class=\"r-poss\">Our</span> rates are lower than <span class=\"r-poss\">theirs</span>.",
+          "es": "Nuestras tarifas son más bajas que las suyas."
+        },
+        {
+          "en": "That office is <span class=\"r-poss\">his</span>.",
+          "es": "Esa oficina es suya (de él)."
+        },
+        {
+          "en": "The hotel changed <span class=\"r-poss\">its</span> cancellation policy.",
+          "es": "El hotel cambió su política de cancelación."
+        },
+        {
+          "en": "These bags are <span class=\"r-poss\">mine</span>, not <span class=\"r-poss\">yours</span>.",
+          "es": "Estas maletas son mías, no tuyas."
         }
       ],
       "tables": [],
@@ -173,6 +213,26 @@
         {
           "en": "<b class=\"hl\">Which</b> option do you prefer?",
           "es": "¿Qué/Cuál opción prefieres?"
+        },
+        {
+          "en": "Which room would you prefer?",
+          "es": "¿Qué habitación preferirías?"
+        },
+        {
+          "en": "Whose luggage is this?",
+          "es": "¿De quién es este equipaje?"
+        },
+        {
+          "en": "When does your flight arrive?",
+          "es": "¿Cuándo llega tu vuelo?"
+        },
+        {
+          "en": "How many nights are you staying?",
+          "es": "¿Cuántas noches te quedas?"
+        },
+        {
+          "en": "Why did you choose our resort?",
+          "es": "¿Por qué elegiste nuestro resort?"
         }
       ],
       "tables": [],
@@ -236,6 +296,26 @@
         {
           "en": "I prefer <b class=\"hl\">this</b> one, not <b class=\"hl\">that</b> one.",
           "es": "Prefiero este, no ese."
+        },
+        {
+          "en": "These are our best suites.",
+          "es": "Estas son nuestras mejores suites."
+        },
+        {
+          "en": "That was an excellent question.",
+          "es": "Esa fue una excelente pregunta."
+        },
+        {
+          "en": "Those guests just checked out.",
+          "es": "Esos huéspedes acaban de hacer el check-out."
+        },
+        {
+          "en": "This is the contract you signed.",
+          "es": "Este es el contrato que firmaste."
+        },
+        {
+          "en": "I prefer this one to that one.",
+          "es": "Prefiero este que ese."
         }
       ],
       "tables": [],
@@ -299,6 +379,26 @@
         {
           "en": "Do you remember the day <b class=\"hl\">when</b> we arrived?",
           "es": "¿Recuerdas el día en que llegamos?"
+        },
+        {
+          "en": "The client whose flight was cancelled needs a room.",
+          "es": "El cliente cuyo vuelo se canceló necesita habitación."
+        },
+        {
+          "en": "This is the offer that closes tomorrow.",
+          "es": "Esta es la oferta que cierra mañana."
+        },
+        {
+          "en": "The suite which overlooks the sea is booked.",
+          "es": "La suite que da al mar está reservada."
+        },
+        {
+          "en": "That's the manager whom I emailed.",
+          "es": "Ese es el gerente a quien escribí."
+        },
+        {
+          "en": "Summer is the season when we're busiest.",
+          "es": "El verano es la temporada en que tenemos más trabajo."
         }
       ],
       "tables": [],
@@ -362,6 +462,26 @@
         {
           "en": "The system updates <span class=\"r-refl\">itself</span>.",
           "es": "El sistema se actualiza solo."
+        },
+        {
+          "en": "I organized the whole event <span class=\"r-refl\">myself</span>.",
+          "es": "Organicé todo el evento yo mismo."
+        },
+        {
+          "en": "The system updates <span class=\"r-refl\">itself</span> every night.",
+          "es": "El sistema se actualiza solo cada noche."
+        },
+        {
+          "en": "Help <span class=\"r-refl\">yourselves</span> to the buffet.",
+          "es": "Servíos vosotros mismos del bufé."
+        },
+        {
+          "en": "She taught <span class=\"r-refl\">herself</span> three languages.",
+          "es": "Ella aprendió sola tres idiomas."
+        },
+        {
+          "en": "We should be proud of <span class=\"r-refl\">ourselves</span>.",
+          "es": "Deberíamos estar orgullosos de nosotros mismos."
         }
       ],
       "tables": [],
@@ -425,6 +545,26 @@
         {
           "en": "I looked <b class=\"hl\">everywhere</b> but found <b class=\"hl\">nothing</b>.",
           "es": "Busqué por todas partes pero no encontré nada."
+        },
+        {
+          "en": "Is there anything I can help you with?",
+          "es": "¿Hay algo en lo que pueda ayudarte?"
+        },
+        {
+          "en": "There's nothing available this weekend.",
+          "es": "No hay nada disponible este fin de semana."
+        },
+        {
+          "en": "Everyone gets a welcome drink.",
+          "es": "Todos reciben una bebida de bienvenida."
+        },
+        {
+          "en": "Would you like something to drink?",
+          "es": "¿Quieres algo de beber?"
+        },
+        {
+          "en": "Nobody answered the phone.",
+          "es": "Nadie contestó el teléfono."
         }
       ],
       "tables": [],
@@ -488,6 +628,26 @@
         {
           "en": "She travels <b class=\"hl\">everywhere</b> for work.",
           "es": "Ella viaja a todas partes por trabajo."
+        },
+        {
+          "en": "Your room is over there, on the left.",
+          "es": "Tu habitación está allí, a la izquierda."
+        },
+        {
+          "en": "We can meet anywhere you like.",
+          "es": "Podemos vernos donde quieras."
+        },
+        {
+          "en": "You'll find a café somewhere on this floor.",
+          "es": "Encontrarás una cafetería en algún lugar de esta planta."
+        },
+        {
+          "en": "The signal works everywhere in the hotel.",
+          "es": "La señal funciona por todo el hotel."
+        },
+        {
+          "en": "There's nowhere to park during the festival.",
+          "es": "No hay ningún sitio para aparcar durante el festival."
         }
       ],
       "tables": [],
