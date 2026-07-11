@@ -39,6 +39,26 @@
         {
           "en": "Water <span class=\"r-verb\">boils</span> at 100°C. (hecho general)",
           "es": "El agua hierve a 100°C."
+        },
+        {
+          "en": "The receptionist <span class=\"r-verb\">greets</span> every guest by name.",
+          "es": "La recepcionista saluda a cada huésped por su nombre."
+        },
+        {
+          "en": "Our restaurant <span class=\"r-verb\">opens</span> <span class=\"r-adv\">at 7pm</span>.",
+          "es": "Nuestro restaurante abre a las 7pm."
+        },
+        {
+          "en": "I <span class=\"r-adv\">usually</span> <span class=\"r-verb\">handle</span> the VIP accounts.",
+          "es": "Normalmente me ocupo de las cuentas VIP."
+        },
+        {
+          "en": "The shuttle <span class=\"r-verb\">leaves</span> <span class=\"r-adv\">every hour</span>.",
+          "es": "El shuttle sale cada hora."
+        },
+        {
+          "en": "She <span class=\"r-verb\">doesn't work</span> <span class=\"r-adv\">on Sundays</span>.",
+          "es": "Ella no trabaja los domingos."
         }
       ],
       "tables": [],
@@ -102,6 +122,26 @@
         {
           "en": "I <span class=\"r-verb\">know</span> the answer. (NO \"I am knowing\" — state verb)",
           "es": "Sé la respuesta."
+        },
+        {
+          "en": "I'm <span class=\"r-verb\">showing</span> a client the penthouse <span class=\"r-adv\">right now</span>.",
+          "es": "Estoy enseñándole el ático a un cliente ahora mismo."
+        },
+        {
+          "en": "We're <span class=\"r-verb\">launching</span> the summer offer <span class=\"r-adv\">next week</span>.",
+          "es": "Lanzamos la oferta de verano la semana que viene."
+        },
+        {
+          "en": "The team is <span class=\"r-verb\">preparing</span> the conference room.",
+          "es": "El equipo está preparando la sala de conferencias."
+        },
+        {
+          "en": "She's <span class=\"r-verb\">meeting</span> the owner <span class=\"r-adv\">this afternoon</span>.",
+          "es": "Se reúne con el propietario esta tarde."
+        },
+        {
+          "en": "Sorry, I'm <span class=\"r-verb\">dealing with</span> a complaint <span class=\"r-adv\">at the moment</span>.",
+          "es": "Perdona, estoy gestionando una queja en este momento."
         }
       ],
       "tables": [],
@@ -165,6 +205,26 @@
         {
           "en": "He <span class=\"r-verb\">has just finished</span> the call. (resultado presente)",
           "es": "Acaba de terminar la llamada."
+        },
+        {
+          "en": "I've <span class=\"r-adv\">just</span> <span class=\"r-verb\">sent</span> you the quote.",
+          "es": "Acabo de enviarte el presupuesto."
+        },
+        {
+          "en": "We've <span class=\"r-verb\">upgraded</span> your room <span class=\"r-adv\">already</span>.",
+          "es": "Ya te hemos mejorado la habitación."
+        },
+        {
+          "en": "Have you <span class=\"r-adv\">ever</span> <span class=\"r-verb\">stayed</span> with us before?",
+          "es": "¿Te has alojado con nosotros alguna vez?"
+        },
+        {
+          "en": "She's <span class=\"r-verb\">worked</span> in five countries.",
+          "es": "Ha trabajado en cinco países."
+        },
+        {
+          "en": "The client hasn't <span class=\"r-verb\">confirmed</span> <span class=\"r-adv\">yet</span>.",
+          "es": "El cliente aún no ha confirmado."
         }
       ],
       "tables": [],
@@ -228,6 +288,26 @@
         {
           "en": "How long <span class=\"r-verb\">have</span> you <span class=\"r-verb\">been learning</span> English?",
           "es": "¿Cuánto tiempo llevas aprendiendo inglés?"
+        },
+        {
+          "en": "I've been <span class=\"r-verb\">waiting</span> for the report <span class=\"r-adv\">since Monday</span>.",
+          "es": "Llevo esperando el informe desde el lunes."
+        },
+        {
+          "en": "She's been <span class=\"r-verb\">negotiating</span> with the owner <span class=\"r-adv\">all morning</span>.",
+          "es": "Ha estado negociando con el propietario toda la mañana."
+        },
+        {
+          "en": "We've been <span class=\"r-verb\">working</span> on this proposal <span class=\"r-adv\">for weeks</span>.",
+          "es": "Llevamos semanas trabajando en esta propuesta."
+        },
+        {
+          "en": "How long have you been <span class=\"r-verb\">learning</span> English?",
+          "es": "¿Cuánto tiempo llevas aprendiendo inglés?"
+        },
+        {
+          "en": "They've been <span class=\"r-verb\">staying</span> here <span class=\"r-adv\">since Friday</span>.",
+          "es": "Se alojan aquí desde el viernes."
         }
       ],
       "tables": [],
@@ -291,6 +371,26 @@
         {
           "en": "The company <span class=\"r-verb\">was founded</span> ten years <span class=\"r-adv\">ago</span>.",
           "es": "La empresa fue fundada hace diez años."
+        },
+        {
+          "en": "We <span class=\"r-verb\">closed</span> the deal <span class=\"r-adv\">last week</span>.",
+          "es": "Cerramos el trato la semana pasada."
+        },
+        {
+          "en": "She <span class=\"r-verb\">called</span> the guest <span class=\"r-adv\">an hour ago</span>.",
+          "es": "Llamó al huésped hace una hora."
+        },
+        {
+          "en": "The manager <span class=\"r-verb\">didn't approve</span> the discount.",
+          "es": "El gerente no aprobó el descuento."
+        },
+        {
+          "en": "I <span class=\"r-verb\">started</span> in sales <span class=\"r-adv\">in 2019</span>.",
+          "es": "Empecé en ventas en 2019."
+        },
+        {
+          "en": "Did they <span class=\"r-verb\">enjoy</span> their stay?",
+          "es": "¿Disfrutaron su estancia?"
         }
       ],
       "tables": [],
@@ -354,6 +454,26 @@
         {
           "en": "While I <span class=\"r-verb\">was presenting</span>, the client <span class=\"r-verb\">interrupted</span> me.",
           "es": "Mientras yo estaba presentando, el cliente me interrumpió."
+        },
+        {
+          "en": "I was <span class=\"r-verb\">checking</span> a guest in when the alarm went off.",
+          "es": "Estaba haciendo el check-in de un huésped cuando sonó la alarma."
+        },
+        {
+          "en": "While she was <span class=\"r-verb\">presenting</span>, the client took notes.",
+          "es": "Mientras ella presentaba, el cliente tomaba notas."
+        },
+        {
+          "en": "They were <span class=\"r-verb\">waiting</span> in the lobby at 9am.",
+          "es": "Estaban esperando en el vestíbulo a las 9am."
+        },
+        {
+          "en": "What were you <span class=\"r-verb\">doing</span> when the system crashed?",
+          "es": "¿Qué hacías cuando el sistema se cayó?"
+        },
+        {
+          "en": "He was <span class=\"r-verb\">driving</span> to the resort while I was <span class=\"r-verb\">booking</span> his room.",
+          "es": "Él conducía al resort mientras yo reservaba su habitación."
         }
       ],
       "tables": [],
@@ -417,6 +537,26 @@
         {
           "en": "She <span class=\"r-verb\">had worked</span> there for years before she got promoted.",
           "es": "Había trabajado allí durante años antes de que la ascendieran."
+        },
+        {
+          "en": "By the time we arrived, the guests had already <span class=\"r-verb\">checked in</span>.",
+          "es": "Cuando llegamos, los huéspedes ya habían hecho el check-in."
+        },
+        {
+          "en": "She had <span class=\"r-verb\">closed</span> the deal before the manager returned.",
+          "es": "Había cerrado el trato antes de que volviera el gerente."
+        },
+        {
+          "en": "After I had <span class=\"r-verb\">sent</span> the invoice, the client paid.",
+          "es": "Después de que envié la factura, el cliente pagó."
+        },
+        {
+          "en": "He told me he had <span class=\"r-verb\">worked</span> at Meliá before.",
+          "es": "Me dijo que había trabajado en Meliá antes."
+        },
+        {
+          "en": "By 6pm, everyone had <span class=\"r-verb\">left</span> the office.",
+          "es": "A las 6pm, todos se habían ido de la oficina."
         }
       ],
       "tables": [],
@@ -480,6 +620,26 @@
         {
           "en": "How long <span class=\"r-verb\">had</span> you <span class=\"r-verb\">been studying</span> English before the exam?",
           "es": "¿Cuánto tiempo llevabas estudiando inglés antes del examen?"
+        },
+        {
+          "en": "She had been <span class=\"r-verb\">working</span> there for ten years before her promotion.",
+          "es": "Llevaba diez años trabajando allí antes de su ascenso."
+        },
+        {
+          "en": "We had been <span class=\"r-verb\">waiting</span> for an hour when the owner finally called.",
+          "es": "Llevábamos una hora esperando cuando por fin llamó el propietario."
+        },
+        {
+          "en": "They were tired because they had been <span class=\"r-verb\">travelling</span> all day.",
+          "es": "Estaban cansados porque habían estado viajando todo el día."
+        },
+        {
+          "en": "He had been <span class=\"r-verb\">trying</span> to reach you before he emailed.",
+          "es": "Había estado intentando localizarte antes de escribirte."
+        },
+        {
+          "en": "The guests had been <span class=\"r-verb\">complaining</span> for weeks before we fixed it.",
+          "es": "Los huéspedes llevaban semanas quejándose antes de que lo arregláramos."
         }
       ],
       "tables": [],
@@ -543,6 +703,26 @@
         {
           "en": "I think sales <span class=\"r-verb\">will increase</span> next quarter. (predicción sin evidencia concreta)",
           "es": "Creo que las ventas aumentarán el próximo trimestre."
+        },
+        {
+          "en": "I'll <span class=\"r-verb\">send</span> you the details right away.",
+          "es": "Te envío los detalles enseguida."
+        },
+        {
+          "en": "Don't worry, we'll <span class=\"r-verb\">take care</span> of everything.",
+          "es": "No te preocupes, nos encargamos de todo."
+        },
+        {
+          "en": "Look at those clouds — it's going to <span class=\"r-verb\">rain</span>.",
+          "es": "Mira esas nubes, va a llover."
+        },
+        {
+          "en": "We're going to <span class=\"r-verb\">open</span> a new resort in Ibiza.",
+          "es": "Vamos a abrir un nuevo resort en Ibiza."
+        },
+        {
+          "en": "I think prices will <span class=\"r-verb\">rise</span> next year.",
+          "es": "Creo que los precios subirán el año que viene."
         }
       ],
       "tables": [],
@@ -606,6 +786,26 @@
         {
           "en": "I <span class=\"r-verb\">'ll be working</span> late tonight, so don't wait for me.",
           "es": "Estaré trabajando hasta tarde esta noche, así que no me esperes."
+        },
+        {
+          "en": "This time tomorrow, I'll be <span class=\"r-verb\">flying</span> to Madrid.",
+          "es": "Mañana a esta hora estaré volando a Madrid."
+        },
+        {
+          "en": "We'll be <span class=\"r-verb\">hosting</span> a gala <span class=\"r-adv\">next Saturday</span>.",
+          "es": "Estaremos organizando una gala el sábado que viene."
+        },
+        {
+          "en": "She'll be <span class=\"r-verb\">working</span> from the resort all week.",
+          "es": "Estará trabajando desde el resort toda la semana."
+        },
+        {
+          "en": "Will you be <span class=\"r-verb\">using</span> the conference room this afternoon?",
+          "es": "¿Vas a usar la sala de conferencias esta tarde?"
+        },
+        {
+          "en": "At 9am the team will be <span class=\"r-verb\">welcoming</span> the first guests.",
+          "es": "A las 9am el equipo estará dando la bienvenida a los primeros huéspedes."
         }
       ],
       "tables": [],
@@ -669,6 +869,26 @@
         {
           "en": "<span class=\"r-adv\">By</span> the end of the month, she <span class=\"r-verb\">will have closed</span> five deals.",
           "es": "Para fin de mes, ella habrá cerrado cinco tratos."
+        },
+        {
+          "en": "By <span class=\"r-adv\">next month</span>, we'll have <span class=\"r-verb\">sold</span> all the units.",
+          "es": "Para el mes que viene, habremos vendido todas las unidades."
+        },
+        {
+          "en": "She'll have <span class=\"r-verb\">finished</span> the report <span class=\"r-adv\">by Friday</span>.",
+          "es": "Habrá terminado el informe para el viernes."
+        },
+        {
+          "en": "By the time you arrive, we'll have <span class=\"r-verb\">prepared</span> your suite.",
+          "es": "Para cuando llegues, habremos preparado tu suite."
+        },
+        {
+          "en": "They'll have <span class=\"r-verb\">completed</span> the renovation <span class=\"r-adv\">by summer</span>.",
+          "es": "Habrán terminado la reforma para el verano."
+        },
+        {
+          "en": "In two years I'll have <span class=\"r-verb\">worked</span> here for a decade.",
+          "es": "En dos años habré trabajado aquí una década."
         }
       ],
       "tables": [],
@@ -732,6 +952,26 @@
         {
           "en": "By the end of this course, I <span class=\"r-verb\">will have been studying</span> English intensively for months.",
           "es": "Para el final de este curso, llevaré meses estudiando inglés intensivamente."
+        },
+        {
+          "en": "By <span class=\"r-adv\">December</span>, I'll have been <span class=\"r-verb\">working</span> here for five years.",
+          "es": "Para diciembre, llevaré cinco años trabajando aquí."
+        },
+        {
+          "en": "By the time the resort opens, they'll have been <span class=\"r-verb\">building</span> it for three years.",
+          "es": "Para cuando abra el resort, llevarán tres años construyéndolo."
+        },
+        {
+          "en": "Next month she'll have been <span class=\"r-verb\">managing</span> the team for a decade.",
+          "es": "El mes que viene llevará una década dirigiendo el equipo."
+        },
+        {
+          "en": "By 2027, we'll have been <span class=\"r-verb\">operating</span> in Asia for ten years.",
+          "es": "Para 2027, llevaremos diez años operando en Asia."
+        },
+        {
+          "en": "At 6pm, the staff will have been <span class=\"r-verb\">working</span> for twelve hours straight.",
+          "es": "A las 6pm, el personal llevará doce horas seguidas trabajando."
         }
       ],
       "tables": [],
