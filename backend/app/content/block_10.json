@@ -22,7 +22,7 @@
       "idx": "10.1",
       "title": "Condicional 0 (verdades generales)",
       "level": "A2",
-      "rule": "Estructura: <b>If + presente simple, presente simple</b>. Se usa para hechos siempre verdaderos, científicos o rutinas automáticas — no hipótesis, sino certezas.",
+      "rule": "<b>Estructura:</b> If + presente simple, presente simple. Expresa <b>certezas</b>, no hipótesis: verdades científicas, hechos generales y rutinas automáticas, donde 'if' equivale a 'siempre que / cuando' (If you heat ice, it melts). Como el resultado es seguro, ambas partes van en presente y <b>if</b> puede cambiarse por <b>when</b> sin alterar el sentido.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">If</span> you heat ice, <span class=\"r-corr\">it melts</span>.",
@@ -111,7 +111,7 @@
       "idx": "10.2",
       "title": "Condicional 1 (futuro real/posible)",
       "level": "A2",
-      "rule": "Estructura: <b>If + presente simple, will + infinitivo</b>. Se usa para situaciones futuras realmente posibles — una condición razonable que puede cumplirse.",
+      "rule": "<b>Estructura:</b> If + presente simple, <b>will</b> + infinitivo. Se usa para situaciones futuras <b>realmente posibles</b>: una condición razonable y su consecuencia probable (If you book today, you'll save 15%). El 'will' va solo en la parte del <b>resultado</b>, nunca en la del 'if'. Es el condicional de las ofertas, promesas y planes reales.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">If</span> you book today, <span class=\"r-corr\">you'll get</span> a discount.",
@@ -200,7 +200,7 @@
       "idx": "10.3",
       "title": "Condicional 2 (hipotético presente/futuro)",
       "level": "B1",
-      "rule": "Estructura: <b>If + pasado simple, would + infinitivo</b>. Se usa para situaciones hipotéticas, poco probables o imaginarias en el presente/futuro — no lo que realmente pasará, sino lo que pasaría. Con \"be\", se prefiere <b>were</b> para todas las personas en registro formal.",
+      "rule": "<b>Estructura:</b> If + pasado simple, <b>would</b> + infinitivo. Describe situaciones <b>hipotéticas, improbables o imaginarias</b> del presente o futuro — no lo que pasará, sino lo que <b>pasaría</b> (If we had more rooms, we'd offer you one). Aquí el pasado no es tiempo real, sino 'distancia' de la realidad. Con el verbo 'be' se prefiere <b>were</b> para todas las personas (If I were you…).",
       "examples": [
         {
           "en": "<span class=\"r-sub\">If</span> I <span class=\"r-sub\">were</span> you, <span class=\"r-corr\">I would take</span> the offer.",
@@ -289,7 +289,7 @@
       "idx": "10.4",
       "title": "Condicional 3 (hipotético pasado)",
       "level": "B2",
-      "rule": "Estructura: <b>If + pasado perfecto, would have + participio</b>. Se usa para hablar de algo que no ocurrió en el pasado y su consecuencia imaginaria — ya no se puede cambiar, es puro \"y si hubiera pasado\".",
+      "rule": "<b>Estructura:</b> If + pasado perfecto, <b>would have</b> + participio. Habla de algo que <b>no ocurrió</b> en el pasado y su consecuencia imaginaria: ya no se puede cambiar (If we had known, we'd have upgraded them). Es el condicional del <b>arrepentimiento y la explicación</b> ('si hubiera… habría…'). Ambas partes miran a un pasado que fue distinto.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">If</span> I had known about the delay, <span class=\"r-corr\">I would have rebooked</span> earlier.",
@@ -378,7 +378,7 @@
       "idx": "10.5",
       "title": "Condicionales mixtos",
       "level": "C1",
-      "rule": "Combinan dos tiempos distintos cuando la condición y el resultado no ocurren en el mismo momento. <b>Pasado + presente</b>: una condición pasada con consecuencia en el presente. <b>Presente + pasado</b>: una condición permanente con consecuencia en el pasado.",
+      "rule": "Combinan <b>dos tiempos distintos</b> cuando la condición y el resultado ocurren en momentos diferentes. <b>Pasado + presente</b>: una condición pasada con consecuencia <b>ahora</b> (If I had studied law, I'd be a lawyer now). <b>Presente + pasado</b>: una condición permanente con consecuencia <b>pasada</b> (If he weren't so careless, he wouldn't have lost the client). Cada mitad se elige según cuándo pasa.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">If</span> I had taken that job, <span class=\"r-corr\">I would be</span> living abroad now. (pasado → presente)",
@@ -467,7 +467,7 @@
       "idx": "10.6",
       "title": "Verbos modales",
       "level": "A2",
-      "rule": "Matizan el significado del verbo principal: capacidad, obligación, consejo o posibilidad. Siempre van seguidos del verbo en infinitivo sin \"to\" (excepto \"have to\" y \"ought to\").",
+      "rule": "Los <b>modales</b> (can, could, may, might, must, should, will, would) <b>matizan</b> el verbo principal: capacidad, permiso, obligación, consejo o probabilidad. Tienen reglas propias: <b>no llevan -s</b> en 3ª persona, no usan 'do' en negativas ni preguntas, y van seguidos de <b>infinitivo sin 'to'</b> (must go), salvo 'have to' y 'ought to'. Un mismo modal cambia de sentido según el contexto (must = obligación o deducción).",
       "examples": [
         {
           "en": "You <span class=\"r-verb\">can</span> check in from 3pm.",

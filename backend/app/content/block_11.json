@@ -14,7 +14,7 @@
       "idx": "11.1",
       "title": "Verbos regulares",
       "level": "A1",
-      "rule": "Se forman añadiendo <b>-ed</b> al infinitivo para pasado y participio (misma forma para ambos). Hay 3 cambios ortográficos según la terminación: consonante+y→ied, -e→solo +d, consonante-vocal-consonante en sílaba tónica → se dobla la consonante final.",
+      "rule": "Forman el pasado y el participio añadiendo <b>-ed</b> al infinitivo, y ambas formas son <b>iguales</b> (work → worked → worked). Tres ajustes ortográficos: acabado en <b>-e</b> solo añade -d (like → liked); <b>consonante + y</b> cambia a -ied (study → studied); y <b>consonante-vocal-consonante</b> con sílaba tónica final <b>dobla</b> la consonante (stop → stopped). En negativa y pregunta el pasado lo marca <b>did</b>, no el verbo.",
       "examples": [
         {
           "en": "She <span class=\"r-verb\">confirmed</span> the booking yesterday.",
@@ -138,7 +138,7 @@
       "idx": "11.2",
       "title": "Verbos irregulares — por grupos",
       "level": "A1",
-      "rule": "No siguen la regla -ed; hay que memorizarlos, pero agruparlos por patrón ayuda mucho. 4 grupos principales según cómo cambian.",
+      "rule": "No siguen la regla -ed y hay que <b>memorizarlos</b>, pero se agrupan por <b>patrón</b> para reducir el esfuerzo: las <b>tres formas iguales</b> (cut-cut-cut, put-put-put), <b>pasado y participio iguales</b> (buy-bought-bought, make-made-made), o las <b>tres distintas</b> (go-went-gone, drink-drank-drunk). La lista completa (74 verbos) está en el <b>Glosario §17.1</b>.",
       "examples": [
         {
           "en": "<b>Sin cambio:</b> hit-hit-hit, hurt-hurt-hurt, set-set-set, cost-cost-cost, let-let-let",
@@ -252,7 +252,7 @@
       "idx": "11.3",
       "title": "Verbos auxiliares",
       "level": "A1",
-      "rule": "<b>be, do, have</b> funcionan como auxiliares (ayudan a formar tiempos, negativas y preguntas) o como verbos principales con significado propio. Los modales (can, will, must...) son siempre auxiliares.",
+      "rule": "<b>be, do, have</b> tienen doble vida: como <b>verbos principales</b> con significado propio (I have a car) y como <b>auxiliares</b> que forman tiempos, negativas y preguntas (I have finished; Do you know?). Los <b>modales</b> (can, will, must…) son siempre auxiliares. El auxiliar es el que 'carga' con la negación y con la inversión de la pregunta, no el verbo léxico.",
       "examples": [
         {
           "en": "I <span class=\"r-verb\">am</span> working. (auxiliar, presente continuo) vs. I <span class=\"r-verb\">am</span> a manager. (verbo principal)",
@@ -341,7 +341,7 @@
       "idx": "11.4",
       "title": "Phrasal verbs por frecuencia de uso",
       "level": "B1",
-      "rule": "Combinaciones verbo+partícula con significado propio, muchas veces distinto de sus partes. Pueden ser <b>separables</b> (el objeto puede ir entre verbo y partícula) o <b>inseparables</b> (el objeto va siempre después).",
+      "rule": "Son combinaciones de <b>verbo + partícula</b> (adverbio o preposición) con significado propio, a menudo distinto de sus partes (look after = cuidar; call off = cancelar). Pueden ser <b>separables</b> (el objeto va entre verbo y partícula, y si es pronombre es <b>obligatorio</b> ponerlo en medio: turn <b>it</b> off) o <b>inseparables</b> (el objeto va siempre después: look after them). Se aprenden mejor en contexto que por lógica.",
       "examples": [
         {
           "en": "Can you <span class=\"r-verb\">set up</span> a meeting for Thursday? / <span class=\"r-verb\">Set</span> it <span class=\"r-verb\">up</span> for 3pm. (separable)",
@@ -465,7 +465,7 @@
       "idx": "11.5",
       "title": "Gerundio vs. infinitivo",
       "level": "B1",
-      "rule": "Algunos verbos siempre van seguidos de <b>-ing</b> (enjoy, avoid, suggest, finish), otros de <b>to + infinitivo</b> (want, decide, promise, agree), y algunos cambian de significado según cuál usen (stop to do ≠ stop doing).",
+      "rule": "Cuando un verbo va seguido de otro, la segunda forma no es libre: unos exigen <b>-ing</b> (enjoy, avoid, suggest, finish, mind), otros <b>to + infinitivo</b> (want, decide, promise, agree, hope), y tras <b>preposición</b> siempre va -ing. Un grupo <b>cambia de significado</b> según cuál uses: stop <b>to do</b> (parar para hacer) ≠ stop <b>doing</b> (dejar de hacer); remember <b>to do</b> ≠ remember <b>doing</b>.",
       "examples": [
         {
           "en": "She <span class=\"r-verb\">enjoys negotiating</span> with difficult clients. (+ -ing)",
