@@ -95,7 +95,13 @@
         "id": "b04-s1",
         "label": "<span class=\"badge\">tu turno</span>Describe un objeto usando 3 adjetivos en el orden correcto.",
         "placeholder": "Ej: I have a beautiful small wooden desk."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Orden fijo: <b>opinión → tamaño → edad → forma → color → origen → material</b>. 'a lovely small old Italian table'."
+        }
+      ]
     },
     {
       "idx": "4.2",
@@ -178,7 +184,13 @@
         "id": "b04-s2",
         "label": "<span class=\"badge\">tu turno</span>Compara dos opciones de venta usando un comparativo y un superlativo.",
         "placeholder": "Ej: This package is cheaper, but the premium one is the most complete."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cortos: -er / -est; largos: more / most. Irregulares: good→<b>better</b>→best, bad→<b>worse</b>→worst (ver Glosario §17.5)."
+        }
+      ]
     },
     {
       "idx": "4.3",
@@ -261,7 +273,13 @@
         "id": "b04-s3",
         "label": "<span class=\"badge\">tu turno</span>Describe cómo hiciste algo en el trabajo usando un adverbio de modo.",
         "placeholder": "Ej: I handled the objection calmly and professionally."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Normalmente adj + -ly (quick→quickly), pero <b>good→well</b>, <b>fast→fast</b>, <b>hard→hard</b> (≠ 'hardly' = apenas)."
+        }
+      ]
     },
     {
       "idx": "4.4",
@@ -344,7 +362,13 @@
         "id": "b04-s4",
         "label": "<span class=\"badge\">tu turno</span>Describe con qué frecuencia haces algo en tu trabajo.",
         "placeholder": "Ej: I always double-check the reservation details."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Van <b>antes</b> del verbo principal pero <b>después</b> de 'to be' y de auxiliares: 'I <b>always</b> work' / 'I am <b>always</b> busy'."
+        }
+      ]
     },
     {
       "idx": "4.5",
@@ -427,7 +451,13 @@
         "id": "b04-s5",
         "label": "<span class=\"badge\">tu turno</span>Describe un producto/servicio usando \"very\" o \"too\" correctamente según el matiz que quieras dar.",
         "placeholder": "Ej: The premium package is very complete, but the basic one is too limited for families."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>too</b> = exceso negativo (too expensive = demasiado caro); <b>very</b> solo intensifica (very expensive = muy caro). No son intercambiables."
+        }
+      ]
     }
   ]
 }

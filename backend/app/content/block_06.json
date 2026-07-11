@@ -95,7 +95,13 @@
         "id": "b06-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con una cláusula sustantiva usando \"that\" o \"what\".",
         "placeholder": "Ej: I think that this offer is worth considering."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "La conjunción <b>that</b> suele poder <b>omitirse</b>: 'I think (that) he's right', 'She said (that) she was busy'."
+        }
+      ]
     },
     {
       "idx": "6.2",
@@ -178,7 +184,13 @@
         "id": "b06-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase restrictiva y otra no restrictiva usando cláusulas relativas.",
         "placeholder": "Ej: The guest who complained got a refund. / My colleague, who speaks four languages, handled the call."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Restrictivas (sin comas) admiten <b>that</b>; no restrictivas (con comas) solo <b>who/which</b>, nunca 'that'."
+        }
+      ]
     },
     {
       "idx": "6.3",
@@ -261,7 +273,13 @@
         "id": "b06-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"as soon as\" o \"before\" sobre seguimiento a un cliente.",
         "placeholder": "Ej: As soon as the client confirms, I'll send the contract."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras <b>when / as soon as / until / before / after</b> NO se usa 'will' para el futuro: 'When he <b>arrives</b>' (no 'will arrive')."
+        }
+      ]
     },
     {
       "idx": "6.4",
@@ -344,7 +362,13 @@
         "id": "b06-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe una condición de venta usando \"provided that\" o \"as long as\".",
         "placeholder": "Ej: We can offer a discount, provided that you sign this week."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "<b>unless</b> = 'if…not'. <b>provided that / as long as</b> introducen una condición imprescindible ('siempre que')."
+        }
+      ]
     },
     {
       "idx": "6.5",
@@ -427,7 +451,13 @@
         "id": "b06-s5",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"since\" o \"as\" explicando una decisión de negocio.",
         "placeholder": "Ej: Since the client is a VIP member, we upgraded her suite."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "<b>because</b> es la más neutra; <b>since / as</b> (más formales) suelen ir al <b>principio</b>: 'Since you're a member, …'."
+        }
+      ]
     },
     {
       "idx": "6.6",
@@ -510,7 +540,13 @@
         "id": "b06-s6",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"although\" contrastando una dificultad con un buen resultado.",
         "placeholder": "Ej: Although the client hesitated at first, she ended up loving the package."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "although / even though + <b>oración</b>; despite / in spite of + <b>sustantivo o -ing</b>. No mezclar: 'despite the rain' / 'although it rained'."
+        }
+      ]
     },
     {
       "idx": "6.7",
@@ -593,7 +629,13 @@
         "id": "b06-s7",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"so that\" explicando el propósito de una acción con un cliente.",
         "placeholder": "Ej: I explained the terms clearly so that the client would feel confident."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "<b>so that</b> + oración (con can/could/would); <b>to / in order to</b> + infinitivo cuando el sujeto es el mismo."
+        }
+      ]
     },
     {
       "idx": "6.8",
@@ -676,7 +718,13 @@
         "id": "b06-s8",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase de resultado usando \"so...that\" o \"such...that\" sobre una oferta o servicio.",
         "placeholder": "Ej: The service was so good that they became loyal customers."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>so</b> + adjetivo/adverbio (so good that…); <b>such</b> + (a/an) + sustantivo (such a good deal that…)."
+        }
+      ]
     }
   ]
 }

@@ -95,7 +95,13 @@
         "id": "b09-s1",
         "label": "<span class=\"badge\">tu turno</span>Describe una rutina de tu trabajo en presente simple.",
         "placeholder": "Ej: I check my emails first thing every morning."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "3ª persona (he/she/it) añade <b>-s/-es</b>: 'she works'. En negativa/pregunta el -s pasa al auxiliar: 'she <b>doesn't work</b>', 'does she work?' (no 'works')."
+        }
+      ]
     },
     {
       "idx": "9.2",
@@ -178,7 +184,13 @@
         "id": "b09-s2",
         "label": "<span class=\"badge\">tu turno</span>Describe algo que estás haciendo ahora mismo, y un plan confirmado para mañana.",
         "placeholder": "Ej: I'm reviewing a contract right now. I'm meeting a client tomorrow."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "No se usa con <b>state verbs</b> (know, like, want, believe, need): 'I <b>know</b>', nunca 'I'm knowing'."
+        }
+      ]
     },
     {
       "idx": "9.3",
@@ -261,7 +273,13 @@
         "id": "b09-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase sobre tu experiencia profesional usando presente perfecto.",
         "placeholder": "Ej: I have worked in real estate for two years."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Conecta pasado con presente: NO se usa con un momento pasado concreto. 'I've seen it' ✓ / 'I've seen it <b>yesterday</b>' ✗ → 'I <b>saw</b> it yesterday'."
+        }
+      ]
     },
     {
       "idx": "9.4",
@@ -344,7 +362,13 @@
         "id": "b09-s4",
         "label": "<span class=\"badge\">tu turno</span>Describe cuánto tiempo llevas haciendo algo en tu trabajo actual.",
         "placeholder": "Ej: I've been preparing for this English exam for a few weeks."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Énfasis en la <b>duración</b> del proceso: 'I've been working <b>since</b> 9'. Los state verbs usan el perfecto simple, no el continuo."
+        }
+      ]
     },
     {
       "idx": "9.5",
@@ -427,7 +451,13 @@
         "id": "b09-s5",
         "label": "<span class=\"badge\">tu turno</span>Cuenta algo que hiciste ayer o la semana pasada en el trabajo.",
         "placeholder": "Ej: I closed two deals last week."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "En negativa/pregunta el pasado va en <b>did</b> + infinitivo: 'did you <b>enjoy</b>?', 'didn't <b>approve</b>' (no 'did enjoyed')."
+        }
+      ]
     },
     {
       "idx": "9.6",
@@ -510,7 +540,13 @@
         "id": "b09-s6",
         "label": "<span class=\"badge\">tu turno</span>Describe qué estabas haciendo cuando pasó algo inesperado en el trabajo.",
         "placeholder": "Ej: I was preparing the presentation when the client called to reschedule."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Acción en curso <b>interrumpida</b> por otra: 'I <b>was checking in</b> when the alarm <b>went off</b>' (continuo = fondo, simple = interrupción)."
+        }
+      ]
     },
     {
       "idx": "9.7",
@@ -593,7 +629,13 @@
         "id": "b09-s7",
         "label": "<span class=\"badge\">tu turno</span>Describe dos acciones pasadas conectadas, usando pasado perfecto para la que ocurrió primero.",
         "placeholder": "Ej: By the time the client called, I had already prepared the proposal."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "El <b>pasado del pasado</b>: una acción anterior a otra pasada. 'By the time we arrived, they <b>had</b> already <b>left</b>'."
+        }
+      ]
     },
     {
       "idx": "9.8",
@@ -676,7 +718,13 @@
         "id": "b09-s8",
         "label": "<span class=\"badge\">tu turno</span>Describe cuánto tiempo llevabas haciendo algo antes de que ocurriera otro evento pasado.",
         "placeholder": "Ej: I had been preparing the pitch for weeks before the client finally agreed to meet."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Duración <b>antes</b> de otro momento pasado: 'She <b>had been working</b> there for years before her promotion'."
+        }
+      ]
     },
     {
       "idx": "9.9",
@@ -759,7 +807,13 @@
         "id": "b09-s9",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"will\" (decisión espontánea) y otra con \"going to\" (plan decidido).",
         "placeholder": "Ej: I'll send the contract right now. / We are going to meet the client on Friday."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>will</b> = decisión espontánea/predicción; <b>going to</b> = plan previo o evidencia. 'I'll help' (ahora mismo) vs 'I'm going to help' (ya lo tenía pensado)."
+        }
+      ]
     },
     {
       "idx": "9.10",
@@ -842,7 +896,13 @@
         "id": "b09-s10",
         "label": "<span class=\"badge\">tu turno</span>Describe qué estarás haciendo mañana a una hora específica.",
         "placeholder": "Ej: At 10am tomorrow, I'll be presenting the proposal to the client."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Acción <b>en progreso</b> en un momento futuro: 'This time tomorrow I'll be flying'. También para planes ya asumidos."
+        }
+      ]
     },
     {
       "idx": "9.11",
@@ -925,7 +985,13 @@
         "id": "b09-s11",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase describiendo algo que habrás completado para una fecha límite.",
         "placeholder": "Ej: By Friday, I will have sent the contract to every client on the list."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Completado <b>antes</b> de un punto futuro, casi siempre con <b>by</b>: 'By Friday I'll have finished'."
+        }
+      ]
     },
     {
       "idx": "9.12",
@@ -1008,7 +1074,13 @@
         "id": "b09-s12",
         "label": "<span class=\"badge\">tu turno</span>Describe cuánto tiempo llevarás haciendo algo para una fecha futura específica.",
         "placeholder": "Ej: By next summer, I will have been working in real estate for three years."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "El más avanzado: <b>duración</b> hasta un punto futuro. 'By December I'll have been working here <b>for</b> five years'."
+        }
+      ]
     }
   ]
 }

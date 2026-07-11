@@ -103,7 +103,13 @@
         "id": "b01-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando un pronombre de <b>sujeto</b> y uno de <b>objeto</b>.",
         "placeholder": "Ej: We invited them to dinner."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>you</b> vale para tú / usted / vosotros; el contexto lo aclara. <b>it</b> es obligatorio para cosas y animales sin género (nunca se omite)."
+        }
+      ]
     },
     {
       "idx": "1.2",
@@ -186,7 +192,13 @@
         "id": "b01-s2",
         "label": "<span class=\"badge\">tu turno</span>Compara dos cosas usando un adjetivo posesivo <b>y</b> un pronombre posesivo.",
         "placeholder": "Ej: Your car is fast, but mine is faster."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>its</b> (posesivo) <b>no lleva apóstrofo</b>; <b>it's</b> con apóstrofo = 'it is'. Confundirlos es el error nº1."
+        }
+      ]
     },
     {
       "idx": "1.3",
@@ -269,7 +281,13 @@
         "id": "b01-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe tres preguntas que le harías a un huésped, empezando cada una con un interrogativo distinto.",
         "placeholder": "Ej: How long will you be staying with us?"
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "<b>who</b> para el sujeto (Who called?), <b>whom</b> para el objeto (formal). En el día a día 'who' vale para ambos."
+        }
+      ]
     },
     {
       "idx": "1.4",
@@ -352,7 +370,13 @@
         "id": "b01-s4",
         "label": "<span class=\"badge\">tu turno</span>Describe algo cerca de ti y algo lejos, usando un demostrativo en cada frase.",
         "placeholder": "Ej: This is my laptop, and that is the meeting room."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "this/these = <b>cerca</b>; that/those = <b>lejos</b>. Concuerdan en número: this/that (singular), these/those (plural)."
+        }
+      ]
     },
     {
       "idx": "1.5",
@@ -435,7 +459,13 @@
         "id": "b01-s5",
         "label": "<span class=\"badge\">tu turno</span>Une dos ideas en una sola frase usando un pronombre relativo.",
         "placeholder": "Ej: The guest who complained yesterday came back today."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>that</b> no puede ir tras coma: 'My boss, <b>who</b> called…' (nunca 'My boss, that…'). En cláusulas restrictivas that ≈ who/which."
+        }
+      ]
     },
     {
       "idx": "1.6",
@@ -518,7 +548,13 @@
         "id": "b01-s6",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase reflexiva (sujeto = objeto) y otra enfática.",
         "placeholder": "Ej: I introduced myself. / She designed the whole website herself."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "<b>Reflexivo</b> (se lo hace a sí mismo: She hurt herself) vs <b>enfático</b> (lo hizo ella misma: She did it herself). Misma palabra, uso distinto."
+        }
+      ]
     },
     {
       "idx": "1.7",
@@ -601,7 +637,13 @@
         "id": "b01-s7",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase afirmativa con <b>some-</b> y una negativa con <b>any-</b>.",
         "placeholder": "Ej: Someone left a message. / I didn't see anyone."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>some-</b> en afirmativas y ofertas; <b>any-</b> en negativas y preguntas. <b>no-</b> ya es negativo → el verbo va en afirmativo (Nobody <i>came</i>, no 'didn't come')."
+        }
+      ]
     },
     {
       "idx": "1.8",
@@ -684,7 +726,13 @@
         "id": "b01-s8",
         "label": "<span class=\"badge\">tu turno</span>Da una indicación a un huésped usando un adverbio de lugar.",
         "placeholder": "Ej: The elevator is over there, on your right."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "here / there son adverbios: <b>no llevan preposición</b>. Se dice 'Come <b>here</b>', nunca 'come to here'."
+        }
+      ]
     }
   ]
 }

@@ -123,7 +123,13 @@
         "id": "b02-s1",
         "label": "<span class=\"badge\">tu turno</span>Describe dónde está algo en tu escritorio usando 2 preposiciones de lugar distintas.",
         "placeholder": "Ej: My laptop is on the desk, between the lamp and the notebook."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "<b>in</b> = dentro · <b>on</b> = superficie · <b>at</b> = punto. Ojo: 'in the car' pero 'on the bus / train / plane' (transporte grande)."
+        }
+      ]
     },
     {
       "idx": "2.2",
@@ -226,7 +232,13 @@
         "id": "b02-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"since\" y otra con \"for\".",
         "placeholder": "Ej: I've worked in real estate since 2023. / I've been here for two years."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "at night, in the morning/afternoon/evening. 'at the weekend' (UK) vs 'on the weekend' (US). <b>Sin preposición</b> con next/last/this/every."
+        }
+      ]
     },
     {
       "idx": "2.3",
@@ -329,7 +341,13 @@
         "id": "b02-s3",
         "label": "<span class=\"badge\">tu turno</span>Describe un trayecto usando al menos 2 preposiciones de movimiento.",
         "placeholder": "Ej: I walk from my house, along the main road, and into the office."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>arrive in</b> (ciudad/país), <b>arrive at</b> (lugar concreto): nunca 'arrive to'. 'to' marca destino; 'at/in' marca posición."
+        }
+      ]
     },
     {
       "idx": "2.4",
@@ -432,7 +450,13 @@
         "id": "b02-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase de venta usando \"despite\" o \"due to\".",
         "placeholder": "Ej: Despite the higher price, most guests choose the premium package."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>because</b> + oración; <b>because of / due to</b> + sustantivo. <b>despite / in spite of</b> + sustantivo o -ing, nunca + oración completa."
+        }
+      ]
     },
     {
       "idx": "2.5",
@@ -552,7 +576,13 @@
         "id": "b02-s5",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"look forward to\" pensando en un email a un cliente.",
         "placeholder": "Ej: I look forward to welcoming you to the resort."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Si tras la preposición va otro verbo, va en <b>-ing</b>: 'insist on <b>paying</b>', 'succeed in <b>closing</b>', 'look forward to <b>hearing</b>'."
+        }
+      ]
     },
     {
       "idx": "2.6",
@@ -672,7 +702,13 @@
         "id": "b02-s6",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase describiéndote a ti mismo con un adjetivo + preposición.",
         "placeholder": "Ej: I'm good at handling difficult clients."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "No coinciden con el español: good <b>at</b> (no 'in'), married <b>to</b> (no 'with'), interested <b>in</b> (no 'on'), afraid <b>of</b>."
+        }
+      ]
     }
   ]
 }

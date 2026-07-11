@@ -130,7 +130,13 @@
         "id": "b08-s1",
         "label": "<span class=\"badge\">tu turno</span>Convierte una frase activa de tu trabajo a voz pasiva.",
         "placeholder": "Ej: The contract has been reviewed by our legal team."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "<b>be</b> (en el tiempo correcto) + <b>participio</b>. El agente con 'by' solo si importa quién: 'signed <b>by the owner</b>'."
+        }
+      ]
     },
     {
       "idx": "8.2",
@@ -213,7 +219,13 @@
         "id": "b08-s2",
         "label": "<span class=\"badge\">tu turno</span>Reporta algo que un cliente o compañero te dijo recientemente.",
         "placeholder": "Ej: The client said she needed more time to decide."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Backshift un paso atrás: present→past, past→past perfect, <b>will→would</b>, <b>can→could</b>. Con verdades generales puede no cambiar."
+        }
+      ]
     },
     {
       "idx": "8.3",
@@ -296,7 +308,13 @@
         "id": "b08-s3",
         "label": "<span class=\"badge\">tu turno</span>Reporta una pregunta que un huésped o cliente te haya hecho.",
         "placeholder": "Ej: The guest asked if breakfast was included."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Se pierde el orden de pregunta: 'She asked <b>where I lived</b>' (no 'where did I live'). Yes/no → con <b>if / whether</b>."
+        }
+      ]
     },
     {
       "idx": "8.4",
@@ -379,7 +397,13 @@
         "id": "b08-s4",
         "label": "<span class=\"badge\">tu turno</span>Reporta una instrucción que le diste a un colega o cliente.",
         "placeholder": "Ej: I told the client to send the signed contract by email."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "tell / ask + persona + <b>to</b> + infinitivo (afirmativo) o <b>not to</b> + infinitivo (negativo). No hay backshift de tiempos."
+        }
+      ]
     },
     {
       "idx": "8.5",
@@ -503,7 +527,13 @@
         "id": "b08-s5",
         "label": "<span class=\"badge\">tu turno</span>Reporta algo que alguien te dijo ayer, cambiando correctamente las referencias de tiempo.",
         "placeholder": "Ej: She said she would send the offer the next day."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "now→then, today→that day, tomorrow→<b>the next day</b>, here→there, this→that. El contexto ya no es 'aquí y ahora'."
+        }
+      ]
     }
   ]
 }

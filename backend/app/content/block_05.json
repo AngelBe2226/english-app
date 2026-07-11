@@ -107,7 +107,13 @@
         "id": "b05-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase simple sujeto + verbo en 3ª persona sobre tu trabajo.",
         "placeholder": "Ej: My manager reviews every contract before signing."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "El sujeto casi nunca se omite: 'It's raining' (no 'Is raining'). Para 'hay' se usa <b>there is / there are</b>."
+        }
+      ]
     },
     {
       "idx": "5.2",
@@ -190,7 +196,13 @@
         "id": "b05-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase identificando claramente su complemento directo.",
         "placeholder": "Ej: I reviewed the proposal before sending it."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "El CD responde a ¿qué? / ¿a quién? y se sustituye por it/them/him/her: 'She booked <b>it</b>'."
+        }
+      ]
     },
     {
       "idx": "5.3",
@@ -273,7 +285,13 @@
         "id": "b05-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con complemento indirecto, con y sin preposición.",
         "placeholder": "Ej: I sent the client the invoice. / I sent the invoice to the client."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Dos órdenes: 'I gave <b>the client</b> a discount' o 'I gave a discount <b>to the client</b>'. Sin preposición cuando va justo tras el verbo."
+        }
+      ]
     },
     {
       "idx": "5.4",
@@ -356,7 +374,13 @@
         "id": "b05-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con complementos circunstanciales de modo, lugar y tiempo en el orden correcto.",
         "placeholder": "Ej: She presented the offer confidently at the meeting yesterday."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Orden habitual del CC: <b>modo → lugar → tiempo</b> ('She worked hard at the office yesterday'). El tiempo también puede ir al principio."
+        }
+      ]
     },
     {
       "idx": "5.5",
@@ -439,7 +463,13 @@
         "id": "b05-s5",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con un verbo copulativo (seem/look/feel/become) describiendo algo.",
         "placeholder": "Ej: This package looks perfect for a family of four."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras verbos copulativos (be, seem, look, feel) va <b>adjetivo</b>, no adverbio: 'It looks <b>good</b>', no 'looks well' (well = de salud)."
+        }
+      ]
     }
   ]
 }

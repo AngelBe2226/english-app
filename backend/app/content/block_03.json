@@ -103,7 +103,13 @@
         "id": "b03-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"but\" y otra con \"so\" sobre una situación de trabajo.",
         "placeholder": "Ej: The client was upset, but I stayed calm. / He complained, so I offered a discount."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Unen elementos <b>del mismo nivel</b>. Al unir dos oraciones completas suele ir <b>coma</b> antes de la conjunción (…, but…)."
+        }
+      ]
     },
     {
       "idx": "3.2",
@@ -186,7 +192,13 @@
         "id": "b03-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"although\" y otra con \"unless\".",
         "placeholder": "Ej: Although the offer is limited, most guests find it worth it. / We can't hold the room unless you confirm today."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras because/since/as va una <b>oración</b> (sujeto+verbo). Para 'causa + sustantivo' usa <b>because of / due to</b>, no 'because'."
+        }
+      ]
     },
     {
       "idx": "3.3",
@@ -269,7 +281,13 @@
         "id": "b03-s3",
         "label": "<span class=\"badge\">tu turno</span>Vende un beneficio usando \"not only...but also\".",
         "placeholder": "Ej: This membership is not only affordable but also incredibly flexible."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Van en pareja y los dos elementos deben ser <b>paralelos</b> (misma categoría): 'both <b>the spa</b> and <b>the pool</b>', no 'both the spa and swimming'."
+        }
+      ]
     },
     {
       "idx": "3.4",
@@ -352,7 +370,13 @@
         "id": "b03-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe dos frases conectadas con \"however\" o \"as a result\".",
         "placeholder": "Ej: The client hesitated at first. However, after seeing the benefits, she signed up."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Los conectores de párrafo van al inicio y con <b>coma</b>: 'However, …', 'Therefore, …'. Suben mucho la nota de writing y speaking."
+        }
+      ]
     }
   ]
 }

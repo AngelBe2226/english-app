@@ -95,7 +95,13 @@
         "id": "b07-s1",
         "label": "<span class=\"badge\">tu turno</span>Reescribe una condición usando inversión formal (Should/Were/Had).",
         "placeholder": "Ej: Should you need any further information, please don't hesitate to contact me."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Se omite <b>if</b> y el auxiliar va al frente: 'Should you need…', 'Were I you…', 'Had we known…'. Registro muy formal (contratos, discursos)."
+        }
+      ]
     },
     {
       "idx": "7.2",
@@ -178,7 +184,13 @@
         "id": "b07-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase empezando con \"Never\" o \"Not only\" con inversión.",
         "placeholder": "Ej: Never have I closed a deal so quickly."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras un negativo/restrictivo al inicio, <b>inversión</b> sujeto-auxiliar: 'Never <b>have I</b> seen', 'Rarely <b>do we</b> offer'. Sin él, orden normal."
+        }
+      ]
     },
     {
       "idx": "7.3",
@@ -261,7 +273,13 @@
         "id": "b07-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe una oración hendida enfatizando algo importante de tu trabajo.",
         "placeholder": "Ej: What I enjoy most about this job is helping clients find the right property."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Para enfatizar: 'It was <b>X</b> that/who…' (destaca X) o '<b>What</b>… is…' (destaca el resto). Muy útil en speaking para resaltar la idea clave."
+        }
+      ]
     },
     {
       "idx": "7.4",
@@ -344,7 +362,13 @@
         "id": "b07-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"Only after\" u \"Only then\" con inversión.",
         "placeholder": "Ej: Only after negotiating for an hour did we reach an agreement."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Nivel C2: 'So + adj + were they that…', 'Only then did…'. Reserva para writing formal; en oral, con moderación."
+        }
+      ]
     }
   ]
 }
