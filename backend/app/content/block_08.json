@@ -18,7 +18,7 @@
       "idx": "8.1",
       "title": "Voz pasiva — todos los tiempos",
       "level": "B1",
-      "rule": "Estructura: <b>be (en el tiempo que corresponda) + participio pasado</b>. Se usa cuando el receptor de la acción importa más que quien la realiza, o cuando el agente es desconocido/irrelevante. El agente, si se menciona, va con <b>by</b>.",
+      "rule": "Se forma con <b>be</b> (en el tiempo que corresponda) + <b>participio pasado</b> (is cleaned, was signed, has been confirmed, will be sent). Se usa cuando el <b>receptor</b> de la acción importa más que quien la hace, o cuando el agente es desconocido o irrelevante. Si se menciona quién la realiza, va al final con <b>by</b> (signed <b>by the owner</b>). Traslada el foco del 'quién' al 'qué'.",
       "examples": [
         {
           "en": "The proposal <span class=\"r-verb\">was reviewed</span> <span class=\"r-cd\">by the legal team</span>.",
@@ -142,7 +142,7 @@
       "idx": "8.2",
       "title": "Reported statements",
       "level": "B2",
-      "rule": "Al reportar lo que alguien dijo, el tiempo verbal normalmente retrocede un paso (\"backshift\"): presente→pasado, pasado→pasado perfecto, will→would. Se suele introducir con <b>said (that) / told + persona (that)</b>.",
+      "rule": "Al contar lo que alguien dijo, el verbo suele <b>retroceder un paso</b> (backshift): presente→pasado, pasado→pasado perfecto, <b>will→would</b>, <b>can→could</b>, <b>must→had to</b>. Se introduce con <b>said (that)</b> o <b>told + persona (that)</b>, y el 'that' es opcional. Con verdades atemporales el backshift puede omitirse (She said water boils at 100°C).",
       "examples": [
         {
           "en": "\"I <span class=\"r-verb\">am</span> busy.\" → She said <span class=\"r-verb\">she was</span> busy.",
@@ -231,7 +231,7 @@
       "idx": "8.3",
       "title": "Reported questions",
       "level": "B2",
-      "rule": "Al reportar preguntas, se pierde la estructura de pregunta (no auxiliar al principio, no signo de interrogación). Preguntas <b>wh-</b> mantienen la palabra interrogativa; preguntas de <b>sí/no</b> usan <b>if/whether</b>.",
+      "rule": "Al reportar una pregunta se <b>pierde la estructura interrogativa</b>: no hay auxiliar al principio ni signo de interrogación, y el orden pasa a sujeto + verbo (She asked where I <b>lived</b>). Las preguntas <b>wh-</b> conservan su palabra interrogativa; las de <b>sí/no</b> se introducen con <b>if / whether</b>. También aplica el backshift de tiempos.",
       "examples": [
         {
           "en": "\"Where do you live?\" → She asked <span class=\"r-verb\">where I lived</span>.",
@@ -320,7 +320,7 @@
       "idx": "8.4",
       "title": "Reported commands",
       "level": "B1",
-      "rule": "Las órdenes o peticiones se reportan con <b>tell/ask + persona + to + infinitivo</b> (afirmativo) o <b>not to + infinitivo</b> (negativo). No hay backshift de tiempo porque el infinitivo no cambia.",
+      "rule": "Las órdenes y peticiones se reportan con <b>tell / ask + persona + to + infinitivo</b> en afirmativo (She told me to wait) y <b>not to + infinitivo</b> en negativo (He told us not to cancel). No hay backshift porque el infinitivo no cambia. Se suele usar <b>tell</b> para órdenes y <b>ask</b> para peticiones más corteses.",
       "examples": [
         {
           "en": "\"Close the door.\" → She told me <span class=\"r-verb\">to close</span> the door.",
@@ -409,7 +409,7 @@
       "idx": "8.5",
       "title": "Cambios de tiempo y lugar",
       "level": "B2",
-      "rule": "Al reportar, las referencias de tiempo y lugar también cambian porque el contexto ya no es \"ahora/aquí\" sino el momento del reporte.",
+      "rule": "Al reportar, el contexto ya no es 'aquí y ahora', así que las referencias de <b>tiempo y lugar</b> también se desplazan: <b>now→then</b>, <b>today→that day</b>, <b>tomorrow→the next day</b>, <b>yesterday→the day before</b>, <b>here→there</b>, <b>this→that</b>. Ajustarlas es lo que hace que el reporte suene coherente.",
       "examples": [
         {
           "en": "\"I'll call you tomorrow.\" → He said he'd call me <span class=\"r-verb\">the next day</span>.",

@@ -18,7 +18,7 @@
       "idx": "9.1",
       "title": "Presente simple",
       "level": "A1",
-      "rule": "Estructura: sujeto + verbo (+s en 3ª persona) / don't-doesn't + verbo / Do-Does + sujeto + verbo? Usos: rutinas, hechos generales, horarios fijos. Marcadores: <b>always, usually, every day, on Mondays</b>.",
+      "rule": "<b>Estructura:</b> sujeto + verbo (+<b>-s/-es</b> en 3ª persona) / don't·doesn't + verbo / Do·Does + sujeto + verbo? <b>Usos:</b> rutinas, hechos generales y verdades, horarios fijos. Describe lo que ocurre <b>habitualmente</b> o <b>siempre</b>, no lo que pasa ahora mismo. Marcadores: <b>always, usually, every day, on Mondays</b>.",
       "examples": [
         {
           "en": "She <span class=\"r-verb\">checks</span> in guests <span class=\"r-adv\">every morning</span>.",
@@ -107,7 +107,7 @@
       "idx": "9.2",
       "title": "Presente continuo",
       "level": "A1",
-      "rule": "Estructura: am/is/are + verbo-ing. Usos: acción en progreso ahora mismo, planes futuros ya confirmados. No se usa con \"state verbs\" (know, like, want, believe...) que expresan estados, no acciones.",
+      "rule": "<b>Estructura:</b> am/is/are + verbo-<b>ing</b>. <b>Usos:</b> una acción <b>en progreso ahora mismo</b> (I'm showing a client the suite) y planes futuros ya <b>concretados</b> (We're meeting them tomorrow). Frente al presente simple (lo habitual), el continuo describe lo <b>temporal o puntual</b>. No se usa con <b>state verbs</b> (know, like, want, believe).",
       "examples": [
         {
           "en": "She <span class=\"r-verb\">is reviewing</span> the contract <span class=\"r-adv\">right now</span>.",
@@ -196,7 +196,7 @@
       "idx": "9.3",
       "title": "Presente perfecto simple",
       "level": "A2",
-      "rule": "Estructura: have/has + participio pasado. Usos: experiencias de vida (sin decir cuándo), acciones que empezaron en el pasado y continúan, resultado presente de una acción pasada. Marcadores: <b>ever, never, already, just, yet, since, for</b>.",
+      "rule": "<b>Estructura:</b> have/has + <b>participio pasado</b>. <b>Usos:</b> experiencias de vida (sin decir cuándo), acciones que empezaron en el pasado y <b>continúan</b>, y el <b>resultado presente</b> de algo pasado. Es el tiempo que <b>conecta pasado y presente</b>: por eso no se combina con un momento concreto. Marcadores: <b>ever, never, just, already, yet, since, for</b>.",
       "examples": [
         {
           "en": "<span class=\"r-adv\">Have</span> you <span class=\"r-verb\">ever worked</span> in sales?",
@@ -285,7 +285,7 @@
       "idx": "9.4",
       "title": "Presente perfecto continuo",
       "level": "B1",
-      "rule": "Estructura: have/has been + verbo-ing. Énfasis en la <b>duración</b> del proceso hasta ahora, no en el resultado final. Muy usado con \"for/since\" para describir cuánto tiempo lleva ocurriendo algo.",
+      "rule": "<b>Estructura:</b> have/has been + verbo-<b>ing</b>. Pone el énfasis en la <b>duración del proceso</b> hasta ahora, no en el resultado final (I've been working since 9 → subrayo cuánto llevo). Muy usado con <b>for / since</b> para decir cuánto tiempo lleva ocurriendo algo. Frente al perfecto simple, importa el 'cuánto tiempo', no el 'cuántas veces'.",
       "examples": [
         {
           "en": "I <span class=\"r-verb\">have been working</span> on this deal <span class=\"r-adv\">for</span> three weeks.",
@@ -374,7 +374,7 @@
       "idx": "9.5",
       "title": "Pasado simple",
       "level": "A1",
-      "rule": "Estructura: verbo + -ed (regulares) o forma irregular / did + verbo base en negativa/pregunta. Usos: acciones terminadas en un momento específico del pasado. Marcadores: <b>yesterday, last week, in 2020, ago</b>.",
+      "rule": "<b>Estructura:</b> verbo + <b>-ed</b> (regulares) o forma irregular / did + verbo base en negativa y pregunta. <b>Usos:</b> acciones <b>terminadas</b> en un momento concreto del pasado, sin conexión con el presente. Es el tiempo de la narración. Marcadores: <b>yesterday, last week, in 2020, ago</b>.",
       "examples": [
         {
           "en": "She <span class=\"r-verb\">signed</span> the contract <span class=\"r-adv\">yesterday</span>.",
@@ -463,7 +463,7 @@
       "idx": "9.6",
       "title": "Pasado continuo",
       "level": "A2",
-      "rule": "Estructura: was/were + verbo-ing. Usos: acción en progreso en un momento pasado, a menudo interrumpida por otra acción (en pasado simple), o dos acciones simultáneas en el pasado.",
+      "rule": "<b>Estructura:</b> was/were + verbo-<b>ing</b>. <b>Usos:</b> una acción <b>en progreso</b> en un punto del pasado, a menudo <b>interrumpida</b> por otra en pasado simple (I was checking in when the alarm went off), o dos acciones <b>simultáneas</b>. Suele hacer de 'fondo' sobre el que ocurre la acción principal.",
       "examples": [
         {
           "en": "I <span class=\"r-verb\">was reviewing</span> the contract when she called.",
@@ -552,7 +552,7 @@
       "idx": "9.7",
       "title": "Pasado perfecto simple",
       "level": "B1",
-      "rule": "Estructura: had + participio pasado. Se usa para una acción que ocurrió <b>antes</b> de otra en el pasado — el \"pasado del pasado\". Muy común con \"by the time\", \"already\", \"just\", \"before\".",
+      "rule": "<b>Estructura:</b> had + <b>participio pasado</b> (igual para todas las personas). Expresa el <b>'pasado del pasado'</b>: una acción anterior a otra ya pasada (By the time we arrived, they had already left). Ordena dos momentos pasados dejando claro cuál fue primero. Común con <b>by the time, already, just, before, after</b>.",
       "examples": [
         {
           "en": "By the time I arrived, she <span class=\"r-verb\">had</span> already <span class=\"r-verb\">left</span>.",
@@ -641,7 +641,7 @@
       "idx": "9.8",
       "title": "Pasado perfecto continuo",
       "level": "B2",
-      "rule": "Estructura: had been + verbo-ing. Enfatiza la <b>duración</b> de una acción que venía ocurriendo antes de otro momento/acción en el pasado.",
+      "rule": "<b>Estructura:</b> had been + verbo-<b>ing</b>. Enfatiza la <b>duración</b> de una acción que <b>venía ocurriendo</b> antes de otro momento del pasado (She had been working there for years before her promotion). Es al pasado perfecto lo que el presente perfecto continuo es al presente: subraya el proceso, no el resultado.",
       "examples": [
         {
           "en": "She <span class=\"r-verb\">had been working</span> there for years before she got promoted.",
@@ -730,7 +730,7 @@
       "idx": "9.9",
       "title": "Futuro: will / going to",
       "level": "A1",
-      "rule": "<b>will</b> + infinitivo: decisiones espontáneas (tomadas en el momento de hablar), predicciones sin evidencia clara, promesas y ofrecimientos. <b>going to</b> + infinitivo: planes e intenciones ya decididos de antemano, predicciones basadas en evidencia visible ahora.",
+      "rule": "Dos maneras de hablar del futuro con matices distintos. <b>will</b> + infinitivo: decisiones <b>espontáneas</b> (tomadas al hablar), predicciones sin evidencia clara, promesas y ofrecimientos (I'll help you). <b>going to</b> + infinitivo: planes e intenciones <b>ya decididos</b> de antemano y predicciones con <b>evidencia visible</b> ahora (Look at those clouds — it's going to rain).",
       "examples": [
         {
           "en": "The phone is ringing — I <span class=\"r-verb\">'ll answer</span> it. (decisión espontánea)",
@@ -819,7 +819,7 @@
       "idx": "9.10",
       "title": "Futuro continuo",
       "level": "B1",
-      "rule": "Estructura: will be + verbo-ing. Se usa para una acción que estará en progreso en un momento específico del futuro, o para hablar de algo ya planeado de forma natural (sin énfasis en decisión).",
+      "rule": "<b>Estructura:</b> will be + verbo-<b>ing</b>. Describe una acción que estará <b>en progreso</b> en un momento concreto del futuro (This time tomorrow I'll be flying) o un plan asumido con naturalidad, sin énfasis en la decisión (I'll be seeing her next week). Proyecta al futuro la idea de 'estar haciendo algo'.",
       "examples": [
         {
           "en": "This time tomorrow, I <span class=\"r-verb\">'ll be flying</span> to Madrid.",
@@ -908,7 +908,7 @@
       "idx": "9.11",
       "title": "Futuro perfecto simple",
       "level": "B2",
-      "rule": "Estructura: will have + participio pasado. Se usa para una acción que estará completada antes de un momento específico en el futuro. Muy común con \"by\".",
+      "rule": "<b>Estructura:</b> will have + <b>participio pasado</b>. Expresa una acción que estará <b>completada antes</b> de un momento futuro determinado (By Friday I'll have finished the report). Mira desde un punto del futuro hacia atrás, hacia algo ya terminado. Muy común con <b>by</b> y <b>by the time</b>.",
       "examples": [
         {
           "en": "<span class=\"r-adv\">By</span> Friday, I <span class=\"r-verb\">will have finished</span> the report.",
@@ -997,7 +997,7 @@
       "idx": "9.12",
       "title": "Futuro perfecto continuo",
       "level": "C1",
-      "rule": "Estructura: will have been + verbo-ing. El tiempo más avanzado del sistema verbal: enfatiza la <b>duración</b> de una acción que seguirá en curso hasta un punto futuro (aún sin terminar en ese momento).",
+      "rule": "<b>Estructura:</b> will have been + verbo-<b>ing</b>. El tiempo más avanzado del sistema: enfatiza la <b>duración</b> de una acción que <b>seguirá en curso</b> hasta un punto futuro (aún sin terminar en ese momento): By December I'll have been working here for five years. Combina futuro + duración + 'aún en marcha'.",
       "examples": [
         {
           "en": "By December, I <span class=\"r-verb\">will have been working</span> here for five years.",

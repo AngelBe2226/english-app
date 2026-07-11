@@ -18,7 +18,7 @@
       "idx": "6.1",
       "title": "Sustantivas (Noun clauses)",
       "level": "B1",
-      "rule": "Funcionan como un sustantivo dentro de la oración (sujeto, objeto o complemento). Se introducen con <b>that</b> (a menudo omitible), <b>wh-words</b> (what, where, why...), o <b>if/whether</b> para preguntas indirectas.",
+      "rule": "Una cláusula sustantiva hace el papel de un <b>sustantivo</b> dentro de la oración: puede ser el <b>sujeto</b> (What she said surprised me), el <b>objeto</b> (I know that he's right) o un complemento. Se introducen con <b>that</b> (a menudo omitible cuando es objeto), con <b>wh-words</b> (what, where, why, who…) o con <b>if/whether</b> en preguntas indirectas. Todo el bloque funciona como una sola pieza nominal.",
       "examples": [
         {
           "en": "I know <span class=\"r-sub\">that</span> <span class=\"r-corr\">he's right</span>. (objeto del verbo \"know\")",
@@ -107,7 +107,7 @@
       "idx": "6.2",
       "title": "Adjetivas / Relativas",
       "level": "B1",
-      "rule": "Describen a un sustantivo, igual que un adjetivo. <b>Restrictivas</b> (sin comas, esenciales para identificar de quién/qué hablamos) vs. <b>no restrictivas</b> (con comas, información extra — solo con \"which\", nunca \"that\"). También existen versiones <b>reducidas</b>, sin pronombre relativo.",
+      "rule": "Describen a un sustantivo como lo haría un adjetivo largo, uniendo dos ideas. Hay dos clases: <b>restrictivas</b> (sin comas, esenciales para identificar de quién/qué hablamos, admiten who/which/that) y <b>no restrictivas</b> (con comas, información extra prescindible, solo who/which, nunca that). Existen además relativas <b>reducidas</b>, que eliminan el pronombre y el auxiliar (the man (who is) waiting outside).",
       "examples": [
         {
           "en": "The man <span class=\"r-sub\">who</span> <span class=\"r-corr\">called earlier</span> is my boss. (restrictiva)",
@@ -196,7 +196,7 @@
       "idx": "6.3",
       "title": "Adverbiales de tiempo",
       "level": "A2",
-      "rule": "Indican cuándo ocurre la acción principal. <b>when, while, before, after, as soon as, until</b>. Importante: tras estos conectores, para hablar de futuro se usa <b>presente</b>, no \"will\".",
+      "rule": "Sitúan <b>cuándo</b> ocurre la acción principal con conectores como <b>when, while, before, after, as soon as, until</b>. La regla decisiva: para referirse al <b>futuro</b> tras estos conectores se usa el <b>presente</b>, nunca 'will' (When the guest <b>arrives</b>, we'll call him). La cláusula puede ir delante (con coma) o detrás de la principal.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">When</span> <span class=\"r-corr\">the guest arrives</span>, call me. (no \"will arrive\")",
@@ -285,7 +285,7 @@
       "idx": "6.4",
       "title": "Adverbiales de condición",
       "level": "B1",
-      "rule": "Expresan una condición para que se cumpla la principal. <b>if, unless, provided that, as long as, in case</b>. (\"unless\" = \"if...not\"; ya se vio en conjunciones, aquí se profundiza como cláusula completa).",
+      "rule": "Establecen la <b>condición</b> necesaria para que se cumpla la principal: <b>if</b> (si), <b>unless</b> (= if…not, 'a menos que'), <b>provided that / as long as</b> ('siempre que') e <b>in case</b> ('por si acaso'). Se engranan con la maquinaria de los condicionales (bloque 10): el tiempo de cada parte marca cuán <b>real o hipotética</b> es la situación.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">If</span> <span class=\"r-corr\">you book today</span>, you'll get a discount.",
@@ -374,7 +374,7 @@
       "idx": "6.5",
       "title": "Adverbiales de causa",
       "level": "A2",
-      "rule": "Explican por qué ocurre la acción principal. <b>because</b> (la más neutra/común), <b>since/as</b> (más formales, a menudo al principio de la frase), <b>due to the fact that</b> (muy formal, + oración completa a diferencia de \"due to\" + sustantivo).",
+      "rule": "Explican el <b>porqué</b> de la acción principal. <b>because</b> es la más neutra y común; <b>since / as</b> son algo más formales y suelen ir al <b>principio</b> (Since you're a member…); <b>due to the fact that</b> es muy formal y, a diferencia de 'due to' + sustantivo, introduce una <b>oración completa</b>. Todas llevan una cláusula con sujeto y verbo.",
       "examples": [
         {
           "en": "We upgraded her room <span class=\"r-sub\">because</span> <span class=\"r-corr\">she's a loyal member</span>.",
@@ -463,7 +463,7 @@
       "idx": "6.6",
       "title": "Adverbiales de concesión",
       "level": "B2",
-      "rule": "Expresan un contraste inesperado — algo ocurre \"a pesar de\" otra cosa. <b>although, even though, though</b> (+ oración completa) vs. <b>despite/in spite of</b> (+ sustantivo o -ing, ya vistos en preposiciones).",
+      "rule": "Expresan un <b>contraste inesperado</b>: algo ocurre 'a pesar de' otra cosa. Con <b>oración completa</b> se usa <b>although, even though, though</b> (Although it rained, the gala went ahead); con <b>sustantivo o -ing</b>, <b>despite / in spite of</b> (Despite the rain…). El error típico es mezclarlas: nunca 'despite it rained' ni 'although the rain'.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">Although</span> <span class=\"r-corr\">the price was high</span>, she signed the contract.",
@@ -552,7 +552,7 @@
       "idx": "6.7",
       "title": "Adverbiales de finalidad",
       "level": "B1",
-      "rule": "Expresan el propósito de la acción principal. <b>so that</b> (+ cláusula completa, a menudo con \"can/could/would\"), <b>in order to / to</b> (+ infinitivo, mismo sujeto en ambas partes).",
+      "rule": "Expresan el <b>propósito</b> ('para qué'). <b>so that</b> + cláusula completa, normalmente con can/could/would (I called early so that we could confirm); <b>to / in order to / so as to</b> + infinitivo cuando el sujeto de las dos partes es el <b>mismo</b> (I called to confirm). La elección depende de si hay o no cambio de sujeto.",
       "examples": [
         {
           "en": "I called early <span class=\"r-sub\">so that</span> <span class=\"r-corr\">I could confirm the details</span>.",
@@ -641,7 +641,7 @@
       "idx": "6.8",
       "title": "Adverbiales de resultado",
       "level": "B2",
-      "rule": "Expresan la consecuencia de algo, casi siempre ligado a una intensidad. <b>so + adjetivo/adverbio + that</b>, <b>such + (a/an) + sustantivo + that</b>, y simplemente <b>so</b> (más informal, ya visto como coordinante FANBOYS).",
+      "rule": "Expresan la <b>consecuencia</b>, casi siempre ligada a una intensidad. Estructuras clave: <b>so + adjetivo/adverbio + that</b> ('tan… que': so good that…) y <b>such + (a/an) + sustantivo + that</b> ('un/a… tan… que': such a good deal that…). También un <b>so</b> más informal une causa y resultado (It was late, so we left).",
       "examples": [
         {
           "en": "The offer was <span class=\"r-sub\">so</span> good <span class=\"r-corr\">that</span> <span class=\"r-corr\">she signed immediately</span>.",

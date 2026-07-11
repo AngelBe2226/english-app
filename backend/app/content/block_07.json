@@ -18,7 +18,7 @@
       "idx": "7.1",
       "title": "Inversión en condicionales",
       "level": "C1",
-      "rule": "En vez de empezar con \"if\", se coloca el auxiliar al principio y se omite \"if\" — mucho más formal, típico de contratos, discursos y escritura académica. <b>Should</b> (1er cond.), <b>Were</b> (2do cond.), <b>Had</b> (3er cond.).",
+      "rule": "Es una forma <b>muy formal</b> de los condicionales (contratos, discursos, escritura académica): se <b>omite 'if'</b> y el auxiliar salta al principio. Los tres patrones: <b>Should</b> + sujeto (1er condicional: Should you need help…), <b>Were</b> + sujeto (2º: Were I you…) y <b>Had</b> + sujeto (3º: Had we known…). El significado es idéntico al de 'if', pero el registro sube.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">you need anything</span>, don't hesitate to call.",
@@ -107,7 +107,7 @@
       "idx": "7.2",
       "title": "Inversión con adverbios negativos",
       "level": "C1",
-      "rule": "Cuando una oración empieza con un adverbio negativo o restrictivo (never, rarely, not only, seldom, little...), el sujeto y el auxiliar se invierten, como en una pregunta.",
+      "rule": "Cuando una oración <b>empieza</b> por un adverbio negativo o restrictivo (never, rarely, seldom, hardly, little, not only, no sooner…), el sujeto y el auxiliar se <b>invierten</b> como en una pregunta (Never <b>have I</b> seen…; Not only <b>did they</b> upgrade us…). Es un recurso <b>enfático</b> y formal; sin ese adverbio al frente, el orden vuelve a ser normal.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">Never</span> <span class=\"r-corr\">have I seen</span> such a professional team.",
@@ -196,7 +196,7 @@
       "idx": "7.3",
       "title": "Cleft sentences (oraciones hendidas)",
       "level": "C1",
-      "rule": "Dividen una oración simple en dos partes para enfatizar la información más importante. Formas: <b>It is/was + parte enfática + that/who...</b>, <b>What + resto + is/was...</b>, <b>All + resto + is/was...</b>.",
+      "rule": "Las oraciones <b>hendidas</b> parten una frase simple en dos para <b>enfatizar</b> un elemento. Formas principales: <b>It is/was + parte destacada + that/who…</b> (It was the manager who approved it → resalta quién), <b>What + resto + is/was…</b> (What we offer is flexibility → resalta el complemento) y <b>All + resto + is/was…</b> ('lo único que…'). Muy útiles en speaking para dirigir la atención.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">It was</span> the manager <span class=\"r-corr\">who approved the discount</span>. (énfasis en quién)",
@@ -285,7 +285,7 @@
       "idx": "7.4",
       "title": "Otras inversiones enfáticas",
       "level": "C2",
-      "rule": "El nivel más alto: inversión tras \"so + adjetivo\" y tras expresiones restrictivas como \"only then/only after\". Muy propio de discurso formal, académico o literario — reconocerlo es más importante que producirlo constantemente.",
+      "rule": "El nivel más alto (C2): inversión tras <b>so/such + adjetivo</b> (So impressed were they that…) y tras expresiones restrictivas como <b>only then, only after, not until</b> (Only then did we realise…). Propio del discurso formal, académico o literario; <b>reconocerlo</b> en listening y reading importa más que producirlo a todas horas.",
       "examples": [
         {
           "en": "<span class=\"r-sub\">So impressed was she</span> <span class=\"r-corr\">that she signed on the spot</span>.",
