@@ -15,7 +15,40 @@
       "title": "Colocaciones (collocations)",
       "level": "B2",
       "rule": "Palabras que van juntas por convención, no por lógica traducible — un nativo las reconoce de inmediato aunque otra combinación \"debería\" funcionar igual de bien. Aprenderlas en bloque (no palabra por palabra) es la única forma de dominarlas.",
-      "examples": [],
+      "examples": [
+        {
+          "en": "We need to <b class=\"hl\">make a decision</b> today.",
+          "es": "Tenemos que tomar una decisión hoy."
+        },
+        {
+          "en": "They <b class=\"hl\">do business</b> with us every summer.",
+          "es": "Hacen negocios con nosotros cada verano."
+        },
+        {
+          "en": "She <b class=\"hl\">takes responsibility</b> for the whole team.",
+          "es": "Ella asume la responsabilidad de todo el equipo."
+        },
+        {
+          "en": "Let's <b class=\"hl\">reach an agreement</b> on the price.",
+          "es": "Lleguemos a un acuerdo sobre el precio."
+        },
+        {
+          "en": "He <b class=\"hl\">made a good impression</b> on the client.",
+          "es": "Causó buena impresión al cliente."
+        },
+        {
+          "en": "We <b class=\"hl\">pay attention</b> to every detail.",
+          "es": "Prestamos atención a cada detalle."
+        },
+        {
+          "en": "They always <b class=\"hl\">meet the deadline</b>.",
+          "es": "Siempre cumplen el plazo."
+        },
+        {
+          "en": "I'll <b class=\"hl\">keep in touch</b> after the deal.",
+          "es": "Seguiré en contacto tras el trato."
+        }
+      ],
       "tables": [
         {
           "headers": [
@@ -91,7 +124,13 @@
         "id": "b13-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"make a decision\" o \"pay attention\".",
         "placeholder": "Ej: Please pay attention to the cancellation policy before booking."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "Aprende las colocaciones como <b>bloques</b>, no palabra por palabra: se dice <b>make</b> a decision, no <i>do</i> a decision."
+        }
+      ]
     },
     {
       "idx": "13.2",
@@ -118,6 +157,26 @@
         {
           "en": "<span class=\"r-verb\">Eventually</span>, the client agreed to the terms. (finalmente)",
           "es": "Finalmente, el cliente aceptó los términos."
+        },
+        {
+          "en": "I need to <span class=\"r-verb\">attend</span> the meeting.",
+          "es": "Tengo que asistir a la reunión. (attend, no \"assist\")"
+        },
+        {
+          "en": "This is very <span class=\"r-verb\">embarrassing</span>.",
+          "es": "Esto es muy vergonzoso. (no \"embarazada\")"
+        },
+        {
+          "en": "We should <span class=\"r-verb\">discuss</span> the terms.",
+          "es": "Deberíamos hablar los términos. (discuss, no \"discutir\"=argue)"
+        },
+        {
+          "en": "He's a very <span class=\"r-verb\">sensible</span> manager.",
+          "es": "Es un gerente muy sensato. (sensible=sensato, no sensitive)"
+        },
+        {
+          "en": "The report shows the <span class=\"r-verb\">actual</span> figures.",
+          "es": "El informe muestra las cifras reales. (actual=real, no \"actuales\")"
         }
       ],
       "tables": [
@@ -204,7 +263,13 @@
         "id": "b13-s2",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"currently\" y otra usando \"attend\" correctamente.",
         "placeholder": "Ej: I'm currently reviewing the contract. I'll attend the meeting tomorrow."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Clásicos: <b>actually</b> = de hecho (no \"actualmente\"=currently); <b>assist</b> = ayudar (no \"asistir a\"=attend); <b>sensible</b> = sensato (no \"sensible\"=sensitive)."
+        }
+      ]
     },
     {
       "idx": "13.3",
@@ -223,6 +288,34 @@
         {
           "en": "Good <span class=\"r-verb\">objection handling</span> can turn a \"no\" into a \"yes\".",
           "es": "Un buen manejo de objeciones puede convertir un \"no\" en un \"sí\"."
+        },
+        {
+          "en": "Would you like to <span class=\"r-verb\">check in</span> now?",
+          "es": "¿Quieres hacer el check-in ahora?"
+        },
+        {
+          "en": "The suite comes with <span class=\"r-verb\">full board</span>.",
+          "es": "La suite incluye pensión completa."
+        },
+        {
+          "en": "We can <span class=\"r-verb\">waive</span> the cancellation fee.",
+          "es": "Podemos eximir la tasa de cancelación."
+        },
+        {
+          "en": "Let me <span class=\"r-verb\">process</span> your booking.",
+          "es": "Déjame procesar tu reserva."
+        },
+        {
+          "en": "This rate is <span class=\"r-verb\">non-refundable</span>.",
+          "es": "Esta tarifa no es reembolsable."
+        },
+        {
+          "en": "Our <span class=\"r-verb\">loyalty programme</span> gives you points.",
+          "es": "Nuestro programa de fidelidad te da puntos."
+        },
+        {
+          "en": "The room has a <span class=\"r-verb\">sea view</span>.",
+          "es": "La habitación tiene vista al mar."
         }
       ],
       "tables": [
@@ -304,7 +397,13 @@
         "id": "b13-s3",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"upselling\" o \"objection handling\".",
         "placeholder": "Ej: Effective objection handling is key to closing more deals."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Son las palabras que más repetirás en tu examen de Meliá: domínalas hasta que salgan solas."
+        }
+      ]
     },
     {
       "idx": "13.4",
@@ -323,6 +422,34 @@
         {
           "en": "Based on recent <span class=\"r-verb\">comparable sales</span>, the <span class=\"r-verb\">market value</span> is higher than expected.",
           "es": "Basándonos en ventas comparables recientes, el valor de mercado es más alto de lo esperado."
+        },
+        {
+          "en": "The property is on the <span class=\"r-verb\">market</span> now.",
+          "es": "La propiedad está en el mercado ahora."
+        },
+        {
+          "en": "We charge a small <span class=\"r-verb\">commission</span>.",
+          "es": "Cobramos una pequeña comisión."
+        },
+        {
+          "en": "Please sign the <span class=\"r-verb\">lease</span> here.",
+          "es": "Por favor firma el contrato de alquiler aquí."
+        },
+        {
+          "en": "The <span class=\"r-verb\">mortgage</span> rate is fixed.",
+          "es": "El tipo de la hipoteca es fijo."
+        },
+        {
+          "en": "This is a great <span class=\"r-verb\">investment</span>.",
+          "es": "Esta es una gran inversión."
+        },
+        {
+          "en": "The <span class=\"r-verb\">tenant</span> pays monthly.",
+          "es": "El inquilino paga mensualmente."
+        },
+        {
+          "en": "We arranged a <span class=\"r-verb\">viewing</span> for Saturday.",
+          "es": "Concertamos una visita para el sábado."
         }
       ],
       "tables": [
@@ -404,7 +531,13 @@
         "id": "b13-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase usando \"market value\" o \"comparable sale\" en un contexto de captación.",
         "placeholder": "Ej: Based on comparable sales in the area, we recommend listing at this market value."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "Vocabulario inmobiliario para D-Live: memoriza <b>lease</b>, <b>mortgage</b>, <b>valuation</b> y <b>tenant</b>."
+        }
+      ]
     }
   ]
 }

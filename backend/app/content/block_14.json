@@ -27,6 +27,26 @@
         {
           "en": "<span class=\"r-verb\">ship</span> (barco) vs. <span class=\"r-verb\">chip</span> (patata frita/chip) — SH vs. CH",
           "es": "Sonidos parecidos pero distintos en la boca."
+        },
+        {
+          "en": "<b class=\"hl\">think</b> vs <b class=\"hl\">sink</b> — TH no es S.",
+          "es": "pensar vs hundirse."
+        },
+        {
+          "en": "<b class=\"hl\">ship</b> vs <b class=\"hl\">sheep</b> — I corta vs I larga.",
+          "es": "barco vs oveja."
+        },
+        {
+          "en": "<b class=\"hl\">vote</b> vs <b class=\"hl\">boat</b> — V con el labio, no B.",
+          "es": "votar vs barco."
+        },
+        {
+          "en": "<b class=\"hl\">house</b> (s) vs <b class=\"hl\">houses</b> (z) — la S final suena Z.",
+          "es": "casa vs casas."
+        },
+        {
+          "en": "<b class=\"hl\">three</b> vs <b class=\"hl\">tree</b> — TH inicial, no T.",
+          "es": "tres vs árbol."
         }
       ],
       "tables": [
@@ -98,7 +118,13 @@
         "id": "b14-s1",
         "label": "<span class=\"badge\">tu turno</span>Practica en voz alta: \"I think this refrigerator is very heavy.\" Escribe qué sonidos te costaron más.",
         "placeholder": "Ej: Me costó la TH de 'think' y la V de 'very' — las repetí 5 veces."
-      }
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>TH</b> (think) no es S ni T: saca la lengua entre los dientes. <b>V</b> (very) no es B: muerde ligeramente el labio inferior."
+        }
+      ]
     },
     {
       "idx": "14.2",
@@ -117,6 +143,26 @@
         {
           "en": "The <span class=\"r-verb\">pool</span> (larga) is full (corta) of guests today.",
           "es": "La piscina está llena de huéspedes hoy."
+        },
+        {
+          "en": "<b class=\"hl\">live</b> (corta) vs <b class=\"hl\">leave</b> (larga).",
+          "es": "vivir vs irse."
+        },
+        {
+          "en": "<b class=\"hl\">full</b> vs <b class=\"hl\">fool</b>.",
+          "es": "lleno vs tonto."
+        },
+        {
+          "en": "<b class=\"hl\">sit</b> vs <b class=\"hl\">seat</b>.",
+          "es": "sentarse vs asiento."
+        },
+        {
+          "en": "<b class=\"hl\">pull</b> vs <b class=\"hl\">pool</b>.",
+          "es": "tirar vs piscina."
+        },
+        {
+          "en": "<b class=\"hl\">cheap</b> vs <b class=\"hl\">chip</b>.",
+          "es": "barato vs patata frita."
         }
       ],
       "tables": [
@@ -183,7 +229,13 @@
         "id": "b14-s2",
         "label": "<span class=\"badge\">tu turno</span>Practica en voz alta el par \"ship/sheep\" y \"full/fool\" varias veces. Anota cuál te costó distinguir más.",
         "placeholder": "Ej: Me costó más distinguir full/fool que ship/sheep."
-      }
+      },
+      "notes": [
+        {
+          "type": "emphasis",
+          "text": "La duración de la vocal <b>cambia el significado</b>: <i>ship</i> (barco) ≠ <i>sheep</i> (oveja). No es un matiz opcional."
+        }
+      ]
     },
     {
       "idx": "14.3",
@@ -210,6 +262,26 @@
         {
           "en": "Although the presentation went well ↗, we need to make some changes ↘. (primera cláusula sube, segunda baja)",
           "es": "Aunque la presentación fue bien, necesitamos hacer algunos cambios."
+        },
+        {
+          "en": "A <b class=\"hl\">PRE-sent</b> (regalo) vs to <b class=\"hl\">pre-SENT</b> (presentar).",
+          "es": "un regalo vs presentar."
+        },
+        {
+          "en": "An <b class=\"hl\">IN-crease</b> in price vs prices <b class=\"hl\">in-CREASE</b>.",
+          "es": "un aumento vs aumentar."
+        },
+        {
+          "en": "I said the <b class=\"hl\">RED</b> room, not the blue one.",
+          "es": "Dije la habitación roja, no la azul. (contraste)"
+        },
+        {
+          "en": "Could you <b class=\"hl\">repeat</b> that? ↗",
+          "es": "¿Podrías repetir eso? (entonación ascendente = pregunta)"
+        },
+        {
+          "en": "That's a <b class=\"hl\">GREAT</b> idea! ↘",
+          "es": "¡Es una gran idea! (entonación descendente = afirmación)"
         }
       ],
       "tables": [],
@@ -246,7 +318,13 @@
         "id": "b14-s3",
         "label": "<span class=\"badge\">tu turno</span>Practica la frase \"I thought the meeting was tomorrow, not today\" enfatizando \"tomorrow\" y luego \"today\". Anota la diferencia de matiz.",
         "placeholder": "Ej: Al enfatizar 'tomorrow' suena a que corrijo una fecha equivocada."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "En sustantivos de 2 sílabas el acento suele ir en la <b>1ª</b> (PREsent), y en el verbo en la <b>2ª</b> (preSENT)."
+        }
+      ]
     },
     {
       "idx": "14.4",
@@ -257,6 +335,22 @@
         {
           "en": "En Club by Meliá tratarás con huéspedes VIP de múltiples nacionalidades — no hace falta imitar ningún acento, pero sí reconocerlos ayuda a entender mejor en el listening del examen y en conversaciones reales.",
           "es": "(Nota metodológica, sin traducción.)"
+        },
+        {
+          "en": "American English usually pronounces the final R (car, water).",
+          "es": "El inglés americano suele pronunciar la R final."
+        },
+        {
+          "en": "British English tends to drop the final R (cah, watah).",
+          "es": "El inglés británico tiende a omitir la R final."
+        },
+        {
+          "en": "Australians shorten many vowels (\"g'day\").",
+          "es": "Los australianos acortan muchas vocales."
+        },
+        {
+          "en": "Don't worry about imitating — focus on understanding.",
+          "es": "No te preocupes por imitar; céntrate en entender."
         }
       ],
       "tables": [
@@ -323,7 +417,13 @@
         "id": "b14-s4",
         "label": "<span class=\"badge\">tu turno</span>Escucha (mentalmente o en un video) una palabra en 2 acentos distintos y anota la diferencia que notaste.",
         "placeholder": "Ej: Escuché 'water' en inglés británico vs. americano — la 't' cambia mucho."
-      }
+      },
+      "notes": [
+        {
+          "type": "tip",
+          "text": "No necesitas imitar acentos: basta con <b>reconocerlos</b> para entender mejor en el listening."
+        }
+      ]
     }
   ]
 }

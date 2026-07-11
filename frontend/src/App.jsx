@@ -1,8 +1,14 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { api } from "./api";
 import { useProgress } from "./progress";
+import Sidebar from "./components/Sidebar";
 import BlockPage from "./components/BlockPage";
 import Block15Page from "./panels/Block15Page";
+
+function scrollToSection(idx) {
+  const el = document.getElementById("sec-" + idx.replace(/\./g, "-"));
+  if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+}
 
 export default function App() {
   const { loaded, resetPrefix } = useProgress();
@@ -10,6 +16,7 @@ export default function App() {
   const [current, setCurrent] = useState("09"); // same default as the original site
   const [block, setBlock] = useState(null);
   const [loadingBlock, setLoadingBlock] = useState(true);
+  const pendingSection = useRef(null);
 
   useEffect(() => {
     api.listBlocks().then(setIndex).catch(() => setIndex([]));
@@ -19,16 +26,34 @@ export default function App() {
     setLoadingBlock(true);
     api
       .getBlock(current)
-      .then(setBlock)
+      .then((data) => {
+        setBlock(data);
+        // After the new block renders, jump to a requested section or the top.
+        requestAnimationFrame(() => {
+          if (pendingSection.current) {
+            scrollToSection(pendingSection.current);
+            pendingSection.current = null;
+          } else {
+            window.scrollTo({ top: 0, behavior: "instant" });
+          }
+        });
+      })
       .catch(() => setBlock(null))
       .finally(() => setLoadingBlock(false));
-    window.scrollTo({ top: 0, behavior: "instant" });
   }, [current]);
+
+  function goToSection(targetBlock, idx) {
+    if (targetBlock === current) {
+      scrollToSection(idx); // already loaded — scroll now
+    } else {
+      pendingSection.current = idx; // scroll once the new block has rendered
+      setCurrent(targetBlock);
+    }
+  }
 
   async function handleReset() {
     if (!window.confirm("¿Borrar tu progreso y respuestas de este bloque?")) return;
     await resetPrefix("b" + current + "-");
-    // Idioms live under idiom:* — clear them only when resetting block 12 or 15.
     if (current === "12" || current === "15") await resetPrefix("idiom:");
   }
 
@@ -39,19 +64,12 @@ export default function App() {
           <span className="brand-mark">EN</span>
           <span className="brand-name">Índice de Inglés</span>
         </div>
-        <nav>
-          {index.map((b) => (
-            <button
-              key={b.block}
-              className={"nav-item" + (b.block === current ? " active" : "")}
-              onClick={() => setCurrent(b.block)}
-            >
-              <span className="nav-num">{b.block}</span>
-              <span className="nav-title">{b.title}</span>
-              <span className="nav-count">{b.sectionCount}</span>
-            </button>
-          ))}
-        </nav>
+        <Sidebar
+          index={index}
+          current={current}
+          onSelectBlock={setCurrent}
+          onGoToSection={goToSection}
+        />
       </aside>
 
       <main className="content">
