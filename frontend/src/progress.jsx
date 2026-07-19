@@ -24,6 +24,16 @@ export function ProgressProvider({ children }) {
     api.setProgress(key, value).catch(() => {});
   }, []);
 
+  const delVal = useCallback((key) => {
+    setProgress((prev) => {
+      if (!(key in prev)) return prev;
+      const next = { ...prev };
+      delete next[key];
+      return next;
+    });
+    return api.deleteProgress(key).catch(() => {});
+  }, []);
+
   const resetPrefix = useCallback((prefix) => {
     setProgress((prev) => {
       const next = {};
@@ -34,7 +44,7 @@ export function ProgressProvider({ children }) {
   }, []);
 
   return (
-    <ProgressCtx.Provider value={{ progress, loaded, getVal, setVal, resetPrefix }}>
+    <ProgressCtx.Provider value={{ progress, loaded, getVal, setVal, delVal, resetPrefix }}>
       {children}
     </ProgressCtx.Provider>
   );

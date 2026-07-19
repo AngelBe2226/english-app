@@ -20,6 +20,9 @@ export const api = {
       body: JSON.stringify({ value }),
     }).then(json),
 
+  deleteProgress: (key) =>
+    fetch(`/api/progress/${encodeURIComponent(key)}`, { method: "DELETE" }).then(json),
+
   resetPrefix: (prefix) =>
     fetch(`/api/progress/reset?prefix=${encodeURIComponent(prefix)}`, {
       method: "POST",

@@ -4,6 +4,7 @@ import { useProgress } from "./progress";
 import Sidebar from "./components/Sidebar";
 import BlockPage from "./components/BlockPage";
 import Block15Page from "./panels/Block15Page";
+import HighlightsPanel from "./panels/HighlightsPanel";
 
 function scrollToSection(idx) {
   const el = document.getElementById("sec-" + idx.replace(/\./g, "-"));
@@ -23,6 +24,12 @@ export default function App() {
   }, []);
 
   useEffect(() => {
+    if (current === "highlights") {
+      setBlock(null);
+      setLoadingBlock(false);
+      window.scrollTo({ top: 0, behavior: "instant" });
+      return;
+    }
     setLoadingBlock(true);
     api
       .getBlock(current)
@@ -75,6 +82,8 @@ export default function App() {
       <main className="content">
         {!loaded || loadingBlock ? (
           <p className="muted center">Cargando…</p>
+        ) : current === "highlights" ? (
+          <HighlightsPanel index={index} onGoToSection={goToSection} />
         ) : !block ? (
           <p className="muted center">No se pudo cargar el bloque {current}.</p>
         ) : current === "15" ? (

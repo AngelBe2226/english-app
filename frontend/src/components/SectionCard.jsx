@@ -2,6 +2,7 @@ import RichText from "./RichText";
 import Table from "./Table";
 import Quiz from "./Quiz";
 import ProduceBox from "./ProduceBox";
+import HighlightButton from "./HighlightButton";
 
 // Etiqueta que se muestra en cada tipo de nota (excepción / énfasis / truco).
 const NOTE_LABEL = {
@@ -11,11 +12,12 @@ const NOTE_LABEL = {
   why: "por qué",
 };
 
-function Note({ note }) {
+function Note({ note, hlId }) {
   const type = note.type || "emphasis";
   return (
     <div className={`note note-${type}`}>
       <span className="note-tag">{note.title || NOTE_LABEL[type] || type}</span>
+      <HighlightButton id={hlId} label="destacado" />
       <RichText as="div" className="note-body" html={note.text} />
     </div>
   );
@@ -23,11 +25,13 @@ function Note({ note }) {
 
 // A subtopic card: heading + level badge, the rule (in a highlighted box),
 // optional reasoning, examples, reference tables, exception/emphasis notes,
-// quizzes and the produce box.
+// quizzes and the produce box. Rule, notes and examples each carry a
+// HighlightButton so the user can flag them for the "Destacados" panel.
 export default function SectionCard({ section }) {
   const level = (section.level || "").toLowerCase();
-  // Notas al principio (before) y al final (after) del epígrafe.
-  const notes = section.notes || [];
+  // Notas al principio (before) y al final (after) del epígrafe. El índice
+  // original se conserva para que el id de resaltado sea estable.
+  const notes = (section.notes || []).map((n, i) => ({ ...n, _i: i }));
   const notesBefore = notes.filter((n) => n.at === "start");
   const notesAfter = notes.filter((n) => n.at !== "start");
 
@@ -44,6 +48,7 @@ export default function SectionCard({ section }) {
       {section.rule && (
         <div className="rule-box">
           <span className="rule-tag">regla</span>
+          <HighlightButton id={`hl:${section.idx}-rule`} label="destacado" />
           <RichText as="div" className="rule" html={section.rule} />
         </div>
       )}
@@ -51,18 +56,20 @@ export default function SectionCard({ section }) {
       {section.reasoning && (
         <div className="note note-why">
           <span className="note-tag">por qué</span>
+          <HighlightButton id={`hl:${section.idx}-reasoning`} label="destacado" />
           <RichText as="div" className="note-body" html={section.reasoning} />
         </div>
       )}
 
-      {notesBefore.map((n, i) => (
-        <Note key={`nb-${i}`} note={n} />
+      {notesBefore.map((n) => (
+        <Note key={`nb-${n._i}`} note={n} hlId={`hl:${section.idx}-note${n._i}`} />
       ))}
 
       {section.examples?.length > 0 && (
         <ul className="examples">
           {section.examples.map((ex, i) => (
             <li key={i}>
+              <HighlightButton id={`hl:${section.idx}-ex${i}`} label="ejemplo destacado" />
               <RichText className="ex-en" html={ex.en} />
               {ex.es && <span className="ex-es">{ex.es}</span>}
             </li>
@@ -74,8 +81,8 @@ export default function SectionCard({ section }) {
         <Table key={i} table={t} />
       ))}
 
-      {notesAfter.map((n, i) => (
-        <Note key={`na-${i}`} note={n} />
+      {notesAfter.map((n) => (
+        <Note key={`na-${n._i}`} note={n} hlId={`hl:${section.idx}-note${n._i}`} />
       ))}
 
       {section.quiz?.length > 0 && (

@@ -29,7 +29,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
 
   // Carga perezosa de los epígrafes del capítulo abierto.
   useEffect(() => {
-    if (expanded && !secCache[expanded]) {
+    if (expanded && expanded !== "highlights" && !secCache[expanded]) {
       api
         .getBlock(expanded)
         .then((d) =>
@@ -46,7 +46,24 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
   const toggle = (block) => setExpanded((prev) => (prev === block ? null : block));
 
   return (
-    <nav className="toc">
+    <>
+      <button
+        className={"nav-pin" + (current === "highlights" ? " current" : "")}
+        onClick={() => onSelectBlock("highlights")}
+      >
+        <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
+          <path
+            d="M12 2.5l2.9 6.2 6.8.7-5.1 4.6 1.5 6.7L12 17.6l-6.1 3.1 1.5-6.7-5.1-4.6 6.8-.7z"
+            fill={current === "highlights" ? "currentColor" : "none"}
+            stroke="currentColor"
+            strokeWidth="1.6"
+            strokeLinejoin="round"
+          />
+        </svg>
+        Destacados
+      </button>
+
+      <nav className="toc">
       {index.map((b) => {
         const open = expanded === b.block;
         const sections = secCache[b.block];
@@ -88,6 +105,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
           </div>
         );
       })}
-    </nav>
+      </nav>
+    </>
   );
 }
