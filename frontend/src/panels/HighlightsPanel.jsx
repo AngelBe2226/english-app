@@ -44,6 +44,7 @@ export default function HighlightsPanel({ index, onGoToSection }) {
             ...base,
             key: `hl:${s.idx}-reasoning`,
             category: "nota",
+            noteType: "why",
             kind: "por qué",
             html: s.reasoning,
           });
@@ -51,7 +52,14 @@ export default function HighlightsPanel({ index, onGoToSection }) {
         (s.notes || []).forEach((n, i) => {
           const key = `hl:${s.idx}-note${i}`;
           if (progress[key] != null) {
-            out.push({ ...base, key, category: "nota", kind: NOTE_LABEL[n.type] || "nota", html: n.text });
+            out.push({
+              ...base,
+              key,
+              category: "nota",
+              noteType: n.type || "emphasis",
+              kind: NOTE_LABEL[n.type] || "nota",
+              html: n.text,
+            });
           }
         });
         (s.examples || []).forEach((ex, i) => {
@@ -121,7 +129,7 @@ export default function HighlightsPanel({ index, onGoToSection }) {
           {CATEGORIES.map((c) => (
             <button
               key={c.key}
-              className={"hl-filter" + (filter === c.key ? " on" : "")}
+              className={`hl-filter cat-${c.key}` + (filter === c.key ? " on" : "")}
               onClick={() => setFilter(c.key)}
               disabled={counts[c.key] === 0}
             >
@@ -148,8 +156,15 @@ export default function HighlightsPanel({ index, onGoToSection }) {
 }
 
 function HighlightCard({ it, onGoToSection }) {
+  const catClass =
+    "hl-card cat-" +
+    it.category +
+    (it.category === "nota" && (it.noteType === "exception" || it.noteType === "tip")
+      ? " note-" + it.noteType
+      : "");
+
   return (
-    <div className="hl-card">
+    <div className={catClass}>
       <div className="hl-card-meta">
         <span className="hl-card-tag">{it.kind}</span>
         <span className="hl-card-src">

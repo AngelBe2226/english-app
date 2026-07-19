@@ -892,11 +892,51 @@ b.hl,
   gap: 0.9rem;
 }
 .hl-card {
-  background: var(--surface);
+  --hl-color: #c99b1f;
+  --hl-bg: var(--surface);
+  --hl-tag-bg: rgba(201, 155, 31, 0.12);
+  background: var(--hl-bg);
   border: 1px solid var(--line);
-  border-left: 4px solid #c99b1f;
+  border-left: 4px solid var(--hl-color);
   border-radius: 10px;
   padding: 0.85rem 1rem;
+}
+/* Un color por categoría (compartido por tarjetas y chips de filtro),
+   para poder contrastarlas de un vistazo. */
+.cat-regla {
+  --hl-color: var(--iris);
+  --hl-bg: var(--iris-soft);
+  --hl-tag-bg: rgba(59, 62, 140, 0.14);
+}
+.cat-ejemplo {
+  --hl-color: var(--a2);
+  --hl-bg: rgba(46, 145, 135, 0.08);
+  --hl-tag-bg: rgba(46, 145, 135, 0.16);
+}
+.cat-nota {
+  --hl-color: var(--b2);
+  --hl-bg: rgba(91, 75, 156, 0.08);
+  --hl-tag-bg: rgba(91, 75, 156, 0.16);
+}
+.cat-nota.note-exception {
+  --hl-color: var(--no);
+  --hl-bg: var(--no-bg);
+  --hl-tag-bg: rgba(178, 58, 58, 0.14);
+}
+.cat-nota.note-tip {
+  --hl-color: var(--ok);
+  --hl-bg: var(--ok-bg);
+  --hl-tag-bg: rgba(44, 122, 75, 0.14);
+}
+.cat-quiz {
+  --hl-color: var(--c1);
+  --hl-bg: rgba(166, 63, 132, 0.08);
+  --hl-tag-bg: rgba(166, 63, 132, 0.16);
+}
+.cat-oracion {
+  --hl-color: var(--b1);
+  --hl-bg: rgba(44, 111, 166, 0.08);
+  --hl-tag-bg: rgba(44, 111, 166, 0.16);
 }
 .hl-card-meta {
   display: flex;
@@ -910,10 +950,11 @@ b.hl,
   font-size: 0.66rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  color: #c99b1f;
-  background: rgba(201, 155, 31, 0.12);
+  color: var(--hl-color);
+  background: var(--hl-tag-bg);
   border-radius: 999px;
   padding: 0.1rem 0.5rem;
+  font-weight: 600;
 }
 .hl-card-src {
   font-size: 0.78rem;
@@ -944,6 +985,7 @@ b.hl,
   margin-bottom: 1.3rem;
 }
 .hl-filter {
+  --hl-color: var(--iris);
   border: 1px solid var(--line-strong);
   background: var(--surface);
   color: var(--ink-soft);
@@ -956,16 +998,16 @@ b.hl,
   gap: 0.35rem;
 }
 .hl-filter:hover:not(:disabled) {
-  border-color: var(--iris);
-  color: var(--iris);
+  border-color: var(--hl-color);
+  color: var(--hl-color);
 }
 .hl-filter:disabled {
   opacity: 0.4;
   cursor: default;
 }
 .hl-filter.on {
-  background: var(--iris);
-  border-color: var(--iris);
+  background: var(--hl-color);
+  border-color: var(--hl-color);
   color: #fff;
 }
 .hl-filter-count {
