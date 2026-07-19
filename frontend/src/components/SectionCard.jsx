@@ -3,6 +3,7 @@ import Table from "./Table";
 import Quiz from "./Quiz";
 import ProduceBox from "./ProduceBox";
 import HighlightButton from "./HighlightButton";
+import { useProgress } from "../progress";
 
 // Etiqueta que se muestra en cada tipo de nota (excepción / énfasis / truco).
 const NOTE_LABEL = {
@@ -28,12 +29,19 @@ function Note({ note, hlId }) {
 // quizzes and the produce box. Rule, notes and examples each carry a
 // HighlightButton so the user can flag them for the "Destacados" panel.
 export default function SectionCard({ section }) {
+  const { delMany } = useProgress();
   const level = (section.level || "").toLowerCase();
   // Notas al principio (before) y al final (after) del epígrafe. El índice
   // original se conserva para que el id de resaltado sea estable.
   const notes = (section.notes || []).map((n, i) => ({ ...n, _i: i }));
   const notesBefore = notes.filter((n) => n.at === "start");
   const notesAfter = notes.filter((n) => n.at !== "start");
+
+  function resetSectionQuiz() {
+    if (!section.quiz?.length) return;
+    if (!window.confirm(`¿Reiniciar las respuestas del quiz de ${section.idx}?`)) return;
+    delMany(section.quiz.map((q) => q.id));
+  }
 
   return (
     <section className="section-card" id={`sec-${section.idx.replace(/\./g, "-")}`}>
@@ -87,6 +95,11 @@ export default function SectionCard({ section }) {
 
       {section.quiz?.length > 0 && (
         <div className="quizzes">
+          <div className="quizzes-head">
+            <button className="reset-section-btn" onClick={resetSectionQuiz}>
+              ↺ Reiniciar este epígrafe
+            </button>
+          </div>
           {section.quiz.map((q) => (
             <Quiz key={q.id} q={q} />
           ))}

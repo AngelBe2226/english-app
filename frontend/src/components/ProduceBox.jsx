@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import RichText from "./RichText";
 import { useProgress } from "../progress";
+import HighlightButton from "./HighlightButton";
 
 // "Write your own sentence" box. Saves the textarea contents under its id.
 export default function ProduceBox({ produce }) {
@@ -24,6 +25,7 @@ export default function ProduceBox({ produce }) {
 
   return (
     <div className="produce" data-pid={produce.id}>
+      <HighlightButton id={`hl:${produce.id}`} label="frase destacada" />
       <RichText as="label" className="produce-label" html={produce.label} />
       <textarea
         value={text}

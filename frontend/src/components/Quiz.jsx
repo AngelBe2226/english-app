@@ -1,5 +1,6 @@
 import RichText from "./RichText";
 import { useProgress } from "../progress";
+import HighlightButton from "./HighlightButton";
 
 // One multiple-choice question. Once answered it locks: the correct option
 // turns green, a wrong pick turns red, and the choice is persisted by id.
@@ -18,6 +19,7 @@ export default function Quiz({ q }) {
 
   return (
     <div className="quiz" data-qid={q.id}>
+      <HighlightButton id={`hl:${q.id}`} label="quiz destacado" />
       <RichText as="p" className="q-question" html={q.question} />
       <div className="opts">
         {q.options.map((opt, i) => {

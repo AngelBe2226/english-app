@@ -34,6 +34,24 @@ export function ProgressProvider({ children }) {
     return api.deleteProgress(key).catch(() => {});
   }, []);
 
+  // Deletes an explicit list of keys (not a prefix) — used to reset just
+  // one epígrafe's quiz without risking a prefix collision (e.g. "s1"
+  // matching "s10", "s11"...).
+  const delMany = useCallback((keys) => {
+    setProgress((prev) => {
+      let changed = false;
+      const next = { ...prev };
+      for (const k of keys) {
+        if (k in next) {
+          delete next[k];
+          changed = true;
+        }
+      }
+      return changed ? next : prev;
+    });
+    return Promise.all(keys.map((k) => api.deleteProgress(k).catch(() => {})));
+  }, []);
+
   const resetPrefix = useCallback((prefix) => {
     setProgress((prev) => {
       const next = {};
@@ -44,7 +62,7 @@ export function ProgressProvider({ children }) {
   }, []);
 
   return (
-    <ProgressCtx.Provider value={{ progress, loaded, getVal, setVal, delVal, resetPrefix }}>
+    <ProgressCtx.Provider value={{ progress, loaded, getVal, setVal, delVal, delMany, resetPrefix }}>
       {children}
     </ProgressCtx.Provider>
   );

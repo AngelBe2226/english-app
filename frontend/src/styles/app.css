@@ -523,10 +523,28 @@ b.hl,
   gap: 0.9rem;
   margin: 1rem 0;
 }
+.quizzes-head {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: -0.3rem;
+}
+.reset-section-btn {
+  border: none;
+  background: transparent;
+  color: var(--ink-faint);
+  font-size: 0.78rem;
+  cursor: pointer;
+  padding: 0.2rem 0.4rem;
+}
+.reset-section-btn:hover {
+  color: var(--no);
+  text-decoration: underline;
+}
 .quiz {
+  position: relative;
   background: var(--surface-2);
   border-radius: 12px;
-  padding: 0.9rem 1rem;
+  padding: 0.9rem 2.3rem 0.9rem 1rem;
 }
 .q-question {
   margin: 0 0 0.6rem;
@@ -579,9 +597,10 @@ b.hl,
 
 /* ---------- produce ---------- */
 .produce {
+  position: relative;
   margin-top: 1rem;
   border-top: 1px dashed var(--line-strong);
-  padding-top: 1rem;
+  padding: 1rem 2.3rem 0 0;
 }
 .produce-label {
   display: block;
@@ -915,4 +934,84 @@ b.hl,
 .hl-card-body {
   margin: 0;
   color: var(--ink);
+}
+
+/* ---------- Destacados: filtros por categoría ---------- */
+.hl-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1.3rem;
+}
+.hl-filter {
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  padding: 0.32rem 0.75rem;
+  font-size: 0.82rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.hl-filter:hover:not(:disabled) {
+  border-color: var(--iris);
+  color: var(--iris);
+}
+.hl-filter:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.hl-filter.on {
+  background: var(--iris);
+  border-color: var(--iris);
+  color: #fff;
+}
+.hl-filter-count {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  opacity: 0.85;
+}
+
+/* ---------- Destacados: tarjeta de quiz ---------- */
+.hl-quiz-q {
+  margin: 0 0 0.55rem;
+  font-weight: 500;
+  color: var(--ink);
+}
+.hl-quiz-opts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.hl-quiz-opt {
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  padding: 0.3rem 0.7rem;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.hl-quiz-opt.correct {
+  background: var(--ok-bg);
+  border-color: var(--ok);
+  color: var(--ok);
+  font-weight: 600;
+}
+.hl-quiz-opt.wrong {
+  background: var(--no-bg);
+  border-color: var(--no);
+  color: var(--no);
+}
+
+/* ---------- Destacados: tarjeta de oración (produce) ---------- */
+.hl-produce-label {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+.hl-produce-answer {
+  margin: 0;
+  color: var(--ink);
+  font-style: italic;
 }
