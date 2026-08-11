@@ -764,6 +764,551 @@
       ],
       "quiz": [],
       "produce": null
+    },
+    {
+      "idx": "17.6",
+      "title": "Sustantivos — negocios, ventas y trabajo",
+      "level": "B1–C1",
+      "rule": "Sustantivos frecuentes en contexto profesional, con sus sinónimos más cercanos y el matiz que decide cuál usar en cada situación.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Sinónimos",
+            "Matiz / cuándo usar cada uno",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "job",
+              "position, role, occupation",
+              "\"Job\" informal-neutro. \"Position\" más formal (CV, entrevistas). \"Role\" enfatiza funciones. \"Occupation\" muy formal/burocrático (formularios).",
+              "She applied for the position of Sales Advisor."
+            ],
+            [
+              "deal",
+              "agreement, arrangement, contract",
+              "\"Deal\" informal (\"close a deal\"). \"Agreement\" neutro. \"Contract\" documento legal firmado.",
+              "We finally closed the deal this morning."
+            ],
+            [
+              "client",
+              "customer, guest, patron",
+              "\"Client\" servicios profesionales. \"Customer\" comercio general. \"Guest\" hostelería, trato cercano. \"Patron\" muy formal/anticuado.",
+              "Our guests expect a five-star experience."
+            ],
+            [
+              "price",
+              "cost, rate, fee, fare",
+              "\"Price\" general. \"Cost\" lo que cuesta producir/pagar. \"Rate\" tarifa por unidad. \"Fee\" honorario. \"Fare\" precio de transporte.",
+              "The nightly rate includes breakfast."
+            ],
+            [
+              "discount",
+              "reduction, rebate, markdown",
+              "\"Discount\" general. \"Rebate\" reembolso tras la compra. \"Markdown\" rebaja de etiqueta (retail).",
+              "We offered a 15% discount for early booking."
+            ],
+            [
+              "meeting",
+              "conference, briefing, gathering",
+              "\"Meeting\" general. \"Conference\" más grande/formal. \"Briefing\" informativa y corta. \"Gathering\" social, menos formal.",
+              "Let's have a quick briefing before the client arrives."
+            ],
+            [
+              "issue",
+              "problem, concern, complaint",
+              "\"Issue\" neutro-diplomático (el más usado en atención al cliente). \"Problem\" más directo. \"Concern\" preocupación aún no confirmada. \"Complaint\" queja formal.",
+              "The guest raised a concern about the noise."
+            ],
+            [
+              "improvement",
+              "enhancement, upgrade, progress",
+              "\"Improvement\" general. \"Enhancement\" mejora de algo ya bueno. \"Upgrade\" mejora de categoría. \"Progress\" avance continuo.",
+              "We upgraded her room as a gesture of goodwill."
+            ],
+            [
+              "goal",
+              "target, objective, aim",
+              "\"Goal\" motivador. \"Target\" cifra medible (\"sales target\"). \"Objective\" formal, en informes. \"Aim\" propósito general.",
+              "Our target this quarter is 200 bookings."
+            ],
+            [
+              "feedback",
+              "response, input, review",
+              "\"Feedback\" el más usado en el trabajo. \"Response\" respuesta genérica. \"Input\" aportación. \"Review\" evaluación o reseña pública.",
+              "Thank you for your feedback — we'll pass it on to the team."
+            ],
+            [
+              "staff",
+              "team, personnel, workforce",
+              "\"Staff\"/\"team\" cotidianos. \"Personnel\" formal-administrativo. \"Workforce\" a nivel de toda una industria.",
+              "Our staff are trained to handle any request."
+            ],
+            [
+              "benefit",
+              "advantage, perk, upside",
+              "\"Benefit\" formal/neutro. \"Advantage\" ventaja comparativa. \"Perk\" informal (extra, ej. seguro médico). \"Upside\" lado positivo.",
+              "One perk of the loyalty programme is free parking."
+            ],
+            [
+              "outcome",
+              "result, consequence",
+              "\"Outcome\" resultado esperado de un proceso. \"Result\" el más general. \"Consequence\" resultado, a menudo negativo.",
+              "The outcome of the negotiation was better than expected."
+            ],
+            [
+              "request",
+              "demand, application",
+              "\"Request\" petición educada. \"Demand\" exigencia, más fuerte. \"Application\" solicitud formal (empleo, visado).",
+              "We received a special request for a late check-out."
+            ],
+            [
+              "opportunity",
+              "chance, prospect",
+              "\"Opportunity\" formal/positivo. \"Chance\" más informal. \"Prospect\" posibilidad futura, a menudo de negocio.",
+              "This client is a strong prospect for the premium package."
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "tip",
+          "at": "end",
+          "text": "No elijas el sinónimo más \"grande\" o formal por sistema: en ventas, la palabra más natural casi siempre gana a la más rebuscada."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.7",
+      "title": "Sustantivos — vida cotidiana, personas y lugares",
+      "level": "A2–B2",
+      "rule": "Sustantivos de uso general —no solo profesional— con sinónimos que a menudo se confunden por parecerse al español o por solaparse en significado.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Sinónimos",
+            "Matiz / cuándo usar cada uno",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "house",
+              "home, residence, property",
+              "\"House\" el edificio. \"Home\" el hogar (emocional). \"Residence\" formal/legal. \"Property\" desde el punto de vista inmobiliario/legal.",
+              "The property has been on the market for two months."
+            ],
+            [
+              "journey",
+              "trip, voyage, commute",
+              "\"Journey\" trayecto en general (a veces metafórico). \"Trip\" viaje concreto ida y vuelta. \"Voyage\" viaje largo, típicamente en barco. \"Commute\" trayecto diario casa-trabajo.",
+              "Her commute takes almost an hour each way."
+            ],
+            [
+              "friend",
+              "companion, acquaintance, mate (UK)",
+              "\"Friend\" general. \"Companion\" acompañante, más literario. \"Acquaintance\" conocido, no íntimo. \"Mate\" informal británico.",
+              "He's just an acquaintance, not a close friend."
+            ],
+            [
+              "money",
+              "cash, funds, currency",
+              "\"Money\" general. \"Cash\" efectivo. \"Funds\" fondos, formal/plural (\"insufficient funds\"). \"Currency\" divisa concreta.",
+              "Please make sure you have sufficient funds before checkout."
+            ],
+            [
+              "mistake",
+              "error, slip, blunder",
+              "\"Mistake\" general. \"Error\" más formal/técnico. \"Slip\" fallo pequeño sin querer. \"Blunder\" error grave y torpe.",
+              "It was an honest mistake, easily fixed."
+            ],
+            [
+              "problem",
+              "trouble, difficulty, hassle",
+              "\"Problem\" neutro. \"Trouble\" apuros, con matiz emocional. \"Difficulty\" formal, obstáculo. \"Hassle\" informal, molestia.",
+              "Booking online saves you the hassle of calling."
+            ],
+            [
+              "weather",
+              "climate",
+              "\"Weather\" el tiempo del día a día. \"Climate\" clima de una región a largo plazo — no se confunden.",
+              "The weather forecast looks good for the weekend."
+            ],
+            [
+              "area",
+              "region, zone, district",
+              "\"Area\" general. \"Region\" gran zona geográfica. \"Zone\" zona delimitada por función (\"time zone\"). \"District\" distrito administrativo.",
+              "The hotel is in a quiet residential area."
+            ],
+            [
+              "neighbourhood",
+              "community, vicinity",
+              "\"Neighbourhood\" barrio con sentido de comunidad. \"Community\" comunidad de personas. \"Vicinity\" formal, cercanía/inmediaciones.",
+              "There are several restaurants in the vicinity."
+            ],
+            [
+              "habit",
+              "routine, custom, tendency",
+              "\"Habit\" hábito individual. \"Routine\" secuencia de hábitos. \"Custom\" costumbre cultural. \"Tendency\" tendencia, tenue.",
+              "Checking the schedule every morning became a habit."
+            ]
+          ]
+        }
+      ],
+      "notes": [],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.8",
+      "title": "Adjetivos — cualidad, tamaño y opinión",
+      "level": "A2–C1",
+      "rule": "Adjetivos de uso constante, organizados con su antónimo y sus sinónimos en escala de intensidad —de más suave a más fuerte— para poder matizar con precisión.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Sinónimos",
+            "Antónimo",
+            "Matiz / cuándo usar cada uno",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "big",
+              "large, huge, enormous, massive",
+              "small / tiny",
+              "Escala ascendente de tamaño: big (neutro-informal) < large (más formal) < huge/enormous/massive (extremo).",
+              "We need a larger conference room for this event."
+            ],
+            [
+              "good",
+              "great, excellent, outstanding",
+              "bad / poor",
+              "Escala ascendente: good < great < excellent < outstanding (el mejor, notable).",
+              "Her presentation was outstanding."
+            ],
+            [
+              "bad",
+              "poor, terrible, awful",
+              "good",
+              "\"Poor\" formal-suave (\"poor quality\"). \"Terrible\"/\"awful\" mucho más fuertes y coloquiales.",
+              "The Wi-Fi signal was terrible in that room."
+            ],
+            [
+              "important",
+              "significant, crucial, vital",
+              "trivial / minor",
+              "\"Significant\" formal/estadístico. \"Crucial\"/\"vital\" énfasis en necesidad absoluta.",
+              "Trust is a crucial factor in any negotiation."
+            ],
+            [
+              "difficult",
+              "hard, challenging, tough",
+              "easy",
+              "\"Hard\" informal. \"Challenging\" positivo/motivador. \"Tough\" informal, con matiz de dureza.",
+              "It was a challenging quarter, but we hit our target."
+            ],
+            [
+              "easy",
+              "simple, straightforward, effortless",
+              "difficult",
+              "\"Straightforward\" muy usado en el trabajo (sin complicaciones). \"Effortless\" sin esfuerzo aparente, a menudo elogioso.",
+              "The check-in process is quick and straightforward."
+            ],
+            [
+              "expensive",
+              "costly, pricey, overpriced",
+              "cheap",
+              "\"Costly\" formal. \"Pricey\" informal. \"Overpriced\" implica que no vale lo que cuesta — es una crítica.",
+              "Some guests find the minibar overpriced."
+            ],
+            [
+              "cheap",
+              "affordable, inexpensive, budget",
+              "expensive",
+              "\"Affordable\" positivo (asequible). \"Inexpensive\" formal-neutro. \"Cheap\" puede sonar a baja calidad — en ventas mejor usar \"affordable\".",
+              "We offer an affordable package for families."
+            ],
+            [
+              "beautiful",
+              "attractive, stunning, gorgeous",
+              "ugly",
+              "Escala: attractive (agradable) < beautiful < stunning/gorgeous (impresionante).",
+              "The suite has a stunning view of the bay."
+            ],
+            [
+              "interesting",
+              "fascinating, intriguing",
+              "boring",
+              "\"Fascinating\" mucho más fuerte. \"Intriguing\" despierta curiosidad, con un punto de misterio.",
+              "The client made an intriguing counter-offer."
+            ],
+            [
+              "tired",
+              "exhausted, worn out, drained",
+              "energetic",
+              "\"Exhausted\" mucho más fuerte que \"tired\". \"Worn out\"/\"drained\" informales, agotamiento físico o emocional.",
+              "After the double shift, she was completely drained."
+            ],
+            [
+              "happy",
+              "pleased, glad, delighted, thrilled",
+              "sad / unhappy",
+              "Escala de formalidad e intensidad: glad (informal) — pleased (formal-neutro) — delighted (formal, muy contento) — thrilled (informal, emocionadísimo).",
+              "We are delighted to welcome you back."
+            ],
+            [
+              "angry",
+              "annoyed, irritated, furious",
+              "calm",
+              "Escala: annoyed (molesto, leve) < irritated < angry < furious (furioso, extremo).",
+              "The guest was clearly irritated by the delay."
+            ],
+            [
+              "clean",
+              "spotless, tidy, hygienic",
+              "dirty",
+              "\"Tidy\" ordenado, no es lo mismo que limpio. \"Spotless\" impecable, sin ninguna mancha. \"Hygienic\" enfatiza la salubridad.",
+              "The room was spotless when we checked it."
+            ],
+            [
+              "reliable",
+              "dependable, trustworthy, consistent",
+              "unreliable",
+              "Muy usado para describir empleados, proveedores o servicios en contexto profesional.",
+              "We need a reliable supplier for the renovation."
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "tip",
+          "at": "end",
+          "text": "Cuando dudes entre dos sinónimos, pregúntate por la intensidad: \"good\" no es lo mismo que \"outstanding\", aunque el español los traduzca igual a veces."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.9",
+      "title": "Adjetivos — personalidad y trato profesional",
+      "level": "B1–C1",
+      "rule": "Adjetivos para describir a personas —colegas, clientes, uno mismo en una entrevista— con matices de registro y de qué cualidad concreta resaltan.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Sinónimos",
+            "Antónimo",
+            "Matiz / cuándo usar cada uno",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "friendly",
+              "approachable, warm, welcoming",
+              "unfriendly / cold",
+              "\"Approachable\" accesible/fácil de abordar — clave en atención al cliente. \"Warm\" cálido en el trato.",
+              "The staff were warm and welcoming from the start."
+            ],
+            [
+              "professional",
+              "competent, skilled, capable",
+              "unprofessional",
+              "\"Competent\" cumple bien su función. \"Skilled\" con destreza técnica. \"Capable\" con capacidad demostrada.",
+              "She handled the complaint in a very professional way."
+            ],
+            [
+              "polite",
+              "courteous, respectful, considerate",
+              "rude",
+              "\"Courteous\" muy formal (cortés). \"Considerate\" tiene en cuenta a los demás.",
+              "He was courteous even when the guest raised his voice."
+            ],
+            [
+              "confident",
+              "self-assured, assertive",
+              "insecure / shy",
+              "\"Assertive\" defiende su postura sin agresividad — elogio en ventas y negociación.",
+              "Being assertive helped her close the deal faster."
+            ],
+            [
+              "patient",
+              "tolerant, understanding",
+              "impatient",
+              "\"Understanding\" comprensivo, añade empatía a la paciencia.",
+              "Thank you for being so understanding about the delay."
+            ],
+            [
+              "flexible",
+              "adaptable, versatile",
+              "rigid / inflexible",
+              "\"Versatile\" versátil, sirve para muchos usos o situaciones distintas.",
+              "Our booking policy is flexible for last-minute changes."
+            ],
+            [
+              "honest",
+              "sincere, genuine, upfront",
+              "dishonest",
+              "\"Upfront\" muy usado en negocios: directo y transparente desde el principio.",
+              "I'll be upfront about the extra costs involved."
+            ],
+            [
+              "ambitious",
+              "driven, motivated",
+              "unambitious",
+              "\"Driven\" muy motivado internamente, casi obsesivo con sus metas — elogio habitual en un CV.",
+              "She's one of the most driven people on the team."
+            ],
+            [
+              "organized",
+              "methodical, systematic",
+              "disorganized",
+              "\"Methodical\" con método claro. \"Systematic\" sigue un sistema paso a paso.",
+              "He's very methodical when handling bookings."
+            ],
+            [
+              "proactive",
+              "resourceful, initiative-taking",
+              "passive",
+              "\"Resourceful\" con recursos e ingenio para resolver problemas por sí mismo.",
+              "She was resourceful enough to solve it without asking."
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "tip",
+          "at": "end",
+          "text": "\"Driven\", \"resourceful\" y \"assertive\" son palabras que causan muy buena impresión en una entrevista de trabajo en inglés."
+        }
+      ],
+      "quiz": [],
+      "produce": null
+    },
+    {
+      "idx": "17.10",
+      "title": "Adverbios — modo, grado y frecuencia",
+      "level": "A2–C1",
+      "rule": "Sinónimos de los adverbios más usados, agrupados por lo que expresan (modo, intensidad, frecuencia), con el registro y contexto de cada uno.",
+      "examples": [],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Sinónimos",
+            "Matiz / cuándo usar cada uno",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "quickly",
+              "rapidly, swiftly, promptly",
+              "\"Promptly\" puntual/sin demora — ideal en atención al cliente (\"we responded promptly\").",
+              "We responded promptly to the complaint."
+            ],
+            [
+              "carefully",
+              "cautiously, thoroughly",
+              "\"Cautiously\" con cautela/precaución. \"Thoroughly\" a fondo, minuciosamente.",
+              "Please read the contract thoroughly before signing."
+            ],
+            [
+              "easily",
+              "effortlessly, readily",
+              "\"Readily\" con disposición o fácilmente disponible.",
+              "The information is readily available on our website."
+            ],
+            [
+              "really",
+              "truly, genuinely, thoroughly",
+              "\"Genuinely\" auténticamente, sin exageración — útil para sonar sincero.",
+              "I'm genuinely sorry for the inconvenience."
+            ],
+            [
+              "very",
+              "extremely, incredibly, highly",
+              "\"Highly\" muy formal, con adjetivos como \"highly recommended\", \"highly skilled\".",
+              "This hotel is highly recommended for business travel."
+            ],
+            [
+              "often",
+              "frequently, regularly",
+              "\"Regularly\" con regularidad/patrón fijo. \"Frequently\" más formal que \"often\".",
+              "We regularly update our availability calendar."
+            ],
+            [
+              "always",
+              "constantly, consistently",
+              "\"Consistently\" de forma constante y fiable — elogio (\"she consistently delivers\").",
+              "She consistently exceeds her sales targets."
+            ],
+            [
+              "definitely",
+              "certainly, absolutely, undoubtedly",
+              "Orden de formalidad/énfasis: certainly (formal) — definitely (neutro) — absolutely (enfático) — undoubtedly (sin duda, formal).",
+              "This is undoubtedly our most popular package."
+            ],
+            [
+              "probably",
+              "likely, presumably",
+              "\"Likely\" también funciona como adjetivo (\"it's likely that…\"). \"Presumably\" formal, se supone.",
+              "The client will likely confirm by Friday."
+            ],
+            [
+              "immediately",
+              "instantly, right away, promptly",
+              "\"Right away\" informal-directo, muy usado en el habla.",
+              "I'll look into it right away."
+            ],
+            [
+              "slightly",
+              "a bit, somewhat, marginally",
+              "\"Marginally\" formal, diferencia mínima. \"Somewhat\" formal-neutro.",
+              "The rate is marginally higher during peak season."
+            ],
+            [
+              "completely",
+              "entirely, totally, fully",
+              "\"Fully\" muy usado en el trabajo: \"fully booked\", \"fully trained\".",
+              "We're fully booked for the entire weekend."
+            ],
+            [
+              "eventually",
+              "ultimately, in the end",
+              "\"Ultimately\" enfatiza la conclusión final tras un proceso; formal.",
+              "Ultimately, the client chose the premium suite."
+            ],
+            [
+              "currently",
+              "presently, at the moment",
+              "\"Presently\" formal (ojo: en inglés americano a veces significa \"pronto\", no \"actualmente\").",
+              "We are currently reviewing your application."
+            ],
+            [
+              "basically",
+              "essentially, fundamentally",
+              "\"Essentially\" resume lo esencial de algo complejo; muy usado al explicar.",
+              "Essentially, the offer covers flights and transfers."
+            ]
+          ]
+        }
+      ],
+      "notes": [],
+      "quiz": [],
+      "produce": null
     }
   ]
 }
