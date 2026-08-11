@@ -639,6 +639,158 @@
             [
               "consist of",
               "The deal consists of three nights."
+            ],
+            [
+              "agree with",
+              "I completely agree with your proposal."
+            ],
+            [
+              "agree on",
+              "We still need to agree on a final price."
+            ],
+            [
+              "apply for",
+              "She applied for the manager position."
+            ],
+            [
+              "arrive at",
+              "We arrived at a fair agreement."
+            ],
+            [
+              "believe in",
+              "I believe in giving clients honest advice."
+            ],
+            [
+              "compare to",
+              "This suite compares well to the premium one."
+            ],
+            [
+              "complain about",
+              "The guest complained about the noise."
+            ],
+            [
+              "concentrate on",
+              "Let's concentrate on closing this deal."
+            ],
+            [
+              "congratulate on",
+              "I congratulated her on the promotion."
+            ],
+            [
+              "deal with",
+              "He deals with all the VIP bookings."
+            ],
+            [
+              "decide on",
+              "Have you decided on a date yet?"
+            ],
+            [
+              "differ from",
+              "This offer differs slightly from the last one."
+            ],
+            [
+              "dream of",
+              "She dreams of running her own hotel."
+            ],
+            [
+              "focus on",
+              "We need to focus on customer satisfaction."
+            ],
+            [
+              "laugh at",
+              "Don't laugh at his accent, it's rude."
+            ],
+            [
+              "listen to",
+              "Please listen to the client's concerns."
+            ],
+            [
+              "object to",
+              "He objected to the new policy."
+            ],
+            [
+              "participate in",
+              "All staff must participate in the training."
+            ],
+            [
+              "prevent from",
+              "The delay prevented us from checking in on time."
+            ],
+            [
+              "protect from",
+              "This clause protects the buyer from extra fees."
+            ],
+            [
+              "provide with",
+              "We provided them with a full refund."
+            ],
+            [
+              "rely on",
+              "You can rely on our 24-hour support."
+            ],
+            [
+              "remind of",
+              "This place reminds me of my hometown."
+            ],
+            [
+              "result in",
+              "The complaint resulted in a full investigation."
+            ],
+            [
+              "specialize in",
+              "She specializes in luxury real estate."
+            ],
+            [
+              "suffer from",
+              "The system suffers from frequent delays."
+            ],
+            [
+              "thank for",
+              "Thank you for your patience."
+            ],
+            [
+              "wait for",
+              "We're still waiting for their confirmation."
+            ],
+            [
+              "warn about",
+              "We warned them about the strict cancellation policy."
+            ],
+            [
+              "aware of",
+              "Are you aware of the new check-in times?"
+            ],
+            [
+              "capable of",
+              "She's capable of handling any complaint calmly."
+            ],
+            [
+              "concerned about",
+              "I'm concerned about the delivery date."
+            ],
+            [
+              "dependent on",
+              "Our schedule is dependent on the weather."
+            ],
+            [
+              "different from",
+              "This contract is different from the standard one."
+            ],
+            [
+              "familiar with",
+              "Are you familiar with our loyalty programme?"
+            ],
+            [
+              "fond of",
+              "He's very fond of this particular client."
+            ],
+            [
+              "full of",
+              "The lobby was full of excited guests."
+            ],
+            [
+              "keen on",
+              "She's keen on closing the deal today."
             ]
           ]
         }
@@ -656,46 +808,265 @@
       "idx": "17.4",
       "title": "Conectores por función",
       "level": "A2–C1",
-      "rule": "El banco de conectores organizado por <b>lo que quieres hacer</b> con ellos: añadir, contrastar, dar causa o consecuencia, etc. Ideal para redacción y speaking.",
+      "rule": "El banco de conectores organizado por <b>lo que quieres hacer</b> con ellos: añadir, contrastar, dar causa o consecuencia, ejemplificar, concluir o enfatizar. 50 conectores individuales — ideal para redacción y speaking, y para variar en vez de repetir siempre \"and\", \"but\" y \"so\".",
       "examples": [],
       "tables": [
         {
           "headers": [
+            "Conector",
             "Función",
-            "Conectores"
+            "Ejemplo"
           ],
           "rows": [
             [
+              "and",
               "Añadir",
-              "and · in addition · moreover · furthermore"
+              "We offer flights and accommodation."
             ],
             [
+              "also",
+              "Añadir",
+              "The suite also includes breakfast."
+            ],
+            [
+              "in addition",
+              "Añadir",
+              "In addition, guests get free parking."
+            ],
+            [
+              "moreover",
+              "Añadir",
+              "Moreover, the location is excellent."
+            ],
+            [
+              "furthermore",
+              "Añadir",
+              "Furthermore, cancellation is free."
+            ],
+            [
+              "besides",
+              "Añadir",
+              "Besides, the price is very competitive."
+            ],
+            [
+              "as well as",
+              "Añadir",
+              "It includes breakfast as well as parking."
+            ],
+            [
+              "but",
               "Contrastar",
-              "but · however · although · on the other hand"
+              "It's expensive but worth it."
             ],
             [
+              "however",
+              "Contrastar",
+              "However, the view is unbeatable."
+            ],
+            [
+              "although",
+              "Contrastar",
+              "Although it rained, the event went ahead."
+            ],
+            [
+              "though",
+              "Contrastar",
+              "It's small, though very cosy."
+            ],
+            [
+              "on the other hand",
+              "Contrastar",
+              "On the other hand, it's closer to the beach."
+            ],
+            [
+              "whereas",
+              "Contrastar",
+              "This suite has a balcony, whereas that one doesn't."
+            ],
+            [
+              "despite",
+              "Contrastar",
+              "Despite the price, they booked it."
+            ],
+            [
+              "because",
               "Causa",
-              "because · since · as · due to"
+              "We upgraded her because she's a loyal member."
             ],
             [
+              "since",
+              "Causa",
+              "Since you're a member, here's a discount."
+            ],
+            [
+              "as",
+              "Causa",
+              "As it was fully booked, we offered an alternative."
+            ],
+            [
+              "due to",
+              "Causa",
+              "The delay was due to bad weather."
+            ],
+            [
+              "owing to",
+              "Causa",
+              "Owing to high demand, prices increased."
+            ],
+            [
+              "so",
               "Consecuencia",
-              "so · therefore · as a result · thus"
+              "It was fully booked, so we offered another hotel."
             ],
             [
+              "therefore",
+              "Consecuencia",
+              "The flight was delayed; therefore, we adjusted check-in."
+            ],
+            [
+              "as a result",
+              "Consecuencia",
+              "As a result, bookings increased by 20%."
+            ],
+            [
+              "thus",
+              "Consecuencia",
+              "Thus, the offer became more attractive."
+            ],
+            [
+              "consequently",
+              "Consecuencia",
+              "Consequently, we revised our pricing."
+            ],
+            [
+              "if",
               "Condición",
-              "if · unless · provided that · as long as"
+              "If you book today, you'll save 15%."
             ],
             [
+              "unless",
+              "Condición",
+              "Unless you cancel, we'll charge the deposit."
+            ],
+            [
+              "provided that",
+              "Condición",
+              "You can check out late, provided that you ask in advance."
+            ],
+            [
+              "as long as",
+              "Condición",
+              "As long as you're flexible, I can find a deal."
+            ],
+            [
+              "otherwise",
+              "Condición",
+              "Confirm by Friday, otherwise we'll release the room."
+            ],
+            [
+              "when",
               "Tiempo",
-              "when · while · before · after · as soon as"
+              "Call me when the guest arrives."
             ],
             [
-              "Ejemplificar / aclarar",
-              "for example · such as · in other words"
+              "while",
+              "Tiempo",
+              "She answered emails while waiting for the client."
             ],
             [
+              "before",
+              "Tiempo",
+              "Read the terms before you sign."
+            ],
+            [
+              "after",
+              "Tiempo",
+              "We clean the room after check-out."
+            ],
+            [
+              "as soon as",
+              "Tiempo",
+              "I'll confirm as soon as I hear back."
+            ],
+            [
+              "until",
+              "Tiempo",
+              "We'll hold the room until 6pm."
+            ],
+            [
+              "meanwhile",
+              "Tiempo",
+              "Meanwhile, the rest of the team prepared the event."
+            ],
+            [
+              "for example",
+              "Ejemplificar",
+              "Some services, for example spa access, cost extra."
+            ],
+            [
+              "for instance",
+              "Ejemplificar",
+              "Many guests, for instance business travellers, prefer late check-out."
+            ],
+            [
+              "such as",
+              "Ejemplificar",
+              "Amenities such as Wi-Fi are included."
+            ],
+            [
+              "in particular",
+              "Ejemplificar",
+              "One offer in particular stood out."
+            ],
+            [
+              "namely",
+              "Ejemplificar",
+              "Two packages sell best, namely Classic and Premium."
+            ],
+            [
+              "in conclusion",
               "Concluir",
-              "in conclusion · to sum up · overall"
+              "In conclusion, the event was a success."
+            ],
+            [
+              "to sum up",
+              "Concluir",
+              "To sum up, we exceeded our targets."
+            ],
+            [
+              "overall",
+              "Concluir",
+              "Overall, guests were very satisfied."
+            ],
+            [
+              "in short",
+              "Concluir",
+              "In short, the offer covers everything."
+            ],
+            [
+              "all in all",
+              "Concluir",
+              "All in all, it was a great quarter."
+            ],
+            [
+              "in fact",
+              "Enfatizar",
+              "In fact, it's our best-selling package."
+            ],
+            [
+              "indeed",
+              "Enfatizar",
+              "Indeed, the resort has won several awards."
+            ],
+            [
+              "above all",
+              "Enfatizar",
+              "Above all, we value honest feedback."
+            ],
+            [
+              "especially",
+              "Enfatizar",
+              "Especially during summer, book early."
             ]
           ]
         }
@@ -869,6 +1240,216 @@
               "chance, prospect",
               "\"Opportunity\" formal/positivo. \"Chance\" más informal. \"Prospect\" posibilidad futura, a menudo de negocio.",
               "This client is a strong prospect for the premium package."
+            ],
+            [
+              "invoice",
+              "bill, receipt",
+              "\"Invoice\" factura formal B2B. \"Bill\" cuenta a pagar (restaurante, consumo). \"Receipt\" comprobante de que ya se pagó.",
+              "Please send the invoice to our finance department."
+            ],
+            [
+              "budget",
+              "allowance, funds",
+              "\"Budget\" presupuesto planificado. \"Allowance\" asignación concreta. \"Funds\" dinero disponible.",
+              "We have a limited marketing budget this quarter."
+            ],
+            [
+              "revenue",
+              "income, earnings, turnover",
+              "\"Revenue\" ingresos totales de una empresa. \"Income\" ingresos personales o generales. \"Earnings\" ganancias tras gastos. \"Turnover\" facturación total (UK).",
+              "Annual revenue grew by 12% this year."
+            ],
+            [
+              "profit",
+              "earnings, gain, margin",
+              "\"Profit\" beneficio neto. \"Margin\" margen relativo, en %. \"Gain\" ganancia puntual.",
+              "The margin on premium rooms is much higher."
+            ],
+            [
+              "loss",
+              "deficit, shortfall",
+              "\"Loss\" pérdida general. \"Deficit\" déficit en cuentas. \"Shortfall\" diferencia entre lo esperado y lo real.",
+              "We reported a small loss in the low season."
+            ],
+            [
+              "contract",
+              "agreement, terms",
+              "\"Contract\" documento legal vinculante y formal. \"Agreement\" acuerdo, puede ser informal. \"Terms\" condiciones concretas del acuerdo.",
+              "Please read the terms before signing the contract."
+            ],
+            [
+              "proposal",
+              "pitch, plan",
+              "\"Proposal\" propuesta formal. \"Pitch\" presentación de venta persuasiva. \"Plan\" plan concreto de acción.",
+              "Our pitch convinced them within ten minutes."
+            ],
+            [
+              "negotiation",
+              "bargaining, discussion",
+              "\"Negotiation\" formal. \"Bargaining\" regateo, más informal. \"Discussion\" charla o debate general.",
+              "The negotiation lasted almost two hours."
+            ],
+            [
+              "strategy",
+              "approach, plan",
+              "\"Strategy\" visión a largo plazo. \"Approach\" forma concreta de abordar algo. \"Plan\" pasos concretos a seguir.",
+              "We need a new strategy for the summer season."
+            ],
+            [
+              "department",
+              "division, unit",
+              "\"Department\" departamento. \"Division\" división grande de la empresa. \"Unit\" unidad más pequeña o especializada.",
+              "She transferred to the sales department last month."
+            ],
+            [
+              "colleague",
+              "coworker, associate",
+              "\"Colleague\" neutro-formal. \"Coworker\" más informal (AmE). \"Associate\" compañero o socio, algo formal.",
+              "My colleague will take over while I'm on leave."
+            ],
+            [
+              "manager",
+              "supervisor, executive",
+              "\"Manager\" gerente general. \"Supervisor\" supervisa tareas concretas. \"Executive\" alto cargo directivo.",
+              "The executive team approved the new pricing."
+            ],
+            [
+              "employee",
+              "worker, staff member",
+              "\"Employee\" formal/contractual. \"Worker\" más genérico. \"Staff member\" parte del equipo.",
+              "Every staff member receives training on arrival."
+            ],
+            [
+              "salary",
+              "wage, pay, income",
+              "\"Salary\" sueldo fijo mensual o anual. \"Wage\" sueldo por horas o días. \"Pay\" término genérico. \"Income\" ingresos en general.",
+              "The salary includes a performance bonus."
+            ],
+            [
+              "career",
+              "profession, occupation",
+              "\"Career\" trayectoria a largo plazo. \"Profession\" campo profesional concreto. \"Occupation\" lo que haces, típico en formularios.",
+              "She built her career in hospitality management."
+            ],
+            [
+              "skill",
+              "ability, expertise",
+              "\"Skill\" habilidad concreta. \"Ability\" capacidad en general. \"Expertise\" pericia o dominio experto.",
+              "Negotiation is a key skill in sales."
+            ],
+            [
+              "experience",
+              "background, track record",
+              "\"Experience\" general. \"Background\" trasfondo o formación previa. \"Track record\" historial de resultados demostrados.",
+              "She has a strong track record in real estate."
+            ],
+            [
+              "achievement",
+              "accomplishment, success",
+              "\"Achievement\" logro. \"Accomplishment\" lo mismo, más formal. \"Success\" éxito en general.",
+              "Winning that account was a real achievement."
+            ],
+            [
+              "challenge",
+              "obstacle, setback",
+              "\"Challenge\" reto, positivo o neutro. \"Obstacle\" obstáculo concreto. \"Setback\" contratiempo, un revés.",
+              "Language was the biggest challenge at first."
+            ],
+            [
+              "solution",
+              "resolution, fix",
+              "\"Solution\" solución general. \"Resolution\" formal, resolución de un conflicto. \"Fix\" informal, arreglo rápido.",
+              "We found a quick fix for the booking error."
+            ],
+            [
+              "decision",
+              "choice, verdict",
+              "\"Decision\" decisión. \"Choice\" elección entre opciones. \"Verdict\" veredicto o decisión final formal.",
+              "The final decision is up to the client."
+            ],
+            [
+              "scheme",
+              "plan, initiative",
+              "\"Scheme\" plan estructurado (UK; en otros contextos puede sonar a maquinación). \"Initiative\" iniciativa, connotación positiva.",
+              "We launched a new loyalty scheme this year."
+            ],
+            [
+              "risk",
+              "threat, hazard",
+              "\"Risk\" riesgo general. \"Threat\" amenaza concreta. \"Hazard\" peligro físico o de seguridad.",
+              "Overbooking is a risk we try to avoid."
+            ],
+            [
+              "growth",
+              "expansion, increase",
+              "\"Growth\" crecimiento orgánico. \"Expansion\" expansión a nuevos mercados. \"Increase\" aumento numérico.",
+              "The company is planning an expansion into Asia."
+            ],
+            [
+              "competitor",
+              "rival, opponent",
+              "\"Competitor\" neutro/empresarial. \"Rival\" con connotación de rivalidad. \"Opponent\" oponente, más de confrontación directa.",
+              "Our main competitor lowered their prices."
+            ],
+            [
+              "market",
+              "industry, sector",
+              "\"Market\" compradores y vendedores. \"Industry\" industria concreta. \"Sector\" sector económico amplio.",
+              "The hospitality sector recovered quickly."
+            ],
+            [
+              "support",
+              "assistance, help",
+              "\"Support\" ayuda continuada, a menudo técnica. \"Assistance\" ayuda formal en un momento concreto. \"Help\" general, informal.",
+              "Our support team is available around the clock."
+            ],
+            [
+              "complaint",
+              "grievance, objection",
+              "\"Complaint\" queja. \"Grievance\" agravio formal, RRHH/legal. \"Objection\" objeción puntual.",
+              "We take every complaint seriously."
+            ],
+            [
+              "refund",
+              "reimbursement, repayment",
+              "\"Refund\" devolución de dinero de una compra. \"Reimbursement\" reembolso de gastos. \"Repayment\" devolución de un préstamo.",
+              "We processed the refund within 48 hours."
+            ],
+            [
+              "warranty",
+              "guarantee, assurance",
+              "\"Warranty\" garantía de producto, formal/legal. \"Guarantee\" promesa de calidad. \"Assurance\" seguridad o certeza dada.",
+              "The service comes with a one-year warranty."
+            ],
+            [
+              "schedule",
+              "timetable, agenda",
+              "\"Schedule\" horario o calendario de tareas. \"Timetable\" horario fijo (transporte, clases). \"Agenda\" orden del día de una reunión.",
+              "Let's stick to the agenda for this meeting."
+            ],
+            [
+              "deadline",
+              "cutoff, due date",
+              "\"Deadline\" plazo límite. \"Cutoff\" punto de corte. \"Due date\" fecha de vencimiento, pagos o entregas.",
+              "The deadline for early booking is Friday."
+            ],
+            [
+              "presentation",
+              "pitch, demo",
+              "\"Presentation\" general. \"Pitch\" presentación de ventas persuasiva. \"Demo\" demostración práctica de producto.",
+              "She gave a great demo of the new booking system."
+            ],
+            [
+              "training",
+              "coaching, induction",
+              "\"Training\" formación general. \"Coaching\" acompañamiento personalizado. \"Induction\" formación de bienvenida para un nuevo empleado.",
+              "New hires go through a week of induction."
+            ],
+            [
+              "reputation",
+              "image, standing",
+              "\"Reputation\" reputación general. \"Image\" imagen pública percibida. \"Standing\" posición o prestigio en un sector.",
+              "The hotel has an excellent reputation for service."
             ]
           ]
         }
@@ -957,6 +1538,246 @@
               "routine, custom, tendency",
               "\"Habit\" hábito individual. \"Routine\" secuencia de hábitos. \"Custom\" costumbre cultural. \"Tendency\" tendencia, tenue.",
               "Checking the schedule every morning became a habit."
+            ],
+            [
+              "family",
+              "relatives, household",
+              "\"Family\" núcleo familiar. \"Relatives\" familiares en general, más amplio. \"Household\" unidad que vive junta bajo un techo.",
+              "The whole household was affected by the move."
+            ],
+            [
+              "child",
+              "kid, youngster",
+              "\"Child\" formal/neutro. \"Kid\" informal. \"Youngster\" joven en general.",
+              "The hotel has activities for kids of all ages."
+            ],
+            [
+              "parent",
+              "guardian, caregiver",
+              "\"Parent\" madre o padre. \"Guardian\" tutor legal. \"Caregiver\" cuidador, no necesariamente familiar.",
+              "A guardian must sign for minors travelling alone."
+            ],
+            [
+              "marriage",
+              "wedding, union",
+              "\"Marriage\" matrimonio como estado. \"Wedding\" la boda como evento. \"Union\" unión formal, a veces legal.",
+              "We host weddings on the terrace every summer."
+            ],
+            [
+              "relationship",
+              "bond, connection",
+              "\"Relationship\" general. \"Bond\" vínculo emocional fuerte. \"Connection\" conexión más superficial o casual.",
+              "We build long-term relationships with our clients."
+            ],
+            [
+              "childhood",
+              "youth, upbringing",
+              "\"Childhood\" infancia como etapa. \"Youth\" juventud, más amplio. \"Upbringing\" crianza o educación recibida.",
+              "She spent her childhood near the coast."
+            ],
+            [
+              "education",
+              "schooling, learning",
+              "\"Education\" formal. \"Schooling\" escolarización concreta. \"Learning\" aprendizaje en general.",
+              "Continuous learning is part of our company culture."
+            ],
+            [
+              "health",
+              "wellbeing, fitness",
+              "\"Health\" salud general. \"Wellbeing\" bienestar físico y mental. \"Fitness\" forma física concreta.",
+              "The spa focuses on wellbeing, not just relaxation."
+            ],
+            [
+              "illness",
+              "sickness, disease",
+              "\"Illness\" enfermedad en general. \"Sickness\" más coloquial. \"Disease\" enfermedad específica o diagnosticada.",
+              "He called in sick due to a sudden illness."
+            ],
+            [
+              "injury",
+              "wound, harm",
+              "\"Injury\" lesión, accidente o deporte. \"Wound\" herida con sangre o corte. \"Harm\" daño en general, a veces abstracto.",
+              "No guests suffered any injury during the event."
+            ],
+            [
+              "exercise",
+              "workout, activity",
+              "\"Exercise\" ejercicio en general. \"Workout\" sesión de entrenamiento concreta. \"Activity\" actividad física genérica.",
+              "The gym offers a free workout session on arrival."
+            ],
+            [
+              "diet",
+              "nutrition, eating habits",
+              "\"Diet\" dieta o alimentación. \"Nutrition\" nutrición, más científico. \"Eating habits\" hábitos alimenticios.",
+              "The menu caters to different eating habits."
+            ],
+            [
+              "food",
+              "meal, cuisine",
+              "\"Food\" comida en general. \"Meal\" una comida concreta. \"Cuisine\" gastronomía de un lugar o estilo.",
+              "The restaurant specializes in local cuisine."
+            ],
+            [
+              "restaurant",
+              "diner, eatery",
+              "\"Restaurant\" neutro. \"Diner\" informal (AmE, comida rápida/clásica). \"Eatery\" informal genérico.",
+              "There's a lovely little eatery near the marina."
+            ],
+            [
+              "shop",
+              "store, boutique",
+              "\"Shop\" neutro (UK). \"Store\" neutro (US, más grande). \"Boutique\" tienda pequeña y especializada, moda.",
+              "There's a boutique in the lobby selling local crafts."
+            ],
+            [
+              "purchase",
+              "acquisition, buy",
+              "\"Purchase\" formal, la compra. \"Acquisition\" adquisición, más corporativo. \"Buy\" informal, sustantivo coloquial.",
+              "Thank you for your recent purchase."
+            ],
+            [
+              "traffic",
+              "congestion, gridlock",
+              "\"Traffic\" tráfico general. \"Congestion\" atasco por exceso de volumen. \"Gridlock\" atasco total, nadie se mueve.",
+              "Heavy congestion delayed the airport transfer."
+            ],
+            [
+              "accident",
+              "crash, incident",
+              "\"Accident\" accidente en general. \"Crash\" choque con impacto. \"Incident\" incidente, término neutro/oficial.",
+              "The incident was reported to hotel security."
+            ],
+            [
+              "delay",
+              "hold-up, setback",
+              "\"Delay\" retraso general. \"Hold-up\" demora puntual, informal. \"Setback\" contratiempo que afecta un plan.",
+              "There was a slight hold-up at check-in."
+            ],
+            [
+              "holiday",
+              "break, getaway",
+              "\"Holiday\" (UK) / \"vacation\" (US) general. \"Break\" descanso corto. \"Getaway\" escapada, viaje corto de placer.",
+              "This package is perfect for a weekend getaway."
+            ],
+            [
+              "hobby",
+              "pastime, interest",
+              "\"Hobby\" afición concreta. \"Pastime\" pasatiempo, más genérico. \"Interest\" interés, más amplio, no siempre una actividad.",
+              "Photography is one of her main hobbies."
+            ],
+            [
+              "entertainment",
+              "amusement, leisure",
+              "\"Entertainment\" en general. \"Amusement\" diversión puntual. \"Leisure\" tiempo libre u ocio.",
+              "The resort offers entertainment every evening."
+            ],
+            [
+              "celebration",
+              "party, festivity",
+              "\"Celebration\" formal o informal. \"Party\" fiesta concreta. \"Festivity\" festividad, más cultural o colectiva.",
+              "We organized a small celebration for their anniversary."
+            ],
+            [
+              "gift",
+              "present, token",
+              "\"Gift\" regalo en general. \"Present\" sinónimo directo, cotidiano. \"Token\" detalle simbólico, de poco valor material.",
+              "We left a small welcome gift in the room."
+            ],
+            [
+              "surprise",
+              "shock, revelation",
+              "\"Surprise\" neutra. \"Shock\" impacto fuerte, puede ser negativo. \"Revelation\" algo que se descubre.",
+              "The upgrade was a lovely surprise for them."
+            ],
+            [
+              "memory",
+              "recollection, reminiscence",
+              "\"Memory\" recuerdo en general. \"Recollection\" recuerdo específico y consciente. \"Reminiscence\" rememoración nostálgica.",
+              "Guests often leave with wonderful memories."
+            ],
+            [
+              "opinion",
+              "viewpoint, perspective",
+              "\"Opinion\" general. \"Viewpoint\" punto de vista concreto. \"Perspective\" perspectiva, más amplia o contextual.",
+              "We value every guest's opinion."
+            ],
+            [
+              "advice",
+              "guidance, recommendation",
+              "\"Advice\" consejo en general, incontable. \"Guidance\" orientación estructurada. \"Recommendation\" recomendación concreta.",
+              "Can you give me a recommendation for dinner?"
+            ],
+            [
+              "rule",
+              "regulation, guideline",
+              "\"Rule\" regla general. \"Regulation\" normativa oficial. \"Guideline\" pauta orientativa, no obligatoria.",
+              "Please follow the pool area guidelines."
+            ],
+            [
+              "permission",
+              "consent, approval",
+              "\"Permission\" general. \"Consent\" consentimiento, más formal/legal. \"Approval\" aprobación de algo propuesto.",
+              "We need written consent for minors."
+            ],
+            [
+              "excuse",
+              "justification, pretext",
+              "\"Excuse\" neutra. \"Justification\" justificación razonada. \"Pretext\" pretexto, con connotación de excusa falsa.",
+              "He gave a reasonable justification for the delay."
+            ],
+            [
+              "rumour",
+              "gossip, hearsay",
+              "\"Rumour\" neutro. \"Gossip\" cotilleo, informal y a menudo negativo. \"Hearsay\" algo oído decir, sin confirmar.",
+              "Don't spread rumours about other guests."
+            ],
+            [
+              "crowd",
+              "mob, gathering",
+              "\"Crowd\" multitud neutra. \"Mob\" turba, connotación negativa. \"Gathering\" reunión de gente, más organizada.",
+              "A small crowd gathered for the opening ceremony."
+            ],
+            [
+              "stranger",
+              "outsider, newcomer",
+              "\"Stranger\" desconocido. \"Outsider\" forastero, no pertenece al grupo. \"Newcomer\" recién llegado.",
+              "As a newcomer, she needed some guidance."
+            ],
+            [
+              "tourist",
+              "visitor, traveller",
+              "\"Tourist\" turista. \"Visitor\" visitante, más neutro/formal. \"Traveller\" viajero, con matiz de más experiencia.",
+              "The area is popular with international travellers."
+            ],
+            [
+              "luggage",
+              "baggage, belongings",
+              "\"Luggage\" equipaje (UK/neutro). \"Baggage\" sinónimo (US), también metafórico. \"Belongings\" pertenencias en general.",
+              "Please leave your luggage with the porter."
+            ],
+            [
+              "destination",
+              "location, spot",
+              "\"Destination\" destino de un viaje. \"Location\" ubicación en general. \"Spot\" lugar informal y específico.",
+              "This is one of the top destinations this year."
+            ],
+            [
+              "souvenir",
+              "memento, keepsake",
+              "\"Souvenir\" recuerdo comprado, turístico. \"Memento\" objeto que evoca un recuerdo. \"Keepsake\" objeto guardado con valor sentimental.",
+              "The shop sells handmade souvenirs."
+            ],
+            [
+              "chore",
+              "task, errand",
+              "\"Chore\" tarea doméstica tediosa. \"Task\" tarea en general, neutro. \"Errand\" recado corto fuera de casa.",
+              "Housekeeping handles all the daily chores."
+            ],
+            [
+              "neighbour",
+              "local, resident",
+              "\"Neighbour\" vecino directo. \"Local\" persona del lugar, más amplio. \"Resident\" residente, término formal/administrativo.",
+              "Ask a local for the best restaurants nearby."
             ]
           ]
         }
@@ -1085,6 +1906,251 @@
               "unreliable",
               "Muy usado para describir empleados, proveedores o servicios en contexto profesional.",
               "We need a reliable supplier for the renovation."
+            ],
+            [
+              "old",
+              "ancient, elderly, outdated",
+              "new / young",
+              "\"Old\" general. \"Ancient\" antiguo, histórico. \"Elderly\" anciano, respetuoso para personas. \"Outdated\" obsoleto o desfasado.",
+              "The system is outdated and needs replacing."
+            ],
+            [
+              "new",
+              "modern, recent, novel",
+              "old",
+              "\"New\" general. \"Modern\" moderno, de estilo. \"Recent\" reciente en el tiempo. \"Novel\" novedoso u original, formal.",
+              "It's a novel approach to customer service."
+            ],
+            [
+              "fast",
+              "quick, rapid, swift",
+              "slow",
+              "\"Fast\"/\"quick\" informales-neutros. \"Rapid\" formal, crecimiento o cambio. \"Swift\" ágil y elegante.",
+              "They gave a swift response to the complaint."
+            ],
+            [
+              "slow",
+              "gradual, sluggish",
+              "fast",
+              "\"Slow\" neutro. \"Gradual\" progresivo, poco a poco. \"Sluggish\" lento y perezoso, matiz negativo.",
+              "Sales were sluggish during the off-season."
+            ],
+            [
+              "strong",
+              "powerful, robust, sturdy",
+              "weak",
+              "\"Strong\" general. \"Powerful\" con mucho poder. \"Robust\" resistente, objetos o sistemas. \"Sturdy\" fuerte y estable físicamente.",
+              "We need a more robust booking system."
+            ],
+            [
+              "weak",
+              "fragile, feeble, flimsy",
+              "strong",
+              "\"Weak\" general. \"Fragile\" frágil, se rompe fácil. \"Feeble\" débil, casi sin fuerza. \"Flimsy\" poco sólido o consistente.",
+              "That's a flimsy excuse for being late."
+            ],
+            [
+              "hot",
+              "warm, boiling, scorching",
+              "cold",
+              "Escala: warm (templado) < hot < boiling (hirviendo) < scorching (abrasador).",
+              "It was scorching hot on the terrace at noon."
+            ],
+            [
+              "cold",
+              "cool, chilly, freezing",
+              "hot",
+              "Escala: cool (fresco) < cold < chilly (frío que incomoda) < freezing (helado).",
+              "It gets quite chilly in the evenings here."
+            ],
+            [
+              "wet",
+              "damp, moist, soaked",
+              "dry",
+              "\"Wet\" general. \"Damp\" húmedo, desagradable (paredes). \"Moist\" húmedo, positivo (bizcocho). \"Soaked\" empapado.",
+              "The towels were soaked after the storm."
+            ],
+            [
+              "dry",
+              "arid, parched",
+              "wet",
+              "\"Dry\" general. \"Arid\" árido, clima o tierra. \"Parched\" muy seco, sed o boca.",
+              "The region has a dry, arid climate."
+            ],
+            [
+              "loud",
+              "noisy, deafening",
+              "quiet",
+              "\"Loud\" general. \"Noisy\" ruidoso, molesto. \"Deafening\" ensordecedor, extremo.",
+              "The music was deafening near the stage."
+            ],
+            [
+              "quiet",
+              "silent, calm, peaceful",
+              "loud",
+              "\"Quiet\" general. \"Silent\" silencio total. \"Calm\"/\"peaceful\" tranquilo, sin agitación.",
+              "We offer a peaceful room away from the pool."
+            ],
+            [
+              "bright",
+              "vivid, brilliant, radiant",
+              "dull / dark",
+              "\"Bright\" general. \"Vivid\" vívido, colores. \"Brilliant\" brillante, luz o inteligencia. \"Radiant\" radiante, persona o sonrisa.",
+              "She had a radiant smile at check-in."
+            ],
+            [
+              "dark",
+              "dim, gloomy",
+              "bright",
+              "\"Dark\" general. \"Dim\" tenue, poca luz. \"Gloomy\" sombrío, también estado de ánimo.",
+              "The corridor lighting was too dim."
+            ],
+            [
+              "sharp",
+              "keen, pointed, acute",
+              "blunt",
+              "\"Sharp\" general, filo o mente. \"Keen\" agudo, mente o interés. \"Pointed\" puntiagudo, forma física. \"Acute\" agudo, dolor o problema.",
+              "She has a keen eye for detail."
+            ],
+            [
+              "soft",
+              "gentle, mild, tender",
+              "hard / tough",
+              "\"Soft\" general, textura. \"Gentle\" suave, trato o personalidad. \"Mild\" suave, sabor o clima. \"Tender\" tierno, carne o cariño.",
+              "He gave a gentle reminder about the deadline."
+            ],
+            [
+              "heavy",
+              "weighty, dense",
+              "light",
+              "\"Heavy\" general. \"Weighty\" formal, peso literal o figurado. \"Dense\" denso, compacto.",
+              "It's a weighty decision for the whole team."
+            ],
+            [
+              "light",
+              "lightweight, slight",
+              "heavy",
+              "\"Light\" general. \"Lightweight\" ligero de peso, diseñado así. \"Slight\" ligero o leve, cantidad o diferencia.",
+              "There's a slight difference between the two rates."
+            ],
+            [
+              "rich",
+              "wealthy, affluent",
+              "poor",
+              "\"Rich\" general/informal. \"Wealthy\" formal. \"Affluent\" muy formal, zonas o clases acomodadas.",
+              "The hotel is popular with an affluent clientele."
+            ],
+            [
+              "poor",
+              "broke, needy, deprived",
+              "rich",
+              "\"Poor\" general. \"Broke\" informal, sin dinero ahora mismo. \"Needy\" con necesidades reales. \"Deprived\" carente de recursos básicos, formal.",
+              "The charity supports deprived communities."
+            ],
+            [
+              "safe",
+              "secure, protected",
+              "dangerous",
+              "\"Safe\" general. \"Secure\" seguro, protegido activamente. \"Protected\" resguardado de algo concreto.",
+              "All payments are made through a secure system."
+            ],
+            [
+              "dangerous",
+              "risky, hazardous, perilous",
+              "safe",
+              "\"Dangerous\" general. \"Risky\" arriesgado, decisiones. \"Hazardous\" peligroso, formal/seguridad laboral. \"Perilous\" muy formal/literario.",
+              "Diving there without a guide can be hazardous."
+            ],
+            [
+              "crowded",
+              "packed, busy",
+              "empty",
+              "\"Crowded\" general. \"Packed\" abarrotado, informal y enfático. \"Busy\" con mucho movimiento, no necesariamente lleno.",
+              "The beach gets packed in August."
+            ],
+            [
+              "empty",
+              "vacant, deserted",
+              "full / crowded",
+              "\"Empty\" general. \"Vacant\" vacante o disponible, formal, habitaciones/empleos. \"Deserted\" desierto, abandonado.",
+              "We have three vacant rooms this weekend."
+            ],
+            [
+              "modern",
+              "contemporary, cutting-edge",
+              "old-fashioned",
+              "\"Modern\" general. \"Contemporary\" contemporáneo, formal. \"Cutting-edge\" puntero, lo último en tecnología.",
+              "The spa uses cutting-edge equipment."
+            ],
+            [
+              "old-fashioned",
+              "outdated, traditional",
+              "modern",
+              "\"Old-fashioned\" informal. \"Outdated\" obsoleto, más negativo. \"Traditional\" tradicional, neutro, sin negatividad.",
+              "The decor has a traditional, old-fashioned charm."
+            ],
+            [
+              "unique",
+              "distinctive, one-of-a-kind",
+              "common",
+              "\"Unique\" único. \"Distinctive\" distintivo, reconocible. \"One-of-a-kind\" informal, irrepetible.",
+              "Every suite has its own distinctive style."
+            ],
+            [
+              "common",
+              "ordinary, typical, usual",
+              "unique / rare",
+              "\"Common\" general. \"Ordinary\" corriente, sin nada especial. \"Typical\" típico de su categoría. \"Usual\" habitual.",
+              "It's a typical complaint during peak season."
+            ],
+            [
+              "rare",
+              "uncommon, scarce",
+              "common",
+              "\"Rare\" general. \"Uncommon\" poco común, neutro. \"Scarce\" escaso, recursos u oferta limitada.",
+              "Rooms with a sea view are scarce in high season."
+            ],
+            [
+              "useful",
+              "helpful, practical, handy",
+              "useless",
+              "\"Useful\" general. \"Helpful\" que ayuda, a menudo personas. \"Practical\" práctico, funcional. \"Handy\" útil y a mano, informal.",
+              "This app is really handy for checking availability."
+            ],
+            [
+              "useless",
+              "pointless, worthless",
+              "useful",
+              "\"Useless\" general. \"Pointless\" sin sentido o propósito. \"Worthless\" sin valor, a menudo económico.",
+              "Arguing about it now is pointless."
+            ],
+            [
+              "comfortable",
+              "cosy, relaxing",
+              "uncomfortable",
+              "\"Comfortable\" general. \"Cosy\" acogedor, ambiente. \"Relaxing\" relajante, el efecto que produce.",
+              "The lounge has a cosy, relaxing atmosphere."
+            ],
+            [
+              "exciting",
+              "thrilling, exhilarating",
+              "boring",
+              "\"Exciting\" general. \"Thrilling\" emocionante, con adrenalina. \"Exhilarating\" extremo, euforia.",
+              "The zip-line tour was absolutely thrilling."
+            ],
+            [
+              "boring",
+              "dull, tedious, monotonous",
+              "exciting / interesting",
+              "\"Boring\" general/informal. \"Dull\" soso, sin gracia. \"Tedious\" pesado por su duración. \"Monotonous\" monótono, repetitivo.",
+              "The paperwork can feel tedious at times."
+            ],
+            [
+              "surprising",
+              "unexpected, astonishing",
+              "predictable",
+              "\"Surprising\" general. \"Unexpected\" inesperado, neutro. \"Astonishing\" asombroso, muy fuerte.",
+              "The results were nothing short of astonishing."
             ]
           ]
         }
@@ -1184,6 +2250,286 @@
               "passive",
               "\"Resourceful\" con recursos e ingenio para resolver problemas por sí mismo.",
               "She was resourceful enough to solve it without asking."
+            ],
+            [
+              "kind",
+              "caring, compassionate, thoughtful",
+              "unkind / cruel",
+              "\"Kind\" general. \"Caring\" que cuida activamente. \"Compassionate\" compasivo, empatía profunda. \"Thoughtful\" detallista, piensa en los demás.",
+              "It was very thoughtful of you to remember."
+            ],
+            [
+              "generous",
+              "charitable, giving",
+              "selfish / mean",
+              "\"Generous\" general. \"Charitable\" caritativo, formal. \"Giving\" con espíritu de dar, informal-cálido.",
+              "The company made a generous donation."
+            ],
+            [
+              "selfish",
+              "self-centred, egotistical",
+              "generous",
+              "\"Selfish\" general. \"Self-centred\" centrado en sí mismo. \"Egotistical\" formal, con ego excesivo.",
+              "It was a rather selfish decision."
+            ],
+            [
+              "hardworking",
+              "diligent, industrious",
+              "lazy",
+              "\"Hardworking\" general/informal. \"Diligent\" diligente, formal, típico de un CV. \"Industrious\" muy formal/literario.",
+              "She's one of the most diligent employees we have."
+            ],
+            [
+              "lazy",
+              "idle, unmotivated",
+              "hardworking",
+              "\"Lazy\" general, algo negativo. \"Idle\" ocioso, sin hacer nada. \"Unmotivated\" sin motivación, más neutro.",
+              "He seemed unmotivated after the long shift."
+            ],
+            [
+              "calm",
+              "composed, level-headed",
+              "nervous / anxious",
+              "\"Calm\" general. \"Composed\" sereno bajo presión. \"Level-headed\" con cabeza fría, buen juicio.",
+              "She stayed composed during the emergency."
+            ],
+            [
+              "nervous",
+              "anxious, tense, on edge",
+              "calm",
+              "\"Nervous\" general. \"Anxious\" ansioso, más profundo/duradero. \"Tense\" tenso, un momento concreto. \"On edge\" informal, al límite.",
+              "Everyone was on edge before the inspection."
+            ],
+            [
+              "shy",
+              "timid, reserved, introverted",
+              "confident / outgoing",
+              "\"Shy\" general. \"Timid\" tímido, con matiz de miedo. \"Reserved\" reservado, elige no compartir. \"Introverted\" introvertido, rasgo neutro.",
+              "He's introverted, but excellent with details."
+            ],
+            [
+              "outgoing",
+              "sociable, extroverted",
+              "shy / reserved",
+              "\"Outgoing\" general. \"Sociable\" disfruta de la compañía. \"Extroverted\" extrovertido, rasgo de personalidad.",
+              "Sales suits her outgoing personality perfectly."
+            ],
+            [
+              "stubborn",
+              "persistent, determined, obstinate",
+              "flexible",
+              "\"Stubborn\" terco, algo negativo. \"Persistent\" persistente, positivo. \"Determined\" determinado, muy positivo. \"Obstinate\" formal, muy negativo.",
+              "Her persistence eventually closed the deal."
+            ],
+            [
+              "curious",
+              "inquisitive, interested",
+              "indifferent",
+              "\"Curious\" general. \"Inquisitive\" curioso por naturaleza, indaga mucho. \"Interested\" interesado en algo concreto.",
+              "The guests were curious about local customs."
+            ],
+            [
+              "creative",
+              "imaginative, innovative",
+              "unimaginative",
+              "\"Creative\" general. \"Imaginative\" con mucha imaginación. \"Innovative\" innovador, aporta ideas nuevas.",
+              "The team came up with an innovative solution."
+            ],
+            [
+              "logical",
+              "rational, analytical",
+              "irrational",
+              "\"Logical\" general. \"Rational\" racional, basado en razón. \"Analytical\" analítico, descompone problemas.",
+              "He took a very analytical approach to the issue."
+            ],
+            [
+              "practical",
+              "sensible, down-to-earth",
+              "impractical",
+              "\"Practical\" general. \"Sensible\" sensato — ojo, falso amigo del español \"sensible\". \"Down-to-earth\" con los pies en la tierra, informal.",
+              "She's very down-to-earth despite her success."
+            ],
+            [
+              "cautious",
+              "careful, wary, prudent",
+              "reckless",
+              "\"Cautious\" general. \"Careful\" cuidadoso. \"Wary\" receloso, alerta ante un riesgo. \"Prudent\" prudente, formal.",
+              "Be cautious with any last-minute changes."
+            ],
+            [
+              "reckless",
+              "careless, rash",
+              "cautious",
+              "\"Reckless\" imprudente, con riesgo. \"Careless\" descuidado, sin cuidado. \"Rash\" precipitado, actúa sin pensar.",
+              "It was a rash decision without checking the terms."
+            ],
+            [
+              "loyal",
+              "faithful, devoted",
+              "disloyal",
+              "\"Loyal\" general. \"Faithful\" fiel, relaciones o promesas. \"Devoted\" entregado, con mucho compromiso.",
+              "We reward our most loyal customers."
+            ],
+            [
+              "trustworthy",
+              "dependable, credible",
+              "untrustworthy",
+              "\"Trustworthy\" de confianza. \"Dependable\" en quien se puede confiar, cumple. \"Credible\" creíble, lo que dice.",
+              "We need a dependable partner for this project."
+            ],
+            [
+              "humble",
+              "modest, unassuming",
+              "arrogant",
+              "\"Humble\" general. \"Modest\" modesto, no presume. \"Unassuming\" discreto, no busca atención.",
+              "Despite her success, she remains humble."
+            ],
+            [
+              "arrogant",
+              "conceited, cocky",
+              "humble",
+              "\"Arrogant\" general. \"Conceited\" engreído, formal. \"Cocky\" informal, exceso de confianza.",
+              "Don't come across as cocky in the interview."
+            ],
+            [
+              "funny",
+              "humorous, witty, hilarious",
+              "serious",
+              "\"Funny\" general. \"Humorous\" formal. \"Witty\" ingenioso, con inteligencia verbal. \"Hilarious\" muy gracioso, extremo.",
+              "His witty remarks lightened the meeting."
+            ],
+            [
+              "serious",
+              "solemn, earnest",
+              "funny / playful",
+              "\"Serious\" general. \"Solemn\" solemne, formal, ocasiones. \"Earnest\" sincero y con dedicación.",
+              "He made an earnest effort to fix the mistake."
+            ],
+            [
+              "talkative",
+              "chatty, outspoken",
+              "quiet / reserved",
+              "\"Talkative\" general. \"Chatty\" informal, charlatán amistoso. \"Outspoken\" franco, dice lo que piensa sin filtro.",
+              "She's outspoken about poor service."
+            ],
+            [
+              "withdrawn",
+              "reserved, distant",
+              "outgoing / talkative",
+              "\"Withdrawn\" retraído, matiz algo negativo o preocupante. \"Reserved\" reservado, elige no hablar mucho. \"Distant\" distante en el trato.",
+              "He seemed unusually withdrawn today."
+            ],
+            [
+              "energetic",
+              "lively, dynamic, vibrant",
+              "lethargic",
+              "\"Energetic\" general. \"Lively\" animado. \"Dynamic\" dinámico, trabajo o personalidad. \"Vibrant\" vibrante, lleno de vida.",
+              "The new manager brings a dynamic energy to the team."
+            ],
+            [
+              "easygoing",
+              "laid-back, relaxed",
+              "uptight",
+              "\"Easygoing\" tranquilo, sin complicarse. \"Laid-back\" informal, muy relajado. \"Relaxed\" relajado en general.",
+              "He has a laid-back approach to problems."
+            ],
+            [
+              "demanding",
+              "exacting, high-maintenance",
+              "easygoing",
+              "\"Demanding\" exigente. \"Exacting\" muy meticuloso, formal. \"High-maintenance\" informal, requiere mucha atención.",
+              "Some VIP clients can be quite demanding."
+            ],
+            [
+              "supportive",
+              "encouraging, understanding",
+              "unsupportive",
+              "\"Supportive\" general. \"Encouraging\" que anima. \"Understanding\" comprensivo.",
+              "Management has been very supportive."
+            ],
+            [
+              "critical",
+              "judgmental, fault-finding",
+              "supportive",
+              "\"Critical\" puede ser constructivo o no. \"Judgmental\" que juzga, negativo. \"Fault-finding\" busca fallos constantemente, muy negativo.",
+              "Try not to sound too judgmental in feedback."
+            ],
+            [
+              "independent",
+              "self-sufficient, autonomous",
+              "dependent",
+              "\"Independent\" general. \"Self-sufficient\" autosuficiente. \"Autonomous\" autónomo, formal.",
+              "Each branch operates as an autonomous unit."
+            ],
+            [
+              "adaptable",
+              "versatile, resilient",
+              "rigid",
+              "\"Adaptable\" general. \"Versatile\" versátil, sirve para muchas situaciones. \"Resilient\" resiliente, se recupera bien de dificultades.",
+              "The team was resilient throughout the crisis."
+            ],
+            [
+              "determined",
+              "resolute, driven",
+              "indecisive",
+              "\"Determined\" general. \"Resolute\" resuelto, formal. \"Driven\" muy motivado internamente.",
+              "She's driven to succeed in this role."
+            ],
+            [
+              "indecisive",
+              "hesitant, wishy-washy",
+              "decisive",
+              "\"Indecisive\" indeciso. \"Hesitant\" dudoso, titubea. \"Wishy-washy\" informal, sin postura clara.",
+              "He was hesitant about signing right away."
+            ],
+            [
+              "decisive",
+              "assertive, firm",
+              "indecisive",
+              "\"Decisive\" decidido. \"Assertive\" asertivo, defiende su postura. \"Firm\" firme, no cede fácilmente.",
+              "Being assertive helped her close the deal."
+            ],
+            [
+              "tactful",
+              "diplomatic, considerate",
+              "tactless",
+              "\"Tactful\" con tacto. \"Diplomatic\" diplomático, formal. \"Considerate\" que tiene en cuenta a los demás.",
+              "She handled the complaint in a very diplomatic way."
+            ],
+            [
+              "blunt",
+              "direct, outspoken",
+              "tactful",
+              "\"Blunt\" directo hasta lo brusco. \"Direct\" directo, más neutro. \"Outspoken\" franco, sin filtro.",
+              "He was a bit blunt with the client."
+            ],
+            [
+              "charismatic",
+              "charming, magnetic",
+              "dull",
+              "\"Charismatic\" carismático. \"Charming\" encantador. \"Magnetic\" con mucho magnetismo personal.",
+              "The new advisor has a charming way with guests."
+            ],
+            [
+              "genuine",
+              "authentic, sincere",
+              "fake / insincere",
+              "\"Genuine\" auténtico. \"Authentic\" auténtico, formal. \"Sincere\" sincero, en lo que dice.",
+              "Guests appreciate genuine, sincere service."
+            ],
+            [
+              "considerate",
+              "thoughtful, respectful",
+              "inconsiderate",
+              "\"Considerate\" considerado. \"Thoughtful\" detallista. \"Respectful\" respetuoso.",
+              "Please be considerate of other guests."
+            ],
+            [
+              "resourceful",
+              "inventive, capable",
+              "helpless",
+              "\"Resourceful\" con recursos e ingenio. \"Inventive\" inventivo, crea soluciones nuevas. \"Capable\" capaz, competente.",
+              "She was resourceful enough to fix it herself."
             ]
           ]
         }
@@ -1302,6 +2648,216 @@
               "essentially, fundamentally",
               "\"Essentially\" resume lo esencial de algo complejo; muy usado al explicar.",
               "Essentially, the offer covers flights and transfers."
+            ],
+            [
+              "clearly",
+              "obviously, evidently",
+              "\"Clearly\" claro/evidente. \"Obviously\" obvio, casi redundante decirlo. \"Evidently\" formal, basado en evidencia.",
+              "Clearly, the client wasn't satisfied."
+            ],
+            [
+              "simply",
+              "merely, just",
+              "\"Simply\" simplemente. \"Merely\" meramente, resta importancia. \"Just\" informal, equivalente a \"solo\".",
+              "It's simply a matter of timing."
+            ],
+            [
+              "mainly",
+              "mostly, largely, primarily",
+              "\"Mainly\" principalmente. \"Mostly\" la mayor parte. \"Largely\" en gran medida, formal. \"Primarily\" ante todo, formal.",
+              "Our guests are mainly business travellers."
+            ],
+            [
+              "especially",
+              "particularly, notably",
+              "\"Especially\" general. \"Particularly\" formal-neutro. \"Notably\" formal, destaca algo notable.",
+              "Book early, especially during summer."
+            ],
+            [
+              "generally",
+              "typically, usually",
+              "\"Generally\" en general. \"Typically\" según el patrón habitual. \"Usually\" normalmente.",
+              "Rooms are generally available from 3pm."
+            ],
+            [
+              "rarely",
+              "seldom, hardly ever",
+              "\"Rarely\" raramente. \"Seldom\" formal/literario. \"Hardly ever\" informal, casi nunca.",
+              "We rarely receive complaints about the food."
+            ],
+            [
+              "never",
+              "not at all, under no circumstances",
+              "\"Never\" nunca. \"Not at all\" enfático, en absoluto. \"Under no circumstances\" muy formal.",
+              "Under no circumstances should the deposit be waived."
+            ],
+            [
+              "sometimes",
+              "occasionally, from time to time",
+              "\"Sometimes\" a veces. \"Occasionally\" ocasionalmente, formal. \"From time to time\" de vez en cuando.",
+              "We occasionally offer last-minute upgrades."
+            ],
+            [
+              "usually",
+              "normally, as a rule",
+              "\"Usually\" normalmente. \"Normally\" sinónimo directo. \"As a rule\" por norma general, formal.",
+              "As a rule, check-out is at noon."
+            ],
+            [
+              "finally",
+              "lastly, ultimately",
+              "\"Finally\" al fin. \"Lastly\" formal, en una lista. \"Ultimately\" en última instancia, tras un proceso.",
+              "Finally, we confirmed the booking."
+            ],
+            [
+              "suddenly",
+              "abruptly, unexpectedly",
+              "\"Suddenly\" de repente. \"Abruptly\" de forma brusca. \"Unexpectedly\" inesperadamente.",
+              "The meeting ended abruptly."
+            ],
+            [
+              "gradually",
+              "progressively, steadily",
+              "\"Gradually\" gradualmente. \"Progressively\" formal. \"Steadily\" de forma constante y firme.",
+              "Demand increased steadily throughout spring."
+            ],
+            [
+              "hardly",
+              "barely, scarcely",
+              "\"Hardly\" apenas. \"Barely\" por poco, al límite. \"Scarcely\" formal/literario.",
+              "We hardly had any cancellations this month."
+            ],
+            [
+              "nearly",
+              "almost, virtually",
+              "\"Nearly\" casi. \"Almost\" sinónimo directo. \"Virtually\" prácticamente, formal.",
+              "We're virtually fully booked for July."
+            ],
+            [
+              "exactly",
+              "precisely, specifically",
+              "\"Exactly\" exactamente. \"Precisely\" formal, con precisión. \"Specifically\" concreta algo.",
+              "That's precisely what the client asked for."
+            ],
+            [
+              "approximately",
+              "roughly, around",
+              "\"Approximately\" formal. \"Roughly\" aproximadamente, informal. \"Around\" coloquial.",
+              "The transfer takes roughly 40 minutes."
+            ],
+            [
+              "deliberately",
+              "intentionally, on purpose",
+              "\"Deliberately\" formal. \"Intentionally\" intencionadamente. \"On purpose\" informal.",
+              "We intentionally kept the process simple."
+            ],
+            [
+              "accidentally",
+              "unintentionally, by mistake",
+              "\"Accidentally\" accidentalmente. \"Unintentionally\" sin intención, formal. \"By mistake\" por error, informal.",
+              "The charge was applied by mistake."
+            ],
+            [
+              "obviously",
+              "clearly, undoubtedly",
+              "\"Obviously\" obviamente. \"Clearly\" claramente. \"Undoubtedly\" sin duda, formal/enfático.",
+              "Obviously, we'll cover the cost."
+            ],
+            [
+              "apparently",
+              "seemingly, supposedly",
+              "\"Apparently\" aparentemente, se dice o parece. \"Seemingly\" formal. \"Supposedly\" se supone, con duda implícita.",
+              "Apparently, the flight was delayed."
+            ],
+            [
+              "honestly",
+              "frankly, truthfully",
+              "\"Honestly\" honestamente. \"Frankly\" francamente, directo. \"Truthfully\" con veracidad, formal.",
+              "Frankly, the offer wasn't good enough."
+            ],
+            [
+              "fortunately",
+              "luckily, thankfully",
+              "\"Fortunately\" formal. \"Luckily\" informal. \"Thankfully\" con alivio, informal-emocional.",
+              "Fortunately, the client agreed to reschedule."
+            ],
+            [
+              "unfortunately",
+              "sadly, regrettably",
+              "\"Unfortunately\" formal-neutro. \"Sadly\" con tristeza. \"Regrettably\" muy formal.",
+              "Unfortunately, the room is no longer available."
+            ],
+            [
+              "surprisingly",
+              "remarkably, strikingly",
+              "\"Surprisingly\" sorprendentemente. \"Remarkably\" notablemente, formal. \"Strikingly\" llamativamente.",
+              "The results were surprisingly good."
+            ],
+            [
+              "increasingly",
+              "more and more, progressively",
+              "\"Increasingly\" formal. \"More and more\" informal-neutro. \"Progressively\" formal, gradual y constante.",
+              "Guests are increasingly booking through the app."
+            ],
+            [
+              "significantly",
+              "considerably, substantially",
+              "\"Significantly\" formal, estadística/informes. \"Considerably\" considerablemente. \"Substantially\" sustancialmente, formal.",
+              "Revenue rose significantly this quarter."
+            ],
+            [
+              "barely",
+              "hardly, just about",
+              "\"Barely\" apenas. \"Hardly\" sinónimo directo. \"Just about\" informal, \"por los pelos\".",
+              "We just about made the deadline."
+            ],
+            [
+              "constantly",
+              "continually, non-stop",
+              "\"Constantly\" constantemente. \"Continually\" formal, a menudo con matiz de molestia. \"Non-stop\" informal, sin parar.",
+              "The phone was ringing non-stop."
+            ],
+            [
+              "temporarily",
+              "briefly, for now",
+              "\"Temporarily\" formal. \"Briefly\" brevemente. \"For now\" informal, \"de momento\".",
+              "The pool is temporarily closed for cleaning."
+            ],
+            [
+              "permanently",
+              "forever, for good",
+              "\"Permanently\" formal. \"Forever\" para siempre, informal-emocional. \"For good\" informal.",
+              "The offer has been permanently discontinued."
+            ],
+            [
+              "together",
+              "jointly, collectively",
+              "\"Together\" general. \"Jointly\" conjuntamente, formal, legal/negocios. \"Collectively\" colectivamente, como grupo.",
+              "The two companies jointly launched the offer."
+            ],
+            [
+              "separately",
+              "individually, apart",
+              "\"Separately\" por separado. \"Individually\" individualmente. \"Apart\" aparte, informal.",
+              "Each service is billed separately."
+            ],
+            [
+              "directly",
+              "straight, immediately",
+              "\"Directly\" directamente. \"Straight\" informal. \"Immediately\" inmediatamente, también temporal.",
+              "You can contact the manager directly."
+            ],
+            [
+              "specifically",
+              "particularly, precisely",
+              "\"Specifically\" específicamente. \"Particularly\" en particular. \"Precisely\" con precisión.",
+              "This package is specifically designed for couples."
+            ],
+            [
+              "ultimately",
+              "eventually, in the long run",
+              "\"Ultimately\" en última instancia. \"Eventually\" finalmente, tras un proceso. \"In the long run\" a largo plazo, informal-neutro.",
+              "In the long run, loyal clients are more valuable."
             ]
           ]
         }
