@@ -45,5 +45,13 @@ if FRONTEND_DIST.exists():
 
     @app.get("/{full_path:path}")
     def spa(full_path: str):
-        index = FRONTEND_DIST / "index.html"
-        return FileResponse(index)
+        # Root-level static files copied verbatim from frontend/public
+        # (favicon, robots.txt, etc.) take priority over the SPA fallback.
+        candidate = (FRONTEND_DIST / full_path).resolve()
+        if (
+            full_path
+            and candidate.is_file()
+            and candidate.is_relative_to(FRONTEND_DIST.resolve())
+        ):
+            return FileResponse(candidate)
+        return FileResponse(FRONTEND_DIST / "index.html")
