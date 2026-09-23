@@ -463,6 +463,534 @@
               "wrote",
               "written",
               "escribir"
+            ],
+            [
+              "arise",
+              "arose",
+              "arisen",
+              "surgir"
+            ],
+            [
+              "awake",
+              "awoke",
+              "awoken",
+              "despertar(se)"
+            ],
+            [
+              "bear",
+              "bore",
+              "borne",
+              "soportar / dar a luz"
+            ],
+            [
+              "beat",
+              "beat",
+              "beaten",
+              "golpear / vencer"
+            ],
+            [
+              "bend",
+              "bent",
+              "bent",
+              "doblar"
+            ],
+            [
+              "bet",
+              "bet",
+              "bet",
+              "apostar"
+            ],
+            [
+              "bind",
+              "bound",
+              "bound",
+              "atar / obligar"
+            ],
+            [
+              "bite",
+              "bit",
+              "bitten",
+              "morder"
+            ],
+            [
+              "bleed",
+              "bled",
+              "bled",
+              "sangrar"
+            ],
+            [
+              "blow",
+              "blew",
+              "blown",
+              "soplar"
+            ],
+            [
+              "breed",
+              "bred",
+              "bred",
+              "criar"
+            ],
+            [
+              "burn",
+              "burnt / burned",
+              "burnt / burned",
+              "quemar(se)"
+            ],
+            [
+              "burst",
+              "burst",
+              "burst",
+              "estallar"
+            ],
+            [
+              "cast",
+              "cast",
+              "cast",
+              "arrojar / echar"
+            ],
+            [
+              "cling",
+              "clung",
+              "clung",
+              "aferrarse"
+            ],
+            [
+              "creep",
+              "crept",
+              "crept",
+              "arrastrarse"
+            ],
+            [
+              "deal",
+              "dealt",
+              "dealt",
+              "tratar / repartir"
+            ],
+            [
+              "dig",
+              "dug",
+              "dug",
+              "cavar"
+            ],
+            [
+              "dive",
+              "dived / dove",
+              "dived",
+              "bucear / zambullirse"
+            ],
+            [
+              "dream",
+              "dreamt / dreamed",
+              "dreamt / dreamed",
+              "soñar"
+            ],
+            [
+              "feed",
+              "fed",
+              "fed",
+              "alimentar"
+            ],
+            [
+              "fight",
+              "fought",
+              "fought",
+              "luchar"
+            ],
+            [
+              "flee",
+              "fled",
+              "fled",
+              "huir"
+            ],
+            [
+              "fling",
+              "flung",
+              "flung",
+              "lanzar"
+            ],
+            [
+              "forbid",
+              "forbade",
+              "forbidden",
+              "prohibir"
+            ],
+            [
+              "forgive",
+              "forgave",
+              "forgiven",
+              "perdonar"
+            ],
+            [
+              "freeze",
+              "froze",
+              "frozen",
+              "congelar(se)"
+            ],
+            [
+              "hang",
+              "hung",
+              "hung",
+              "colgar"
+            ],
+            [
+              "hurt",
+              "hurt",
+              "hurt",
+              "herir / doler"
+            ],
+            [
+              "kneel",
+              "knelt",
+              "knelt",
+              "arrodillarse"
+            ],
+            [
+              "lay",
+              "laid",
+              "laid",
+              "poner / colocar"
+            ],
+            [
+              "lie",
+              "lay",
+              "lain",
+              "tumbarse / yacer"
+            ],
+            [
+              "light",
+              "lit",
+              "lit",
+              "encender"
+            ],
+            [
+              "mistake",
+              "mistook",
+              "mistaken",
+              "confundir(se)"
+            ],
+            [
+              "overcome",
+              "overcame",
+              "overcome",
+              "superar"
+            ],
+            [
+              "quit",
+              "quit",
+              "quit",
+              "dejar / abandonar"
+            ],
+            [
+              "seek",
+              "sought",
+              "sought",
+              "buscar"
+            ],
+            [
+              "sew",
+              "sewed",
+              "sewn",
+              "coser"
+            ],
+            [
+              "shake",
+              "shook",
+              "shaken",
+              "sacudir / temblar"
+            ],
+            [
+              "shine",
+              "shone",
+              "shone",
+              "brillar"
+            ],
+            [
+              "shoot",
+              "shot",
+              "shot",
+              "disparar"
+            ],
+            [
+              "shrink",
+              "shrank",
+              "shrunk",
+              "encoger(se)"
+            ],
+            [
+              "sink",
+              "sank",
+              "sunk",
+              "hundir(se)"
+            ],
+            [
+              "slide",
+              "slid",
+              "slid",
+              "deslizar(se)"
+            ],
+            [
+              "spell",
+              "spelt / spelled",
+              "spelt / spelled",
+              "deletrear"
+            ],
+            [
+              "spill",
+              "spilt / spilled",
+              "spilt / spilled",
+              "derramar"
+            ],
+            [
+              "spin",
+              "spun",
+              "spun",
+              "girar / hilar"
+            ],
+            [
+              "spit",
+              "spat",
+              "spat",
+              "escupir"
+            ],
+            [
+              "split",
+              "split",
+              "split",
+              "dividir / partir"
+            ],
+            [
+              "spread",
+              "spread",
+              "spread",
+              "extender(se)"
+            ],
+            [
+              "spring",
+              "sprang",
+              "sprung",
+              "saltar / brotar"
+            ],
+            [
+              "stick",
+              "stuck",
+              "stuck",
+              "pegar / atascar"
+            ],
+            [
+              "sting",
+              "stung",
+              "stung",
+              "picar"
+            ],
+            [
+              "stink",
+              "stank",
+              "stunk",
+              "apestar"
+            ],
+            [
+              "strike",
+              "struck",
+              "struck",
+              "golpear / declararse en huelga"
+            ],
+            [
+              "swear",
+              "swore",
+              "sworn",
+              "jurar / maldecir"
+            ],
+            [
+              "sweep",
+              "swept",
+              "swept",
+              "barrer"
+            ],
+            [
+              "swing",
+              "swung",
+              "swung",
+              "balancear(se)"
+            ],
+            [
+              "tear",
+              "tore",
+              "torn",
+              "rasgar"
+            ],
+            [
+              "weep",
+              "wept",
+              "wept",
+              "llorar"
+            ],
+            [
+              "wind",
+              "wound",
+              "wound",
+              "enrollar / dar cuerda"
+            ],
+            [
+              "withdraw",
+              "withdrew",
+              "withdrawn",
+              "retirar(se)"
+            ],
+            [
+              "bid",
+              "bid",
+              "bid",
+              "pujar / ofertar"
+            ],
+            [
+              "broadcast",
+              "broadcast",
+              "broadcast",
+              "emitir / retransmitir"
+            ],
+            [
+              "foresee",
+              "foresaw",
+              "foreseen",
+              "prever"
+            ],
+            [
+              "lean",
+              "leant / leaned",
+              "leant / leaned",
+              "inclinarse / apoyarse"
+            ],
+            [
+              "leap",
+              "leapt / leaped",
+              "leapt / leaped",
+              "saltar"
+            ],
+            [
+              "knit",
+              "knitted / knit",
+              "knitted / knit",
+              "tejer"
+            ],
+            [
+              "mow",
+              "mowed",
+              "mown",
+              "segar / cortar (césped)"
+            ],
+            [
+              "prove",
+              "proved",
+              "proven / proved",
+              "demostrar"
+            ],
+            [
+              "rid",
+              "rid",
+              "rid",
+              "librar(se)"
+            ],
+            [
+              "shed",
+              "shed",
+              "shed",
+              "mudar / derramar"
+            ],
+            [
+              "shave",
+              "shaved",
+              "shaven / shaved",
+              "afeitar(se)"
+            ],
+            [
+              "sow",
+              "sowed",
+              "sown",
+              "sembrar"
+            ],
+            [
+              "strive",
+              "strove",
+              "striven",
+              "esforzarse"
+            ],
+            [
+              "thrust",
+              "thrust",
+              "thrust",
+              "empujar / clavar"
+            ],
+            [
+              "tread",
+              "trod",
+              "trodden",
+              "pisar"
+            ],
+            [
+              "undergo",
+              "underwent",
+              "undergone",
+              "someterse a / sufrir"
+            ],
+            [
+              "undertake",
+              "undertook",
+              "undertaken",
+              "emprender"
+            ],
+            [
+              "upset",
+              "upset",
+              "upset",
+              "disgustar / alterar"
+            ],
+            [
+              "weave",
+              "wove",
+              "woven",
+              "tejer / entrelazar"
+            ],
+            [
+              "wet",
+              "wet / wetted",
+              "wet / wetted",
+              "mojar"
+            ],
+            [
+              "forecast",
+              "forecast",
+              "forecast",
+              "pronosticar"
+            ],
+            [
+              "input",
+              "input",
+              "input",
+              "introducir (datos)"
+            ],
+            [
+              "output",
+              "output",
+              "output",
+              "producir (datos)"
+            ],
+            [
+              "overtake",
+              "overtook",
+              "overtaken",
+              "adelantar / superar"
+            ],
+            [
+              "withhold",
+              "withheld",
+              "withheld",
+              "retener / negar"
+            ],
+            [
+              "withstand",
+              "withstood",
+              "withstood",
+              "resistir / soportar"
             ]
           ]
         }
@@ -791,6 +1319,214 @@
             [
               "keen on",
               "She's keen on closing the deal today."
+            ],
+            [
+              "accuse of",
+              "They accused him of overcharging."
+            ],
+            [
+              "adapt to",
+              "We adapted to the new system."
+            ],
+            [
+              "approve of",
+              "The board approved of the plan."
+            ],
+            [
+              "blame for",
+              "Don't blame the staff for the delay."
+            ],
+            [
+              "borrow from",
+              "She borrowed a charger from reception."
+            ],
+            [
+              "care about",
+              "We care about every guest."
+            ],
+            [
+              "care for",
+              "The nurse cares for the elderly."
+            ],
+            [
+              "charge for",
+              "We don't charge for late check-out."
+            ],
+            [
+              "cope with",
+              "He copes well with pressure."
+            ],
+            [
+              "count on",
+              "You can count on our team."
+            ],
+            [
+              "deal in",
+              "They deal in luxury properties."
+            ],
+            [
+              "escape from",
+              "The cat escaped from the room."
+            ],
+            [
+              "excuse for",
+              "There's no excuse for rudeness."
+            ],
+            [
+              "forgive for",
+              "Forgive me for the confusion."
+            ],
+            [
+              "hope for",
+              "We hope for a busy season."
+            ],
+            [
+              "insist upon",
+              "She insisted upon a refund."
+            ],
+            [
+              "invest in",
+              "We invested in new lifts."
+            ],
+            [
+              "long for",
+              "Guests long for peace and quiet."
+            ],
+            [
+              "pay for",
+              "He paid for the whole group."
+            ],
+            [
+              "prepare for",
+              "Prepare for a full house."
+            ],
+            [
+              "react to",
+              "How did they react to the news?"
+            ],
+            [
+              "recover from",
+              "She recovered from the flu."
+            ],
+            [
+              "refer to",
+              "Please refer to the contract."
+            ],
+            [
+              "reply to",
+              "Reply to the email today."
+            ],
+            [
+              "search for",
+              "We searched for the lost bag."
+            ],
+            [
+              "subscribe to",
+              "Subscribe to our newsletter."
+            ],
+            [
+              "substitute for",
+              "We substituted tea for coffee."
+            ],
+            [
+              "translate into",
+              "Translate the menu into English."
+            ],
+            [
+              "vote for",
+              "Staff voted for the new shift."
+            ],
+            [
+              "worry about",
+              "Don't worry about the cost."
+            ],
+            [
+              "angry with",
+              "She was angry with the supplier."
+            ],
+            [
+              "anxious about",
+              "He's anxious about the review."
+            ],
+            [
+              "ashamed of",
+              "We're not ashamed of our prices."
+            ],
+            [
+              "attached to",
+              "She's attached to the old logo."
+            ],
+            [
+              "based on",
+              "The rate is based on demand."
+            ],
+            [
+              "bored with",
+              "Guests get bored with the same menu."
+            ],
+            [
+              "certain of",
+              "I'm certain of the date."
+            ],
+            [
+              "confident of",
+              "We're confident of success."
+            ],
+            [
+              "conscious of",
+              "Be conscious of the guest's time."
+            ],
+            [
+              "content with",
+              "They were content with the room."
+            ],
+            [
+              "crazy about",
+              "The kids are crazy about the pool."
+            ],
+            [
+              "curious about",
+              "She's curious about the area."
+            ],
+            [
+              "disappointed with",
+              "He was disappointed with the wifi."
+            ],
+            [
+              "eager for",
+              "We're eager for feedback."
+            ],
+            [
+              "equal to",
+              "The offer is equal to last year's."
+            ],
+            [
+              "essential for",
+              "Detail is essential for good service."
+            ],
+            [
+              "famous for",
+              "The hotel is famous for its spa."
+            ],
+            [
+              "grateful for",
+              "We're grateful for your patience."
+            ],
+            [
+              "proud of",
+              "We're proud of our team."
+            ],
+            [
+              "suitable for",
+              "This suite is suitable for families."
+            ],
+            [
+              "typical of",
+              "That's typical of peak season."
+            ],
+            [
+              "worried about",
+              "We're worried about the storm."
             ]
           ]
         }
@@ -1067,6 +1803,256 @@
               "especially",
               "Enfatizar",
               "Especially during summer, book early."
+            ],
+            [
+              "nor",
+              "Contraste (ni)",
+              "He didn't call, nor did he write."
+            ],
+            [
+              "yet",
+              "Contraste (pero/aun así)",
+              "It's small, yet cosy."
+            ],
+            [
+              "still",
+              "Contraste (aún así)",
+              "It rained; still, we opened."
+            ],
+            [
+              "nevertheless",
+              "Contraste (no obstante)",
+              "It was late; nevertheless, we served dinner."
+            ],
+            [
+              "nonetheless",
+              "Contraste (aun así)",
+              "Costs rose; nonetheless, we held prices."
+            ],
+            [
+              "conversely",
+              "Contraste (a la inversa)",
+              "Summer is busy; conversely, winter is quiet."
+            ],
+            [
+              "by contrast",
+              "Contraste",
+              "By contrast, the suite was silent."
+            ],
+            [
+              "even so",
+              "Contraste (aun así)",
+              "It was tough; even so, we succeeded."
+            ],
+            [
+              "even though",
+              "Concesión",
+              "Even though it rained, the gala went on."
+            ],
+            [
+              "in spite of",
+              "Concesión (+ sustantivo)",
+              "In spite of the delay, guests stayed calm."
+            ],
+            [
+              "hence",
+              "Consecuencia (de ahí)",
+              "She's the best; hence, she leads."
+            ],
+            [
+              "accordingly",
+              "Consecuencia",
+              "Reviews rose; accordingly, bookings grew."
+            ],
+            [
+              "for this reason",
+              "Consecuencia",
+              "For this reason, we upgraded her."
+            ],
+            [
+              "as",
+              "Causa (como/ya que)",
+              "As the lift is broken, use the stairs."
+            ],
+            [
+              "because of",
+              "Causa (+ sustantivo)",
+              "We closed because of the storm."
+            ],
+            [
+              "seeing that",
+              "Causa",
+              "Seeing that you're a member, it's free."
+            ],
+            [
+              "in case",
+              "Condición (por si)",
+              "Take a coat in case it rains."
+            ],
+            [
+              "even if",
+              "Condición (aunque)",
+              "We'll refund even if it's our fault."
+            ],
+            [
+              "whether",
+              "Condición (tanto si)",
+              "Whether you stay one night or ten, same service."
+            ],
+            [
+              "once",
+              "Tiempo (una vez que)",
+              "Once you check in, the spa is free."
+            ],
+            [
+              "by the time",
+              "Tiempo (para cuando)",
+              "By the time we arrived, they'd left."
+            ],
+            [
+              "whenever",
+              "Tiempo (cada vez que)",
+              "Whenever a guest calls, we answer."
+            ],
+            [
+              "the moment",
+              "Tiempo (en cuanto)",
+              "The moment she called, we acted."
+            ],
+            [
+              "so that",
+              "Finalidad (para que)",
+              "I called early so that I could confirm."
+            ],
+            [
+              "in order to",
+              "Finalidad (para)",
+              "She left early in order to prepare."
+            ],
+            [
+              "so as to",
+              "Finalidad",
+              "We book direct so as to save."
+            ],
+            [
+              "so ... that",
+              "Resultado (tan ... que)",
+              "It was so good that we returned."
+            ],
+            [
+              "such ... that",
+              "Resultado (tal ... que)",
+              "Such demand that we raised prices."
+            ],
+            [
+              "that is",
+              "Aclaración (es decir)",
+              "All-inclusive, that is, no extras."
+            ],
+            [
+              "in other words",
+              "Aclaración",
+              "In other words, better value."
+            ],
+            [
+              "to put it simply",
+              "Aclaración",
+              "To put it simply, bookings are up."
+            ],
+            [
+              "that is to say",
+              "Aclaración",
+              "Half board, that is to say, breakfast and dinner."
+            ],
+            [
+              "firstly",
+              "Secuencia",
+              "Firstly, greet the guest."
+            ],
+            [
+              "secondly",
+              "Secuencia",
+              "Secondly, take payment."
+            ],
+            [
+              "then",
+              "Secuencia",
+              "Then, hand over the key."
+            ],
+            [
+              "next",
+              "Secuencia",
+              "Next, escort them up."
+            ],
+            [
+              "finally",
+              "Secuencia (por último)",
+              "Finally, wish them a nice stay."
+            ],
+            [
+              "meanwhile",
+              "Secuencia (mientras tanto)",
+              "Meanwhile, the porter takes the bags."
+            ],
+            [
+              "what's more",
+              "Añadir (es más)",
+              "It's central; what's more, parking is free."
+            ],
+            [
+              "in addition to",
+              "Añadir (+ sustantivo)",
+              "In addition to breakfast, we include parking."
+            ],
+            [
+              "not only ... but also",
+              "Añadir (no solo ... sino también)",
+              "Not only cheaper but also faster."
+            ],
+            [
+              "likewise",
+              "Comparación (asimismo)",
+              "Staff are trained; likewise, managers."
+            ],
+            [
+              "similarly",
+              "Comparación",
+              "Similarly, our rivals cut prices."
+            ],
+            [
+              "in the same way",
+              "Comparación",
+              "In the same way, we reward loyalty."
+            ],
+            [
+              "on the whole",
+              "Resumen (en general)",
+              "On the whole, it was a great year."
+            ],
+            [
+              "to conclude",
+              "Resumen",
+              "To conclude, demand is strong."
+            ],
+            [
+              "in summary",
+              "Resumen",
+              "In summary, bookings rose 20%."
+            ],
+            [
+              "as mentioned",
+              "Referencia",
+              "As mentioned, check-out is at noon."
+            ],
+            [
+              "regarding",
+              "Referencia (en cuanto a)",
+              "Regarding your request, it's approved."
+            ],
+            [
+              "with regard to",
+              "Referencia",
+              "With regard to parking, it's free."
             ]
           ]
         }
@@ -1123,6 +2109,26 @@
               "old",
               "older / elder",
               "the oldest / eldest"
+            ],
+            [
+              "late",
+              "later / latter",
+              "the latest / the last"
+            ],
+            [
+              "near",
+              "nearer",
+              "the nearest / next"
+            ],
+            [
+              "well (adv.)",
+              "better",
+              "best"
+            ],
+            [
+              "badly (adv.)",
+              "worse",
+              "worst"
             ]
           ]
         }
@@ -1450,6 +2456,138 @@
               "image, standing",
               "\"Reputation\" reputación general. \"Image\" imagen pública percibida. \"Standing\" posición o prestigio en un sector.",
               "The hotel has an excellent reputation for service."
+            ],
+            [
+              "boss",
+              "supervisor, superior, chief",
+              "\"Boss\" informal. \"Supervisor\" el que supervisa directamente. \"Superior\" formal/jerárquico.",
+              "Ask your supervisor to approve the leave."
+            ],
+            [
+              "team",
+              "staff, crew, workforce",
+              "\"Team\" grupo con un objetivo. \"Crew\" equipo operativo. \"Workforce\" toda la plantilla.",
+              "The whole workforce got a bonus."
+            ],
+            [
+              "target",
+              "goal, objective, aim",
+              "\"Target\" cifra concreta a alcanzar. \"Objective\" formal. \"Aim\" propósito general.",
+              "We exceeded our sales target."
+            ],
+            [
+              "earnings",
+              "income, revenue, pay",
+              "\"Earnings\" lo que se gana. \"Income\" ingresos totales. \"Pay\" salario.",
+              "Her earnings rose after the promotion."
+            ],
+            [
+              "expense",
+              "cost, expenditure, outlay",
+              "\"Expense\" gasto concreto. \"Cost\" coste. \"Expenditure\" formal/contable.",
+              "We cut travel expenses this year."
+            ],
+            [
+              "customer",
+              "client, guest, patron",
+              "\"Customer\" quien compra. \"Client\" relación continuada. \"Guest\" en hostelería.",
+              "Every guest gets a welcome drink."
+            ],
+            [
+              "order",
+              "purchase, request, booking",
+              "\"Order\" pedido. \"Booking\" reserva. \"Request\" solicitud.",
+              "Your order will arrive by noon."
+            ],
+            [
+              "report",
+              "summary, review, account",
+              "\"Report\" informe formal. \"Summary\" resumen. \"Review\" análisis.",
+              "She wrote the quarterly report."
+            ],
+            [
+              "profit margin",
+              "markup, return, yield",
+              "\"Margin\" diferencia coste-precio. \"Return\" rendimiento. \"Yield\" rentabilidad.",
+              "The margin is tight this quarter."
+            ],
+            [
+              "shift",
+              "rota, schedule, turn",
+              "\"Shift\" turno de trabajo. \"Rota\" cuadrante. \"Schedule\" horario general.",
+              "He's on the night shift this week."
+            ],
+            [
+              "promotion",
+              "advancement, upgrade, rise",
+              "\"Promotion\" ascenso o campaña. \"Advancement\" progreso profesional.",
+              "She got a promotion to manager."
+            ],
+            [
+              "policy",
+              "rule, guideline, procedure",
+              "\"Policy\" política/norma. \"Guideline\" pauta. \"Procedure\" procedimiento.",
+              "Our cancellation policy is flexible."
+            ],
+            [
+              "asset",
+              "resource, property, holding",
+              "\"Asset\" activo/valor. \"Resource\" recurso. \"Holding\" participación.",
+              "Loyal staff are our biggest asset."
+            ],
+            [
+              "stock",
+              "inventory, supply, goods",
+              "\"Stock\" existencias. \"Inventory\" inventario formal. \"Supply\" suministro.",
+              "We ran low on stock in August."
+            ],
+            [
+              "fee",
+              "charge, rate, cost",
+              "\"Fee\" tarifa por un servicio. \"Charge\" cargo. \"Rate\" tarifa por unidad.",
+              "There's a small booking fee."
+            ],
+            [
+              "partner",
+              "associate, colleague, ally",
+              "\"Partner\" socio. \"Associate\" formal (bufetes). \"Ally\" aliado estratégico.",
+              "We signed a deal with a new partner."
+            ],
+            [
+              "quote",
+              "estimate, quotation, offer",
+              "\"Quote\" presupuesto informal. \"Estimate\" aproximado. \"Quotation\" formal.",
+              "Can you send me a quote?"
+            ],
+            [
+              "turnover",
+              "revenue, sales, throughput",
+              "\"Turnover\" facturación (o rotación de personal). Ojo al doble sentido.",
+              "Annual turnover doubled."
+            ],
+            [
+              "launch",
+              "release, rollout, debut",
+              "\"Launch\" lanzamiento. \"Rollout\" despliegue gradual. \"Debut\" estreno.",
+              "The app launch was a success."
+            ],
+            [
+              "merger",
+              "takeover, acquisition, buyout",
+              "\"Merger\" fusión (iguales). \"Takeover/acquisition\" adquisición.",
+              "The merger created a larger chain."
+            ],
+            [
+              "headquarters",
+              "head office, base, HQ",
+              "\"Headquarters\" sede central. \"Base\" base de operaciones.",
+              "Our headquarters are in Madrid."
+            ],
+            [
+              "workload",
+              "burden, task load, capacity",
+              "\"Workload\" carga de trabajo. \"Burden\" carga pesada (negativo).",
+              "The workload peaks in summer."
             ]
           ]
         }
@@ -1778,6 +2916,138 @@
               "local, resident",
               "\"Neighbour\" vecino directo. \"Local\" persona del lugar, más amplio. \"Resident\" residente, término formal/administrativo.",
               "Ask a local for the best restaurants nearby."
+            ],
+            [
+              "city",
+              "town, metropolis, municipality",
+              "\"City\" ciudad grande. \"Town\" pueblo/ciudad pequeña. \"Metropolis\" gran urbe.",
+              "Barcelona is a vibrant city."
+            ],
+            [
+              "car",
+              "vehicle, automobile, motor",
+              "\"Car\" coche. \"Vehicle\" formal/genérico. \"Automobile\" muy formal (EEUU).",
+              "Please park your vehicle here."
+            ],
+            [
+              "job",
+              "work, task, chore",
+              "\"Job\" empleo o tarea. \"Task\" tarea concreta. \"Chore\" tarea doméstica.",
+              "Cleaning is a daily chore."
+            ],
+            [
+              "noise",
+              "sound, racket, din",
+              "\"Noise\" ruido. \"Sound\" sonido (neutro). \"Racket/din\" alboroto.",
+              "The racket kept guests awake."
+            ],
+            [
+              "smell",
+              "scent, aroma, odour",
+              "\"Scent/aroma\" agradable. \"Odour\" neutro o negativo.",
+              "The aroma of coffee filled the lobby."
+            ],
+            [
+              "view",
+              "scenery, sight, panorama",
+              "\"View\" vista. \"Scenery\" paisaje. \"Panorama\" vista amplia.",
+              "The suite has a stunning view."
+            ],
+            [
+              "path",
+              "trail, route, track",
+              "\"Path\" sendero. \"Trail\" ruta natural. \"Route\" itinerario.",
+              "Follow the coastal path."
+            ],
+            [
+              "meal",
+              "dish, course, feast",
+              "\"Meal\" comida. \"Dish\" plato. \"Course\" plato de un menú.",
+              "The three-course meal was superb."
+            ],
+            [
+              "drink",
+              "beverage, refreshment",
+              "\"Drink\" bebida. \"Beverage\" formal. \"Refreshment\" ligero.",
+              "We serve complimentary refreshments."
+            ],
+            [
+              "clothes",
+              "clothing, attire, garments",
+              "\"Clothes\" ropa. \"Attire\" formal (dress code). \"Garments\" prendas.",
+              "Formal attire is required."
+            ],
+            [
+              "job loss",
+              "redundancy, layoff, dismissal",
+              "\"Redundancy\" por reestructuración. \"Dismissal\" despido.",
+              "The merger led to some redundancies."
+            ],
+            [
+              "trip",
+              "excursion, outing, getaway",
+              "\"Excursion\" corta y guiada. \"Getaway\" escapada.",
+              "We booked a weekend getaway."
+            ],
+            [
+              "complaint",
+              "grievance, objection, gripe",
+              "\"Grievance\" formal (laboral). \"Gripe\" queja menor.",
+              "The guest filed a formal grievance."
+            ],
+            [
+              "group",
+              "party, crowd, gathering",
+              "\"Party\" grupo con reserva. \"Crowd\" multitud. \"Gathering\" reunión.",
+              "A party of eight has arrived."
+            ],
+            [
+              "worker",
+              "employee, staff member, labourer",
+              "\"Employee\" formal. \"Labourer\" trabajo manual.",
+              "Every employee is trained monthly."
+            ],
+            [
+              "home",
+              "residence, dwelling, abode",
+              "\"Residence\" formal/legal. \"Dwelling\" vivienda. \"Abode\" literario.",
+              "Please state your place of residence."
+            ],
+            [
+              "baby",
+              "infant, newborn, toddler",
+              "\"Infant\" bebé. \"Newborn\" recién nacido. \"Toddler\" que empieza a andar.",
+              "We provide cots for infants."
+            ],
+            [
+              "teenager",
+              "adolescent, youth, minor",
+              "\"Adolescent\" formal. \"Youth\" joven. \"Minor\" menor de edad.",
+              "Minors must be accompanied."
+            ],
+            [
+              "elderly person",
+              "senior, pensioner, OAP",
+              "\"Senior\" cortés. \"Pensioner\" jubilado.",
+              "We offer senior discounts."
+            ],
+            [
+              "event",
+              "occasion, function, ceremony",
+              "\"Occasion\" ocasión especial. \"Function\" evento formal.",
+              "We host functions on the terrace."
+            ],
+            [
+              "queue",
+              "line, waiting list, backlog",
+              "\"Queue\" cola (GB). \"Line\" (US). \"Backlog\" acumulación.",
+              "There was a long queue at check-in."
+            ],
+            [
+              "fault",
+              "flaw, defect, glitch",
+              "\"Flaw\" imperfección. \"Defect\" defecto. \"Glitch\" fallo técnico menor.",
+              "A glitch delayed the payments."
             ]
           ]
         }
@@ -2151,6 +3421,160 @@
               "predictable",
               "\"Surprising\" general. \"Unexpected\" inesperado, neutro. \"Astonishing\" asombroso, muy fuerte.",
               "The results were nothing short of astonishing."
+            ],
+            [
+              "small",
+              "tiny, little, compact",
+              "petite / minute",
+              "\"Compact\" pequeño pero práctico (positivo). \"Tiny/minute\" muy pequeño.",
+              "The room is compact but well designed."
+            ],
+            [
+              "nice",
+              "pleasant, lovely, delightful",
+              "unpleasant",
+              "Escala: nice < lovely < delightful (más entusiasta).",
+              "It was a delightful evening."
+            ],
+            [
+              "clean",
+              "spotless, immaculate, pristine",
+              "dirty / filthy",
+              "\"Spotless/immaculate/pristine\" impecable (más fuerte que clean).",
+              "The suite was immaculate."
+            ],
+            [
+              "tasty",
+              "delicious, flavourful, mouth-watering",
+              "bland / tasteless",
+              "Escala ascendente hacia 'mouth-watering'.",
+              "The dessert was mouth-watering."
+            ],
+            [
+              "cheap",
+              "affordable, inexpensive, budget",
+              "expensive / costly",
+              "\"Affordable\" positivo. \"Cheap\" a veces implica baja calidad.",
+              "We offer affordable family rooms."
+            ],
+            [
+              "expensive",
+              "costly, pricey, overpriced",
+              "cheap",
+              "\"Pricey\" informal. \"Overpriced\" caro de más (negativo).",
+              "The minibar is a bit pricey."
+            ],
+            [
+              "comfortable",
+              "cosy, snug, plush",
+              "uncomfortable",
+              "\"Cosy/snug\" acogedor. \"Plush\" lujoso.",
+              "The lounge is plush and cosy."
+            ],
+            [
+              "clear",
+              "obvious, evident, apparent",
+              "unclear / vague",
+              "\"Obvious/evident\" claro. \"Apparent\" aparente.",
+              "The instructions are clear."
+            ],
+            [
+              "busy",
+              "hectic, bustling, packed",
+              "quiet / slow",
+              "\"Hectic\" caótico. \"Bustling\" animado. \"Packed\" a rebosar.",
+              "The lobby was bustling at check-in."
+            ],
+            [
+              "calm",
+              "peaceful, serene, tranquil",
+              "chaotic",
+              "\"Serene/tranquil\" más formal y poético que calm.",
+              "The spa is a tranquil space."
+            ],
+            [
+              "stylish",
+              "elegant, chic, sophisticated",
+              "tacky",
+              "\"Chic\" moderno con gusto. \"Sophisticated\" refinado.",
+              "The décor is elegant and chic."
+            ],
+            [
+              "huge",
+              "enormous, massive, vast",
+              "tiny",
+              "Escala máxima de tamaño. \"Vast\" para espacios abiertos.",
+              "The resort has vast gardens."
+            ],
+            [
+              "fresh",
+              "crisp, new, revitalising",
+              "stale",
+              "\"Crisp\" fresco y firme. \"Stale\" rancio.",
+              "We serve crisp, fresh salads."
+            ],
+            [
+              "popular",
+              "well-liked, sought-after, in demand",
+              "unpopular",
+              "\"Sought-after\" muy solicitado. \"In demand\" con demanda.",
+              "The suite is highly sought-after."
+            ],
+            [
+              "reliable",
+              "dependable, trustworthy, consistent",
+              "unreliable",
+              "\"Consistent\" constante en resultados.",
+              "Our shuttle service is dependable."
+            ],
+            [
+              "convenient",
+              "handy, accessible, practical",
+              "inconvenient",
+              "\"Handy\" cómodo/a mano. \"Accessible\" bien comunicado.",
+              "The location is very convenient."
+            ],
+            [
+              "spacious",
+              "roomy, airy, generous",
+              "cramped",
+              "\"Airy\" amplio y ventilado. \"Cramped\" apretado (negativo).",
+              "The suite is bright and airy."
+            ],
+            [
+              "luxurious",
+              "lavish, opulent, upscale",
+              "basic",
+              "\"Lavish/opulent\" lujo ostentoso. \"Upscale\" de categoría.",
+              "It's an upscale, luxurious resort."
+            ],
+            [
+              "delicate",
+              "fragile, subtle, refined",
+              "coarse",
+              "\"Fragile\" frágil. \"Subtle\" sutil. \"Refined\" refinado.",
+              "The sauce has a subtle flavour."
+            ],
+            [
+              "impressive",
+              "striking, remarkable, stunning",
+              "unremarkable",
+              "\"Striking\" que llama la atención. \"Stunning\" impresionante.",
+              "The view is truly striking."
+            ],
+            [
+              "essential",
+              "vital, crucial, indispensable",
+              "optional",
+              "\"Vital/crucial\" imprescindible. \"Indispensable\" que no se puede omitir.",
+              "Good service is crucial in hospitality."
+            ],
+            [
+              "flexible",
+              "adaptable, versatile, adjustable",
+              "rigid",
+              "\"Versatile\" polivalente. \"Adjustable\" ajustable.",
+              "We offer flexible check-out times."
             ]
           ]
         }
@@ -2530,6 +3954,160 @@
               "helpless",
               "\"Resourceful\" con recursos e ingenio. \"Inventive\" inventivo, crea soluciones nuevas. \"Capable\" capaz, competente.",
               "She was resourceful enough to fix it herself."
+            ],
+            [
+              "reliable",
+              "dependable, steady, consistent",
+              "unreliable",
+              "Clave en el trato: alguien con quien se puede contar siempre.",
+              "He's a dependable team member."
+            ],
+            [
+              "efficient",
+              "productive, effective, capable",
+              "inefficient",
+              "\"Productive\" rinde mucho. \"Effective\" logra el objetivo.",
+              "She's remarkably efficient under pressure."
+            ],
+            [
+              "approachable",
+              "accessible, welcoming, open",
+              "aloof",
+              "Fácil de abordar; esencial en atención al cliente.",
+              "The concierge is very approachable."
+            ],
+            [
+              "diplomatic",
+              "tactful, discreet, sensitive",
+              "tactless",
+              "Sabe decir las cosas sin ofender. Muy útil con quejas.",
+              "She's diplomatic when handling complaints."
+            ],
+            [
+              "motivated",
+              "driven, committed, enthusiastic",
+              "unmotivated",
+              "\"Driven\" con mucho empuje. \"Committed\" comprometido.",
+              "The team is highly motivated."
+            ],
+            [
+              "attentive",
+              "observant, thoughtful, mindful",
+              "inattentive",
+              "Pendiente de las necesidades del huésped.",
+              "Attentive staff notice small details."
+            ],
+            [
+              "punctual",
+              "prompt, on-time, timely",
+              "late",
+              "\"Prompt\" rápido y sin demora. \"Timely\" oportuno.",
+              "He's always punctual for his shift."
+            ],
+            [
+              "courteous",
+              "polite, gracious, respectful",
+              "rude",
+              "\"Gracious\" cortés y elegante. Más formal que polite.",
+              "Our staff are unfailingly courteous."
+            ],
+            [
+              "meticulous",
+              "thorough, precise, detailed",
+              "careless",
+              "Cuida cada detalle. \"Precise\" exacto.",
+              "She's meticulous with the accounts."
+            ],
+            [
+              "personable",
+              "likeable, charming, engaging",
+              "unfriendly",
+              "Agradable y fácil de tratar.",
+              "The new host is very personable."
+            ],
+            [
+              "composed",
+              "calm, collected, unflappable",
+              "flustered",
+              "Mantiene la calma bajo presión.",
+              "He stayed composed during the crisis."
+            ],
+            [
+              "diligent",
+              "conscientious, industrious, dedicated",
+              "negligent",
+              "Trabajador y cuidadoso. \"Conscientious\" concienzudo.",
+              "A diligent worker earns trust."
+            ],
+            [
+              "versatile",
+              "adaptable, multiskilled, flexible",
+              "rigid",
+              "Capaz de asumir varios roles.",
+              "A versatile employee covers many tasks."
+            ],
+            [
+              "assertive",
+              "confident, firm, self-assured",
+              "passive",
+              "Firme sin ser agresivo. Ideal para negociar.",
+              "Be assertive when quoting the price."
+            ],
+            [
+              "welcoming",
+              "hospitable, warm, gracious",
+              "cold",
+              "\"Hospitable\" hospitalario. Base de la hostelería.",
+              "The hotel felt warm and welcoming."
+            ],
+            [
+              "principled",
+              "trustworthy, honest, principled",
+              "dishonest",
+              "Íntegro y de fiar.",
+              "He's an honest, principled manager."
+            ],
+            [
+              "enthusiastic",
+              "eager, passionate, keen",
+              "indifferent",
+              "Muestra ganas e ilusión.",
+              "She's enthusiastic about every event."
+            ],
+            [
+              "patient",
+              "tolerant, understanding, forbearing",
+              "impatient",
+              "Aguanta situaciones difíciles con calma.",
+              "Be patient with confused guests."
+            ],
+            [
+              "resilient",
+              "tough, adaptable, hardy",
+              "fragile",
+              "Se recupera de los contratiempos.",
+              "A resilient team handles setbacks well."
+            ],
+            [
+              "solution-oriented",
+              "solution-oriented, proactive, can-do",
+              "reactive",
+              "Busca soluciones en lugar de excusas.",
+              "We value a can-do attitude."
+            ],
+            [
+              "cooperative",
+              "collaborative, helpful, team-minded",
+              "obstructive",
+              "Trabaja bien con los demás.",
+              "He's cooperative and easy to work with."
+            ],
+            [
+              "polished",
+              "professional, refined, poised",
+              "clumsy",
+              "Con buenos modales y presencia.",
+              "Her presentation was polished."
             ]
           ]
         }
@@ -2858,6 +4436,138 @@
               "eventually, in the long run",
               "\"Ultimately\" en última instancia. \"Eventually\" finalmente, tras un proceso. \"In the long run\" a largo plazo, informal-neutro.",
               "In the long run, loyal clients are more valuable."
+            ],
+            [
+              "politely",
+              "courteously, respectfully, graciously",
+              "\"Courteously\" con cortesía. \"Graciously\" con elegancia.",
+              "She answered the complaint politely."
+            ],
+            [
+              "efficiently",
+              "productively, effectively, smoothly",
+              "\"Smoothly\" sin sobresaltos. \"Effectively\" con resultado.",
+              "The team worked efficiently all day."
+            ],
+            [
+              "frequently",
+              "often, regularly, repeatedly",
+              "\"Regularly\" con regularidad. \"Repeatedly\" una y otra vez.",
+              "We update our rates frequently."
+            ],
+            [
+              "occasionally",
+              "sometimes, now and then, sporadically",
+              "\"Sporadically\" de forma irregular.",
+              "We occasionally offer free upgrades."
+            ],
+            [
+              "carefully",
+              "cautiously, meticulously, attentively",
+              "\"Meticulously\" con minuciosidad.",
+              "Read the contract carefully."
+            ],
+            [
+              "kindly",
+              "warmly, considerately, thoughtfully",
+              "\"Warmly\" con calidez. \"Considerately\" con consideración.",
+              "He kindly showed us the way."
+            ],
+            [
+              "professionally",
+              "competently, skilfully, expertly",
+              "\"Skilfully/expertly\" con destreza.",
+              "She handled it professionally."
+            ],
+            [
+              "urgently",
+              "immediately, promptly, without delay",
+              "\"Promptly\" sin demora. \"Immediately\" ya.",
+              "Please respond urgently."
+            ],
+            [
+              "gradually",
+              "steadily, progressively, little by little",
+              "\"Steadily\" de forma constante.",
+              "Bookings rose gradually."
+            ],
+            [
+              "clearly",
+              "plainly, distinctly, evidently",
+              "\"Distinctly\" con nitidez.",
+              "She explained the terms clearly."
+            ],
+            [
+              "tactfully",
+              "tactfully, diplomatically, discreetly",
+              "\"Tactfully\" con tacto. \"Discreetly\" con discreción.",
+              "He tactfully declined the request."
+            ],
+            [
+              "confidently",
+              "assertively, assuredly, boldly",
+              "\"Assertively\" con firmeza. \"Boldly\" con audacia.",
+              "She spoke confidently at the meeting."
+            ],
+            [
+              "patiently",
+              "calmly, tolerantly, understandingly",
+              "\"Calmly\" con calma.",
+              "He waited patiently for a table."
+            ],
+            [
+              "thoroughly",
+              "completely, comprehensively, in detail",
+              "\"Comprehensively\" de forma exhaustiva.",
+              "We checked the room thoroughly."
+            ],
+            [
+              "warmly",
+              "cordially, affectionately, heartily",
+              "\"Cordially\" cordialmente. \"Heartily\" con entusiasmo.",
+              "Guests were warmly welcomed."
+            ],
+            [
+              "reluctantly",
+              "unwillingly, hesitantly, grudgingly",
+              "\"Grudgingly\" a regañadientes.",
+              "He reluctantly agreed to the change."
+            ],
+            [
+              "promptly",
+              "quickly, swiftly, right away",
+              "\"Swiftly\" con rapidez.",
+              "We refunded them promptly."
+            ],
+            [
+              "accurately",
+              "precisely, correctly, exactly",
+              "\"Precisely\" con precisión.",
+              "Record the figures accurately."
+            ],
+            [
+              "genuinely",
+              "sincerely, truly, honestly",
+              "\"Sincerely\" con sinceridad.",
+              "We're genuinely sorry for the delay."
+            ],
+            [
+              "consistently",
+              "reliably, steadily, uniformly",
+              "\"Reliably\" de fiar. \"Uniformly\" de manera uniforme.",
+              "They consistently exceed targets."
+            ],
+            [
+              "cautiously",
+              "carefully, warily, prudently",
+              "\"Warily\" con recelo. \"Prudently\" con prudencia.",
+              "We proceeded cautiously with the deal."
+            ],
+            [
+              "remarkably",
+              "notably, strikingly, exceptionally",
+              "\"Notably\" de forma destacada.",
+              "The staff were remarkably calm."
             ]
           ]
         }
