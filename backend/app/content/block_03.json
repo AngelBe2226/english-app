@@ -67,6 +67,66 @@
         {
           "en": "He didn't call, <span class=\"r-coord\">nor</span> did he email.",
           "es": "No llamó, ni tampoco escribió."
+        },
+        {
+          "en": "We offered a refund, <span class=\"r-coord\">and</span> she accepted it.",
+          "es": "Ofrecimos un reembolso, y ella lo aceptó."
+        },
+        {
+          "en": "The room was ready, <span class=\"r-coord\">so</span> we checked her in early.",
+          "es": "La habitación estaba lista, así que la registramos antes."
+        },
+        {
+          "en": "I'd love to help, <span class=\"r-coord\">but</span> the suite is fully booked.",
+          "es": "Me encantaría ayudar, pero la suite está completa."
+        },
+        {
+          "en": "You can wait here, <span class=\"r-coord\">or</span> come back later.",
+          "es": "Puede esperar aquí, o volver más tarde."
+        },
+        {
+          "en": "He was exhausted, <span class=\"r-coord\">yet</span> he stayed until closing.",
+          "es": "Estaba agotado, y aun así se quedó hasta el cierre."
+        },
+        {
+          "en": "She didn't confirm, <span class=\"r-coord\">nor</span> did she cancel.",
+          "es": "Ni confirmó, ni canceló."
+        },
+        {
+          "en": "We lowered the price, <span class=\"r-coord\">for</span> the client was hesitant.",
+          "es": "Bajamos el precio, pues el cliente dudaba."
+        },
+        {
+          "en": "Book now, <span class=\"r-coord\">and</span> you'll get free breakfast.",
+          "es": "Reserva ahora, y tendrás desayuno gratis."
+        },
+        {
+          "en": "The spa was closed, <span class=\"r-coord\">so</span> we offered a voucher.",
+          "es": "El spa estaba cerrado, así que ofrecimos un vale."
+        },
+        {
+          "en": "It's a small room, <span class=\"r-coord\">but</span> the view is stunning.",
+          "es": "Es una habitación pequeña, pero la vista es espectacular."
+        },
+        {
+          "en": "Would you like tea <span class=\"r-coord\">or</span> coffee?",
+          "es": "¿Le apetece té o café?"
+        },
+        {
+          "en": "The deal was risky, <span class=\"r-coord\">yet</span> it paid off.",
+          "es": "El trato era arriesgado, y aun así salió bien."
+        },
+        {
+          "en": "He didn't reply, <span class=\"r-coord\">nor</span> did his assistant.",
+          "es": "No respondió, ni tampoco su ayudante."
+        },
+        {
+          "en": "We upgraded the couple, <span class=\"r-coord\">and</span> they were delighted.",
+          "es": "Mejoramos la habitación a la pareja, y quedaron encantados."
+        },
+        {
+          "en": "The invoice was wrong, <span class=\"r-coord\">so</span> we corrected it at once.",
+          "es": "La factura estaba mal, así que la corregimos enseguida."
         }
       ],
       "tables": [],
@@ -97,6 +157,51 @@
             "nor"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b03-s1q4",
+          "question": "4. She was tired, <span class=\"blank\">___</span> she kept smiling. (contraste, FANBOYS)",
+          "options": [
+            "yet",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s1q5",
+          "question": "5. The room was noisy, <span class=\"blank\">___</span> we moved her. (consecuencia)",
+          "options": [
+            "or",
+            "so"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b03-s1q6",
+          "question": "6. Pay now <span class=\"blank\">___</span> pay at check-in. (alternativa)",
+          "options": [
+            "or",
+            "nor"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s1q7",
+          "question": "7. He didn't call, <span class=\"blank\">___</span> did he write. (ni tampoco)",
+          "options": [
+            "nor",
+            "but"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s1q8",
+          "question": "8. We apologised, <span class=\"blank\">___</span> the mistake was ours. (razón)",
+          "options": [
+            "for",
+            "yet"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -156,6 +261,66 @@
         {
           "en": "She smiled <span class=\"r-sub\">while</span> she explained the offer.",
           "es": "Sonreía mientras explicaba la oferta."
+        },
+        {
+          "en": "<span class=\"r-sub\">Because</span> it was raining, we moved the event indoors.",
+          "es": "Como llovía, trasladamos el evento al interior."
+        },
+        {
+          "en": "<span class=\"r-sub\">Although</span> she arrived late, we held her table.",
+          "es": "Aunque llegó tarde, le guardamos la mesa."
+        },
+        {
+          "en": "We'll refund you <span class=\"r-sub\">if</span> the room isn't ready.",
+          "es": "Le reembolsaremos si la habitación no está lista."
+        },
+        {
+          "en": "<span class=\"r-sub\">As</span> you're a regular, here's a small gift.",
+          "es": "Como es cliente habitual, aquí tiene un pequeño detalle."
+        },
+        {
+          "en": "Call me <span class=\"r-sub\">when</span> the guests arrive.",
+          "es": "Llámame cuando lleguen los huéspedes."
+        },
+        {
+          "en": "<span class=\"r-sub\">Even though</span> it was full, we found a solution.",
+          "es": "Aunque estaba lleno, encontramos una solución."
+        },
+        {
+          "en": "You can relax <span class=\"r-sub\">now that</span> everything is booked.",
+          "es": "Puede relajarse ahora que todo está reservado."
+        },
+        {
+          "en": "<span class=\"r-sub\">Before</span> you leave, please sign here.",
+          "es": "Antes de irse, por favor firme aquí."
+        },
+        {
+          "en": "We'll wait <span class=\"r-sub\">until</span> the manager confirms.",
+          "es": "Esperaremos hasta que el gerente confirme."
+        },
+        {
+          "en": "<span class=\"r-sub\">Wherever</span> you go, the app works.",
+          "es": "Vayas donde vayas, la app funciona."
+        },
+        {
+          "en": "She stayed calm <span class=\"r-sub\">even if</span> guests were upset.",
+          "es": "Mantuvo la calma incluso si los huéspedes se enfadaban."
+        },
+        {
+          "en": "<span class=\"r-sub\">After</span> we upgraded him, he left a great review.",
+          "es": "Después de mejorarle la habitación, dejó una gran reseña."
+        },
+        {
+          "en": "I'll help you <span class=\"r-sub\">so that</span> you don't miss the transfer.",
+          "es": "Le ayudaré para que no pierda el traslado."
+        },
+        {
+          "en": "<span class=\"r-sub\">Since</span> the season ended, it's been quiet.",
+          "es": "Desde que acabó la temporada, ha estado tranquilo."
+        },
+        {
+          "en": "Book early <span class=\"r-sub\">in case</span> the hotel fills up.",
+          "es": "Reserve pronto por si el hotel se llena."
         }
       ],
       "tables": [],
@@ -186,6 +351,51 @@
             "unless"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b03-s2q4",
+          "question": "4. <span class=\"blank\">___</span> it was late, we still served dinner. (concesión)",
+          "options": [
+            "Although",
+            "Because"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s2q5",
+          "question": "5. I'll confirm <span class=\"blank\">___</span> I get the details. (tiempo)",
+          "options": [
+            "as soon as",
+            "although"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s2q6",
+          "question": "6. You won't be charged <span class=\"blank\">___</span> you cancel late. (condición negativa)",
+          "options": [
+            "unless",
+            "since"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s2q7",
+          "question": "7. <span class=\"blank\">___</span> the lift is broken, use the stairs. (causa)",
+          "options": [
+            "Since",
+            "While"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s2q8",
+          "question": "8. Take a key <span class=\"blank\">___</span> you get locked out. (por si acaso)",
+          "options": [
+            "in case",
+            "so that"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -245,6 +455,66 @@
         {
           "en": "The package covers <span class=\"r-corr\">both</span> flights <span class=\"r-corr\">and</span> transfers.",
           "es": "El paquete cubre tanto los vuelos como los traslados."
+        },
+        {
+          "en": "The suite includes <span class=\"r-corr\">both</span> a lounge <span class=\"r-corr\">and</span> a terrace.",
+          "es": "La suite incluye tanto un salón como una terraza."
+        },
+        {
+          "en": "You may check in <span class=\"r-corr\">either</span> online <span class=\"r-corr\">or</span> at the desk.",
+          "es": "Puede registrarse ya sea en línea o en el mostrador."
+        },
+        {
+          "en": "<span class=\"r-corr\">Neither</span> the wifi <span class=\"r-corr\">nor</span> the TV was working.",
+          "es": "Ni el wifi ni la tele funcionaban."
+        },
+        {
+          "en": "The plan is <span class=\"r-corr\">not only</span> flexible <span class=\"r-corr\">but also</span> affordable.",
+          "es": "El plan no solo es flexible, sino también asequible."
+        },
+        {
+          "en": "We serve <span class=\"r-corr\">both</span> breakfast <span class=\"r-corr\">and</span> dinner.",
+          "es": "Servimos tanto desayuno como cena."
+        },
+        {
+          "en": "The fee covers <span class=\"r-corr\">either</span> parking <span class=\"r-corr\">or</span> the spa.",
+          "es": "La tarifa cubre o el aparcamiento o el spa."
+        },
+        {
+          "en": "<span class=\"r-corr\">Neither</span> option <span class=\"r-corr\">nor</span> the alternative pleased them.",
+          "es": "Ni una opción ni la alternativa les convencieron."
+        },
+        {
+          "en": "She's <span class=\"r-corr\">not only</span> punctual <span class=\"r-corr\">but also</span> reliable.",
+          "es": "No solo es puntual, sino también fiable."
+        },
+        {
+          "en": "The tour visits <span class=\"r-corr\">both</span> the castle <span class=\"r-corr\">and</span> the market.",
+          "es": "El tour visita tanto el castillo como el mercado."
+        },
+        {
+          "en": "<span class=\"r-corr\">Whether</span> you stay one night <span class=\"r-corr\">or</span> ten, service is the same.",
+          "es": "Tanto si te quedas una noche como diez, el servicio es el mismo."
+        },
+        {
+          "en": "You get <span class=\"r-corr\">both</span> points <span class=\"r-corr\">and</span> a discount.",
+          "es": "Obtienes tanto puntos como un descuento."
+        },
+        {
+          "en": "<span class=\"r-corr\">Either</span> the manager <span class=\"r-corr\">or</span> I will call you.",
+          "es": "O el gerente o yo le llamaremos."
+        },
+        {
+          "en": "<span class=\"r-corr\">Not only</span> did they apologise, <span class=\"r-corr\">but also</span> refunded us.",
+          "es": "No solo se disculparon, sino que además nos reembolsaron."
+        },
+        {
+          "en": "The rate includes <span class=\"r-corr\">both</span> taxes <span class=\"r-corr\">and</span> fees.",
+          "es": "La tarifa incluye tanto impuestos como cargos."
+        },
+        {
+          "en": "<span class=\"r-corr\">Neither</span> rain <span class=\"r-corr\">nor</span> cold stopped the tour.",
+          "es": "Ni la lluvia ni el frío detuvieron el tour."
         }
       ],
       "tables": [],
@@ -275,6 +545,51 @@
             "not only / but also"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b03-s3q4",
+          "question": "4. The suite has <span class=\"blank\">___</span> a jacuzzi and a balcony. (tanto…como)",
+          "options": [
+            "both",
+            "either"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s3q5",
+          "question": "5. Pay <span class=\"blank\">___</span> now or later. (o…o)",
+          "options": [
+            "neither",
+            "either"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b03-s3q6",
+          "question": "6. Neither the price <span class=\"blank\">___</span> the date worked. (ni…ni)",
+          "options": [
+            "or",
+            "nor"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b03-s3q7",
+          "question": "7. It's not only cheaper <span class=\"blank\">___</span> faster. (no solo…sino también)",
+          "options": [
+            "but also",
+            "and also"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s3q8",
+          "question": "8. <span class=\"blank\">___</span> the spa and the gym are free. (tanto…como, sujeto)",
+          "options": [
+            "Both",
+            "Either"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -334,6 +649,66 @@
         {
           "en": "<span class=\"r-disc\">As a result</span>, bookings increased by 20%.",
           "es": "Como resultado, las reservas subieron un 20%."
+        },
+        {
+          "en": "The launch went well. <span class=\"r-disc\">However</span>, costs ran high.",
+          "es": "El lanzamiento fue bien. Sin embargo, los costes se dispararon."
+        },
+        {
+          "en": "Bookings rose. <span class=\"r-disc\">In addition</span>, reviews improved.",
+          "es": "Las reservas subieron. Además, las reseñas mejoraron."
+        },
+        {
+          "en": "The room was small. <span class=\"r-disc\">Nevertheless</span>, she loved it.",
+          "es": "La habitación era pequeña. No obstante, le encantó."
+        },
+        {
+          "en": "Demand soared. <span class=\"r-disc\">Therefore</span>, we hired more staff.",
+          "es": "La demanda se disparó. Por tanto, contratamos más personal."
+        },
+        {
+          "en": "The offer ends soon. <span class=\"r-disc\">Meanwhile</span>, prices stay low.",
+          "es": "La oferta acaba pronto. Mientras tanto, los precios siguen bajos."
+        },
+        {
+          "en": "Sales fell. <span class=\"r-disc\">As a result</span>, we changed strategy.",
+          "es": "Las ventas cayeron. Como resultado, cambiamos de estrategia."
+        },
+        {
+          "en": "The team was small. <span class=\"r-disc\">Nonetheless</span>, they delivered.",
+          "es": "El equipo era pequeño. Aun así, cumplieron."
+        },
+        {
+          "en": "First, we listen. <span class=\"r-disc\">Then</span>, we solve.",
+          "es": "Primero escuchamos. Luego resolvemos."
+        },
+        {
+          "en": "It's a great location. <span class=\"r-disc\">Moreover</span>, parking is free.",
+          "es": "Es una gran ubicación. Además, el aparcamiento es gratis."
+        },
+        {
+          "en": "The plan is costly. <span class=\"r-disc\">On the other hand</span>, it's reliable.",
+          "es": "El plan es caro. Por otro lado, es fiable."
+        },
+        {
+          "en": "We missed the target. <span class=\"r-disc\">Consequently</span>, bonuses were cut.",
+          "es": "No alcanzamos el objetivo. En consecuencia, se recortaron las primas."
+        },
+        {
+          "en": "The suite was booked. <span class=\"r-disc\">Instead</span>, we offered a junior suite.",
+          "es": "La suite estaba reservada. En su lugar, ofrecimos una junior suite."
+        },
+        {
+          "en": "Guests want value. <span class=\"r-disc\">In other words</span>, quality at a fair price.",
+          "es": "Los huéspedes quieren valor. Es decir, calidad a un precio justo."
+        },
+        {
+          "en": "The season was slow. <span class=\"r-disc\">Even so</span>, we broke even.",
+          "es": "La temporada fue floja. Aun así, cubrimos gastos."
+        },
+        {
+          "en": "Finally, we thanked every guest personally.",
+          "es": "Por último, agradecimos a cada huésped personalmente."
         }
       ],
       "tables": [],
@@ -364,6 +739,51 @@
             "Moreover"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b03-s4q4",
+          "question": "4. Sales grew. <span class=\"blank\">___</span>, margins fell. (contraste formal)",
+          "options": [
+            "However",
+            "Therefore"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s4q5",
+          "question": "5. Demand rose. <span class=\"blank\">___</span>, we raised prices. (consecuencia)",
+          "options": [
+            "Therefore",
+            "However"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s4q6",
+          "question": "6. It's central. <span class=\"blank\">___</span>, it's quiet. (adición)",
+          "options": [
+            "Moreover",
+            "Instead"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s4q7",
+          "question": "7. The suite was full. <span class=\"blank\">___</span>, we gave a discount. (en su lugar)",
+          "options": [
+            "Instead",
+            "Moreover"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s4q8",
+          "question": "8. Costs rose. <span class=\"blank\">___</span>, profits stayed flat. (resultado)",
+          "options": [
+            "As a result",
+            "In addition"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -375,6 +795,839 @@
         {
           "type": "emphasis",
           "text": "Los conectores de párrafo van al inicio y con <b>coma</b>: 'However, …', 'Therefore, …'. Suben mucho la nota de writing y speaking."
+        }
+      ]
+    },
+    {
+      "idx": "3.5",
+      "title": "Conectores de contraste (however, whereas, on the contrary)",
+      "level": "B2",
+      "rule": "Marcan oposición entre dos ideas. A nivel de párrafo, con punto o punto y coma y coma detrás: <b>however</b>, <b>nevertheless</b>, <b>nonetheless</b>, <b>on the other hand</b>, <b>in contrast</b>. Dentro de la frase, uniendo dos oraciones: <b>whereas</b> y <b>while</b> (mientras que). <b>On the contrary</b> corrige lo anterior ('al contrario'). No confundas <b>however</b> (adverbio, con puntuación) con <b>but</b> (conjunción, sin punto delante).",
+      "examples": [
+        {
+          "en": "The room was ready. <b class=\"hl\">However</b>, the key didn't work.",
+          "es": "La habitación estaba lista. Sin embargo, la llave no funcionaba."
+        },
+        {
+          "en": "Our rates rose, <b class=\"hl\">whereas</b> our rivals' fell.",
+          "es": "Nuestras tarifas subieron, mientras que las de la competencia bajaron."
+        },
+        {
+          "en": "He seemed annoyed. <b class=\"hl\">On the contrary</b>, he was delighted.",
+          "es": "Parecía molesto. Al contrario, estaba encantado."
+        },
+        {
+          "en": "The suite is pricey. <b class=\"hl\">Nevertheless</b>, it sells out fast.",
+          "es": "La suite es cara. No obstante, se agota rápido."
+        },
+        {
+          "en": "Summer is busy, <b class=\"hl\">while</b> winter is quiet.",
+          "es": "El verano es de mucho trabajo, mientras que el invierno es tranquilo."
+        },
+        {
+          "en": "Sales dipped. <b class=\"hl\">On the other hand</b>, loyalty grew.",
+          "es": "Las ventas bajaron. Por otro lado, la fidelidad creció."
+        },
+        {
+          "en": "The food was cold. <b class=\"hl\">In contrast</b>, the service was warm.",
+          "es": "La comida estaba fría. En cambio, el servicio fue cálido."
+        },
+        {
+          "en": "She's cautious, <b class=\"hl\">whereas</b> he takes risks.",
+          "es": "Ella es prudente, mientras que él arriesga."
+        },
+        {
+          "en": "The wifi failed. <b class=\"hl\">Nonetheless</b>, the meeting went ahead.",
+          "es": "El wifi falló. Aun así, la reunión siguió adelante."
+        },
+        {
+          "en": "We expected complaints. <b class=\"hl\">However</b>, guests praised us.",
+          "es": "Esperábamos quejas. Sin embargo, los huéspedes nos elogiaron."
+        },
+        {
+          "en": "The old bar was dark, <b class=\"hl\">whereas</b> the new one is bright.",
+          "es": "El bar antiguo era oscuro, mientras que el nuevo es luminoso."
+        },
+        {
+          "en": "It rained all day. <b class=\"hl\">Even so</b>, the tour was full.",
+          "es": "Llovió todo el día. Aun así, el tour se llenó."
+        },
+        {
+          "en": "Prices are higher. <b class=\"hl\">On the other hand</b>, quality is better.",
+          "es": "Los precios son más altos. Por otro lado, la calidad es mejor."
+        },
+        {
+          "en": "The plan looked risky. <b class=\"hl\">However</b>, it worked perfectly.",
+          "es": "El plan parecía arriesgado. Sin embargo, funcionó perfectamente."
+        },
+        {
+          "en": "Guests loved the pool, <b class=\"hl\">while</b> staff preferred the terrace.",
+          "es": "A los huéspedes les encantó la piscina, mientras que el personal prefería la terraza."
+        },
+        {
+          "en": "The room was noisy. <b class=\"hl\">In contrast</b>, the suite was silent.",
+          "es": "La habitación era ruidosa. En cambio, la suite era silenciosa."
+        },
+        {
+          "en": "We lost one client. <b class=\"hl\">Nevertheless</b>, we gained three.",
+          "es": "Perdimos un cliente. No obstante, ganamos tres."
+        },
+        {
+          "en": "He rarely complains. <b class=\"hl\">However</b>, today he did.",
+          "es": "Rara vez se queja. Sin embargo, hoy lo hizo."
+        },
+        {
+          "en": "This model sells well, <b class=\"hl\">whereas</b> that one doesn't.",
+          "es": "Este modelo se vende bien, mientras que aquel no."
+        },
+        {
+          "en": "The season was tough. <b class=\"hl\">Nonetheless</b>, we hit our target.",
+          "es": "La temporada fue dura. Aun así, alcanzamos el objetivo."
+        },
+        {
+          "en": "It's not a downgrade. <b class=\"hl\">On the contrary</b>, it's an upgrade.",
+          "es": "No es una rebaja de categoría. Al contrario, es una mejora."
+        },
+        {
+          "en": "The lobby was crowded. <b class=\"hl\">However</b>, check-in was fast.",
+          "es": "El vestíbulo estaba lleno. Sin embargo, el registro fue rápido."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s5q1",
+          "question": "1. It's expensive. <span class=\"blank\">___</span>, it's worth it. (contraste, con coma)",
+          "options": [
+            "However",
+            "But"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s5q2",
+          "question": "2. I like tea, <span class=\"blank\">___</span> she prefers coffee. (mientras que, une oraciones)",
+          "options": [
+            "however",
+            "whereas"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b03-s5q3",
+          "question": "3. He wasn't upset. <span class=\"blank\">___</span>, he was thrilled. (al contrario)",
+          "options": [
+            "On the contrary",
+            "In addition"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s5q4",
+          "question": "4. Costs rose. <span class=\"blank\">___</span>, sales stayed strong. (no obstante)",
+          "options": [
+            "Nevertheless",
+            "Therefore"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s5q5",
+          "question": "5. Summer sells out, <span class=\"blank\">___</span> winter is slow. (mientras que)",
+          "options": [
+            "while",
+            "however"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s5q6",
+          "question": "6. The room was dark. <span class=\"blank\">___</span>, the suite was bright. (en cambio)",
+          "options": [
+            "In contrast",
+            "As a result"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s5q7",
+          "question": "7. We expected losses. <span class=\"blank\">___</span>, we made a profit. (sin embargo)",
+          "options": [
+            "Moreover",
+            "However"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b03-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases contrastando ideas: una con <b>however</b> (punto y coma) y otra con <b>whereas</b> (dentro de la frase).",
+        "placeholder": "Ej: The room is small. However, it's cosy. I work mornings, whereas he works nights."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>however</b> es un adverbio: lleva puntuación (punto o punto y coma antes, coma después), no une dos oraciones como una conjunción. <b>whereas/while</b> sí unen dos oraciones dentro de la misma frase."
+        }
+      ]
+    },
+    {
+      "idx": "3.6",
+      "title": "Conectores de causa y consecuencia (therefore, thus, hence)",
+      "level": "B2",
+      "rule": "Expresan que una idea es consecuencia lógica de otra: <b>therefore</b>, <b>thus</b>, <b>hence</b>, <b>consequently</b>, <b>as a result</b>, <b>accordingly</b>, <b>so</b>. Van tras punto o punto y coma (formal), o dentro de la frase con 'so'. <b>therefore</b>/<b>thus</b> son formales (informes, correos); <b>so</b> es coloquial. Ojo: no son conjunciones, así que necesitan puntuación fuerte, no una simple coma ('It rained<b>;</b> therefore, we...').",
+      "examples": [
+        {
+          "en": "The flight was delayed. <b class=\"hl\">Therefore</b>, we held their room.",
+          "es": "El vuelo se retrasó. Por tanto, les guardamos la habitación."
+        },
+        {
+          "en": "Demand doubled. <b class=\"hl\">Thus</b>, we opened a second wing.",
+          "es": "La demanda se duplicó. Así, abrimos una segunda ala."
+        },
+        {
+          "en": "Costs fell. <b class=\"hl\">Consequently</b>, prices dropped.",
+          "es": "Los costes bajaron. En consecuencia, los precios cayeron."
+        },
+        {
+          "en": "The system was down. <b class=\"hl\">As a result</b>, check-in slowed.",
+          "es": "El sistema estaba caído. Como resultado, el registro se ralentizó."
+        },
+        {
+          "en": "She's our top seller. <b class=\"hl\">Hence</b>, she leads the team.",
+          "es": "Es nuestra mejor comercial. De ahí que dirija el equipo."
+        },
+        {
+          "en": "Reviews improved. <b class=\"hl\">Accordingly</b>, bookings rose.",
+          "es": "Las reseñas mejoraron. En consecuencia, las reservas subieron."
+        },
+        {
+          "en": "It was fully booked, <b class=\"hl\">so</b> we offered a nearby hotel.",
+          "es": "Estaba completo, así que ofrecimos un hotel cercano."
+        },
+        {
+          "en": "The road was closed. <b class=\"hl\">Therefore</b>, guests used the shuttle.",
+          "es": "La carretera estaba cortada. Por tanto, los huéspedes usaron el autobús."
+        },
+        {
+          "en": "Staff were trained. <b class=\"hl\">As a result</b>, complaints fell.",
+          "es": "Se formó al personal. Como resultado, las quejas bajaron."
+        },
+        {
+          "en": "The deal closed early. <b class=\"hl\">Consequently</b>, we celebrated.",
+          "es": "El trato se cerró antes. En consecuencia, lo celebramos."
+        },
+        {
+          "en": "He arrived first; <b class=\"hl\">thus</b>, he got the best room.",
+          "es": "Llegó primero; así, consiguió la mejor habitación."
+        },
+        {
+          "en": "Prices rose. <b class=\"hl\">Hence</b>, some guests hesitated.",
+          "es": "Los precios subieron. De ahí que algunos huéspedes dudaran."
+        },
+        {
+          "en": "The chef was ill, <b class=\"hl\">so</b> we changed the menu.",
+          "es": "El chef estaba enfermo, así que cambiamos el menú."
+        },
+        {
+          "en": "Occupancy hit 100%. <b class=\"hl\">Therefore</b>, we stopped overbooking.",
+          "es": "La ocupación llegó al 100%. Por tanto, dejamos de sobrevender."
+        },
+        {
+          "en": "We upgraded the wifi. <b class=\"hl\">Consequently</b>, ratings improved.",
+          "es": "Mejoramos el wifi. En consecuencia, las valoraciones subieron."
+        },
+        {
+          "en": "The client paid late. <b class=\"hl\">As a result</b>, we added a fee.",
+          "es": "El cliente pagó tarde. Como resultado, añadimos un recargo."
+        },
+        {
+          "en": "It's peak season; <b class=\"hl\">therefore</b>, rates are higher.",
+          "es": "Es temporada alta; por tanto, las tarifas son más altas."
+        },
+        {
+          "en": "The tour sold out. <b class=\"hl\">Thus</b>, we added a second date.",
+          "es": "El tour se agotó. Así, añadimos una segunda fecha."
+        },
+        {
+          "en": "She resolved it fast, <b class=\"hl\">so</b> the guest stayed loyal.",
+          "es": "Lo resolvió rápido, así que el huésped siguió siendo fiel."
+        },
+        {
+          "en": "Costs are up. <b class=\"hl\">Accordingly</b>, we've adjusted the budget.",
+          "es": "Los costes han subido. En consecuencia, hemos ajustado el presupuesto."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s6q1",
+          "question": "1. It was full. <span class=\"blank\">___</span>, we offered another hotel. (por tanto)",
+          "options": [
+            "Therefore",
+            "However"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s6q2",
+          "question": "2. Demand rose; <span class=\"blank\">___</span>, we hired staff. (así)",
+          "options": [
+            "thus",
+            "whereas"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s6q3",
+          "question": "3. The system failed. <span class=\"blank\">___</span>, check-in was slow. (como resultado)",
+          "options": [
+            "As a result",
+            "In contrast"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s6q4",
+          "question": "4. It was booked, <span class=\"blank\">___</span> we suggested a nearby one. (coloquial)",
+          "options": [
+            "so",
+            "therefore"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s6q5",
+          "question": "5. Reviews improved. <span class=\"blank\">___</span>, bookings grew. (en consecuencia)",
+          "options": [
+            "Consequently",
+            "Nevertheless"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s6q6",
+          "question": "6. She sells the most; <span class=\"blank\">___</span>, she leads. (de ahí)",
+          "options": [
+            "hence",
+            "although"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s6q7",
+          "question": "7. Costs are up. <span class=\"blank\">___</span>, we adjusted the budget. (en consecuencia)",
+          "options": [
+            "Accordingly",
+            "Meanwhile"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b03-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una relación causa-efecto formal con <b>therefore</b> y otra coloquial con <b>so</b>.",
+        "placeholder": "Ej: The flight was late; therefore, we waited. It was late, so we waited."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>therefore/thus/hence</b> no son conjunciones: entre las dos oraciones va punto o punto y coma, no una coma sola. 'It rained, therefore we left' es incorrecto → 'It rained; therefore, we left' o 'It rained, so we left'."
+        }
+      ]
+    },
+    {
+      "idx": "3.7",
+      "title": "Conectores de adición y secuencia (moreover, firstly, finally)",
+      "level": "B1",
+      "rule": "Suman información o la ordenan en pasos. Adición: <b>moreover</b>, <b>furthermore</b>, <b>in addition</b>, <b>besides</b>, <b>what's more</b>, <b>also</b>, <b>as well</b>. Secuencia: <b>first(ly)</b>, <b>then</b>, <b>next</b>, <b>after that</b>, <b>meanwhile</b>, <b>finally</b>, <b>lastly</b>. Estructuran explicaciones, instrucciones y correos. <b>moreover/furthermore</b> son formales; <b>besides/what's more</b>, más coloquiales. Los de secuencia guían al lector paso a paso.",
+      "examples": [
+        {
+          "en": "The room is spacious. <b class=\"hl\">Moreover</b>, it has a sea view.",
+          "es": "La habitación es amplia. Además, tiene vistas al mar."
+        },
+        {
+          "en": "<b class=\"hl\">First</b>, we greet the guest. <b class=\"hl\">Then</b>, we take payment.",
+          "es": "Primero saludamos al huésped. Luego cobramos."
+        },
+        {
+          "en": "It's central. <b class=\"hl\">Furthermore</b>, parking is included.",
+          "es": "Es céntrico. Además, incluye aparcamiento."
+        },
+        {
+          "en": "<b class=\"hl\">Finally</b>, we thank them for staying with us.",
+          "es": "Por último, les agradecemos que se alojen con nosotros."
+        },
+        {
+          "en": "The price is fair. <b class=\"hl\">Besides</b>, cancellation is free.",
+          "es": "El precio es justo. Además, la cancelación es gratis."
+        },
+        {
+          "en": "<b class=\"hl\">Next</b>, hand over the key card.",
+          "es": "A continuación, entregue la tarjeta llave."
+        },
+        {
+          "en": "She's experienced. <b class=\"hl\">What's more</b>, she speaks four languages.",
+          "es": "Tiene experiencia. Es más, habla cuatro idiomas."
+        },
+        {
+          "en": "<b class=\"hl\">Meanwhile</b>, the porter takes the luggage up.",
+          "es": "Mientras tanto, el mozo sube el equipaje."
+        },
+        {
+          "en": "The suite has a lounge. <b class=\"hl\">In addition</b>, there's a kitchenette.",
+          "es": "La suite tiene un salón. Además, hay una pequeña cocina."
+        },
+        {
+          "en": "<b class=\"hl\">Firstly</b>, confirm the booking. <b class=\"hl\">Secondly</b>, assign a room.",
+          "es": "Primero, confirma la reserva. Segundo, asigna una habitación."
+        },
+        {
+          "en": "It's quiet. <b class=\"hl\">Moreover</b>, it's steps from the beach.",
+          "es": "Es tranquilo. Además, está a pasos de la playa."
+        },
+        {
+          "en": "<b class=\"hl\">After that</b>, we escort them to the room.",
+          "es": "Después de eso, los acompañamos a la habitación."
+        },
+        {
+          "en": "The deal is solid. <b class=\"hl\">Furthermore</b>, it's flexible.",
+          "es": "El trato es sólido. Además, es flexible."
+        },
+        {
+          "en": "<b class=\"hl\">Lastly</b>, we ask for feedback.",
+          "es": "Por último, pedimos su opinión."
+        },
+        {
+          "en": "He handled it well. <b class=\"hl\">Besides</b>, he stayed calm.",
+          "es": "Lo gestionó bien. Además, se mantuvo tranquilo."
+        },
+        {
+          "en": "<b class=\"hl\">Then</b>, we offer a welcome drink.",
+          "es": "Luego ofrecemos una bebida de bienvenida."
+        },
+        {
+          "en": "The offer saves money. <b class=\"hl\">What's more</b>, it earns points.",
+          "es": "La oferta ahorra dinero. Es más, acumula puntos."
+        },
+        {
+          "en": "<b class=\"hl\">Meanwhile</b>, reception prepares the paperwork.",
+          "es": "Mientras tanto, recepción prepara el papeleo."
+        },
+        {
+          "en": "The gym is free. <b class=\"hl\">In addition</b>, towels are provided.",
+          "es": "El gimnasio es gratis. Además, se facilitan toallas."
+        },
+        {
+          "en": "<b class=\"hl\">Finally</b>, wish them a pleasant stay.",
+          "es": "Por último, deséeles una estancia agradable."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s7q1",
+          "question": "1. It's cheap. <span class=\"blank\">___</span>, it's central. (además, formal)",
+          "options": [
+            "Moreover",
+            "However"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s7q2",
+          "question": "2. <span class=\"blank\">___</span>, greet the guest; then take payment. (primero)",
+          "options": [
+            "First",
+            "Finally"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s7q3",
+          "question": "3. <span class=\"blank\">___</span>, we ask for feedback. (por último)",
+          "options": [
+            "Finally",
+            "Next"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s7q4",
+          "question": "4. The rate is low. <span class=\"blank\">___</span>, cancellation is free. (además, coloquial)",
+          "options": [
+            "Besides",
+            "Therefore"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s7q5",
+          "question": "5. Reception checks in guests. <span class=\"blank\">___</span>, the porter takes bags. (mientras tanto)",
+          "options": [
+            "Meanwhile",
+            "Finally"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s7q6",
+          "question": "6. Confirm first. <span class=\"blank\">___</span>, assign a room. (a continuación)",
+          "options": [
+            "Next",
+            "However"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s7q7",
+          "question": "7. It's spacious. <span class=\"blank\">___</span>, it has a balcony. (además)",
+          "options": [
+            "In addition",
+            "In contrast"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b03-s7",
+        "label": "<span class=\"badge\">tu turno</span>Describe un proceso en tres pasos usando <b>first</b>, <b>then</b> y <b>finally</b>, y añade un dato con <b>moreover</b>.",
+        "placeholder": "Ej: First we greet, then we check in, finally we escort. Moreover, we offer a drink."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>besides</b> (además) no es lo mismo que <b>beside</b> (al lado de). Y 'also' va normalmente <b>dentro</b> de la frase (We also offer…), mientras que 'moreover/furthermore' abren una frase nueva con coma."
+        }
+      ]
+    },
+    {
+      "idx": "3.8",
+      "title": "Conectores de ejemplo y aclaración (for instance, namely, i.e.)",
+      "level": "B2",
+      "rule": "Introducen un ejemplo o reformulan lo dicho para aclararlo. Ejemplo: <b>for example</b>, <b>for instance</b>, <b>such as</b>, <b>like</b>. Aclaración/reformulación: <b>in other words</b>, <b>that is (to say)</b>, <b>namely</b>, <b>i.e.</b>, <b>that means</b>. <b>such as</b> va dentro de la frase seguido de sustantivos (rooms such as suites); <b>for example</b> puede abrir frase con coma. <b>namely</b> concreta exactamente a qué te refieres.",
+      "examples": [
+        {
+          "en": "We offer extras, <b class=\"hl\">for example</b> airport pickup.",
+          "es": "Ofrecemos extras, por ejemplo recogida en el aeropuerto."
+        },
+        {
+          "en": "Book early, <b class=\"hl\">that is</b>, at least a month ahead.",
+          "es": "Reserve pronto, es decir, con al menos un mes de antelación."
+        },
+        {
+          "en": "We serve local dishes <b class=\"hl\">such as</b> paella and gazpacho.",
+          "es": "Servimos platos locales como paella y gazpacho."
+        },
+        {
+          "en": "The rate is all-inclusive. <b class=\"hl\">In other words</b>, no surprises.",
+          "es": "La tarifa es todo incluido. Es decir, sin sorpresas."
+        },
+        {
+          "en": "One area needs work, <b class=\"hl\">namely</b> the wifi.",
+          "es": "Un aspecto necesita mejora, en concreto el wifi."
+        },
+        {
+          "en": "Some guests, <b class=\"hl\">for instance</b> VIPs, get early check-in.",
+          "es": "Algunos huéspedes, por ejemplo los VIP, tienen check-in anticipado."
+        },
+        {
+          "en": "It's non-refundable, <b class=\"hl\">i.e.</b> you can't get your money back.",
+          "es": "No es reembolsable, es decir, no puedes recuperar el dinero."
+        },
+        {
+          "en": "We have quiet rooms, <b class=\"hl\">like</b> the ones at the back.",
+          "es": "Tenemos habitaciones tranquilas, como las del fondo."
+        },
+        {
+          "en": "Peak dates, <b class=\"hl\">such as</b> Easter, sell out fast.",
+          "es": "Las fechas punta, como Semana Santa, se agotan rápido."
+        },
+        {
+          "en": "He's flexible. <b class=\"hl\">That means</b> he can start Monday.",
+          "es": "Es flexible. Eso significa que puede empezar el lunes."
+        },
+        {
+          "en": "Add sides, <b class=\"hl\">for example</b> salad or fries.",
+          "es": "Añade guarniciones, por ejemplo ensalada o patatas."
+        },
+        {
+          "en": "The suite sleeps four, <b class=\"hl\">that is to say</b>, two couples.",
+          "es": "La suite es para cuatro, es decir, dos parejas."
+        },
+        {
+          "en": "We handle special requests <b class=\"hl\">such as</b> allergies.",
+          "es": "Gestionamos peticiones especiales como las alergias."
+        },
+        {
+          "en": "It's half board. <b class=\"hl\">In other words</b>, breakfast and dinner.",
+          "es": "Es media pensión. Es decir, desayuno y cena."
+        },
+        {
+          "en": "Only one thing failed, <b class=\"hl\">namely</b> the air conditioning.",
+          "es": "Solo una cosa falló, en concreto el aire acondicionado."
+        },
+        {
+          "en": "Popular add-ons, <b class=\"hl\">for instance</b> spa passes, are cheap.",
+          "es": "Los complementos populares, por ejemplo los pases de spa, son baratos."
+        },
+        {
+          "en": "Check out by 12, <b class=\"hl\">i.e.</b> before noon.",
+          "es": "Salga antes de las 12, es decir, antes del mediodía."
+        },
+        {
+          "en": "We love active guests, <b class=\"hl\">like</b> hikers and cyclists.",
+          "es": "Nos encantan los huéspedes activos, como senderistas y ciclistas."
+        },
+        {
+          "en": "Some rooms, <b class=\"hl\">such as</b> the corner ones, are quieter.",
+          "es": "Algunas habitaciones, como las de esquina, son más tranquilas."
+        },
+        {
+          "en": "It's fully flexible. <b class=\"hl\">That means</b> free changes.",
+          "es": "Es totalmente flexible. Eso significa cambios gratis."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s8q1",
+          "question": "1. We offer perks, <span class=\"blank\">___</span> free breakfast. (por ejemplo)",
+          "options": [
+            "for example",
+            "in other words"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s8q2",
+          "question": "2. We serve dishes <span class=\"blank\">___</span> paella. (como, + sustantivo)",
+          "options": [
+            "such as",
+            "that is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s8q3",
+          "question": "3. It's all-inclusive. <span class=\"blank\">___</span>, no extra costs. (es decir)",
+          "options": [
+            "In other words",
+            "For instance"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s8q4",
+          "question": "4. One thing failed, <span class=\"blank\">___</span> the lift. (en concreto)",
+          "options": [
+            "namely",
+            "such as"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s8q5",
+          "question": "5. It's non-refundable, <span class=\"blank\">___</span> no money back. (es decir, abreviado)",
+          "options": [
+            "e.g.",
+            "i.e."
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b03-s8q6",
+          "question": "6. Some guests, <span class=\"blank\">___</span> VIPs, get upgrades. (por ejemplo)",
+          "options": [
+            "for instance",
+            "in contrast"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s8q7",
+          "question": "7. He's flexible. <span class=\"blank\">___</span> he can start now. (eso significa)",
+          "options": [
+            "That means",
+            "However"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b03-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con un ejemplo (<b>such as</b> / <b>for example</b>) y otra que reformule (<b>in other words</b>).",
+        "placeholder": "Ej: We offer extras, such as parking. In other words, better value."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>e.g.</b> = 'por ejemplo' (for example); <b>i.e.</b> = 'es decir' (that is). No son intercambiables. <b>such as</b> va con sustantivos dentro de la frase, sin punto delante."
+        }
+      ]
+    },
+    {
+      "idx": "3.9",
+      "title": "Conjunciones de tiempo (as soon as, once, by the time)",
+      "level": "B1",
+      "rule": "Introducen cuándo ocurre la acción de la principal: <b>when</b>, <b>while</b>, <b>as</b>, <b>as soon as</b> (en cuanto), <b>once</b> (una vez que), <b>by the time</b> (para cuando), <b>until</b>, <b>before</b>, <b>after</b>, <b>the moment</b>, <b>no sooner… than</b>. Regla clave: tras estas conjunciones, para el futuro se usa <b>presente</b>, no 'will' (I'll call you when I <b>arrive</b>, no 'when I will arrive'). Estructuran la secuencia temporal de dos hechos.",
+      "examples": [
+        {
+          "en": "I'll call you <b class=\"hl\">as soon as</b> the room is ready.",
+          "es": "Le llamaré en cuanto la habitación esté lista."
+        },
+        {
+          "en": "<b class=\"hl\">Once</b> you check in, the spa is free.",
+          "es": "Una vez que se registre, el spa es gratis."
+        },
+        {
+          "en": "<b class=\"hl\">By the time</b> we arrived, they had left.",
+          "es": "Para cuando llegamos, ya se habían ido."
+        },
+        {
+          "en": "Please wait <b class=\"hl\">until</b> your name is called.",
+          "es": "Por favor, espere hasta que se le llame."
+        },
+        {
+          "en": "Sign here <b class=\"hl\">before</b> you leave.",
+          "es": "Firme aquí antes de irse."
+        },
+        {
+          "en": "We'll clean the room <b class=\"hl\">after</b> you check out.",
+          "es": "Limpiaremos la habitación después de que salga."
+        },
+        {
+          "en": "<b class=\"hl\">The moment</b> she called, we upgraded her.",
+          "es": "En el momento en que llamó, la mejoramos de categoría."
+        },
+        {
+          "en": "<b class=\"hl\">No sooner</b> had we opened <b class=\"hl\">than</b> guests arrived.",
+          "es": "Nada más abrir, llegaron los huéspedes."
+        },
+        {
+          "en": "Text me <b class=\"hl\">when</b> you land.",
+          "es": "Escríbeme cuando aterrices."
+        },
+        {
+          "en": "<b class=\"hl\">As</b> the sun set, the terrace filled up.",
+          "es": "A medida que se ponía el sol, la terraza se llenaba."
+        },
+        {
+          "en": "We'll confirm <b class=\"hl\">as soon as</b> we hear back.",
+          "es": "Confirmaremos en cuanto tengamos respuesta."
+        },
+        {
+          "en": "<b class=\"hl\">Once</b> the payment clears, you'll get the voucher.",
+          "es": "Una vez que el pago se procese, recibirá el vale."
+        },
+        {
+          "en": "<b class=\"hl\">By the time</b> dinner ends, the show begins.",
+          "es": "Para cuando termine la cena, empieza el espectáculo."
+        },
+        {
+          "en": "Stay in the lobby <b class=\"hl\">until</b> the shuttle comes.",
+          "es": "Quédese en el vestíbulo hasta que llegue el autobús."
+        },
+        {
+          "en": "Double-check <b class=\"hl\">before</b> you confirm the booking.",
+          "es": "Compruébelo bien antes de confirmar la reserva."
+        },
+        {
+          "en": "We'll follow up <b class=\"hl\">after</b> the event finishes.",
+          "es": "Haremos seguimiento después de que acabe el evento."
+        },
+        {
+          "en": "<b class=\"hl\">The moment</b> you need anything, just ask.",
+          "es": "En cuanto necesite algo, solo pregunte."
+        },
+        {
+          "en": "I'll email you <b class=\"hl\">when</b> I get to the office.",
+          "es": "Le escribiré cuando llegue a la oficina."
+        },
+        {
+          "en": "<b class=\"hl\">As soon as</b> she arrives, show her the suite.",
+          "es": "En cuanto llegue, enséñale la suite."
+        },
+        {
+          "en": "<b class=\"hl\">Once</b> everyone's seated, we'll start the tour.",
+          "es": "Una vez que todos estén sentados, empezaremos el tour."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b03-s9q1",
+          "question": "1. I'll call you <span class=\"blank\">___</span> I arrive. (futuro → presente tras la conjunción)",
+          "options": [
+            "when I arrive",
+            "when I will arrive"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s9q2",
+          "question": "2. <span class=\"blank\">___</span> you check in, the wifi is free. (una vez que)",
+          "options": [
+            "Once",
+            "Until"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s9q3",
+          "question": "3. <span class=\"blank\">___</span> we arrived, the bar had closed. (para cuando)",
+          "options": [
+            "By the time",
+            "As soon as"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s9q4",
+          "question": "4. Wait here <span class=\"blank\">___</span> the taxi comes. (hasta que)",
+          "options": [
+            "until",
+            "before"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s9q5",
+          "question": "5. I'll confirm <span class=\"blank\">___</span> I hear back. (en cuanto)",
+          "options": [
+            "as soon as",
+            "by the time"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s9q6",
+          "question": "6. Sign here <span class=\"blank\">___</span> you leave. (antes de)",
+          "options": [
+            "before",
+            "after"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b03-s9q7",
+          "question": "7. We'll clean it <span class=\"blank\">___</span> you check out. (después de que)",
+          "options": [
+            "after",
+            "until"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b03-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase de futuro con <b>as soon as</b> u <b>once</b> (recuerda: presente, no 'will', tras la conjunción).",
+        "placeholder": "Ej: I'll send it as soon as I finish. Once you arrive, call me."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras conjunciones de tiempo (when, as soon as, once, until, before, after), el futuro se expresa en <b>presente</b>: 'when I <b>arrive</b>', nunca 'when I will arrive'. 'No sooner' abre la frase con inversión: 'No sooner <b>had we</b> opened than…'."
         }
       ]
     }

@@ -87,6 +87,66 @@
         {
           "en": "Guests gathered <span class=\"r-place\">around</span> the bar, <span class=\"r-place\">near</span> the terrace.",
           "es": "Los huéspedes se reunieron alrededor de la barra, cerca de la terraza."
+        },
+        {
+          "en": "The safe is <span class=\"r-place\">in</span> the wardrobe.",
+          "es": "La caja fuerte está en el armario."
+        },
+        {
+          "en": "Leave the tray <span class=\"r-place\">outside</span> the door.",
+          "es": "Deja la bandeja fuera de la puerta."
+        },
+        {
+          "en": "The restaurant is <span class=\"r-place\">on</span> the ground floor.",
+          "es": "El restaurante está en la planta baja."
+        },
+        {
+          "en": "We'll meet <span class=\"r-place\">at</span> the bar at eight.",
+          "es": "Quedamos en el bar a las ocho."
+        },
+        {
+          "en": "There's a pharmacy <span class=\"r-place\">opposite</span> the hotel.",
+          "es": "Hay una farmacia enfrente del hotel."
+        },
+        {
+          "en": "The luggage is <span class=\"r-place\">beside</span> the reception desk.",
+          "es": "El equipaje está al lado del mostrador."
+        },
+        {
+          "en": "Your table is <span class=\"r-place\">by</span> the window.",
+          "es": "Su mesa está junto a la ventana."
+        },
+        {
+          "en": "The conference room is <span class=\"r-place\">at the end of</span> the corridor.",
+          "es": "La sala de conferencias está al final del pasillo."
+        },
+        {
+          "en": "A fountain stands <span class=\"r-place\">in the middle of</span> the courtyard.",
+          "es": "Una fuente se alza en medio del patio."
+        },
+        {
+          "en": "The towels are <span class=\"r-place\">on top of</span> the shelf.",
+          "es": "Las toallas están encima de la estantería."
+        },
+        {
+          "en": "Guests were queuing <span class=\"r-place\">along</span> the wall.",
+          "es": "Los huéspedes hacían cola a lo largo de la pared."
+        },
+        {
+          "en": "The manager's office is <span class=\"r-place\">among</span> the staff rooms.",
+          "es": "El despacho del gerente está entre las salas del personal."
+        },
+        {
+          "en": "There's a garden <span class=\"r-place\">at the back of</span> the property.",
+          "es": "Hay un jardín en la parte trasera de la finca."
+        },
+        {
+          "en": "The reception is <span class=\"r-place\">across from</span> the lifts.",
+          "es": "La recepción está enfrente de los ascensores."
+        },
+        {
+          "en": "Wait for me <span class=\"r-place\">at</span> the main entrance.",
+          "es": "Espérame en la entrada principal."
         }
       ],
       "tables": [],
@@ -115,6 +175,51 @@
           "options": [
             "at",
             "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s1q4",
+          "question": "4. The bags are <span class=\"blank\">___</span> the car boot. (dentro, con volumen)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s1q5",
+          "question": "5. Your key card is <span class=\"blank\">___</span> the counter. (sobre una superficie)",
+          "options": [
+            "on",
+            "at"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s1q6",
+          "question": "6. Let's meet <span class=\"blank\">___</span> the airport. (punto de encuentro)",
+          "options": [
+            "in",
+            "at"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s1q7",
+          "question": "7. The gym is <span class=\"blank\">___</span> the spa, side by side. (al lado de)",
+          "options": [
+            "next to",
+            "under"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s1q8",
+          "question": "8. There's a café <span class=\"blank\">___</span> the hotel, just across the road. (enfrente de)",
+          "options": [
+            "opposite",
+            "between"
           ],
           "correctIndex": 0
         }
@@ -196,6 +301,66 @@
         {
           "en": "Call me back <span class=\"r-time\">after</span> lunch, <span class=\"r-time\">before</span> 4pm.",
           "es": "Llámame después de comer, antes de las 4pm."
+        },
+        {
+          "en": "The gala starts <span class=\"r-time\">at</span> nine <span class=\"r-time\">on</span> Saturday.",
+          "es": "La gala empieza a las nueve el sábado."
+        },
+        {
+          "en": "We renovated the lobby <span class=\"r-time\">in</span> 2024.",
+          "es": "Renovamos el vestíbulo en 2024."
+        },
+        {
+          "en": "Reception is open <span class=\"r-time\">around</span> the clock.",
+          "es": "La recepción está abierta las 24 horas."
+        },
+        {
+          "en": "Please arrive <span class=\"r-time\">before</span> your appointment.",
+          "es": "Por favor, llegue antes de su cita."
+        },
+        {
+          "en": "The pool closes <span class=\"r-time\">at</span> sunset <span class=\"r-time\">in</span> winter.",
+          "es": "La piscina cierra al atardecer en invierno."
+        },
+        {
+          "en": "We'll send the invoice <span class=\"r-time\">by</span> the end of the week.",
+          "es": "Enviaremos la factura para el final de la semana."
+        },
+        {
+          "en": "Guests can check out <span class=\"r-time\">until</span> noon.",
+          "es": "Los huéspedes pueden salir hasta el mediodía."
+        },
+        {
+          "en": "The bar is quiet <span class=\"r-time\">during</span> the week.",
+          "es": "El bar está tranquilo entre semana."
+        },
+        {
+          "en": "She's been on shift <span class=\"r-time\">since</span> dawn.",
+          "es": "Ella lleva de turno desde el amanecer."
+        },
+        {
+          "en": "We've run this promotion <span class=\"r-time\">for</span> two months.",
+          "es": "Hemos mantenido esta promoción durante dos meses."
+        },
+        {
+          "en": "The kitchen closes <span class=\"r-time\">at</span> eleven <span class=\"r-time\">on</span> weekdays.",
+          "es": "La cocina cierra a las once entre semana."
+        },
+        {
+          "en": "We'll reopen <span class=\"r-time\">after</span> the holidays.",
+          "es": "Reabriremos después de las vacaciones."
+        },
+        {
+          "en": "The offer is valid <span class=\"r-time\">throughout</span> August.",
+          "es": "La oferta es válida durante todo agosto."
+        },
+        {
+          "en": "He usually calls clients <span class=\"r-time\">in</span> the morning.",
+          "es": "Suele llamar a los clientes por la mañana."
+        },
+        {
+          "en": "Your refund will arrive <span class=\"r-time\">within</span> five days.",
+          "es": "Tu reembolso llegará en un plazo de cinco días."
         }
       ],
       "tables": [],
@@ -224,6 +389,51 @@
           "options": [
             "by",
             "until"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s2q4",
+          "question": "4. The event is <span class=\"blank\">___</span> December. (mes = periodo largo)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s2q5",
+          "question": "5. We open <span class=\"blank\">___</span> 8am. (hora exacta)",
+          "options": [
+            "at",
+            "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s2q6",
+          "question": "6. I need it <span class=\"blank\">___</span> Friday at the latest. (plazo límite)",
+          "options": [
+            "until",
+            "by"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s2q7",
+          "question": "7. She's worked here <span class=\"blank\">___</span> 2019. (punto de inicio)",
+          "options": [
+            "for",
+            "since"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s2q8",
+          "question": "8. The desk is staffed <span class=\"blank\">___</span> the night. (a lo largo de)",
+          "options": [
+            "during",
+            "on"
           ],
           "correctIndex": 0
         }
@@ -305,6 +515,66 @@
         {
           "en": "Move the sofa <span class=\"r-move\">away from</span> the window <span class=\"r-move\">towards</span> the wall.",
           "es": "Aparta el sofá de la ventana hacia la pared."
+        },
+        {
+          "en": "The porter carried the bags <span class=\"r-move\">up to</span> the suite.",
+          "es": "El mozo subió las maletas hasta la suite."
+        },
+        {
+          "en": "Guests streamed <span class=\"r-move\">into</span> the ballroom.",
+          "es": "Los invitados entraron en tromba al salón de baile."
+        },
+        {
+          "en": "The taxi pulled <span class=\"r-move\">away from</span> the entrance.",
+          "es": "El taxi se alejó de la entrada."
+        },
+        {
+          "en": "We hiked <span class=\"r-move\">up</span> the hill to the viewpoint.",
+          "es": "Subimos la colina hasta el mirador."
+        },
+        {
+          "en": "She walked <span class=\"r-move\">across</span> the bridge <span class=\"r-move\">to</span> the old town.",
+          "es": "Cruzó el puente hacia el casco antiguo."
+        },
+        {
+          "en": "The waiter moved <span class=\"r-move\">between</span> the tables with ease.",
+          "es": "El camarero se movía entre las mesas con soltura."
+        },
+        {
+          "en": "Drive <span class=\"r-move\">towards</span> the coast and follow the signs.",
+          "es": "Conduce hacia la costa y sigue las señales."
+        },
+        {
+          "en": "He climbed <span class=\"r-move\">onto</span> the roof terrace.",
+          "es": "Subió a la azotea."
+        },
+        {
+          "en": "The group wandered <span class=\"r-move\">around</span> the market.",
+          "es": "El grupo paseó por el mercado."
+        },
+        {
+          "en": "Water leaked <span class=\"r-move\">down</span> the wall.",
+          "es": "El agua se filtraba pared abajo."
+        },
+        {
+          "en": "The shuttle heads <span class=\"r-move\">back to</span> the airport at six.",
+          "es": "El autobús vuelve al aeropuerto a las seis."
+        },
+        {
+          "en": "She slipped <span class=\"r-move\">out of</span> the meeting quietly.",
+          "es": "Salió de la reunión sin hacer ruido."
+        },
+        {
+          "en": "Follow the path <span class=\"r-move\">through</span> the garden.",
+          "es": "Sigue el camino a través del jardín."
+        },
+        {
+          "en": "The lift takes you <span class=\"r-move\">down to</span> the parking.",
+          "es": "El ascensor te baja al aparcamiento."
+        },
+        {
+          "en": "They ran <span class=\"r-move\">from</span> the beach <span class=\"r-move\">to</span> the shelter.",
+          "es": "Corrieron de la playa al refugio."
         }
       ],
       "tables": [],
@@ -333,6 +603,51 @@
           "options": [
             "along",
             "across"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s3q4",
+          "question": "4. She dived <span class=\"blank\">___</span> the sea. (entrada a un espacio)",
+          "options": [
+            "into",
+            "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s3q5",
+          "question": "5. Walk <span class=\"blank\">___</span> the lobby to the lifts. (de un lado a otro)",
+          "options": [
+            "across",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s3q6",
+          "question": "6. The bus goes <span class=\"blank\">___</span> the resort <span class=\"blank\">___</span> the town. (origen → destino)",
+          "options": [
+            "from / to",
+            "to / from"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s3q7",
+          "question": "7. He stepped <span class=\"blank\">___</span> the lift onto the floor. (salida de)",
+          "options": [
+            "out of",
+            "off of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s3q8",
+          "question": "8. Drive <span class=\"blank\">___</span> the marina and turn right. (dejar atrás)",
+          "options": [
+            "past",
+            "through"
           ],
           "correctIndex": 0
         }
@@ -414,6 +729,66 @@
         {
           "en": "Payment can be made <span class=\"r-dep\">by</span> card or <span class=\"r-dep\">in</span> cash.",
           "es": "El pago puede hacerse con tarjeta o en efectivo."
+        },
+        {
+          "en": "The delay was <span class=\"r-dep\">due to</span> a technical fault.",
+          "es": "El retraso se debió a un fallo técnico."
+        },
+        {
+          "en": "We closed early <span class=\"r-dep\">because of</span> the strike.",
+          "es": "Cerramos antes por la huelga."
+        },
+        {
+          "en": "This suite is ideal <span class=\"r-dep\">for</span> honeymooners.",
+          "es": "Esta suite es ideal para lunas de miel."
+        },
+        {
+          "en": "<span class=\"r-dep\">In spite of</span> the crowds, service stayed fast.",
+          "es": "A pesar de la aglomeración, el servicio siguió siendo rápido."
+        },
+        {
+          "en": "You can book <span class=\"r-dep\">by</span> phone or online.",
+          "es": "Puede reservar por teléfono o por internet."
+        },
+        {
+          "en": "He signed the deal <span class=\"r-dep\">with</span> great enthusiasm.",
+          "es": "Firmó el trato con gran entusiasmo."
+        },
+        {
+          "en": "<span class=\"r-dep\">Thanks to</span> the upgrade, the guest left happy.",
+          "es": "Gracias a la mejora, el huésped se fue contento."
+        },
+        {
+          "en": "She handled it <span class=\"r-dep\">without</span> a single complaint.",
+          "es": "Lo gestionó sin una sola queja."
+        },
+        {
+          "en": "The tour was cancelled <span class=\"r-dep\">owing to</span> bad weather.",
+          "es": "El tour se canceló debido al mal tiempo."
+        },
+        {
+          "en": "This form is <span class=\"r-dep\">for</span> reporting lost items.",
+          "es": "Este formulario es para reportar objetos perdidos."
+        },
+        {
+          "en": "We travelled <span class=\"r-dep\">by</span> train to save time.",
+          "es": "Viajamos en tren para ahorrar tiempo."
+        },
+        {
+          "en": "He apologised <span class=\"r-dep\">for</span> the misunderstanding.",
+          "es": "Se disculpó por el malentendido."
+        },
+        {
+          "en": "<span class=\"r-dep\">Despite</span> the price, demand stayed strong.",
+          "es": "A pesar del precio, la demanda se mantuvo fuerte."
+        },
+        {
+          "en": "She succeeded <span class=\"r-dep\">through</span> hard work.",
+          "es": "Triunfó gracias al trabajo duro."
+        },
+        {
+          "en": "The room was cleaned <span class=\"r-dep\">with</span> great care.",
+          "es": "La habitación se limpió con mucho cuidado."
         }
       ],
       "tables": [],
@@ -442,6 +817,51 @@
           "options": [
             "Despite",
             "Because of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s4q4",
+          "question": "4. The event was postponed <span class=\"blank\">___</span> the storm. (causa + sustantivo)",
+          "options": [
+            "because of",
+            "because"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s4q5",
+          "question": "5. This package is <span class=\"blank\">___</span> business travellers. (propósito/destinatario)",
+          "options": [
+            "for",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s4q6",
+          "question": "6. You can pay <span class=\"blank\">___</span> card. (medio)",
+          "options": [
+            "with",
+            "by"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s4q7",
+          "question": "7. <span class=\"blank\">___</span> the rain, the terrace stayed open. (concesión + sustantivo)",
+          "options": [
+            "Despite",
+            "Although"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s4q8",
+          "question": "8. The refund was issued <span class=\"blank\">___</span> delay. (sin)",
+          "options": [
+            "without",
+            "with"
           ],
           "correctIndex": 0
         }
@@ -511,6 +931,66 @@
         {
           "en": "She <span class=\"r-dep\">agreed with</span> my suggestion.",
           "es": "Estuvo de acuerdo con mi sugerencia."
+        },
+        {
+          "en": "The result <span class=\"r-dep\">depends on</span> the season.",
+          "es": "El resultado depende de la temporada."
+        },
+        {
+          "en": "We <span class=\"r-dep\">look forward to</span> your visit.",
+          "es": "Esperamos con ilusión su visita."
+        },
+        {
+          "en": "Please <span class=\"r-dep\">refer to</span> the terms and conditions.",
+          "es": "Por favor, consulte los términos y condiciones."
+        },
+        {
+          "en": "She <span class=\"r-dep\">complained about</span> the noise.",
+          "es": "Se quejó del ruido."
+        },
+        {
+          "en": "We <span class=\"r-dep\">rely on</span> repeat customers.",
+          "es": "Dependemos de los clientes que repiten."
+        },
+        {
+          "en": "He <span class=\"r-dep\">applied for</span> the manager position.",
+          "es": "Solicitó el puesto de gerente."
+        },
+        {
+          "en": "The price <span class=\"r-dep\">includes</span> breakfast and <span class=\"r-dep\">amounts to</span> 120 euros.",
+          "es": "El precio incluye desayuno y asciende a 120 euros."
+        },
+        {
+          "en": "I'll <span class=\"r-dep\">check with</span> housekeeping.",
+          "es": "Lo consultaré con el servicio de limpieza."
+        },
+        {
+          "en": "They <span class=\"r-dep\">objected to</span> the extra charge.",
+          "es": "Se opusieron al cargo adicional."
+        },
+        {
+          "en": "We must <span class=\"r-dep\">comply with</span> the regulations.",
+          "es": "Debemos cumplir con la normativa."
+        },
+        {
+          "en": "She <span class=\"r-dep\">apologised to</span> the guest personally.",
+          "es": "Se disculpó con el huésped en persona."
+        },
+        {
+          "en": "Let's <span class=\"r-dep\">concentrate on</span> the VIP arrivals.",
+          "es": "Concentrémonos en las llegadas VIP."
+        },
+        {
+          "en": "He <span class=\"r-dep\">provided</span> the client <span class=\"r-dep\">with</span> a full report.",
+          "es": "Le facilitó al cliente un informe completo."
+        },
+        {
+          "en": "We <span class=\"r-dep\">agreed on</span> a fair price.",
+          "es": "Acordamos un precio justo."
+        },
+        {
+          "en": "The staff <span class=\"r-dep\">care about</span> every detail.",
+          "es": "Al personal le importa cada detalle."
         }
       ],
       "tables": [
@@ -568,6 +1048,51 @@
           "options": [
             "of",
             "for"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s5q4",
+          "question": "4. It <span class=\"blank\">___</span> the number of guests. (depender)",
+          "options": [
+            "depends of",
+            "depends on"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s5q5",
+          "question": "5. We look forward <span class=\"blank\">___</span> seeing you. (fija + -ing)",
+          "options": [
+            "to",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s5q6",
+          "question": "6. She apologised <span class=\"blank\">___</span> the guest. (persona a quien)",
+          "options": [
+            "to",
+            "with"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s5q7",
+          "question": "7. Please listen <span class=\"blank\">___</span> the customer. (verbo fijo)",
+          "options": [
+            "to",
+            "at"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s5q8",
+          "question": "8. We must comply <span class=\"blank\">___</span> the rules. (verbo fijo)",
+          "options": [
+            "to",
+            "with"
           ],
           "correctIndex": 1
         }
@@ -637,6 +1162,66 @@
         {
           "en": "They were <span class=\"r-dep\">satisfied with</span> the service.",
           "es": "Quedaron satisfechos con el servicio."
+        },
+        {
+          "en": "She's <span class=\"r-dep\">excellent at</span> handling complaints.",
+          "es": "Es excelente gestionando quejas."
+        },
+        {
+          "en": "He's <span class=\"r-dep\">responsible for</span> the night shift.",
+          "es": "Es responsable del turno de noche."
+        },
+        {
+          "en": "We're <span class=\"r-dep\">committed to</span> guest satisfaction.",
+          "es": "Estamos comprometidos con la satisfacción del huésped."
+        },
+        {
+          "en": "This model is <span class=\"r-dep\">similar to</span> last year's.",
+          "es": "Este modelo es similar al del año pasado."
+        },
+        {
+          "en": "The team is <span class=\"r-dep\">capable of</span> handling peak season.",
+          "es": "El equipo es capaz de gestionar la temporada alta."
+        },
+        {
+          "en": "I'm <span class=\"r-dep\">grateful for</span> your patience.",
+          "es": "Le agradezco su paciencia."
+        },
+        {
+          "en": "She's <span class=\"r-dep\">familiar with</span> the booking system.",
+          "es": "Está familiarizada con el sistema de reservas."
+        },
+        {
+          "en": "He was <span class=\"r-dep\">disappointed with</span> the room.",
+          "es": "Quedó decepcionado con la habitación."
+        },
+        {
+          "en": "We're <span class=\"r-dep\">confident of</span> a strong quarter.",
+          "es": "Confiamos en un trimestre fuerte."
+        },
+        {
+          "en": "This offer is <span class=\"r-dep\">exclusive to</span> members.",
+          "es": "Esta oferta es exclusiva para socios."
+        },
+        {
+          "en": "The staff are <span class=\"r-dep\">accustomed to</span> late arrivals.",
+          "es": "El personal está acostumbrado a las llegadas tardías."
+        },
+        {
+          "en": "She's <span class=\"r-dep\">keen on</span> upselling suites.",
+          "es": "Le entusiasma vender suites de categoría superior."
+        },
+        {
+          "en": "The report is <span class=\"r-dep\">relevant to</span> our strategy.",
+          "es": "El informe es relevante para nuestra estrategia."
+        },
+        {
+          "en": "He's <span class=\"r-dep\">fond of</span> our loyal guests.",
+          "es": "Les tiene cariño a nuestros huéspedes fieles."
+        },
+        {
+          "en": "We're <span class=\"r-dep\">short of</span> staff this weekend.",
+          "es": "Andamos cortos de personal este fin de semana."
         }
       ],
       "tables": [
@@ -696,6 +1281,51 @@
             "of"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b02-s6q4",
+          "question": "4. She's very good <span class=\"blank\">___</span> languages. (adjetivo fijo)",
+          "options": [
+            "at",
+            "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s6q5",
+          "question": "5. He's afraid <span class=\"blank\">___</span> losing the account. (adjetivo fijo)",
+          "options": [
+            "of",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s6q6",
+          "question": "6. We're responsible <span class=\"blank\">___</span> safety. (adjetivo fijo)",
+          "options": [
+            "of",
+            "for"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s6q7",
+          "question": "7. This is different <span class=\"blank\">___</span> the other plan. (adjetivo fijo)",
+          "options": [
+            "from",
+            "than"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s6q8",
+          "question": "8. I'm used <span class=\"blank\">___</span> dealing with VIPs. (adjetivo fijo + -ing)",
+          "options": [
+            "to",
+            "with"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -707,6 +1337,1218 @@
         {
           "type": "exception",
           "text": "No coinciden con el español: good <b>at</b> (no 'in'), married <b>to</b> (no 'with'), interested <b>in</b> (no 'on'), afraid <b>of</b>."
+        }
+      ]
+    },
+    {
+      "idx": "2.7",
+      "title": "at / in / on: los tres grandes (contraste)",
+      "level": "A2",
+      "rule": "Las tres preposiciones que más se confunden. Pauta de <b>lugar</b>: <b>at</b> = punto o dirección (at the door, at reception), <b>in</b> = dentro de un espacio con volumen (in the room, in the city), <b>on</b> = sobre una superficie o línea (on the table, on the wall, on the 3rd floor). Pauta de <b>tiempo</b>: <b>at</b> = hora/momento puntual (at 9am, at night), <b>in</b> = periodos largos (in July, in the morning), <b>on</b> = días y fechas (on Monday, on 5 May). Aprende los tres a la vez porque compiten por los mismos huecos.",
+      "examples": [
+        {
+          "en": "I'll wait for you <b class=\"hl\">at</b> the gate.",
+          "es": "Te espero en la puerta de embarque."
+        },
+        {
+          "en": "She lives <b class=\"hl\">in</b> a small coastal town.",
+          "es": "Vive en un pueblo costero pequeño."
+        },
+        {
+          "en": "The painting is <b class=\"hl\">on</b> the far wall.",
+          "es": "El cuadro está en la pared del fondo."
+        },
+        {
+          "en": "We open <b class=\"hl\">at</b> eight <b class=\"hl\">in</b> the morning.",
+          "es": "Abrimos a las ocho de la mañana."
+        },
+        {
+          "en": "The meeting is <b class=\"hl\">on</b> Tuesday.",
+          "es": "La reunión es el martes."
+        },
+        {
+          "en": "There's a great view <b class=\"hl\">from</b> the room <b class=\"hl\">on</b> the top floor.",
+          "es": "Hay una vista estupenda desde la habitación de la última planta."
+        },
+        {
+          "en": "Guests gather <b class=\"hl\">at</b> the bar <b class=\"hl\">at</b> night.",
+          "es": "Los huéspedes se reúnen en el bar por la noche."
+        },
+        {
+          "en": "We'll be busy <b class=\"hl\">in</b> August.",
+          "es": "Estaremos muy ocupados en agosto."
+        },
+        {
+          "en": "Your reservation is <b class=\"hl\">on</b> the 12th.",
+          "es": "Su reserva es el día 12."
+        },
+        {
+          "en": "He's <b class=\"hl\">at</b> work until six.",
+          "es": "Está en el trabajo hasta las seis."
+        },
+        {
+          "en": "The keys are <b class=\"hl\">in</b> the top drawer.",
+          "es": "Las llaves están en el cajón de arriba."
+        },
+        {
+          "en": "Breakfast is served <b class=\"hl\">on</b> weekdays only.",
+          "es": "El desayuno se sirve solo entre semana."
+        },
+        {
+          "en": "I'll see you <b class=\"hl\">at</b> the conference.",
+          "es": "Nos vemos en el congreso."
+        },
+        {
+          "en": "She was born <b class=\"hl\">in</b> 1990.",
+          "es": "Nació en 1990."
+        },
+        {
+          "en": "The sign is <b class=\"hl\">on</b> the door.",
+          "es": "El cartel está en la puerta."
+        },
+        {
+          "en": "We met <b class=\"hl\">at</b> a trade fair.",
+          "es": "Nos conocimos en una feria."
+        },
+        {
+          "en": "It gets cold here <b class=\"hl\">in</b> winter.",
+          "es": "Aquí hace frío en invierno."
+        },
+        {
+          "en": "Put your name <b class=\"hl\">on</b> the list.",
+          "es": "Pon tu nombre en la lista."
+        },
+        {
+          "en": "He's waiting <b class=\"hl\">at</b> the corner table.",
+          "es": "Está esperando en la mesa de la esquina."
+        },
+        {
+          "en": "There's live music <b class=\"hl\">on</b> Fridays.",
+          "es": "Hay música en vivo los viernes."
+        },
+        {
+          "en": "The office is <b class=\"hl\">in</b> the city centre.",
+          "es": "La oficina está en el centro de la ciudad."
+        },
+        {
+          "en": "Call me <b class=\"hl\">at</b> noon, not <b class=\"hl\">at</b> midnight.",
+          "es": "Llámame al mediodía, no a medianoche."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s7q1",
+          "question": "1. See you <span class=\"blank\">___</span> Monday. (día)",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s7q2",
+          "question": "2. The gym is <span class=\"blank\">___</span> the second floor. (planta = superficie/nivel)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s7q3",
+          "question": "3. We open <span class=\"blank\">___</span> 9am. (hora puntual)",
+          "options": [
+            "at",
+            "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s7q4",
+          "question": "4. She lives <span class=\"blank\">___</span> Barcelona. (ciudad = espacio)",
+          "options": [
+            "at",
+            "in"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s7q5",
+          "question": "5. The bags are <span class=\"blank\">___</span> the car. (dentro)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s7q6",
+          "question": "6. There's a party <span class=\"blank\">___</span> New Year's Eve. (fecha concreta)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s7q7",
+          "question": "7. Let's meet <span class=\"blank\">___</span> the entrance. (punto)",
+          "options": [
+            "at",
+            "in"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres frases sobre una cita: una con <b>at</b> (hora), otra con <b>on</b> (día) y otra con <b>in</b> (mes o lugar).",
+        "placeholder": "Ej: The interview is at 10am on Friday, in the main office."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Momentos del día: <b>in</b> the morning/afternoon/evening, pero <b>at</b> night y <b>at</b> noon/midnight. Y 'at the weekend' (británico) vs 'on the weekend' (americano)."
+        }
+      ]
+    },
+    {
+      "idx": "2.8",
+      "title": "for / since / during / while / by / until (tiempo)",
+      "level": "B1",
+      "rule": "El grupo temporal más resbaladizo. <b>for</b> + <b>duración</b> (for two hours). <b>since</b> + <b>punto de inicio</b> (since 2020, since Monday). <b>during</b> + sustantivo, cuándo ocurre algo (during the meeting). <b>while</b> + oración con verbo (while we were talking). <b>by</b> = 'no más tarde de' un límite (by Friday). <b>until/till</b> = 'hasta' que algo continúa (open until midnight). Confusión típica: 'by' marca el plazo tope; 'until' marca hasta cuándo dura la acción.",
+      "examples": [
+        {
+          "en": "We've been open <b class=\"hl\">for</b> ten years.",
+          "es": "Llevamos abiertos diez años."
+        },
+        {
+          "en": "She's worked here <b class=\"hl\">since</b> March.",
+          "es": "Trabaja aquí desde marzo."
+        },
+        {
+          "en": "Please stay seated <b class=\"hl\">during</b> the show.",
+          "es": "Por favor, permanezca sentado durante el espectáculo."
+        },
+        {
+          "en": "He called <b class=\"hl\">while</b> I was checking out a guest.",
+          "es": "Llamó mientras yo hacía el check-out de un huésped."
+        },
+        {
+          "en": "Send the quote <b class=\"hl\">by</b> tomorrow.",
+          "es": "Envía el presupuesto para mañana como máximo."
+        },
+        {
+          "en": "The bar stays open <b class=\"hl\">until</b> two.",
+          "es": "El bar sigue abierto hasta las dos."
+        },
+        {
+          "en": "I haven't seen him <b class=\"hl\">since</b> the conference.",
+          "es": "No lo he visto desde el congreso."
+        },
+        {
+          "en": "We chatted <b class=\"hl\">for</b> a while in the lobby.",
+          "es": "Charlamos un rato en el vestíbulo."
+        },
+        {
+          "en": "Nothing happened <b class=\"hl\">during</b> the night.",
+          "es": "No pasó nada durante la noche."
+        },
+        {
+          "en": "Take notes <b class=\"hl\">while</b> the trainer explains.",
+          "es": "Toma notas mientras el formador explica."
+        },
+        {
+          "en": "The rooms must be ready <b class=\"hl\">by</b> noon.",
+          "es": "Las habitaciones deben estar listas para el mediodía."
+        },
+        {
+          "en": "Wait here <b class=\"hl\">until</b> your name is called.",
+          "es": "Espere aquí hasta que se le llame."
+        },
+        {
+          "en": "It's been quiet <b class=\"hl\">since</b> the season ended.",
+          "es": "Ha estado tranquilo desde que acabó la temporada."
+        },
+        {
+          "en": "We drove <b class=\"hl\">for</b> three hours to reach the resort.",
+          "es": "Condujimos tres horas para llegar al resort."
+        },
+        {
+          "en": "Keep your seatbelt on <b class=\"hl\">during</b> the flight.",
+          "es": "Mantenga el cinturón puesto durante el vuelo."
+        },
+        {
+          "en": "She smiled <b class=\"hl\">while</b> greeting the guests.",
+          "es": "Sonreía mientras saludaba a los huéspedes."
+        },
+        {
+          "en": "Confirm your booking <b class=\"hl\">by</b> the end of the day.",
+          "es": "Confirme su reserva antes de que acabe el día."
+        },
+        {
+          "en": "The pool is closed <b class=\"hl\">until</b> further notice.",
+          "es": "La piscina está cerrada hasta nuevo aviso."
+        },
+        {
+          "en": "He's been in a meeting <b class=\"hl\">for</b> over an hour.",
+          "es": "Lleva más de una hora reunido."
+        },
+        {
+          "en": "Prices have risen <b class=\"hl\">since</b> last summer.",
+          "es": "Los precios han subido desde el verano pasado."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s8q1",
+          "question": "1. I've lived here <span class=\"blank\">___</span> five years. (duración)",
+          "options": [
+            "since",
+            "for"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s8q2",
+          "question": "2. She's been off <span class=\"blank\">___</span> Monday. (punto de inicio)",
+          "options": [
+            "for",
+            "since"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s8q3",
+          "question": "3. Don't talk <span class=\"blank\">___</span> the presentation. (+ sustantivo)",
+          "options": [
+            "during",
+            "while"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s8q4",
+          "question": "4. He arrived <span class=\"blank\">___</span> we were eating. (+ oración)",
+          "options": [
+            "during",
+            "while"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s8q5",
+          "question": "5. Finish it <span class=\"blank\">___</span> Friday. (plazo tope)",
+          "options": [
+            "until",
+            "by"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s8q6",
+          "question": "6. We're open <span class=\"blank\">___</span> midnight. (hasta cuándo dura)",
+          "options": [
+            "by",
+            "until"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s8q7",
+          "question": "7. I'll wait <span class=\"blank\">___</span> you're ready. (hasta que)",
+          "options": [
+            "until",
+            "by"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>for</b> y <b>since</b>, y otra que contraste <b>by</b> (plazo) con <b>until</b> (duración).",
+        "placeholder": "Ej: I'll be here until six, but send it by five."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>during</b> va con sustantivo (during the film); <b>while</b> con verbo (while I watched the film). Y ojo: <b>by</b> = fecha límite única (by 5pm); <b>until</b> = la acción continúa hasta ese momento (until 5pm)."
+        }
+      ]
+    },
+    {
+      "idx": "2.9",
+      "title": "Sustantivo + preposición (dependientes)",
+      "level": "B2",
+      "rule": "Igual que verbos y adjetivos, muchos <b>sustantivos</b> arrastran una preposición fija que hay que memorizar: <b>reason for</b>, <b>increase in</b>, <b>solution to</b>, <b>demand for</b>, <b>reply to</b>, <b>interest in</b>. Rara vez coincide con el español ('razón <i>de</i>' → reason <b>for</b>; 'solución <i>a</i>' → solution <b>to</b>). Aprenderlos en bloque (sustantivo + preposición + ejemplo) evita el error de calcar la preposición española.",
+      "examples": [
+        {
+          "en": "What's the <b class=\"hl\">reason for</b> the delay?",
+          "es": "¿Cuál es el motivo del retraso?"
+        },
+        {
+          "en": "There's been an <b class=\"hl\">increase in</b> bookings.",
+          "es": "Ha habido un aumento de las reservas."
+        },
+        {
+          "en": "We found a <b class=\"hl\">solution to</b> the problem.",
+          "es": "Encontramos una solución al problema."
+        },
+        {
+          "en": "There's high <b class=\"hl\">demand for</b> sea-view rooms.",
+          "es": "Hay mucha demanda de habitaciones con vistas al mar."
+        },
+        {
+          "en": "Thank you for your <b class=\"hl\">reply to</b> my email.",
+          "es": "Gracias por tu respuesta a mi correo."
+        },
+        {
+          "en": "She showed great <b class=\"hl\">interest in</b> the offer.",
+          "es": "Mostró mucho interés en la oferta."
+        },
+        {
+          "en": "There's no <b class=\"hl\">need for</b> concern.",
+          "es": "No hay necesidad de preocuparse."
+        },
+        {
+          "en": "We saw a <b class=\"hl\">drop in</b> cancellations.",
+          "es": "Vimos una caída de las cancelaciones."
+        },
+        {
+          "en": "He has a good <b class=\"hl\">relationship with</b> suppliers.",
+          "es": "Tiene buena relación con los proveedores."
+        },
+        {
+          "en": "What's your <b class=\"hl\">attitude to</b> risk?",
+          "es": "¿Cuál es tu actitud ante el riesgo?"
+        },
+        {
+          "en": "There's little <b class=\"hl\">difference between</b> the two rates.",
+          "es": "Hay poca diferencia entre las dos tarifas."
+        },
+        {
+          "en": "We take <b class=\"hl\">pride in</b> our service.",
+          "es": "Nos enorgullecemos de nuestro servicio."
+        },
+        {
+          "en": "The <b class=\"hl\">rise in</b> costs worries the owners.",
+          "es": "La subida de costes preocupa a los propietarios."
+        },
+        {
+          "en": "There's no <b class=\"hl\">answer to</b> that question yet.",
+          "es": "Todavía no hay respuesta a esa pregunta."
+        },
+        {
+          "en": "She has a talent <b class=\"hl\">for</b> languages.",
+          "es": "Tiene talento para los idiomas."
+        },
+        {
+          "en": "What's the <b class=\"hl\">advantage of</b> the premium plan?",
+          "es": "¿Cuál es la ventaja del plan premium?"
+        },
+        {
+          "en": "We have a <b class=\"hl\">focus on</b> guest loyalty.",
+          "es": "Tenemos un enfoque en la fidelización de huéspedes."
+        },
+        {
+          "en": "His <b class=\"hl\">concern about</b> safety is valid.",
+          "es": "Su preocupación por la seguridad es válida."
+        },
+        {
+          "en": "There's a <b class=\"hl\">lack of</b> parking nearby.",
+          "es": "Hay una falta de aparcamiento en la zona."
+        },
+        {
+          "en": "We reached an <b class=\"hl\">agreement on</b> the price.",
+          "es": "Llegamos a un acuerdo sobre el precio."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Sustantivo + preposición",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "reason for",
+              "the reason for the delay"
+            ],
+            [
+              "increase / rise in",
+              "an increase in demand"
+            ],
+            [
+              "drop / fall in",
+              "a drop in bookings"
+            ],
+            [
+              "solution / answer to",
+              "a solution to the problem"
+            ],
+            [
+              "demand for",
+              "demand for suites"
+            ],
+            [
+              "reply / response to",
+              "a reply to your email"
+            ],
+            [
+              "interest in",
+              "interest in the offer"
+            ],
+            [
+              "difference between",
+              "the difference between rates"
+            ],
+            [
+              "need for",
+              "no need for worry"
+            ],
+            [
+              "advantage of",
+              "the advantage of booking early"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b02-s9q1",
+          "question": "1. What's the reason <span class=\"blank\">___</span> the change? (sustantivo fijo)",
+          "options": [
+            "of",
+            "for"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s9q2",
+          "question": "2. There's been an increase <span class=\"blank\">___</span> demand. (sustantivo fijo)",
+          "options": [
+            "in",
+            "of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s9q3",
+          "question": "3. We found a solution <span class=\"blank\">___</span> the issue. (sustantivo fijo)",
+          "options": [
+            "to",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s9q4",
+          "question": "4. There's high demand <span class=\"blank\">___</span> our rooms. (sustantivo fijo)",
+          "options": [
+            "of",
+            "for"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s9q5",
+          "question": "5. Thanks for your reply <span class=\"blank\">___</span> my message. (sustantivo fijo)",
+          "options": [
+            "to",
+            "of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s9q6",
+          "question": "6. She has great interest <span class=\"blank\">___</span> the project. (sustantivo fijo)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s9q7",
+          "question": "7. What's the difference <span class=\"blank\">___</span> the two plans? (sustantivo fijo)",
+          "options": [
+            "between",
+            "of"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases usando <b>reason for</b> y <b>solution to</b> (fíjate: no son 'de' ni 'a').",
+        "placeholder": "Ej: The reason for the price is quality. There's a solution to every complaint."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Casi nunca coincide con el español: 'razón <i>de</i>' → reason <b>for</b>, 'solución <i>a</i>' → solution <b>to</b>, 'aumento <i>de</i>' → increase <b>in</b>. Memorízalos como bloque, no traduzcas la preposición."
+        }
+      ]
+    },
+    {
+      "idx": "2.10",
+      "title": "Expresiones fijas con preposición",
+      "level": "A2",
+      "rule": "Muchas frases hechas de uso diario llevan una preposición <b>fija</b> que no se razona, se memoriza: medios de transporte (<b>by</b> car, <b>by</b> train, pero <b>on</b> foot), forma de pago (<b>in</b> cash, <b>by</b> card), estados (<b>on</b> time, <b>in</b> a hurry, <b>at</b> risk, <b>in</b> charge, <b>on</b> holiday). Suelen ir sin artículo (by car, not 'by the car'). Son oro puro en atención al cliente porque aparecen constantemente.",
+      "examples": [
+        {
+          "en": "Most guests arrive <b class=\"hl\">by</b> car.",
+          "es": "La mayoría de los huéspedes llega en coche."
+        },
+        {
+          "en": "The beach is five minutes <b class=\"hl\">on</b> foot.",
+          "es": "La playa está a cinco minutos a pie."
+        },
+        {
+          "en": "Can I pay <b class=\"hl\">in</b> cash?",
+          "es": "¿Puedo pagar en efectivo?"
+        },
+        {
+          "en": "The train left exactly <b class=\"hl\">on</b> time.",
+          "es": "El tren salió justo a tiempo."
+        },
+        {
+          "en": "She's <b class=\"hl\">in</b> charge of the front desk.",
+          "es": "Ella está a cargo de la recepción."
+        },
+        {
+          "en": "He's <b class=\"hl\">on</b> holiday until Monday.",
+          "es": "Está de vacaciones hasta el lunes."
+        },
+        {
+          "en": "Please don't be <b class=\"hl\">in</b> a hurry; take your time.",
+          "es": "Por favor, no tenga prisa; tómese su tiempo."
+        },
+        {
+          "en": "We travel <b class=\"hl\">by</b> plane for long trips.",
+          "es": "Viajamos en avión para trayectos largos."
+        },
+        {
+          "en": "The valuables are <b class=\"hl\">at</b> risk if left out.",
+          "es": "Los objetos de valor corren riesgo si se dejan a la vista."
+        },
+        {
+          "en": "I saw it <b class=\"hl\">on</b> the news.",
+          "es": "Lo vi en las noticias."
+        },
+        {
+          "en": "She's <b class=\"hl\">on</b> the phone with a client.",
+          "es": "Está al teléfono con un cliente."
+        },
+        {
+          "en": "We did it <b class=\"hl\">on</b> purpose to test the system.",
+          "es": "Lo hicimos a propósito para probar el sistema."
+        },
+        {
+          "en": "The manager is <b class=\"hl\">on</b> a business trip.",
+          "es": "El gerente está en un viaje de negocios."
+        },
+        {
+          "en": "Payment is due <b class=\"hl\">in</b> advance.",
+          "es": "El pago se realiza por adelantado."
+        },
+        {
+          "en": "He's <b class=\"hl\">out</b> of the office today.",
+          "es": "Hoy está fuera de la oficina."
+        },
+        {
+          "en": "Everything is <b class=\"hl\">under</b> control.",
+          "es": "Todo está bajo control."
+        },
+        {
+          "en": "We met the target <b class=\"hl\">on</b> average.",
+          "es": "Alcanzamos el objetivo de media."
+        },
+        {
+          "en": "The suite is <b class=\"hl\">on</b> sale this week.",
+          "es": "La suite está de oferta esta semana."
+        },
+        {
+          "en": "I'll be there <b class=\"hl\">in</b> person.",
+          "es": "Estaré allí en persona."
+        },
+        {
+          "en": "The staff are always <b class=\"hl\">at</b> your service.",
+          "es": "El personal está siempre a su servicio."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s10q1",
+          "question": "1. We came <span class=\"blank\">___</span> train. (medio de transporte)",
+          "options": [
+            "by",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s10q2",
+          "question": "2. The shop is close, just two minutes <span class=\"blank\">___</span> foot. (a pie)",
+          "options": [
+            "by",
+            "on"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s10q3",
+          "question": "3. Can I pay <span class=\"blank\">___</span> card? (forma de pago)",
+          "options": [
+            "by",
+            "in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s10q4",
+          "question": "4. The flight was <span class=\"blank\">___</span> time. (puntual)",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s10q5",
+          "question": "5. She's <span class=\"blank\">___</span> charge of events. (responsable)",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s10q6",
+          "question": "6. He's <span class=\"blank\">___</span> holiday this week. (de vacaciones)",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s10q7",
+          "question": "7. Please pay <span class=\"blank\">___</span> advance. (por adelantado)",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s10",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases con expresiones fijas: una de transporte (by/on) y otra de estado (on time, in charge, on holiday...).",
+        "placeholder": "Ej: I came by bus and arrived on time."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Transporte: <b>by</b> car/bus/train/plane (sin artículo), pero <b>on</b> foot y <b>on</b> the bus/train cuando piensas en estar dentro. Pago: <b>in</b> cash pero <b>by</b> card/cheque."
+        }
+      ]
+    },
+    {
+      "idx": "2.11",
+      "title": "Locuciones prepositivas (because of, instead of, due to...)",
+      "level": "B1",
+      "rule": "Son grupos de dos o tres palabras que funcionan como una sola preposición y van seguidos de <b>sustantivo o -ing</b>: <b>because of</b>, <b>due to</b>, <b>instead of</b>, <b>in spite of</b> / <b>despite</b>, <b>in addition to</b>, <b>on behalf of</b>, <b>ahead of</b>, <b>apart from</b>, <b>thanks to</b>. No confundas <b>because of</b> (+ sustantivo) con <b>because</b> (+ oración), ni <b>despite</b> (+ sustantivo) con <b>although</b> (+ oración). Dan un registro más formal y preciso.",
+      "examples": [
+        {
+          "en": "The tour was cancelled <b class=\"hl\">because of</b> the weather.",
+          "es": "El tour se canceló a causa del tiempo."
+        },
+        {
+          "en": "<b class=\"hl\">Due to</b> maintenance, the pool is closed.",
+          "es": "Debido al mantenimiento, la piscina está cerrada."
+        },
+        {
+          "en": "We offered a voucher <b class=\"hl\">instead of</b> a refund.",
+          "es": "Ofrecimos un vale en lugar de un reembolso."
+        },
+        {
+          "en": "<b class=\"hl\">In spite of</b> the delay, guests stayed calm.",
+          "es": "A pesar del retraso, los huéspedes se mantuvieron tranquilos."
+        },
+        {
+          "en": "<b class=\"hl\">In addition to</b> breakfast, we include parking.",
+          "es": "Además del desayuno, incluimos aparcamiento."
+        },
+        {
+          "en": "I'm calling <b class=\"hl\">on behalf of</b> the manager.",
+          "es": "Llamo en nombre del gerente."
+        },
+        {
+          "en": "We prepared the suite <b class=\"hl\">ahead of</b> your arrival.",
+          "es": "Preparamos la suite antes de su llegada."
+        },
+        {
+          "en": "<b class=\"hl\">Apart from</b> the noise, it was perfect.",
+          "es": "Aparte del ruido, fue perfecto."
+        },
+        {
+          "en": "<b class=\"hl\">Thanks to</b> your feedback, we improved.",
+          "es": "Gracias a sus comentarios, mejoramos."
+        },
+        {
+          "en": "He signed <b class=\"hl\">on behalf of</b> the company.",
+          "es": "Firmó en nombre de la empresa."
+        },
+        {
+          "en": "We upgraded her <b class=\"hl\">because of</b> the mistake.",
+          "es": "La mejoramos de categoría por el error."
+        },
+        {
+          "en": "<b class=\"hl\">Despite</b> the crowds, service was smooth.",
+          "es": "A pesar de la aglomeración, el servicio fue fluido."
+        },
+        {
+          "en": "Choose tea <b class=\"hl\">instead of</b> coffee if you prefer.",
+          "es": "Elige té en lugar de café si lo prefieres."
+        },
+        {
+          "en": "<b class=\"hl\">Due to</b> high demand, prices rose.",
+          "es": "Debido a la alta demanda, los precios subieron."
+        },
+        {
+          "en": "<b class=\"hl\">In addition to</b> the spa, there's a sauna.",
+          "es": "Además del spa, hay una sauna."
+        },
+        {
+          "en": "Everything went well <b class=\"hl\">apart from</b> the wifi.",
+          "es": "Todo fue bien salvo el wifi."
+        },
+        {
+          "en": "We planned the menu <b class=\"hl\">ahead of</b> the event.",
+          "es": "Planificamos el menú antes del evento."
+        },
+        {
+          "en": "<b class=\"hl\">Because of</b> you, the client stayed with us.",
+          "es": "Gracias a ti, el cliente se quedó con nosotros."
+        },
+        {
+          "en": "<b class=\"hl\">On top of</b> the discount, you get points.",
+          "es": "Además del descuento, ganas puntos."
+        },
+        {
+          "en": "<b class=\"hl\">Owing to</b> the storm, flights were grounded.",
+          "es": "A causa de la tormenta, se cancelaron los vuelos."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s11q1",
+          "question": "1. We closed <span class=\"blank\">___</span> the storm. (+ sustantivo)",
+          "options": [
+            "because",
+            "because of"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s11q2",
+          "question": "2. <span class=\"blank\">___</span> the rain, the gala went ahead. (+ sustantivo, concesión)",
+          "options": [
+            "Despite",
+            "Although"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s11q3",
+          "question": "3. She chose a suite <span class=\"blank\">___</span> a double room. (en lugar de)",
+          "options": [
+            "instead of",
+            "instead"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s11q4",
+          "question": "4. I'm writing <span class=\"blank\">___</span> our whole team. (en nombre de)",
+          "options": [
+            "on behalf of",
+            "on behalf"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s11q5",
+          "question": "5. <span class=\"blank\">___</span> the discount, you also get breakfast. (además de)",
+          "options": [
+            "In addition to",
+            "In addition"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s11q6",
+          "question": "6. <span class=\"blank\">___</span> high costs, we kept prices low. (a pesar de + sustantivo)",
+          "options": [
+            "In spite of",
+            "In spite"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s11q7",
+          "question": "7. Everything was fine <span class=\"blank\">___</span> the delay. (salvo)",
+          "options": [
+            "apart from",
+            "apart"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s11",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>because of</b> y otra con <b>despite/in spite of</b> (recuerda: van con sustantivo, no con oración).",
+        "placeholder": "Ej: Despite the rain, we opened the terrace because of demand."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>because of</b> / <b>despite</b> / <b>due to</b> van con <b>sustantivo</b> o <b>-ing</b>; sus equivalentes con oración son <b>because</b> / <b>although</b>. 'Despite <b>the delay</b>' vs 'Although <b>it was delayed</b>'."
+        }
+      ]
+    },
+    {
+      "idx": "2.12",
+      "title": "La preposición al final de la frase",
+      "level": "B1",
+      "rule": "En inglés es normal (y en registro neutro, preferible) dejar la preposición <b>al final</b> en preguntas con wh- y en oraciones de relativo: 'Who are you waiting <b>for</b>?', 'the hotel we told you <b>about</b>'. En español la preposición va delante ('¿Para quién…?'), pero en inglés informal/estándar se pospone. La versión con preposición delante ('For whom are you waiting?') existe pero suena muy formal o anticuada. Con phrasal verbs, la partícula va obligatoriamente al final.",
+      "examples": [
+        {
+          "en": "Who are you looking <b class=\"hl\">for</b>?",
+          "es": "¿A quién buscas?"
+        },
+        {
+          "en": "What are you talking <b class=\"hl\">about</b>?",
+          "es": "¿De qué hablas?"
+        },
+        {
+          "en": "This is the suite I told you <b class=\"hl\">about</b>.",
+          "es": "Esta es la suite de la que te hablé."
+        },
+        {
+          "en": "Which client did you deal <b class=\"hl\">with</b>?",
+          "es": "¿Con qué cliente trataste?"
+        },
+        {
+          "en": "Where does this corridor lead <b class=\"hl\">to</b>?",
+          "es": "¿Adónde lleva este pasillo?"
+        },
+        {
+          "en": "That's the colleague I work <b class=\"hl\">with</b>.",
+          "es": "Ese es el compañero con el que trabajo."
+        },
+        {
+          "en": "What is the discount based <b class=\"hl\">on</b>?",
+          "es": "¿En qué se basa el descuento?"
+        },
+        {
+          "en": "Who should I address the letter <b class=\"hl\">to</b>?",
+          "es": "¿A quién debo dirigir la carta?"
+        },
+        {
+          "en": "This is something we can rely <b class=\"hl\">on</b>.",
+          "es": "Esto es algo en lo que podemos confiar."
+        },
+        {
+          "en": "What are these keys <b class=\"hl\">for</b>?",
+          "es": "¿Para qué son estas llaves?"
+        },
+        {
+          "en": "The report I was looking <b class=\"hl\">for</b> is here.",
+          "es": "El informe que buscaba está aquí."
+        },
+        {
+          "en": "Who did you speak <b class=\"hl\">to</b>?",
+          "es": "¿Con quién hablaste?"
+        },
+        {
+          "en": "That's the issue we need to sort <b class=\"hl\">out</b>.",
+          "es": "Ese es el asunto que hay que resolver."
+        },
+        {
+          "en": "Which floor are you heading <b class=\"hl\">to</b>?",
+          "es": "¿A qué planta se dirige?"
+        },
+        {
+          "en": "This is a policy we all agree <b class=\"hl\">on</b>.",
+          "es": "Esta es una política en la que todos estamos de acuerdo."
+        },
+        {
+          "en": "What is the room equipped <b class=\"hl\">with</b>?",
+          "es": "¿Con qué está equipada la habitación?"
+        },
+        {
+          "en": "The client you asked <b class=\"hl\">about</b> just arrived.",
+          "es": "El cliente por el que preguntaste acaba de llegar."
+        },
+        {
+          "en": "Who is this package addressed <b class=\"hl\">to</b>?",
+          "es": "¿A quién va dirigido este paquete?"
+        },
+        {
+          "en": "That's not something we can put up <b class=\"hl\">with</b>.",
+          "es": "Eso no es algo que podamos tolerar."
+        },
+        {
+          "en": "What company do you work <b class=\"hl\">for</b>?",
+          "es": "¿Para qué empresa trabajas?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s12q1",
+          "question": "1. Who are you waiting <span class=\"blank\">___</span>? (preposición al final)",
+          "options": [
+            "for",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s12q2",
+          "question": "2. That's the client I dealt <span class=\"blank\">___</span>. (relativo, prep. al final)",
+          "options": [
+            "with",
+            "about"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s12q3",
+          "question": "3. What are you thinking <span class=\"blank\">___</span>? (prep. al final)",
+          "options": [
+            "about",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s12q4",
+          "question": "4. Where does this road lead <span class=\"blank\">___</span>? (prep. al final)",
+          "options": [
+            "to",
+            "at"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s12q5",
+          "question": "5. Who did you give it <span class=\"blank\">___</span>? (prep. al final)",
+          "options": [
+            "to",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s12q6",
+          "question": "6. What is the price based <span class=\"blank\">___</span>? (prep. al final)",
+          "options": [
+            "in",
+            "on"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b02-s12q7",
+          "question": "7. This is the tool we rely <span class=\"blank\">___</span>. (prep. al final)",
+          "options": [
+            "on",
+            "of"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s12",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos preguntas dejando la preposición al final (con who/what + for/to/about/with).",
+        "placeholder": "Ej: Who are you looking for? What is it for?"
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "En inglés estándar la preposición va al <b>final</b> (Who are you waiting for?). Adelantarla ('For whom are you waiting?') solo se usa en registro muy formal. Con phrasal verbs la partícula va siempre al final."
+        }
+      ]
+    },
+    {
+      "idx": "2.13",
+      "title": "Verbos con dos partículas (phrasal-prepositional)",
+      "level": "B2",
+      "rule": "Algunos verbos combinan un adverbio y una preposición en un bloque fijo de <b>tres palabras</b>: <b>look forward to</b>, <b>put up with</b>, <b>run out of</b>, <b>get on with</b>, <b>come up with</b>, <b>catch up on</b>, <b>keep up with</b>. El significado no se deduce de las partes: 'put up with' = tolerar, 'run out of' = quedarse sin. Van seguidos de objeto (o -ing tras 'to' en 'look forward to'). Son muy frecuentes en el inglés hablado profesional.",
+      "examples": [
+        {
+          "en": "We <b class=\"hl\">look forward to</b> welcoming you again.",
+          "es": "Esperamos con ganas darle la bienvenida de nuevo."
+        },
+        {
+          "en": "Staff shouldn't have to <b class=\"hl\">put up with</b> rudeness.",
+          "es": "El personal no debería tener que aguantar la mala educación."
+        },
+        {
+          "en": "We've <b class=\"hl\">run out of</b> welcome gifts.",
+          "es": "Nos hemos quedado sin regalos de bienvenida."
+        },
+        {
+          "en": "She <b class=\"hl\">gets on with</b> every guest.",
+          "es": "Se lleva bien con todos los huéspedes."
+        },
+        {
+          "en": "The team <b class=\"hl\">came up with</b> a great idea.",
+          "es": "El equipo se le ocurrió una gran idea."
+        },
+        {
+          "en": "I need to <b class=\"hl\">catch up on</b> emails.",
+          "es": "Necesito ponerme al día con los correos."
+        },
+        {
+          "en": "It's hard to <b class=\"hl\">keep up with</b> demand.",
+          "es": "Cuesta seguir el ritmo de la demanda."
+        },
+        {
+          "en": "We won't <b class=\"hl\">put up with</b> late payments.",
+          "es": "No vamos a tolerar los pagos tardíos."
+        },
+        {
+          "en": "They <b class=\"hl\">ran out of</b> parking spaces.",
+          "es": "Se quedaron sin plazas de aparcamiento."
+        },
+        {
+          "en": "He <b class=\"hl\">looks forward to</b> the challenge.",
+          "es": "Espera el reto con ilusión."
+        },
+        {
+          "en": "How do you <b class=\"hl\">get on with</b> the new manager?",
+          "es": "¿Cómo te llevas con el nuevo gerente?"
+        },
+        {
+          "en": "Let's <b class=\"hl\">come up with</b> a backup plan.",
+          "es": "Vamos a idear un plan alternativo."
+        },
+        {
+          "en": "She's <b class=\"hl\">caught up on</b> all the paperwork.",
+          "es": "Se ha puesto al día con todo el papeleo."
+        },
+        {
+          "en": "We must <b class=\"hl\">keep up with</b> our competitors.",
+          "es": "Debemos mantenernos al nivel de la competencia."
+        },
+        {
+          "en": "I'm <b class=\"hl\">looking forward to</b> the reopening.",
+          "es": "Tengo muchas ganas de la reapertura."
+        },
+        {
+          "en": "We can't <b class=\"hl\">put up with</b> the noise complaints.",
+          "es": "No podemos seguir aguantando las quejas por ruido."
+        },
+        {
+          "en": "The kitchen <b class=\"hl\">ran out of</b> fresh fish.",
+          "es": "La cocina se quedó sin pescado fresco."
+        },
+        {
+          "en": "He <b class=\"hl\">gets on well with</b> the whole team.",
+          "es": "Se lleva bien con todo el equipo."
+        },
+        {
+          "en": "Marketing <b class=\"hl\">came up with</b> the new slogan.",
+          "es": "Marketing ideó el nuevo eslogan."
+        },
+        {
+          "en": "I'll <b class=\"hl\">catch up on</b> the reports tonight.",
+          "es": "Me pondré al día con los informes esta noche."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b02-s13q1",
+          "question": "1. We look forward <span class=\"blank\">___</span> serving you. (bloque fijo + -ing)",
+          "options": [
+            "to",
+            "for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s13q2",
+          "question": "2. She won't put up <span class=\"blank\">___</span> bad service. (tolerar)",
+          "options": [
+            "with",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s13q3",
+          "question": "3. We've run <span class=\"blank\">___</span> of towels. (quedarse sin)",
+          "options": [
+            "out",
+            "off"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s13q4",
+          "question": "4. He gets on well <span class=\"blank\">___</span> the guests. (llevarse bien con)",
+          "options": [
+            "with",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s13q5",
+          "question": "5. They came up <span class=\"blank\">___</span> a clever solution. (idear)",
+          "options": [
+            "with",
+            "on"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s13q6",
+          "question": "6. I need to catch up <span class=\"blank\">___</span> my emails. (ponerse al día)",
+          "options": [
+            "on",
+            "with"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b02-s13q7",
+          "question": "7. It's hard to keep up <span class=\"blank\">___</span> demand. (seguir el ritmo)",
+          "options": [
+            "with",
+            "of"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b02-s13",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases con <b>look forward to</b> y <b>run out of</b>.",
+        "placeholder": "Ej: We look forward to your visit. We ran out of time."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Las tres palabras van juntas y en orden fijo. En 'look forward <b>to</b>', ese 'to' es preposición, así que le sigue <b>-ing</b> (look forward to <b>seeing</b> you), no infinitivo."
         }
       ]
     }
