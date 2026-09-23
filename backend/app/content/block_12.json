@@ -51,6 +51,54 @@
         {
           "en": "Keep me <b class=\"hl\">in the loop</b> on the booking.",
           "es": "Mantenme al tanto de la reserva."
+        },
+        {
+          "en": "This upgrade will <b class=\"hl\">raise the bar</b> for the whole chain.",
+          "es": "Esta mejora subirá el listón para toda la cadena."
+        },
+        {
+          "en": "Our app is a real <b class=\"hl\">game changer</b> for bookings.",
+          "es": "Nuestra app cambia las reglas del juego en las reservas."
+        },
+        {
+          "en": "We need to stay <b class=\"hl\">ahead of the curve</b> on trends.",
+          "es": "Tenemos que ir por delante en las tendencias."
+        },
+        {
+          "en": "There's a steep <b class=\"hl\">learning curve</b> with the new system.",
+          "es": "El nuevo sistema tiene una curva de aprendizaje pronunciada."
+        },
+        {
+          "en": "Cutting overbooking has been an <b class=\"hl\">uphill battle</b>.",
+          "es": "Reducir la sobreventa ha sido una batalla cuesta arriba."
+        },
+        {
+          "en": "The permits are all <b class=\"hl\">red tape</b>, but necessary.",
+          "es": "Los permisos son puro papeleo, pero necesarios."
+        },
+        {
+          "en": "Can you give me a <b class=\"hl\">ballpark figure</b> for the event?",
+          "es": "¿Me das una cifra aproximada para el evento?"
+        },
+        {
+          "en": "The loyalty scheme really <b class=\"hl\">moves the needle</b>.",
+          "es": "El programa de fidelización de verdad marca la diferencia."
+        },
+        {
+          "en": "Direct booking is a <b class=\"hl\">win-win</b> for guest and hotel.",
+          "es": "Reservar directo es beneficioso para ambas partes."
+        },
+        {
+          "en": "She <b class=\"hl\">pulled some strings</b> to get the suite.",
+          "es": "Movió algunos hilos para conseguir la suite."
+        },
+        {
+          "en": "Let's <b class=\"hl\">table the discussion</b> until Monday.",
+          "es": "Aplacemos la discusión hasta el lunes."
+        },
+        {
+          "en": "That contract is our <b class=\"hl\">bread and butter</b>.",
+          "es": "Ese contrato es nuestro pan de cada día."
         }
       ],
       "tables": [
@@ -115,6 +163,78 @@
               "in the loop",
               "informado / al tanto",
               "Please keep me in the loop on this deal."
+            ],
+            [
+              "10",
+              "raise the bar",
+              "subir el listón / el nivel de exigencia",
+              "This upgrade raises the bar for the chain."
+            ],
+            [
+              "11",
+              "a game changer",
+              "algo que cambia las reglas del juego",
+              "The app is a game changer."
+            ],
+            [
+              "12",
+              "ahead of the curve",
+              "por delante, anticipándose",
+              "We stay ahead of the curve on trends."
+            ],
+            [
+              "13",
+              "a learning curve",
+              "curva de aprendizaje",
+              "There's a steep learning curve."
+            ],
+            [
+              "14",
+              "an uphill battle",
+              "una batalla difícil / cuesta arriba",
+              "It's been an uphill battle."
+            ],
+            [
+              "15",
+              "red tape",
+              "burocracia, papeleo",
+              "The permits are all red tape."
+            ],
+            [
+              "16",
+              "a ballpark figure",
+              "una cifra aproximada",
+              "Give me a ballpark figure."
+            ],
+            [
+              "17",
+              "move the needle",
+              "marcar una diferencia notable",
+              "The scheme moves the needle."
+            ],
+            [
+              "18",
+              "a win-win",
+              "situación buena para ambas partes",
+              "It's a win-win for everyone."
+            ],
+            [
+              "19",
+              "pull strings",
+              "mover hilos / usar influencias",
+              "She pulled strings to get it."
+            ],
+            [
+              "20",
+              "table something",
+              "aplazar un tema (para más tarde)",
+              "Let's table the discussion."
+            ],
+            [
+              "21",
+              "bread and butter",
+              "la fuente principal de ingresos",
+              "That contract is our bread and butter."
             ]
           ]
         }
@@ -144,6 +264,51 @@
           "options": [
             "back to the drawing board",
             "on the same page"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s1q4",
+          "question": "4. 'Raise the bar' significa...",
+          "options": [
+            "subir el listón",
+            "bajar los precios"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s1q5",
+          "question": "5. 'A game changer' es algo que...",
+          "options": [
+            "cambia las reglas del juego",
+            "no importa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s1q6",
+          "question": "6. 'A ballpark figure' es...",
+          "options": [
+            "una cifra exacta",
+            "una cifra aproximada"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s1q7",
+          "question": "7. 'Red tape' se refiere a...",
+          "options": [
+            "la burocracia",
+            "una alfombra roja"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s1q8",
+          "question": "8. 'Our bread and butter' es...",
+          "options": [
+            "la fuente principal de ingresos",
+            "el desayuno"
           ],
           "correctIndex": 0
         }
@@ -197,6 +362,54 @@
         {
           "en": "Can you cover the shift <b class=\"hl\">on short notice</b>?",
           "es": "¿Puedes cubrir el turno con poco aviso?"
+        },
+        {
+          "en": "Let's <b class=\"hl\">play it by ear</b> and decide at the venue.",
+          "es": "Improvisemos y decidamos en el sitio."
+        },
+        {
+          "en": "The refund is <b class=\"hl\">long overdue</b>.",
+          "es": "El reembolso lleva mucho retraso."
+        },
+        {
+          "en": "We'll finalise the menu <b class=\"hl\">in due course</b>.",
+          "es": "Ultimaremos el menú a su debido tiempo."
+        },
+        {
+          "en": "Confirm now — the offer is <b class=\"hl\">on borrowed time</b>.",
+          "es": "Confirma ya: a la oferta le queda poco."
+        },
+        {
+          "en": "We turned the room around <b class=\"hl\">at the eleventh hour</b>.",
+          "es": "Preparamos la habitación en el último momento."
+        },
+        {
+          "en": "Bookings come in <b class=\"hl\">in waves</b> during festivals.",
+          "es": "Las reservas llegan a oleadas durante los festivales."
+        },
+        {
+          "en": "Let's not <b class=\"hl\">jump the gun</b> and announce it early.",
+          "es": "No nos adelantemos anunciándolo antes de tiempo."
+        },
+        {
+          "en": "The season is <b class=\"hl\">just around the corner</b>.",
+          "es": "La temporada está a la vuelta de la esquina."
+        },
+        {
+          "en": "We finished the setup <b class=\"hl\">with time to spare</b>.",
+          "es": "Terminamos el montaje con tiempo de sobra."
+        },
+        {
+          "en": "The renovation dragged on <b class=\"hl\">for ages</b>.",
+          "es": "La reforma se alargó una eternidad."
+        },
+        {
+          "en": "Let's <b class=\"hl\">call it a night</b>; we open early.",
+          "es": "Dejémoslo por hoy; abrimos temprano."
+        },
+        {
+          "en": "He always leaves things <b class=\"hl\">till the last minute</b>.",
+          "es": "Siempre deja las cosas para el último minuto."
         }
       ],
       "tables": [
@@ -255,6 +468,78 @@
               "on short notice",
               "con poco margen de aviso",
               "She organized the event on short notice."
+            ],
+            [
+              "9",
+              "play it by ear",
+              "improvisar, decidir sobre la marcha",
+              "Let's play it by ear."
+            ],
+            [
+              "10",
+              "long overdue",
+              "que lleva mucho retraso",
+              "The refund is long overdue."
+            ],
+            [
+              "11",
+              "in due course",
+              "a su debido tiempo",
+              "We'll confirm in due course."
+            ],
+            [
+              "12",
+              "on borrowed time",
+              "con el tiempo casi agotado",
+              "The offer is on borrowed time."
+            ],
+            [
+              "13",
+              "at the eleventh hour",
+              "en el último momento",
+              "We fixed it at the eleventh hour."
+            ],
+            [
+              "14",
+              "in waves",
+              "a oleadas, por rachas",
+              "Bookings come in waves."
+            ],
+            [
+              "15",
+              "jump the gun",
+              "adelantarse, precipitarse",
+              "Don't jump the gun."
+            ],
+            [
+              "16",
+              "around the corner",
+              "muy cerca (en el tiempo)",
+              "The season is around the corner."
+            ],
+            [
+              "17",
+              "with time to spare",
+              "con tiempo de sobra",
+              "We finished with time to spare."
+            ],
+            [
+              "18",
+              "for ages",
+              "durante muchísimo tiempo",
+              "It dragged on for ages."
+            ],
+            [
+              "19",
+              "call it a night",
+              "dar por terminado el día/la jornada",
+              "Let's call it a night."
+            ],
+            [
+              "20",
+              "till the last minute",
+              "hasta el último momento",
+              "He waits till the last minute."
             ]
           ]
         }
@@ -284,6 +569,51 @@
           "options": [
             "on short notice",
             "against the clock"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s2q4",
+          "question": "4. 'Play it by ear' significa...",
+          "options": [
+            "improvisar",
+            "planear al detalle"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s2q5",
+          "question": "5. 'At the eleventh hour' es...",
+          "options": [
+            "a las once en punto",
+            "en el último momento"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s2q6",
+          "question": "6. 'Jump the gun' significa...",
+          "options": [
+            "adelantarse/precipitarse",
+            "esperar demasiado"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s2q7",
+          "question": "7. 'Around the corner' (tiempo) significa...",
+          "options": [
+            "muy lejos",
+            "muy cerca"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s2q8",
+          "question": "8. 'Long overdue' describe algo que...",
+          "options": [
+            "lleva mucho retraso",
+            "llegó pronto"
           ],
           "correctIndex": 0
         }
@@ -331,6 +661,54 @@
         {
           "en": "The discount is <b class=\"hl\">a double-edged sword</b>.",
           "es": "El descuento es un arma de doble filo."
+        },
+        {
+          "en": "The complaint really <b class=\"hl\">opened a can of worms</b>.",
+          "es": "La queja destapó una caja de sorpresas (complicó todo)."
+        },
+        {
+          "en": "We're <b class=\"hl\">in hot water</b> over the double booking.",
+          "es": "Estamos en apuros por la doble reserva."
+        },
+        {
+          "en": "Fixing the boiler is like <b class=\"hl\">putting out fires</b> daily.",
+          "es": "Arreglar la caldera es como apagar fuegos a diario."
+        },
+        {
+          "en": "The refund policy is a <b class=\"hl\">grey area</b>.",
+          "es": "La política de reembolsos es un terreno ambiguo."
+        },
+        {
+          "en": "We finally <b class=\"hl\">turned the corner</b> after a hard month.",
+          "es": "Por fin remontamos tras un mes duro."
+        },
+        {
+          "en": "That supplier is <b class=\"hl\">more trouble than it's worth</b>.",
+          "es": "Ese proveedor da más problemas de lo que vale."
+        },
+        {
+          "en": "Let's not <b class=\"hl\">make a mountain out of a molehill</b>.",
+          "es": "No hagamos una montaña de un grano de arena."
+        },
+        {
+          "en": "The system crash left us <b class=\"hl\">up in the air</b>.",
+          "es": "La caída del sistema nos dejó en el aire."
+        },
+        {
+          "en": "We were <b class=\"hl\">on thin ice</b> with that client.",
+          "es": "Estábamos en terreno delicado con ese cliente."
+        },
+        {
+          "en": "The strike threw a <b class=\"hl\">spanner in the works</b>.",
+          "es": "La huelga nos fastidió los planes."
+        },
+        {
+          "en": "Handling it late only <b class=\"hl\">added fuel to the fire</b>.",
+          "es": "Gestionarlo tarde solo echó leña al fuego."
+        },
+        {
+          "en": "We're <b class=\"hl\">back on track</b> now.",
+          "es": "Ya volvemos a estar encarrilados."
         }
       ],
       "tables": [
@@ -389,6 +767,78 @@
               "a double-edged sword",
               "algo con ventajas y desventajas a la vez",
               "Remote work is a double-edged sword."
+            ],
+            [
+              "9",
+              "open a can of worms",
+              "destapar un problema que complica todo",
+              "The complaint opened a can of worms."
+            ],
+            [
+              "10",
+              "in hot water",
+              "en apuros / en problemas",
+              "We're in hot water over it."
+            ],
+            [
+              "11",
+              "put out fires",
+              "apagar fuegos, resolver urgencias",
+              "We're always putting out fires."
+            ],
+            [
+              "12",
+              "a grey area",
+              "una zona ambigua, poco clara",
+              "The policy is a grey area."
+            ],
+            [
+              "13",
+              "turn the corner",
+              "empezar a mejorar tras lo difícil",
+              "We've turned the corner."
+            ],
+            [
+              "14",
+              "more trouble than it's worth",
+              "más problemas de lo que compensa",
+              "It's more trouble than it's worth."
+            ],
+            [
+              "15",
+              "make a mountain out of a molehill",
+              "exagerar un problema pequeño",
+              "Don't make a mountain out of a molehill."
+            ],
+            [
+              "16",
+              "up in the air",
+              "sin resolver, en el aire",
+              "The plan is up in the air."
+            ],
+            [
+              "17",
+              "on thin ice",
+              "en terreno delicado/arriesgado",
+              "We're on thin ice with them."
+            ],
+            [
+              "18",
+              "a spanner in the works",
+              "un imprevisto que estropea el plan",
+              "The strike threw a spanner in the works."
+            ],
+            [
+              "19",
+              "add fuel to the fire",
+              "echar leña al fuego, empeorar",
+              "That added fuel to the fire."
+            ],
+            [
+              "20",
+              "back on track",
+              "de nuevo encarrilado",
+              "We're back on track now."
             ]
           ]
         }
@@ -420,6 +870,51 @@
             "a tough nut to crack"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b12-s3q4",
+          "question": "4. 'Open a can of worms' significa...",
+          "options": [
+            "destapar un lío que complica todo",
+            "resolverlo todo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s3q5",
+          "question": "5. 'In hot water' significa...",
+          "options": [
+            "en apuros",
+            "en un spa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s3q6",
+          "question": "6. 'A grey area' es...",
+          "options": [
+            "algo claro",
+            "una zona ambigua"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s3q7",
+          "question": "7. 'Up in the air' significa...",
+          "options": [
+            "sin resolver",
+            "confirmado"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s3q8",
+          "question": "8. 'Add fuel to the fire' significa...",
+          "options": [
+            "calmar la situación",
+            "empeorar la situación"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -471,6 +966,54 @@
         {
           "en": "All that effort finally <b class=\"hl\">paid off</b>.",
           "es": "Todo ese esfuerzo por fin dio frutos."
+        },
+        {
+          "en": "The new suite is a real <b class=\"hl\">crowd-pleaser</b>.",
+          "es": "La nueva suite gusta a todo el mundo."
+        },
+        {
+          "en": "Our launch <b class=\"hl\">went off without a hitch</b>.",
+          "es": "Nuestro lanzamiento salió sin ningún contratiempo."
+        },
+        {
+          "en": "The campaign <b class=\"hl\">took off</b> overnight.",
+          "es": "La campaña despegó de la noche a la mañana."
+        },
+        {
+          "en": "We <b class=\"hl\">knocked it out of the park</b> with that event.",
+          "es": "Bordamos aquel evento."
+        },
+        {
+          "en": "That risky menu change <b class=\"hl\">backfired</b>.",
+          "es": "Aquel cambio de menú arriesgado salió mal."
+        },
+        {
+          "en": "The deal <b class=\"hl\">went south</b> at the last minute.",
+          "es": "El trato se torció en el último momento."
+        },
+        {
+          "en": "Their hard work finally <b class=\"hl\">bore fruit</b>.",
+          "es": "Su esfuerzo por fin dio frutos."
+        },
+        {
+          "en": "We're <b class=\"hl\">on a roll</b> with five-star reviews.",
+          "es": "Estamos en racha con reseñas de cinco estrellas."
+        },
+        {
+          "en": "The pop-up bar was a <b class=\"hl\">flash in the pan</b>.",
+          "es": "El bar temporal fue flor de un día."
+        },
+        {
+          "en": "Landing that account was a <b class=\"hl\">feather in our cap</b>.",
+          "es": "Conseguir esa cuenta fue un logro del que presumir."
+        },
+        {
+          "en": "The soft opening <b class=\"hl\">fell flat</b>.",
+          "es": "La apertura suave no cuajó."
+        },
+        {
+          "en": "Against the odds, we <b class=\"hl\">pulled it off</b>.",
+          "es": "Contra todo pronóstico, lo conseguimos."
         }
       ],
       "tables": [
@@ -529,6 +1072,78 @@
               "pay off",
               "dar frutos, resultar rentable",
               "All that hard work finally paid off."
+            ],
+            [
+              "9",
+              "a crowd-pleaser",
+              "algo que gusta a todos",
+              "The suite is a crowd-pleaser."
+            ],
+            [
+              "10",
+              "go off without a hitch",
+              "salir sin ningún problema",
+              "The launch went off without a hitch."
+            ],
+            [
+              "11",
+              "take off",
+              "despegar, tener éxito rápido",
+              "The campaign took off overnight."
+            ],
+            [
+              "12",
+              "knock it out of the park",
+              "hacerlo de maravilla",
+              "We knocked it out of the park."
+            ],
+            [
+              "13",
+              "backfire",
+              "salir el tiro por la culata",
+              "The change backfired."
+            ],
+            [
+              "14",
+              "go south",
+              "torcerse, ir a peor",
+              "The deal went south."
+            ],
+            [
+              "15",
+              "bear fruit",
+              "dar frutos, dar resultado",
+              "Their work bore fruit."
+            ],
+            [
+              "16",
+              "on a roll",
+              "en racha",
+              "We're on a roll."
+            ],
+            [
+              "17",
+              "a flash in the pan",
+              "un éxito efímero, flor de un día",
+              "It was a flash in the pan."
+            ],
+            [
+              "18",
+              "a feather in your cap",
+              "un logro del que enorgullecerse",
+              "It's a feather in our cap."
+            ],
+            [
+              "19",
+              "fall flat",
+              "no cuajar, no funcionar",
+              "The opening fell flat."
+            ],
+            [
+              "20",
+              "pull it off",
+              "lograrlo (algo difícil)",
+              "We pulled it off."
             ]
           ]
         }
@@ -558,6 +1173,51 @@
           "options": [
             "pay off",
             "fall through"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s4q4",
+          "question": "4. 'Go off without a hitch' significa...",
+          "options": [
+            "salir sin problemas",
+            "fracasar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s4q5",
+          "question": "5. 'Backfire' significa...",
+          "options": [
+            "salir el tiro por la culata",
+            "tener éxito"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s4q6",
+          "question": "6. 'On a roll' significa...",
+          "options": [
+            "en racha",
+            "en apuros"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s4q7",
+          "question": "7. 'A flash in the pan' es un éxito...",
+          "options": [
+            "duradero",
+            "efímero"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s4q8",
+          "question": "8. 'Pull it off' significa...",
+          "options": [
+            "lograrlo",
+            "cancelarlo"
           ],
           "correctIndex": 0
         }
@@ -605,6 +1265,54 @@
         {
           "en": "In low season we <b class=\"hl\">tighten our belt</b>.",
           "es": "En temporada baja apretamos el cinturón."
+        },
+        {
+          "en": "That renovation <b class=\"hl\">cost a fortune</b>.",
+          "es": "Aquella reforma costó una fortuna."
+        },
+        {
+          "en": "Upselling suites really <b class=\"hl\">pays dividends</b>.",
+          "es": "Vender suites de categoría de verdad da réditos."
+        },
+        {
+          "en": "The minibar prices are <b class=\"hl\">daylight robbery</b>.",
+          "es": "Los precios del minibar son un robo a mano armada."
+        },
+        {
+          "en": "We're <b class=\"hl\">on a tight budget</b> this quarter.",
+          "es": "Vamos con un presupuesto muy ajustado este trimestre."
+        },
+        {
+          "en": "The offer is <b class=\"hl\">dirt cheap</b> for the location.",
+          "es": "La oferta está tirada de precio para la ubicación."
+        },
+        {
+          "en": "Loyalty perks <b class=\"hl\">go a long way</b>.",
+          "es": "Las ventajas de fidelidad rinden mucho."
+        },
+        {
+          "en": "The gala <b class=\"hl\">cost an arm and a leg</b>.",
+          "es": "La gala costó un ojo de la cara."
+        },
+        {
+          "en": "We're <b class=\"hl\">strapped for cash</b> until payday.",
+          "es": "Andamos sin blanca hasta el día de pago."
+        },
+        {
+          "en": "That deal is <b class=\"hl\">money for nothing</b>.",
+          "es": "Ese trato es dinero regalado."
+        },
+        {
+          "en": "Direct bookings help us <b class=\"hl\">save a bundle</b>.",
+          "es": "Las reservas directas nos ahorran un montón."
+        },
+        {
+          "en": "The premium plan is <b class=\"hl\">worth every penny</b>.",
+          "es": "El plan premium vale cada céntimo."
+        },
+        {
+          "en": "They're <b class=\"hl\">rolling in it</b> after a record summer.",
+          "es": "Están forrados tras un verano de récord."
         }
       ],
       "tables": [
@@ -663,6 +1371,78 @@
               "tighten your belt",
               "reducir gastos",
               "We had to tighten our belt during the slow season."
+            ],
+            [
+              "9",
+              "cost a fortune",
+              "costar una fortuna",
+              "The renovation cost a fortune."
+            ],
+            [
+              "10",
+              "pay dividends",
+              "dar réditos / compensar",
+              "Upselling pays dividends."
+            ],
+            [
+              "11",
+              "daylight robbery",
+              "un robo (precio abusivo)",
+              "The prices are daylight robbery."
+            ],
+            [
+              "12",
+              "on a tight budget",
+              "con presupuesto ajustado",
+              "We're on a tight budget."
+            ],
+            [
+              "13",
+              "dirt cheap",
+              "baratísimo, tirado de precio",
+              "It's dirt cheap."
+            ],
+            [
+              "14",
+              "go a long way",
+              "rendir mucho, cundir",
+              "Perks go a long way."
+            ],
+            [
+              "15",
+              "cost an arm and a leg",
+              "costar un ojo de la cara",
+              "It cost an arm and a leg."
+            ],
+            [
+              "16",
+              "strapped for cash",
+              "sin dinero, apurado",
+              "We're strapped for cash."
+            ],
+            [
+              "17",
+              "money for nothing",
+              "dinero fácil / regalado",
+              "That's money for nothing."
+            ],
+            [
+              "18",
+              "save a bundle",
+              "ahorrar un montón",
+              "We save a bundle direct."
+            ],
+            [
+              "19",
+              "worth every penny",
+              "que vale cada céntimo",
+              "It's worth every penny."
+            ],
+            [
+              "20",
+              "rolling in it",
+              "forrado, con mucho dinero",
+              "They're rolling in it."
             ]
           ]
         }
@@ -692,6 +1472,51 @@
           "options": [
             "bang for your buck",
             "worth its weight in gold"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s5q4",
+          "question": "4. 'Cost an arm and a leg' significa...",
+          "options": [
+            "ser gratis",
+            "costar carísimo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s5q5",
+          "question": "5. 'Dirt cheap' significa...",
+          "options": [
+            "baratísimo",
+            "sucio"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s5q6",
+          "question": "6. 'Strapped for cash' significa...",
+          "options": [
+            "con mucho dinero",
+            "sin dinero"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s5q7",
+          "question": "7. 'Worth every penny' significa...",
+          "options": [
+            "que vale la pena",
+            "demasiado caro"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s5q8",
+          "question": "8. 'Daylight robbery' describe un precio...",
+          "options": [
+            "abusivo",
+            "justo"
           ],
           "correctIndex": 0
         }
@@ -749,6 +1574,54 @@
         {
           "en": "His tone <b class=\"hl\">rubbed the guest the wrong way</b>.",
           "es": "Su tono le cayó mal al huésped."
+        },
+        {
+          "en": "Let's <b class=\"hl\">touch base</b> after the meeting. (comunicación breve)",
+          "es": "Hablamos brevemente después de la reunión."
+        },
+        {
+          "en": "She always <b class=\"hl\">gets her point across</b> clearly.",
+          "es": "Siempre transmite su idea con claridad."
+        },
+        {
+          "en": "Don't <b class=\"hl\">take it the wrong way</b>, but the room needs cleaning.",
+          "es": "No te lo tomes a mal, pero la habitación necesita limpieza."
+        },
+        {
+          "en": "We <b class=\"hl\">see eye to eye</b> on the pricing.",
+          "es": "Coincidimos en lo de los precios."
+        },
+        {
+          "en": "He tends to <b class=\"hl\">talk over</b> people in meetings.",
+          "es": "Tiende a hablar por encima de los demás en las reuniones."
+        },
+        {
+          "en": "Let's <b class=\"hl\">clear the air</b> before the client arrives.",
+          "es": "Aclaremos las cosas antes de que llegue el cliente."
+        },
+        {
+          "en": "She <b class=\"hl\">put it in a nutshell</b> for the team.",
+          "es": "Lo resumió en pocas palabras para el equipo."
+        },
+        {
+          "en": "I don't want to <b class=\"hl\">step on anyone's toes</b>.",
+          "es": "No quiero pisarle el terreno a nadie."
+        },
+        {
+          "en": "He <b class=\"hl\">dropped a hint</b> about the surprise upgrade.",
+          "es": "Soltó una indirecta sobre la mejora sorpresa."
+        },
+        {
+          "en": "Let's <b class=\"hl\">keep it civil</b> with the unhappy guest.",
+          "es": "Mantengamos las formas con el huésped molesto."
+        },
+        {
+          "en": "She <b class=\"hl\">spoke volumes</b> with just a smile.",
+          "es": "Dijo mucho con solo una sonrisa."
+        },
+        {
+          "en": "We need to <b class=\"hl\">be on the same page</b> before we quote.",
+          "es": "Debemos estar de acuerdo antes de dar el precio."
         }
       ],
       "tables": [
@@ -813,6 +1686,72 @@
               "rub someone the wrong way",
               "caer mal / molestar a alguien",
               "His tone rubbed the client the wrong way."
+            ],
+            [
+              "10",
+              "get your point across",
+              "transmitir tu idea con claridad",
+              "She gets her point across."
+            ],
+            [
+              "11",
+              "take it the wrong way",
+              "tomarlo a mal",
+              "Don't take it the wrong way."
+            ],
+            [
+              "12",
+              "see eye to eye",
+              "estar de acuerdo, coincidir",
+              "We see eye to eye on pricing."
+            ],
+            [
+              "13",
+              "talk over someone",
+              "hablar por encima de alguien",
+              "He talks over people."
+            ],
+            [
+              "14",
+              "clear the air",
+              "aclarar las cosas / tensiones",
+              "Let's clear the air."
+            ],
+            [
+              "15",
+              "in a nutshell",
+              "en pocas palabras, en resumen",
+              "In a nutshell, it's ready."
+            ],
+            [
+              "16",
+              "step on someone's toes",
+              "pisar el terreno a alguien",
+              "I won't step on your toes."
+            ],
+            [
+              "17",
+              "drop a hint",
+              "soltar una indirecta",
+              "He dropped a hint."
+            ],
+            [
+              "18",
+              "keep it civil",
+              "mantener las formas / el respeto",
+              "Let's keep it civil."
+            ],
+            [
+              "19",
+              "speak volumes",
+              "decir mucho (sin palabras)",
+              "Her smile spoke volumes."
+            ],
+            [
+              "20",
+              "be on the same page",
+              "estar de acuerdo / alineados",
+              "Let's be on the same page."
             ]
           ]
         }
@@ -844,6 +1783,51 @@
             "break the ice"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b12-s6q4",
+          "question": "4. 'See eye to eye' significa...",
+          "options": [
+            "estar de acuerdo",
+            "mirarse fijamente"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s6q5",
+          "question": "5. 'In a nutshell' significa...",
+          "options": [
+            "en pocas palabras",
+            "en detalle"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s6q6",
+          "question": "6. 'Step on someone's toes' significa...",
+          "options": [
+            "ayudar a alguien",
+            "pisar el terreno a alguien"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s6q7",
+          "question": "7. 'Clear the air' significa...",
+          "options": [
+            "ventilar la sala",
+            "aclarar tensiones"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s6q8",
+          "question": "8. 'Be on the same page' significa...",
+          "options": [
+            "estar alineados/de acuerdo",
+            "leer el mismo libro"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -851,6 +1835,918 @@
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con \"get straight to the point\" o \"keep someone posted\".",
         "placeholder": "Ej: I'll keep you posted as soon as the client responds."
       }
+    },
+    {
+      "idx": "12.7",
+      "title": "Emociones y estados de ánimo",
+      "level": "B1",
+      "rule": "Modismos frecuentes para describir cómo se siente alguien. Aparecen mucho en el trato con huéspedes y compañeros, donde nombrar el estado de ánimo con naturalidad ayuda a conectar. Recuerda que un idiom no se traduce literalmente: '<b>over the moon</b>' no habla de la luna, sino de estar felicísimo. Apréndelos como bloque, con un ejemplo, y fíjate en la preposición que los acompaña.",
+      "examples": [
+        {
+          "en": "The couple were <b class=\"hl\">over the moon</b> with the upgrade.",
+          "es": "La pareja estaba felicísima con la mejora."
+        },
+        {
+          "en": "He was <b class=\"hl\">down in the dumps</b> after the bad review.",
+          "es": "Estaba de bajón tras la mala reseña."
+        },
+        {
+          "en": "She's <b class=\"hl\">on cloud nine</b> about the promotion.",
+          "es": "Está en una nube con el ascenso."
+        },
+        {
+          "en": "I was <b class=\"hl\">on edge</b> before the inspection.",
+          "es": "Estaba con los nervios de punta antes de la inspección."
+        },
+        {
+          "en": "Don't <b class=\"hl\">lose your cool</b> with difficult guests.",
+          "es": "No pierdas la calma con los huéspedes difíciles."
+        },
+        {
+          "en": "The team is <b class=\"hl\">fed up with</b> the broken lift.",
+          "es": "El equipo está harto del ascensor averiado."
+        },
+        {
+          "en": "She was <b class=\"hl\">shaken up</b> by the incident.",
+          "es": "Quedó afectada por el incidente."
+        },
+        {
+          "en": "He's <b class=\"hl\">in high spirits</b> today.",
+          "es": "Hoy está de muy buen humor."
+        },
+        {
+          "en": "I'm <b class=\"hl\">at the end of my rope</b> with the noise complaints.",
+          "es": "Estoy al límite con las quejas por ruido."
+        },
+        {
+          "en": "The guest was <b class=\"hl\">thrilled to bits</b> with the room.",
+          "es": "El huésped estaba encantadísimo con la habitación."
+        },
+        {
+          "en": "Try to <b class=\"hl\">keep your chin up</b>; it's almost over.",
+          "es": "Intenta no venirte abajo; ya casi está."
+        },
+        {
+          "en": "She felt <b class=\"hl\">butterflies in her stomach</b> before the speech.",
+          "es": "Sentía mariposas en el estómago antes del discurso."
+        },
+        {
+          "en": "He's <b class=\"hl\">a bundle of nerves</b> on opening day.",
+          "es": "Es un manojo de nervios el día de la apertura."
+        },
+        {
+          "en": "We were <b class=\"hl\">walking on air</b> after the award.",
+          "es": "Íbamos como en una nube tras el premio."
+        },
+        {
+          "en": "Don't <b class=\"hl\">take it to heart</b>; it wasn't personal.",
+          "es": "No te lo tomes a pecho; no era personal."
+        },
+        {
+          "en": "The staff were <b class=\"hl\">worn out</b> after the gala.",
+          "es": "El personal estaba agotado tras la gala."
+        },
+        {
+          "en": "She's <b class=\"hl\">cool as a cucumber</b> under pressure.",
+          "es": "Está tranquilísima bajo presión."
+        },
+        {
+          "en": "He <b class=\"hl\">blew a fuse</b> when the booking vanished.",
+          "es": "Se puso hecho una furia cuando desapareció la reserva."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "1",
+              "over the moon",
+              "felicísimo/a",
+              "They were over the moon."
+            ],
+            [
+              "2",
+              "down in the dumps",
+              "de bajón, deprimido/a",
+              "He was down in the dumps."
+            ],
+            [
+              "3",
+              "on cloud nine",
+              "en una nube (de felicidad)",
+              "She's on cloud nine."
+            ],
+            [
+              "4",
+              "on edge",
+              "con los nervios de punta",
+              "I was on edge."
+            ],
+            [
+              "5",
+              "lose your cool",
+              "perder la calma",
+              "Don't lose your cool."
+            ],
+            [
+              "6",
+              "fed up with",
+              "harto/a de",
+              "They're fed up with it."
+            ],
+            [
+              "7",
+              "keep your chin up",
+              "no venirse abajo, animarse",
+              "Keep your chin up."
+            ],
+            [
+              "8",
+              "take it to heart",
+              "tomárselo a pecho",
+              "Don't take it to heart."
+            ],
+            [
+              "9",
+              "cool as a cucumber",
+              "tranquilísimo/a",
+              "She's cool as a cucumber."
+            ],
+            [
+              "10",
+              "blow a fuse",
+              "ponerse hecho una furia",
+              "He blew a fuse."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s7q1",
+          "question": "1. 'Over the moon' significa...",
+          "options": [
+            "felicísimo",
+            "muy enfadado"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s7q2",
+          "question": "2. 'Down in the dumps' significa...",
+          "options": [
+            "de bajón",
+            "de celebración"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s7q3",
+          "question": "3. 'Lose your cool' significa...",
+          "options": [
+            "perder la calma",
+            "enfriarse"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s7q4",
+          "question": "4. 'Fed up with' significa...",
+          "options": [
+            "harto de",
+            "alimentado por"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s7q5",
+          "question": "5. 'Cool as a cucumber' describe a alguien...",
+          "options": [
+            "muy tranquilo",
+            "muy nervioso"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s7q6",
+          "question": "6. 'Take it to heart' significa...",
+          "options": [
+            "tomárselo a pecho",
+            "memorizarlo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s7q7",
+          "question": "7. 'Blow a fuse' significa...",
+          "options": [
+            "ponerse furioso",
+            "apagar la luz"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s7",
+        "label": "<span class=\"badge\">tu turno</span>Describe cómo te sentiste en dos momentos del trabajo usando dos de estos idioms de emoción.",
+        "placeholder": "Ej: I was on edge before the inspection, but over the moon after."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Estos idioms no se traducen literalmente: 'over the moon' = felicísimo (no 'sobre la luna'). Fíjate en la preposición fija: 'fed up <b>with</b>', 'on cloud nine', 'on edge'."
+        }
+      ]
+    },
+    {
+      "idx": "12.8",
+      "title": "Relaciones y trabajo en equipo",
+      "level": "B2",
+      "rule": "Modismos sobre cómo colaboran (o chocan) las personas. Son muy útiles en un entorno de hostelería, donde el trabajo en equipo lo es todo. Muchos usan imágenes físicas ('<b>see eye to eye</b>', '<b>pull your weight</b>') que hay que memorizar como conjunto. Presta atención a si el idiom describe cooperación (positivo) o fricción (negativo).",
+      "examples": [
+        {
+          "en": "The whole team <b class=\"hl\">pulls together</b> in high season.",
+          "es": "Todo el equipo arrima el hombro en temporada alta."
+        },
+        {
+          "en": "He never <b class=\"hl\">pulls his weight</b> on the night shift.",
+          "es": "Nunca cumple con su parte en el turno de noche."
+        },
+        {
+          "en": "We <b class=\"hl\">have each other's backs</b> when it's busy.",
+          "es": "Nos cubrimos las espaldas cuando hay mucho trabajo."
+        },
+        {
+          "en": "She's a real <b class=\"hl\">team player</b>.",
+          "es": "Es una gran compañera de equipo."
+        },
+        {
+          "en": "Let's not <b class=\"hl\">point fingers</b> over the mix-up.",
+          "es": "No nos echemos las culpas por la confusión."
+        },
+        {
+          "en": "The new hire <b class=\"hl\">fits right in</b>.",
+          "es": "El nuevo encaja de maravilla."
+        },
+        {
+          "en": "They <b class=\"hl\">buried the hatchet</b> after the argument.",
+          "es": "Hicieron las paces tras la discusión."
+        },
+        {
+          "en": "We need everyone <b class=\"hl\">on board</b> with the plan.",
+          "es": "Necesitamos que todos apoyen el plan."
+        },
+        {
+          "en": "He tends to <b class=\"hl\">rub people the wrong way</b>.",
+          "es": "Tiende a caer mal a la gente."
+        },
+        {
+          "en": "Reception and housekeeping <b class=\"hl\">work hand in hand</b>.",
+          "es": "Recepción y limpieza trabajan mano a mano."
+        },
+        {
+          "en": "She <b class=\"hl\">went to bat for</b> her team.",
+          "es": "Dio la cara por su equipo."
+        },
+        {
+          "en": "Don't <b class=\"hl\">throw them under the bus</b> to save face.",
+          "es": "No los tires a los leones para salvarte."
+        },
+        {
+          "en": "We all <b class=\"hl\">chipped in</b> to cover the shift.",
+          "es": "Todos arrimamos el hombro para cubrir el turno."
+        },
+        {
+          "en": "They finally <b class=\"hl\">got on the same wavelength</b>.",
+          "es": "Por fin sintonizaron."
+        },
+        {
+          "en": "He <b class=\"hl\">took one for the team</b> and stayed late.",
+          "es": "Se sacrificó por el equipo y se quedó hasta tarde."
+        },
+        {
+          "en": "New staff learn the ropes by <b class=\"hl\">shadowing</b> a veteran.",
+          "es": "El personal nuevo aprende acompañando a un veterano."
+        },
+        {
+          "en": "Let's <b class=\"hl\">put our heads together</b> on the schedule.",
+          "es": "Juntemos ideas para el horario."
+        },
+        {
+          "en": "A good manager <b class=\"hl\">leads by example</b>.",
+          "es": "Un buen gerente predica con el ejemplo."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "1",
+              "pull together",
+              "arrimar el hombro juntos",
+              "The team pulls together."
+            ],
+            [
+              "2",
+              "pull your weight",
+              "cumplir con tu parte",
+              "He doesn't pull his weight."
+            ],
+            [
+              "3",
+              "have someone's back",
+              "cubrir las espaldas a alguien",
+              "We have each other's backs."
+            ],
+            [
+              "4",
+              "point fingers",
+              "echar las culpas",
+              "Let's not point fingers."
+            ],
+            [
+              "5",
+              "bury the hatchet",
+              "hacer las paces",
+              "They buried the hatchet."
+            ],
+            [
+              "6",
+              "on board",
+              "de acuerdo / a favor",
+              "Get everyone on board."
+            ],
+            [
+              "7",
+              "work hand in hand",
+              "trabajar mano a mano",
+              "They work hand in hand."
+            ],
+            [
+              "8",
+              "throw someone under the bus",
+              "traicionar/culpar para salvarse",
+              "Don't throw them under the bus."
+            ],
+            [
+              "9",
+              "put our heads together",
+              "juntar ideas",
+              "Let's put our heads together."
+            ],
+            [
+              "10",
+              "lead by example",
+              "predicar con el ejemplo",
+              "She leads by example."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s8q1",
+          "question": "1. 'Pull your weight' significa...",
+          "options": [
+            "cumplir con tu parte",
+            "adelgazar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s8q2",
+          "question": "2. 'Have someone's back' significa...",
+          "options": [
+            "cubrir las espaldas a alguien",
+            "dar la espalda"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s8q3",
+          "question": "3. 'Bury the hatchet' significa...",
+          "options": [
+            "hacer las paces",
+            "empezar una pelea"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s8q4",
+          "question": "4. 'Point fingers' significa...",
+          "options": [
+            "echar las culpas",
+            "señalar el camino"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s8q5",
+          "question": "5. 'Throw someone under the bus' significa...",
+          "options": [
+            "ayudar a alguien",
+            "culpar/traicionar para salvarse"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b12-s8q6",
+          "question": "6. 'On board' (con un plan) significa...",
+          "options": [
+            "de acuerdo",
+            "en un barco"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s8q7",
+          "question": "7. 'Lead by example' significa...",
+          "options": [
+            "predicar con el ejemplo",
+            "dar órdenes"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s8",
+        "label": "<span class=\"badge\">tu turno</span>Describe tu equipo con un idiom positivo (pull together, on board) y comenta un problema con otro (point fingers, pull your weight).",
+        "placeholder": "Ej: Our team pulls together, but one person never pulls their weight."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Ojo a las variantes: 'have <b>my/your/his</b> back' cambia el posesivo; 'put <b>our/your</b> heads together' también. 'On board' aquí es figurado (a favor), no literal."
+        }
+      ]
+    },
+    {
+      "idx": "12.9",
+      "title": "Decisiones y opiniones",
+      "level": "B2",
+      "rule": "Modismos para expresar juicios, dudas y decisiones, habituales al aconsejar a un cliente o debatir en el equipo. Muchos giran en torno a 'sentarse sobre la valla' (<b>sit on the fence</b>) o 'jugar sobre seguro' (<b>play it safe</b>). Fíjate en el matiz: algunos indican firmeza (put your foot down), otros indecisión (in two minds).",
+      "examples": [
+        {
+          "en": "Don't <b class=\"hl\">sit on the fence</b> — pick a supplier.",
+          "es": "No te quedes indeciso: elige un proveedor."
+        },
+        {
+          "en": "Let's <b class=\"hl\">play it safe</b> and confirm in writing.",
+          "es": "Vayamos a lo seguro y confirmemos por escrito."
+        },
+        {
+          "en": "I'm <b class=\"hl\">in two minds</b> about the refund.",
+          "es": "Estoy indeciso sobre el reembolso."
+        },
+        {
+          "en": "The manager <b class=\"hl\">put her foot down</b> on overbooking.",
+          "es": "La gerente se plantó con la sobreventa."
+        },
+        {
+          "en": "Let's <b class=\"hl\">weigh the pros and cons</b> first.",
+          "es": "Sopesemos los pros y los contras primero."
+        },
+        {
+          "en": "We'll <b class=\"hl\">play it by the book</b> with this complaint.",
+          "es": "Con esta queja iremos estrictamente según las normas."
+        },
+        {
+          "en": "He <b class=\"hl\">jumped to conclusions</b> about the charge.",
+          "es": "Sacó conclusiones precipitadas sobre el cargo."
+        },
+        {
+          "en": "It's <b class=\"hl\">a no-brainer</b> to book direct.",
+          "es": "Reservar directo es una decisión obvia."
+        },
+        {
+          "en": "Let's <b class=\"hl\">sleep on it</b> before deciding.",
+          "es": "Consultémoslo con la almohada antes de decidir."
+        },
+        {
+          "en": "I'll <b class=\"hl\">take your word for it</b>.",
+          "es": "Me fío de tu palabra."
+        },
+        {
+          "en": "We should <b class=\"hl\">hedge our bets</b> and offer two options.",
+          "es": "Deberíamos cubrirnos ofreciendo dos opciones."
+        },
+        {
+          "en": "That's <b class=\"hl\">a judgment call</b> for the manager.",
+          "es": "Esa es una decisión a criterio del gerente."
+        },
+        {
+          "en": "Don't <b class=\"hl\">read too much into</b> the review.",
+          "es": "No le des demasiadas vueltas a la reseña."
+        },
+        {
+          "en": "In my book, service <b class=\"hl\">comes first</b>.",
+          "es": "Para mí, el servicio es lo primero."
+        },
+        {
+          "en": "Let's <b class=\"hl\">call the shots</b> based on data.",
+          "es": "Tomemos las decisiones basándonos en datos."
+        },
+        {
+          "en": "She <b class=\"hl\">stood her ground</b> on the price.",
+          "es": "Se mantuvo firme en el precio."
+        },
+        {
+          "en": "We're <b class=\"hl\">on the fence about</b> the new menu.",
+          "es": "Estamos indecisos con el menú nuevo."
+        },
+        {
+          "en": "That decision <b class=\"hl\">makes sense</b> for peak season.",
+          "es": "Esa decisión tiene sentido para la temporada alta."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "1",
+              "sit on the fence",
+              "no decidirse, quedarse indeciso",
+              "Don't sit on the fence."
+            ],
+            [
+              "2",
+              "play it safe",
+              "ir a lo seguro",
+              "Let's play it safe."
+            ],
+            [
+              "3",
+              "in two minds",
+              "indeciso entre dos opciones",
+              "I'm in two minds."
+            ],
+            [
+              "4",
+              "put your foot down",
+              "plantarse, imponerse",
+              "She put her foot down."
+            ],
+            [
+              "5",
+              "weigh the pros and cons",
+              "sopesar ventajas y desventajas",
+              "Weigh the pros and cons."
+            ],
+            [
+              "6",
+              "jump to conclusions",
+              "sacar conclusiones precipitadas",
+              "He jumped to conclusions."
+            ],
+            [
+              "7",
+              "a no-brainer",
+              "una decisión obvia",
+              "It's a no-brainer."
+            ],
+            [
+              "8",
+              "sleep on it",
+              "consultarlo con la almohada",
+              "Let's sleep on it."
+            ],
+            [
+              "9",
+              "a judgment call",
+              "una decisión a criterio propio",
+              "It's a judgment call."
+            ],
+            [
+              "10",
+              "stand your ground",
+              "mantenerse firme",
+              "She stood her ground."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s9q1",
+          "question": "1. 'Sit on the fence' significa...",
+          "options": [
+            "no decidirse",
+            "sentarse a descansar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s9q2",
+          "question": "2. 'A no-brainer' es una decisión...",
+          "options": [
+            "obvia",
+            "muy difícil"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s9q3",
+          "question": "3. 'Sleep on it' significa...",
+          "options": [
+            "decidir mañana con calma",
+            "olvidarlo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s9q4",
+          "question": "4. 'Put your foot down' significa...",
+          "options": [
+            "plantarse/imponerse",
+            "rendirse"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s9q5",
+          "question": "5. 'Jump to conclusions' significa...",
+          "options": [
+            "sacar conclusiones precipitadas",
+            "analizar con calma"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s9q6",
+          "question": "6. 'In two minds' significa...",
+          "options": [
+            "indeciso",
+            "muy seguro"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s9q7",
+          "question": "7. 'Stand your ground' significa...",
+          "options": [
+            "mantenerse firme",
+            "ceder"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s9",
+        "label": "<span class=\"badge\">tu turno</span>Explica una decisión difícil usando <b>weigh the pros and cons</b> y <b>sleep on it</b> o <b>a no-brainer</b>.",
+        "placeholder": "Ej: We'll weigh the pros and cons and sleep on it before deciding."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cuidado con 'in two minds' (indeciso) frente a 'of one mind' (de acuerdo). Y 'play it safe' (prudente) vs 'play it by the book' (según las reglas): parecidos pero no iguales."
+        }
+      ]
+    },
+    {
+      "idx": "12.10",
+      "title": "Comida, cuerpo y vida cotidiana",
+      "level": "B1",
+      "rule": "Un gran grupo de idioms nace de la comida y del cuerpo, y son de los más frecuentes en conversación informal. '<b>A piece of cake</b>' no es un postre, sino algo facilísimo; '<b>give a hand</b>' es ayudar. Como siempre, memorízalos con un ejemplo y no traduzcas palabra por palabra. Son perfectos para sonar natural con huéspedes y compañeros.",
+      "examples": [
+        {
+          "en": "Can you <b class=\"hl\">give me a hand</b> with the tables?",
+          "es": "¿Me echas una mano con las mesas?"
+        },
+        {
+          "en": "Learning the new till was <b class=\"hl\">a piece of cake</b>.",
+          "es": "Aprender la caja nueva fue pan comido."
+        },
+        {
+          "en": "The upgrade is <b class=\"hl\">the icing on the cake</b>.",
+          "es": "La mejora es la guinda del pastel."
+        },
+        {
+          "en": "That extra fee left <b class=\"hl\">a bad taste in my mouth</b>.",
+          "es": "Aquel cargo extra me dejó mal sabor de boca."
+        },
+        {
+          "en": "Let's <b class=\"hl\">grab a bite</b> before the rush.",
+          "es": "Comamos algo rápido antes del ajetreo."
+        },
+        {
+          "en": "The overbooking is <b class=\"hl\">a hard pill to swallow</b>.",
+          "es": "La sobreventa es difícil de aceptar."
+        },
+        {
+          "en": "She has <b class=\"hl\">a lot on her plate</b> this week.",
+          "es": "Tiene muchísimo entre manos esta semana."
+        },
+        {
+          "en": "Keep an <b class=\"hl\">eye on</b> the lobby while I'm out.",
+          "es": "Vigila el vestíbulo mientras estoy fuera."
+        },
+        {
+          "en": "The new hire really <b class=\"hl\">knows their stuff</b>.",
+          "es": "El nuevo de verdad sabe lo que hace."
+        },
+        {
+          "en": "Let's <b class=\"hl\">get the ball rolling</b> on the menu.",
+          "es": "Pongamos en marcha lo del menú."
+        },
+        {
+          "en": "That complaint is <b class=\"hl\">a tough cookie</b> to handle.",
+          "es": "Esa queja es un hueso duro de roer."
+        },
+        {
+          "en": "I heard it <b class=\"hl\">straight from the horse's mouth</b>.",
+          "es": "Lo supe de primera mano."
+        },
+        {
+          "en": "We're <b class=\"hl\">up to our ears</b> in bookings.",
+          "es": "Estamos hasta arriba de reservas."
+        },
+        {
+          "en": "Let's <b class=\"hl\">play it cool</b> with the VIP.",
+          "es": "Actuemos con naturalidad con el VIP."
+        },
+        {
+          "en": "The renovation cost us <b class=\"hl\">an arm and a leg</b>.",
+          "es": "La reforma nos costó un ojo de la cara."
+        },
+        {
+          "en": "He's <b class=\"hl\">all thumbs</b> with the coffee machine.",
+          "es": "Es un manazas con la cafetera."
+        },
+        {
+          "en": "That's just <b class=\"hl\">the tip of the iceberg</b>.",
+          "es": "Eso es solo la punta del iceberg."
+        },
+        {
+          "en": "Let's <b class=\"hl\">wrap up</b> and head home.",
+          "es": "Terminemos y vámonos a casa."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "#",
+            "Idiom",
+            "Significado",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "1",
+              "give someone a hand",
+              "echar una mano",
+              "Give me a hand."
+            ],
+            [
+              "2",
+              "a piece of cake",
+              "algo facilísimo",
+              "It was a piece of cake."
+            ],
+            [
+              "3",
+              "the icing on the cake",
+              "la guinda del pastel",
+              "It's the icing on the cake."
+            ],
+            [
+              "4",
+              "a bad taste in your mouth",
+              "mal sabor de boca",
+              "It left a bad taste."
+            ],
+            [
+              "5",
+              "have a lot on your plate",
+              "tener mucho entre manos",
+              "She has a lot on her plate."
+            ],
+            [
+              "6",
+              "keep an eye on",
+              "vigilar, estar pendiente",
+              "Keep an eye on it."
+            ],
+            [
+              "7",
+              "a hard pill to swallow",
+              "algo difícil de aceptar",
+              "It's a hard pill to swallow."
+            ],
+            [
+              "8",
+              "straight from the horse's mouth",
+              "de primera mano",
+              "I heard it from the horse's mouth."
+            ],
+            [
+              "9",
+              "up to your ears",
+              "hasta arriba (de trabajo)",
+              "We're up to our ears."
+            ],
+            [
+              "10",
+              "the tip of the iceberg",
+              "la punta del iceberg",
+              "It's the tip of the iceberg."
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b12-s10q1",
+          "question": "1. 'A piece of cake' significa...",
+          "options": [
+            "algo facilísimo",
+            "un postre"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s10q2",
+          "question": "2. 'Give me a hand' significa...",
+          "options": [
+            "échame una mano",
+            "dame la mano"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s10q3",
+          "question": "3. 'Have a lot on your plate' significa...",
+          "options": [
+            "tener mucho que hacer",
+            "comer mucho"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s10q4",
+          "question": "4. 'A hard pill to swallow' significa...",
+          "options": [
+            "difícil de aceptar",
+            "una medicina"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s10q5",
+          "question": "5. 'The tip of the iceberg' significa...",
+          "options": [
+            "solo una pequeña parte",
+            "el final del problema"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s10q6",
+          "question": "6. 'Up to your ears' significa...",
+          "options": [
+            "hasta arriba de trabajo",
+            "sordo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b12-s10q7",
+          "question": "7. 'Straight from the horse's mouth' significa...",
+          "options": [
+            "de primera mano",
+            "un rumor"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b12-s10",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases: una pidiendo ayuda (<b>give a hand</b>) y otra sobre estar muy ocupado (<b>a lot on your plate</b> / <b>up to your ears</b>).",
+        "placeholder": "Ej: Can you give me a hand? I'm up to my ears in bookings."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Muchos aceptan variantes del posesivo o número: 'a lot on <b>my/her</b> plate', 'up to <b>our</b> ears'. 'Keep an eye on' lleva siempre 'on' + el objeto vigilado."
+        }
+      ]
     }
   ]
 }
