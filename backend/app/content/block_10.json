@@ -63,6 +63,58 @@
         {
           "en": "<span class=\"r-sub\">If</span> you pay in cash, <span class=\"r-corr\">there's no surcharge</span>.",
           "es": "Si pagas en efectivo, no hay recargo."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you press this, <span class=\"r-corr\">the light comes on</span>.",
+          "es": "Si pulsas esto, se enciende la luz."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the deposit isn't paid, <span class=\"r-corr\">the booking lapses</span>.",
+          "es": "Si no se paga el depósito, la reserva caduca."
+        },
+        {
+          "en": "<span class=\"r-sub\">When</span> water boils, <span class=\"r-corr\">it turns to steam</span>.",
+          "es": "Cuando el agua hierve, se convierte en vapor."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> a guest is a member, <span class=\"r-corr\">parking is free</span>.",
+          "es": "Si el huésped es socio, el aparcamiento es gratis."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you book direct, <span class=\"r-corr\">you get the best rate</span>.",
+          "es": "Si reservas directo, obtienes la mejor tarifa."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the room isn't cleaned, <span class=\"r-corr\">we don't release it</span>.",
+          "es": "Si la habitación no se limpia, no la liberamos."
+        },
+        {
+          "en": "<span class=\"r-sub\">When</span> demand rises, <span class=\"r-corr\">prices go up</span>.",
+          "es": "Cuando la demanda sube, los precios suben."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you leave early, <span class=\"r-corr\">breakfast is packed to go</span>.",
+          "es": "Si sales temprano, el desayuno se prepara para llevar."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> a guest complains, <span class=\"r-corr\">we log it immediately</span>.",
+          "es": "Si un huésped se queja, lo registramos de inmediato."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the wifi drops, <span class=\"r-corr\">reception resets it</span>.",
+          "es": "Si se cae el wifi, recepción lo reinicia."
+        },
+        {
+          "en": "<span class=\"r-sub\">When</span> the season ends, <span class=\"r-corr\">occupancy falls</span>.",
+          "es": "Cuando acaba la temporada, baja la ocupación."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the alarm sounds, <span class=\"r-corr\">guests use the stairs</span>.",
+          "es": "Si suena la alarma, los huéspedes usan las escaleras."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> it's a public holiday, <span class=\"r-corr\">the kitchen closes early</span>.",
+          "es": "Si es festivo, la cocina cierra antes."
         }
       ],
       "tables": [],
@@ -91,6 +143,51 @@
           "options": [
             "drops",
             "will drop"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s1q4",
+          "question": "4. If you heat ice, it ___. (verdad general → presente)",
+          "options": [
+            "melts",
+            "will melt"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s1q5",
+          "question": "5. If a guest is a member, parking ___ free. (política fija)",
+          "options": [
+            "is",
+            "will be"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s1q6",
+          "question": "6. El condicional 0 usa: if + presente, ___.",
+          "options": [
+            "+ presente",
+            "+ will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s1q7",
+          "question": "7. When water boils, it ___ to steam. (verdad general)",
+          "options": [
+            "turns",
+            "would turn"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s1q8",
+          "question": "8. If you don't water plants, they ___. (consecuencia general)",
+          "options": [
+            "die",
+            "will die"
           ],
           "correctIndex": 0
         }
@@ -152,6 +249,58 @@
         {
           "en": "<span class=\"r-sub\">If</span> you're not satisfied, <span class=\"r-corr\">we'll refund you</span>.",
           "es": "Si no quedas satisfecho, te reembolsamos."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you pay now, <span class=\"r-corr\">you'll save ten percent</span>.",
+          "es": "Si pagas ahora, ahorrarás un diez por ciento."
+        },
+        {
+          "en": "<span class=\"r-corr\">We'll upgrade you</span> <span class=\"r-sub\">if</span> a suite is free.",
+          "es": "Le mejoraremos la habitación si hay una suite libre."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you need a taxi, <span class=\"r-corr\">I'll call one</span>.",
+          "es": "Si necesita un taxi, le llamo uno."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> it rains, <span class=\"r-corr\">we'll move the gala indoors</span>.",
+          "es": "Si llueve, trasladaremos la gala dentro."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she books today, <span class=\"r-corr\">she'll get the early rate</span>.",
+          "es": "Si reserva hoy, conseguirá la tarifa anticipada."
+        },
+        {
+          "en": "<span class=\"r-corr\">You won't miss the transfer</span> <span class=\"r-sub\">if</span> you leave by nine.",
+          "es": "No perderá el traslado si sale antes de las nueve."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the client agrees, <span class=\"r-corr\">we'll sign tomorrow</span>.",
+          "es": "Si el cliente acepta, firmaremos mañana."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you join the club, <span class=\"r-corr\">you'll earn points</span>.",
+          "es": "Si se hace socio, ganará puntos."
+        },
+        {
+          "en": "<span class=\"r-corr\">We'll refund you</span> <span class=\"r-sub\">if</span> the room isn't ready.",
+          "es": "Le reembolsaremos si la habitación no está lista."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> you order now, <span class=\"r-corr\">it'll arrive by dinner</span>.",
+          "es": "Si lo pide ahora, llegará para la cena."
+        },
+        {
+          "en": "<span class=\"r-sub\">Unless</span> you confirm, <span class=\"r-corr\">we'll release the room</span>.",
+          "es": "A menos que confirme, liberaremos la habitación."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the group grows, <span class=\"r-corr\">we'll add a table</span>.",
+          "es": "Si el grupo crece, añadiremos una mesa."
+        },
+        {
+          "en": "<span class=\"r-corr\">You'll enjoy it</span> <span class=\"r-sub\">if</span> you try the spa.",
+          "es": "Lo disfrutará si prueba el spa."
         }
       ],
       "tables": [],
@@ -182,6 +331,51 @@
             "will confirm"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b10-s2q4",
+          "question": "4. If you book today, you ___ a discount. (resultado futuro)",
+          "options": [
+            "get",
+            "will get"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s2q5",
+          "question": "5. If she confirms, we ___ the room. (futuro real)",
+          "options": [
+            "'ll hold",
+            "held"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s2q6",
+          "question": "6. Condicional 1: if + presente, ___.",
+          "options": [
+            "+ will",
+            "+ would"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s2q7",
+          "question": "7. If it rains, we ___ inside. (futuro posible)",
+          "options": [
+            "will move",
+            "would move"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s2q8",
+          "question": "8. Tras 'if' en el cond. 1 NO se usa...",
+          "options": [
+            "presente",
+            "will"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -239,8 +433,60 @@
           "es": "Si te unieras al club, ahorrarías en cada viaje."
         },
         {
-          "en": "What <span class=\"r-corr\">would you do</span> <span class=\"r-sub\">if</span> the client refused?",
-          "es": "¿Qué harías si el cliente se negara?"
+          "en": "<span class=\"r-sub\">If</span> I <span class=\"r-sub\">were</span> the owner, <span class=\"r-corr\">I would renovate the lobby</span>.",
+          "es": "Si yo fuera el dueño, renovaría el vestíbulo."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had more staff, <span class=\"r-corr\">we could open the terrace</span>.",
+          "es": "Si tuviéramos más personal, podríamos abrir la terraza."
+        },
+        {
+          "en": "What <span class=\"r-corr\">would you do</span> <span class=\"r-sub\">if</span> a guest refused to pay?",
+          "es": "¿Qué harías si un huésped se negara a pagar?"
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the suite were cheaper, <span class=\"r-corr\">I'd book it now</span>.",
+          "es": "Si la suite fuera más barata, la reservaría ahora."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she spoke German, <span class=\"r-corr\">she'd handle that group</span>.",
+          "es": "Si ella hablara alemán, atendería a ese grupo."
+        },
+        {
+          "en": "<span class=\"r-corr\">We'd sell out</span> <span class=\"r-sub\">if</span> we cut prices.",
+          "es": "Nos agotaríamos si bajáramos los precios."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I had time, <span class=\"r-corr\">I would train the new hires myself</span>.",
+          "es": "Si tuviera tiempo, formaría yo mismo a los nuevos."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the hotel were bigger, <span class=\"r-corr\">we'd host conferences</span>.",
+          "es": "Si el hotel fuera más grande, haríamos congresos."
+        },
+        {
+          "en": "<span class=\"r-corr\">I wouldn't accept</span> that rate <span class=\"r-sub\">if</span> I were you.",
+          "es": "Yo no aceptaría esa tarifa si fuera tú."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had a pool, <span class=\"r-corr\">guests would stay longer</span>.",
+          "es": "Si tuviéramos piscina, los huéspedes se quedarían más."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the client trusted us, <span class=\"r-corr\">he'd sign today</span>.",
+          "es": "Si el cliente confiara en nosotros, firmaría hoy."
+        },
+        {
+          "en": "<span class=\"r-corr\">We'd earn more</span> <span class=\"r-sub\">if</span> we upsold suites.",
+          "es": "Ganaríamos más si vendiéramos más suites de categoría."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I weren't on shift, <span class=\"r-corr\">I'd join you</span>.",
+          "es": "Si no estuviera de turno, me uniría a vosotros."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> demand dropped, <span class=\"r-corr\">we would run promotions</span>.",
+          "es": "Si la demanda bajara, haríamos promociones."
         }
       ],
       "tables": [],
@@ -269,6 +515,51 @@
           "options": [
             "fell",
             "falls"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s3q4",
+          "question": "4. If I ___ you, I'd take the offer. (hipotético, 'were' para todas las personas)",
+          "options": [
+            "was",
+            "were"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s3q5",
+          "question": "5. If we lowered prices, we ___ more. (resultado hipotético)",
+          "options": [
+            "would sell",
+            "will sell"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s3q6",
+          "question": "6. Condicional 2: if + pasado, ___.",
+          "options": [
+            "+ would + infinitivo",
+            "+ will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s3q7",
+          "question": "7. What would you do if the client ___? (hipotético)",
+          "options": [
+            "refused",
+            "will refuse"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s3q8",
+          "question": "8. El cond. 2 habla de algo...",
+          "options": [
+            "irreal o improbable ahora",
+            "seguro en el futuro"
           ],
           "correctIndex": 0
         }
@@ -330,6 +621,62 @@
         {
           "en": "<span class=\"r-corr\">They'd have complained</span> <span class=\"r-sub\">if</span> we hadn't apologized.",
           "es": "Se habrían quejado si no nos hubiéramos disculpado."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had responded faster, <span class=\"r-corr\">we wouldn't have lost the client</span>.",
+          "es": "Si hubiéramos respondido más rápido, no habríamos perdido al cliente."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she had booked earlier, <span class=\"r-corr\">she would have saved money</span>.",
+          "es": "Si hubiera reservado antes, habría ahorrado dinero."
+        },
+        {
+          "en": "<span class=\"r-corr\">We would have upgraded him</span> <span class=\"r-sub\">if</span> we had known.",
+          "es": "Le habríamos mejorado la habitación si lo hubiéramos sabido."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the deposit had cleared, <span class=\"r-corr\">we would have held the room</span>.",
+          "es": "Si el depósito se hubiera procesado, habríamos guardado la habitación."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> they had confirmed, <span class=\"r-corr\">we wouldn't have overbooked</span>.",
+          "es": "Si hubieran confirmado, no habríamos sobrevendido."
+        },
+        {
+          "en": "<span class=\"r-corr\">She would have signed</span> <span class=\"r-sub\">if</span> the price had been lower.",
+          "es": "Habría firmado si el precio hubiera sido más bajo."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had trained the team, <span class=\"r-corr\">the complaint wouldn't have happened</span>.",
+          "es": "Si hubiéramos formado al equipo, la queja no habría ocurrido."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I had checked the calendar, <span class=\"r-corr\">I would have noticed the clash</span>.",
+          "es": "Si hubiera mirado el calendario, habría notado el solapamiento."
+        },
+        {
+          "en": "<span class=\"r-corr\">They would have stayed</span> <span class=\"r-sub\">if</span> the room had been quieter.",
+          "es": "Se habrían quedado si la habitación hubiera sido más tranquila."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the chef hadn't been ill, <span class=\"r-corr\">the menu wouldn't have changed</span>.",
+          "es": "Si el chef no hubiera estado enfermo, el menú no habría cambiado."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had advertised more, <span class=\"r-corr\">we would have filled the rooms</span>.",
+          "es": "Si hubiéramos hecho más publicidad, habríamos llenado las habitaciones."
+        },
+        {
+          "en": "<span class=\"r-corr\">You would have enjoyed it</span> <span class=\"r-sub\">if</span> you had come.",
+          "es": "Lo habrías disfrutado si hubieras venido."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she had asked, <span class=\"r-corr\">we would have arranged a transfer</span>.",
+          "es": "Si hubiera preguntado, habríamos organizado un traslado."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the payment had failed, <span class=\"r-corr\">we would have contacted her</span>.",
+          "es": "Si el pago hubiera fallado, la habríamos contactado."
         }
       ],
       "tables": [],
@@ -358,6 +705,51 @@
           "options": [
             "had been",
             "were"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s4q4",
+          "question": "4. If I ___ about the delay, I would have rebooked. (had + participio)",
+          "options": [
+            "had known",
+            "knew"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s4q5",
+          "question": "5. She would ___ the discount if she had signed. (would have + participio)",
+          "options": [
+            "have gotten",
+            "get"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s4q6",
+          "question": "6. Condicional 3: if + pasado perfecto, ___.",
+          "options": [
+            "would have + participio",
+            "would + infinitivo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s4q7",
+          "question": "7. El cond. 3 habla de un pasado...",
+          "options": [
+            "irreal (no ocurrió)",
+            "que sí ocurrió"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s4q8",
+          "question": "8. We ___ the client if we had responded faster. (no habríamos perdido)",
+          "options": [
+            "wouldn't have lost",
+            "won't lose"
           ],
           "correctIndex": 0
         }
@@ -419,6 +811,62 @@
         {
           "en": "<span class=\"r-sub\">If</span> he were more careful, <span class=\"r-corr\">he wouldn't have lost the client</span>.",
           "es": "Si fuera más cuidadoso, no habría perdido al cliente."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I had accepted that role, <span class=\"r-corr\">I'd be managing a resort now</span>.",
+          "es": "Si hubiera aceptado ese puesto, ahora estaría dirigiendo un resort."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she were more careful, <span class=\"r-corr\">she wouldn't have double-booked</span>.",
+          "es": "Si fuera más cuidadosa, no habría duplicado la reserva."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we hadn't invested then, <span class=\"r-corr\">we wouldn't be profitable today</span>.",
+          "es": "Si no hubiéramos invertido entonces, hoy no seríamos rentables."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> he spoke French, <span class=\"r-corr\">he would have handled that group</span>.",
+          "es": "Si hablara francés, habría atendido a ese grupo."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I had saved more, <span class=\"r-corr\">I'd own a place by now</span>.",
+          "es": "Si hubiera ahorrado más, ya tendría un local."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> the hotel weren't so remote, <span class=\"r-corr\">it would have sold out</span>.",
+          "es": "Si el hotel no fuera tan remoto, se habría llenado."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had hired her, <span class=\"r-corr\">the team would be stronger now</span>.",
+          "es": "Si la hubiéramos contratado, el equipo sería más fuerte ahora."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I weren't so busy, <span class=\"r-corr\">I would have joined the tour</span>.",
+          "es": "Si no estuviera tan ocupado, me habría unido al tour."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she had studied hospitality, <span class=\"r-corr\">she'd be a manager today</span>.",
+          "es": "Si hubiera estudiado hostelería, hoy sería gerente."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we were a chain, <span class=\"r-corr\">we would have expanded abroad already</span>.",
+          "es": "Si fuéramos una cadena, ya nos habríamos expandido al extranjero."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> he had listened, <span class=\"r-corr\">he wouldn't be in this mess now</span>.",
+          "es": "Si hubiera escuchado, ahora no estaría en este lío."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> I knew the area better, <span class=\"r-corr\">I would have suggested a shortcut</span>.",
+          "es": "Si conociera mejor la zona, habría sugerido un atajo."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> we had a bigger kitchen, <span class=\"r-corr\">we could have catered the wedding</span>.",
+          "es": "Si tuviéramos una cocina más grande, habríamos podido dar el catering de la boda."
+        },
+        {
+          "en": "<span class=\"r-sub\">If</span> she weren't afraid of risk, <span class=\"r-corr\">she would have taken the deal</span>.",
+          "es": "Si no temiera el riesgo, habría aceptado el trato."
         }
       ],
       "tables": [],
@@ -447,6 +895,51 @@
           "options": [
             "wouldn't have",
             "wouldn't have had"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s5q4",
+          "question": "4. If I had taken that job, I ___ abroad now. (pasado → presente)",
+          "options": [
+            "would be living",
+            "would have lived"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s5q5",
+          "question": "5. If she were organized, she ___ the deadline. (presente → pasado)",
+          "options": [
+            "wouldn't have missed",
+            "won't miss"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s5q6",
+          "question": "6. Un condicional mixto combina...",
+          "options": [
+            "tiempos de dos condicionales distintos",
+            "solo presente"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s5q7",
+          "question": "7. If we hadn't invested, we ___ here today. (pasado → presente)",
+          "options": [
+            "wouldn't be",
+            "wouldn't have been"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s5q8",
+          "question": "8. If he spoke French, he ___ that group. (presente → pasado)",
+          "options": [
+            "would have handled",
+            "will handle"
           ],
           "correctIndex": 0
         }
@@ -500,6 +993,62 @@
         {
           "en": "You <span class=\"r-verb\">mustn't</span> smoke in the rooms.",
           "es": "No debes fumar en las habitaciones."
+        },
+        {
+          "en": "You <span class=\"r-verb\">can</span> pay by card or cash.",
+          "es": "Puede pagar con tarjeta o en efectivo."
+        },
+        {
+          "en": "Guests <span class=\"r-verb\">must not</span> smoke in the rooms.",
+          "es": "Los huéspedes no deben fumar en las habitaciones."
+        },
+        {
+          "en": "You <span class=\"r-verb\">should</span> try the rooftop restaurant.",
+          "es": "Debería probar el restaurante de la azotea."
+        },
+        {
+          "en": "We <span class=\"r-verb\">might</span> add a late checkout.",
+          "es": "Puede que añadamos una salida tardía."
+        },
+        {
+          "en": "You <span class=\"r-verb\">don't have to</span> tip; it's included.",
+          "es": "No tiene que dejar propina; está incluida."
+        },
+        {
+          "en": "Staff <span class=\"r-verb\">have to</span> wear a uniform.",
+          "es": "El personal tiene que llevar uniforme."
+        },
+        {
+          "en": "<span class=\"r-verb\">Could</span> you send the invoice, please?",
+          "es": "¿Podría enviar la factura, por favor?"
+        },
+        {
+          "en": "You <span class=\"r-verb\">may</span> use the pool until ten.",
+          "es": "Puede usar la piscina hasta las diez."
+        },
+        {
+          "en": "We <span class=\"r-verb\">can't</span> guarantee an upgrade.",
+          "es": "No podemos garantizar una mejora."
+        },
+        {
+          "en": "You <span class=\"r-verb\">ought to</span> book the tour early.",
+          "es": "Debería reservar el tour pronto."
+        },
+        {
+          "en": "Guests <span class=\"r-verb\">mustn't</span> leave bags unattended.",
+          "es": "Los huéspedes no deben dejar las maletas sin vigilancia."
+        },
+        {
+          "en": "We <span class=\"r-verb\">could</span> arrange a transfer if you like.",
+          "es": "Podríamos organizar un traslado si lo desea."
+        },
+        {
+          "en": "You <span class=\"r-verb\">needn't</span> confirm again.",
+          "es": "No hace falta que confirme otra vez."
+        },
+        {
+          "en": "Visitors <span class=\"r-verb\">have to</span> sign in at reception.",
+          "es": "Los visitantes tienen que registrarse en recepción."
         }
       ],
       "tables": [
@@ -565,6 +1114,51 @@
             "Must"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b10-s6q4",
+          "question": "4. You ___ smoke here. (prohibición)",
+          "options": [
+            "mustn't",
+            "don't have to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s6q5",
+          "question": "5. You ___ tip; service is included. (ausencia de obligación)",
+          "options": [
+            "mustn't",
+            "don't have to"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s6q6",
+          "question": "6. ___ you send it, please? (petición cortés)",
+          "options": [
+            "Could",
+            "Must"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s6q7",
+          "question": "7. You ___ book early for August. (consejo)",
+          "options": [
+            "should",
+            "can't"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s6q8",
+          "question": "8. Guests ___ show ID. (obligación)",
+          "options": [
+            "must",
+            "might"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -576,6 +1170,666 @@
         {
           "type": "exception",
           "text": "Los modales <b>no llevan -s</b> en 3ª persona (she <i>can</i>, no \"she cans\") y van seguidos de <b>infinitivo sin to</b> (must <i>go</i>)."
+        }
+      ]
+    },
+    {
+      "idx": "10.7",
+      "title": "Modales de deducción (must be / can't be / might be)",
+      "level": "B2",
+      "rule": "Los modales expresan el <b>grado de certeza</b> de una deducción. Casi seguro que SÍ: <b>must</b> (must be tired). Casi seguro que NO: <b>can't</b> (can't be right) — nunca 'mustn't' para deducción. Posible: <b>might / may / could</b> (might be delayed). Para el <b>pasado</b>, se usa modal + <b>have + participio</b>: 'She must have left', 'He can't have known', 'They might have missed it'. Es la forma natural de razonar sobre lo que probablemente pasa o pasó.",
+      "examples": [
+        {
+          "en": "The lobby's empty — everyone <b class=\"hl\">must be</b> at dinner.",
+          "es": "El vestíbulo está vacío; todos deben de estar cenando."
+        },
+        {
+          "en": "That <b class=\"hl\">can't be</b> the right bill; it's too high.",
+          "es": "Esa no puede ser la factura correcta; es demasiado alta."
+        },
+        {
+          "en": "The guest <b class=\"hl\">might be</b> stuck in traffic.",
+          "es": "El huésped puede que esté atascado en el tráfico."
+        },
+        {
+          "en": "She <b class=\"hl\">must know</b> the area well.",
+          "es": "Debe de conocer bien la zona."
+        },
+        {
+          "en": "He <b class=\"hl\">can't be</b> serious about that price.",
+          "es": "No puede ir en serio con ese precio."
+        },
+        {
+          "en": "They <b class=\"hl\">may be</b> waiting at the wrong entrance.",
+          "es": "Puede que estén esperando en la entrada equivocada."
+        },
+        {
+          "en": "The room <b class=\"hl\">must have been</b> cleaned; it's spotless.",
+          "es": "La habitación debe de haber sido limpiada; está impecable."
+        },
+        {
+          "en": "She <b class=\"hl\">can't have left</b> already — her key's here.",
+          "es": "No puede haberse ido ya; su llave está aquí."
+        },
+        {
+          "en": "The payment <b class=\"hl\">might have failed</b>.",
+          "es": "Puede que el pago haya fallado."
+        },
+        {
+          "en": "He <b class=\"hl\">must be</b> the new concierge.",
+          "es": "Debe de ser el nuevo conserje."
+        },
+        {
+          "en": "It <b class=\"hl\">could be</b> a system error.",
+          "es": "Podría ser un error del sistema."
+        },
+        {
+          "en": "They <b class=\"hl\">must have booked</b> months ago.",
+          "es": "Deben de haber reservado hace meses."
+        },
+        {
+          "en": "This <b class=\"hl\">can't be</b> the same suite; it looks different.",
+          "es": "Esta no puede ser la misma suite; se ve distinta."
+        },
+        {
+          "en": "The delay <b class=\"hl\">may have been</b> due to weather.",
+          "es": "El retraso puede haberse debido al tiempo."
+        },
+        {
+          "en": "She <b class=\"hl\">might have forgotten</b> the reservation.",
+          "es": "Puede que haya olvidado la reserva."
+        },
+        {
+          "en": "He <b class=\"hl\">must be</b> exhausted after that shift.",
+          "es": "Debe de estar agotado tras ese turno."
+        },
+        {
+          "en": "They <b class=\"hl\">can't have paid</b> twice by accident.",
+          "es": "No pueden haber pagado dos veces por accidente."
+        },
+        {
+          "en": "The offer <b class=\"hl\">could be</b> a mistake.",
+          "es": "La oferta podría ser un error."
+        },
+        {
+          "en": "You <b class=\"hl\">must be</b> Mr. Alden — welcome.",
+          "es": "Usted debe de ser el Sr. Alden; bienvenido."
+        },
+        {
+          "en": "The keys <b class=\"hl\">might be</b> at reception.",
+          "es": "Las llaves puede que estén en recepción."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s7q1",
+          "question": "1. The lobby's empty — they ___ be at dinner. (casi seguro que sí)",
+          "options": [
+            "must",
+            "can't"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s7q2",
+          "question": "2. That ___ be right; it's way too high. (casi seguro que no)",
+          "options": [
+            "mustn't",
+            "can't"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s7q3",
+          "question": "3. She ___ be stuck in traffic. (posible)",
+          "options": [
+            "might",
+            "must"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s7q4",
+          "question": "4. She ___ left already; her key's here. (deducción negativa pasada)",
+          "options": [
+            "mustn't have",
+            "can't have"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s7q5",
+          "question": "5. The room ___ been cleaned; it's spotless. (deducción positiva pasada)",
+          "options": [
+            "must have",
+            "can't have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s7q6",
+          "question": "6. Para deducir que algo es imposible se usa...",
+          "options": [
+            "can't",
+            "mustn't"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s7q7",
+          "question": "7. The payment ___ have failed. (posibilidad pasada)",
+          "options": [
+            "might",
+            "must"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s7",
+        "label": "<span class=\"badge\">tu turno</span>Deduce algo del presente con <b>must/can't/might be</b> y algo del pasado con <b>must/can't have + participio</b>.",
+        "placeholder": "Ej: She must be the manager. He can't have left; his bag is here."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Para deducir imposibilidad se usa <b>can't</b>, nunca 'mustn't' (que es prohibición). Pasado: modal + <b>have + participio</b>: 'must have left', 'can't have known', 'might have forgotten'."
+        }
+      ]
+    },
+    {
+      "idx": "10.8",
+      "title": "Obligación, permiso y consejo (must / have to / should)",
+      "level": "A2",
+      "rule": "Distinguir estos modales evita malentendidos. Obligación: <b>must</b> (regla del que habla) y <b>have to</b> (obligación externa). Ausencia de obligación: <b>don't have to / needn't</b> ('no hace falta'). Prohibición: <b>mustn't / can't</b> ('no se puede'). Permiso: <b>can / may / be allowed to</b>. Consejo: <b>should / ought to / had better</b>. Cuidado: <b>mustn't</b> (prohibido) ≠ <b>don't have to</b> (opcional).",
+      "examples": [
+        {
+          "en": "Guests <b class=\"hl\">have to</b> check out by noon.",
+          "es": "Los huéspedes tienen que salir antes del mediodía."
+        },
+        {
+          "en": "You <b class=\"hl\">must</b> keep your key card with you.",
+          "es": "Debe llevar su tarjeta llave consigo."
+        },
+        {
+          "en": "You <b class=\"hl\">don't have to</b> book breakfast in advance.",
+          "es": "No hace falta reservar el desayuno con antelación."
+        },
+        {
+          "en": "You <b class=\"hl\">mustn't</b> leave the balcony door open.",
+          "es": "No debe dejar abierta la puerta del balcón."
+        },
+        {
+          "en": "You <b class=\"hl\">can</b> use the gym at any time.",
+          "es": "Puede usar el gimnasio a cualquier hora."
+        },
+        {
+          "en": "You <b class=\"hl\">should</b> try to arrive before dark.",
+          "es": "Debería intentar llegar antes de que anochezca."
+        },
+        {
+          "en": "Visitors <b class=\"hl\">are allowed to</b> use the lobby wifi.",
+          "es": "Los visitantes pueden usar el wifi del vestíbulo."
+        },
+        {
+          "en": "You <b class=\"hl\">had better</b> confirm before it sells out.",
+          "es": "Más vale que confirme antes de que se agote."
+        },
+        {
+          "en": "Staff <b class=\"hl\">must</b> wash their hands regularly.",
+          "es": "El personal debe lavarse las manos con frecuencia."
+        },
+        {
+          "en": "You <b class=\"hl\">needn't</b> pay a deposit for this rate.",
+          "es": "No necesita pagar depósito con esta tarifa."
+        },
+        {
+          "en": "You <b class=\"hl\">can't</b> bring outside food to the restaurant.",
+          "es": "No puede traer comida de fuera al restaurante."
+        },
+        {
+          "en": "You <b class=\"hl\">ought to</b> book the spa early.",
+          "es": "Debería reservar el spa pronto."
+        },
+        {
+          "en": "Children <b class=\"hl\">must</b> be supervised at the pool.",
+          "es": "Los niños deben estar vigilados en la piscina."
+        },
+        {
+          "en": "You <b class=\"hl\">may</b> check in from three o'clock.",
+          "es": "Puede registrarse a partir de las tres."
+        },
+        {
+          "en": "We <b class=\"hl\">don't have to</b> charge you for the change.",
+          "es": "No tenemos que cobrarle por el cambio."
+        },
+        {
+          "en": "You <b class=\"hl\">should</b> keep the receipt.",
+          "es": "Debería guardar el recibo."
+        },
+        {
+          "en": "Guests <b class=\"hl\">mustn't</b> use the staff lift.",
+          "es": "Los huéspedes no deben usar el ascensor del personal."
+        },
+        {
+          "en": "You <b class=\"hl\">can</b> cancel free up to 48 hours before.",
+          "es": "Puede cancelar gratis hasta 48 horas antes."
+        },
+        {
+          "en": "You <b class=\"hl\">had better not</b> miss the transfer.",
+          "es": "Más vale que no pierda el traslado."
+        },
+        {
+          "en": "You <b class=\"hl\">don't need to</b> print the voucher.",
+          "es": "No necesita imprimir el vale."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s8q1",
+          "question": "1. Guests ___ show ID. (obligación externa)",
+          "options": [
+            "have to",
+            "should"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s8q2",
+          "question": "2. You ___ tip; it's included. (no hace falta)",
+          "options": [
+            "mustn't",
+            "don't have to"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s8q3",
+          "question": "3. You ___ smoke in the room. (prohibición)",
+          "options": [
+            "mustn't",
+            "don't have to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s8q4",
+          "question": "4. You ___ book early. (consejo)",
+          "options": [
+            "should",
+            "must not"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s8q5",
+          "question": "5. You ___ use the pool until ten. (permiso)",
+          "options": [
+            "can",
+            "should"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s8q6",
+          "question": "6. 'mustn't' significa...",
+          "options": [
+            "está prohibido",
+            "es opcional"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s8q7",
+          "question": "7. You ___ confirm before it sells out. (advertencia fuerte)",
+          "options": [
+            "had better",
+            "may"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una obligación (must/have to), una prohibición (mustn't) y un consejo (should).",
+        "placeholder": "Ej: You must show ID. You mustn't smoke here. You should book early."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cuidado: <b>mustn't</b> = prohibido ('You mustn't park here'); <b>don't have to</b> = opcional ('You don't have to tip'). No son intercambiables aunque en español ambos empiecen por 'no'."
+        }
+      ]
+    },
+    {
+      "idx": "10.9",
+      "title": "Modales de pasado (should have / could have / must have)",
+      "level": "B2",
+      "rule": "Modal + <b>have + participio</b> comenta acciones pasadas. <b>should have done</b> = crítica o arrepentimiento (algo que no se hizo y debía): 'You <b>should have called</b>'. <b>shouldn't have done</b> = algo que se hizo y no debía. <b>could have done</b> = posibilidad no aprovechada ('podríamos haber…'). <b>would have done</b> = resultado hipotético. <b>might/may have done</b> = posibilidad. Es la estructura para hablar de lo que 'habría podido/debido' ser.",
+      "examples": [
+        {
+          "en": "We <b class=\"hl\">should have confirmed</b> the booking sooner.",
+          "es": "Deberíamos haber confirmado la reserva antes."
+        },
+        {
+          "en": "You <b class=\"hl\">shouldn't have promised</b> a free upgrade.",
+          "es": "No deberías haber prometido una mejora gratis."
+        },
+        {
+          "en": "We <b class=\"hl\">could have offered</b> her the suite instead.",
+          "es": "Podríamos haberle ofrecido la suite en su lugar."
+        },
+        {
+          "en": "He <b class=\"hl\">would have stayed</b> if we'd asked.",
+          "es": "Se habría quedado si se lo hubiéramos pedido."
+        },
+        {
+          "en": "They <b class=\"hl\">might have taken</b> the earlier flight.",
+          "es": "Puede que hayan cogido el vuelo anterior."
+        },
+        {
+          "en": "I <b class=\"hl\">should have double-checked</b> the invoice.",
+          "es": "Debería haber revisado la factura dos veces."
+        },
+        {
+          "en": "We <b class=\"hl\">could have avoided</b> the complaint.",
+          "es": "Podríamos haber evitado la queja."
+        },
+        {
+          "en": "She <b class=\"hl\">shouldn't have left</b> the desk unattended.",
+          "es": "No debería haber dejado el mostrador sin atender."
+        },
+        {
+          "en": "You <b class=\"hl\">could have called</b> reception for help.",
+          "es": "Podrías haber llamado a recepción para pedir ayuda."
+        },
+        {
+          "en": "The team <b class=\"hl\">should have prepared</b> the room earlier.",
+          "es": "El equipo debería haber preparado la habitación antes."
+        },
+        {
+          "en": "He <b class=\"hl\">must have missed</b> the transfer.",
+          "es": "Debe de haber perdido el traslado."
+        },
+        {
+          "en": "We <b class=\"hl\">would have upgraded</b> them, but the suite was taken.",
+          "es": "Los habríamos mejorado, pero la suite estaba ocupada."
+        },
+        {
+          "en": "I <b class=\"hl\">shouldn't have doubted</b> her judgement.",
+          "es": "No debería haber dudado de su criterio."
+        },
+        {
+          "en": "They <b class=\"hl\">could have booked</b> direct and saved money.",
+          "es": "Podrían haber reservado directo y ahorrado."
+        },
+        {
+          "en": "You <b class=\"hl\">should have told</b> us about the allergy.",
+          "es": "Deberías habernos avisado de la alergia."
+        },
+        {
+          "en": "We <b class=\"hl\">might have overbooked</b> by mistake.",
+          "es": "Puede que hayamos sobrevendido por error."
+        },
+        {
+          "en": "She <b class=\"hl\">could have handled</b> it differently.",
+          "es": "Podría haberlo gestionado de otra manera."
+        },
+        {
+          "en": "The chef <b class=\"hl\">must have forgotten</b> the order.",
+          "es": "El chef debe de haber olvidado el pedido."
+        },
+        {
+          "en": "We <b class=\"hl\">should have advertised</b> the offer earlier.",
+          "es": "Deberíamos haber anunciado la oferta antes."
+        },
+        {
+          "en": "He <b class=\"hl\">wouldn't have complained</b> if we'd explained.",
+          "es": "No se habría quejado si se lo hubiéramos explicado."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s9q1",
+          "question": "1. You ___ called us; we were worried. (reproche: debías y no lo hiciste)",
+          "options": [
+            "should have",
+            "must have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s9q2",
+          "question": "2. You ___ promised a free upgrade. (hiciste algo que no debías)",
+          "options": [
+            "shouldn't have",
+            "couldn't have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s9q3",
+          "question": "3. We ___ offered the suite instead. (posibilidad no aprovechada)",
+          "options": [
+            "could have",
+            "must have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s9q4",
+          "question": "4. He ___ missed the transfer. (deducción sobre el pasado)",
+          "options": [
+            "should have",
+            "must have"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s9q5",
+          "question": "5. Estructura: modal + ___.",
+          "options": [
+            "have + participio",
+            "have + infinitivo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s9q6",
+          "question": "6. He ___ stayed if we'd asked. (resultado hipotético)",
+          "options": [
+            "would have",
+            "should have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s9q7",
+          "question": "7. 'You should have told us' expresa...",
+          "options": [
+            "reproche por algo no hecho",
+            "una orden futura"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe un arrepentimiento con <b>should have</b> y una posibilidad no aprovechada con <b>could have</b>.",
+        "placeholder": "Ej: We should have confirmed earlier. They could have booked direct."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Se escribe 'should <b>have</b>' (no 'should of', error común en inglés hablado). 'should have' = reproche; 'could have' = oportunidad perdida; 'must have' = deducción sobre el pasado."
+        }
+      ]
+    },
+    {
+      "idx": "10.10",
+      "title": "wish / if only (deseos y arrepentimientos)",
+      "level": "B2",
+      "rule": "Expresan deseos irreales. <b>wish / if only + pasado</b> = deseo sobre el <b>presente</b> (I wish I <b>had</b> more time = ojalá tuviera). <b>wish + past perfect</b> = arrepentimiento sobre el <b>pasado</b> (I wish I <b>had booked</b> = ojalá hubiera reservado). <b>wish + would</b> = queja o deseo de que otro cambie un comportamiento (I wish it <b>would stop</b> raining). Como en el condicional 2, se usa <b>were</b> para todas las personas (I wish I were…). 'If only' es una variante más enfática.",
+      "examples": [
+        {
+          "en": "I <b class=\"hl\">wish</b> we <b class=\"hl\">had</b> a bigger conference room.",
+          "es": "Ojalá tuviéramos una sala de conferencias más grande."
+        },
+        {
+          "en": "I <b class=\"hl\">wish</b> I <b class=\"hl\">had booked</b> the sea-view room.",
+          "es": "Ojalá hubiera reservado la habitación con vistas al mar."
+        },
+        {
+          "en": "<b class=\"hl\">If only</b> the wifi <b class=\"hl\">worked</b> in every room.",
+          "es": "Ojalá el wifi funcionara en todas las habitaciones."
+        },
+        {
+          "en": "I <b class=\"hl\">wish</b> the guest <b class=\"hl\">would</b> reply to my email.",
+          "es": "Ojalá el huésped respondiera a mi correo."
+        },
+        {
+          "en": "She <b class=\"hl\">wishes</b> she <b class=\"hl\">spoke</b> more languages.",
+          "es": "Ojalá hablara más idiomas."
+        },
+        {
+          "en": "I <b class=\"hl\">wish</b> I <b class=\"hl\">were</b> better at handling complaints.",
+          "es": "Ojalá se me diera mejor gestionar quejas."
+        },
+        {
+          "en": "<b class=\"hl\">If only</b> we <b class=\"hl\">had confirmed</b> the group sooner.",
+          "es": "Ojalá hubiéramos confirmado el grupo antes."
+        },
+        {
+          "en": "I <b class=\"hl\">wish</b> it <b class=\"hl\">would</b> stop raining before the gala.",
+          "es": "Ojalá dejara de llover antes de la gala."
+        },
+        {
+          "en": "We <b class=\"hl\">wish</b> we <b class=\"hl\">had</b> more staff tonight.",
+          "es": "Ojalá tuviéramos más personal esta noche."
+        },
+        {
+          "en": "He <b class=\"hl\">wishes</b> he <b class=\"hl\">hadn't cancelled</b> the trip.",
+          "es": "Ojalá no hubiera cancelado el viaje."
+        },
+        {
+          "en": "<b class=\"hl\">If only</b> the suite <b class=\"hl\">were</b> available this weekend.",
+          "es": "Ojalá la suite estuviera disponible este fin de semana."
+        },
+        {
+          "en": "I <b class=\"hl\">wish</b> I <b class=\"hl\">knew</b> what the client wanted.",
+          "es": "Ojalá supiera lo que quiere el cliente."
+        },
+        {
+          "en": "They <b class=\"hl\">wish</b> they <b class=\"hl\">had stayed</b> another night.",
+          "es": "Ojalá se hubieran quedado otra noche."
+        },
+        {
+          "en": "I <b class=\"hl\">wish</b> people <b class=\"hl\">wouldn't</b> block the entrance.",
+          "es": "Ojalá la gente no bloqueara la entrada."
+        },
+        {
+          "en": "<b class=\"hl\">If only</b> we <b class=\"hl\">had</b> a pool.",
+          "es": "Ojalá tuviéramos piscina."
+        },
+        {
+          "en": "She <b class=\"hl\">wishes</b> the season <b class=\"hl\">weren't</b> so short.",
+          "es": "Ojalá la temporada no fuera tan corta."
+        },
+        {
+          "en": "I <b class=\"hl\">wish</b> I <b class=\"hl\">had studied</b> hospitality.",
+          "es": "Ojalá hubiera estudiado hostelería."
+        },
+        {
+          "en": "We <b class=\"hl\">wish</b> the lift <b class=\"hl\">would</b> get fixed.",
+          "es": "Ojalá arreglaran el ascensor."
+        },
+        {
+          "en": "<b class=\"hl\">If only</b> I <b class=\"hl\">had</b> more time to train them.",
+          "es": "Ojalá tuviera más tiempo para formarlos."
+        },
+        {
+          "en": "He <b class=\"hl\">wishes</b> he <b class=\"hl\">had taken</b> the manager role.",
+          "es": "Ojalá hubiera aceptado el puesto de gerente."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b10-s10q1",
+          "question": "1. I wish I ___ more time. (deseo presente → pasado)",
+          "options": [
+            "have",
+            "had"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s10q2",
+          "question": "2. I wish I ___ the sea-view room. (arrepentimiento pasado)",
+          "options": [
+            "had booked",
+            "booked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s10q3",
+          "question": "3. I wish it ___ stop raining. (queja / que otro cambie)",
+          "options": [
+            "would",
+            "had"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s10q4",
+          "question": "4. I wish I ___ better at this. (deseo presente, 'were')",
+          "options": [
+            "was",
+            "were"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b10-s10q5",
+          "question": "5. If only we ___ confirmed sooner. (arrepentimiento pasado)",
+          "options": [
+            "had",
+            "would have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s10q6",
+          "question": "6. 'I wish I had a pool' expresa un deseo sobre...",
+          "options": [
+            "el presente",
+            "el futuro seguro"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b10-s10q7",
+          "question": "7. I wish people ___ block the entrance. (queja de comportamiento)",
+          "options": [
+            "wouldn't",
+            "didn't have"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b10-s10",
+        "label": "<span class=\"badge\">tu turno</span>Escribe un deseo sobre el presente (wish + pasado) y un arrepentimiento sobre el pasado (wish + past perfect).",
+        "placeholder": "Ej: I wish we had more rooms. I wish I had confirmed earlier."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>wish + pasado</b> = presente irreal (I wish I had… = ojalá tuviera); <b>wish + past perfect</b> = pasado (I wish I had had… = ojalá hubiera tenido); <b>wish + would</b> = deseo de que OTRO cambie. Se usa 'were' para todas las personas."
         }
       ]
     }
