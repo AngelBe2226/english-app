@@ -55,6 +55,62 @@
         {
           "en": "He <span class=\"r-verb\">studied</span> hospitality management.",
           "es": "Estudió gestión hotelera."
+        },
+        {
+          "en": "We <span class=\"r-verb\">upgraded</span> their room for free.",
+          "es": "Les mejoramos la habitación gratis."
+        },
+        {
+          "en": "They <span class=\"r-verb\">arrived</span> late last night.",
+          "es": "Llegaron tarde anoche."
+        },
+        {
+          "en": "He has <span class=\"r-verb\">worked</span> here for years.",
+          "es": "Ha trabajado aquí durante años."
+        },
+        {
+          "en": "The team <span class=\"r-verb\">planned</span> the event carefully. (doble consonante)",
+          "es": "El equipo planeó el evento con cuidado."
+        },
+        {
+          "en": "She <span class=\"r-verb\">tried</span> to reach him twice. (y → i)",
+          "es": "Intentó localizarlo dos veces."
+        },
+        {
+          "en": "We <span class=\"r-verb\">painted</span> the lobby last week.",
+          "es": "Pintamos el vestíbulo la semana pasada."
+        },
+        {
+          "en": "The guest <span class=\"r-verb\">complained</span> about the noise.",
+          "es": "El huésped se quejó del ruido."
+        },
+        {
+          "en": "I have <span class=\"r-verb\">booked</span> your transfer.",
+          "es": "He reservado su traslado."
+        },
+        {
+          "en": "They <span class=\"r-verb\">stopped</span> at reception first. (doble consonante)",
+          "es": "Pararon primero en recepción."
+        },
+        {
+          "en": "She <span class=\"r-verb\">studied</span> hospitality in Madrid. (y → i)",
+          "es": "Estudió hostelería en Madrid."
+        },
+        {
+          "en": "We <span class=\"r-verb\">offered</span> a discount.",
+          "es": "Ofrecimos un descuento."
+        },
+        {
+          "en": "He <span class=\"r-verb\">handled</span> the complaint well.",
+          "es": "Gestionó bien la queja."
+        },
+        {
+          "en": "The chef <span class=\"r-verb\">prepared</span> a special menu.",
+          "es": "El chef preparó un menú especial."
+        },
+        {
+          "en": "They have <span class=\"r-verb\">renovated</span> the whole floor.",
+          "es": "Han renovado toda la planta."
         }
       ],
       "tables": [
@@ -120,6 +176,51 @@
             "arriveed"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b11-s1q4",
+          "question": "4. She ___ the booking yesterday. (confirm, pasado regular)",
+          "options": [
+            "confirmed",
+            "confirm"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s1q5",
+          "question": "5. We ___ the event. (plan → doble consonante)",
+          "options": [
+            "planed",
+            "planned"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s1q6",
+          "question": "6. She ___ to call him. (try → y+i)",
+          "options": [
+            "tryed",
+            "tried"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s1q7",
+          "question": "7. They ___ at reception. (stop → doble consonante)",
+          "options": [
+            "stopped",
+            "stoped"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s1q8",
+          "question": "8. Los verbos regulares forman pasado y participio con...",
+          "options": [
+            "-ed",
+            "cambio de vocal"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -179,6 +280,62 @@
         {
           "en": "We <span class=\"r-verb\">put</span> them in room 204.",
           "es": "Los pusimos en la habitación 204."
+        },
+        {
+          "en": "<b>-ought / -aught:</b> buy-bought-bought, think-thought-thought, catch-caught-caught, teach-taught-taught",
+          "es": "Grupo que termina en -ought/-aught en pasado y participio."
+        },
+        {
+          "en": "<b>i → a → u:</b> begin-began-begun, sing-sang-sung, drink-drank-drunk",
+          "es": "Cambio de vocal i → a → u."
+        },
+        {
+          "en": "<b>Igual base y participio:</b> come-came-come, become-became-become, run-ran-run",
+          "es": "La base y el participio coinciden."
+        },
+        {
+          "en": "<b>-ew → -own:</b> grow-grew-grown, know-knew-known, throw-threw-thrown, blow-blew-blown",
+          "es": "Grupo -ew en pasado, -own en participio."
+        },
+        {
+          "en": "<b>-d → -t:</b> build-built-built, spend-spent-spent, send-sent-sent, lend-lent-lent",
+          "es": "La -d final se convierte en -t."
+        },
+        {
+          "en": "<b>Totalmente irregulares:</b> go-went-gone, be-was/were-been, do-did-done, have-had-had",
+          "es": "Los más frecuentes e irregulares."
+        },
+        {
+          "en": "<b>-ought (pensar/traer):</b> bring-brought-brought, seek-sought-sought, fight-fought-fought",
+          "es": "Otro grupo -ought."
+        },
+        {
+          "en": "<b>-old:</b> tell-told-told, sell-sold-sold, hold-held-held",
+          "es": "Grupo que hace -old/-eld."
+        },
+        {
+          "en": "<b>Vocal i → o → o:</b> win-won-won, get-got-got(ten), forget-forgot-forgotten",
+          "es": "Cambio i → o."
+        },
+        {
+          "en": "<b>-ake → -ook → -aken:</b> take-took-taken, shake-shook-shaken, mistake-mistook-mistaken",
+          "es": "Grupo -ake."
+        },
+        {
+          "en": "<b>-ee → -aw → -een:</b> see-saw-seen; y foresee-foresaw-foreseen",
+          "es": "El verbo see y derivados."
+        },
+        {
+          "en": "<b>-eak → -oke → -oken:</b> speak-spoke-spoken, break-broke-broken, wake-woke-woken",
+          "es": "Grupo -eak/-oke/-oken."
+        },
+        {
+          "en": "<b>-eal → -ole → -olen:</b> steal-stole-stolen; freeze-froze-frozen (similar)",
+          "es": "Grupo -ole/-olen."
+        },
+        {
+          "en": "<b>-ay → -aid:</b> pay-paid-paid, say-said-said, lay-laid-laid",
+          "es": "Grupo -ay → -aid."
         }
       ],
       "tables": [
@@ -234,6 +391,51 @@
             "cutted"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b11-s2q4",
+          "question": "4. think - ___ - thought (pasado)",
+          "options": [
+            "thinked",
+            "thought"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s2q5",
+          "question": "5. begin - began - ___ (participio, i→a→u)",
+          "options": [
+            "begun",
+            "began"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s2q6",
+          "question": "6. build - ___ - built (pasado, -d→-t)",
+          "options": [
+            "builded",
+            "built"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s2q7",
+          "question": "7. take - took - ___ (participio)",
+          "options": [
+            "taken",
+            "took"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s2q8",
+          "question": "8. pay - ___ - paid (pasado)",
+          "options": [
+            "payed",
+            "paid"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -293,6 +495,62 @@
         {
           "en": "<span class=\"r-verb\">Have</span> you been here before?",
           "es": "¿Has estado aquí antes?"
+        },
+        {
+          "en": "<span class=\"r-verb\">Does</span> she work weekends? (auxiliar) vs. She <span class=\"r-verb\">does</span> yoga. (principal)",
+          "es": "«Does» auxiliar en preguntas vs. «does» como 'hacer'."
+        },
+        {
+          "en": "We <span class=\"r-verb\">have</span> finished. (auxiliar) vs. We <span class=\"r-verb\">have</span> two suites. (principal: tener)",
+          "es": "«Have» auxiliar vs. «have» como 'tener'."
+        },
+        {
+          "en": "You <span class=\"r-verb\">are</span> booked in. (auxiliar pasivo) vs. You <span class=\"r-verb\">are</span> our guest. (principal)",
+          "es": "«Are» auxiliar vs. verbo principal."
+        },
+        {
+          "en": "<span class=\"r-verb\">Did</span> you enjoy it? (auxiliar) vs. I <span class=\"r-verb\">did</span> my best. (principal: hacer)",
+          "es": "«Did» auxiliar vs. principal."
+        },
+        {
+          "en": "She <span class=\"r-verb\">will</span> call you. (auxiliar futuro)",
+          "es": "«Will» auxiliar de futuro."
+        },
+        {
+          "en": "<span class=\"r-verb\">Have</span> you paid? (auxiliar) — Yes, I <span class=\"r-verb\">have</span>. (respuesta corta)",
+          "es": "«Have» en respuestas cortas."
+        },
+        {
+          "en": "I <span class=\"r-verb\">don't</span> know. (auxiliar negativo)",
+          "es": "«Don't» auxiliar en negativas."
+        },
+        {
+          "en": "He <span class=\"r-verb\">was</span> checking in. (auxiliar continuo pasado)",
+          "es": "«Was» auxiliar de pasado continuo."
+        },
+        {
+          "en": "They <span class=\"r-verb\">haven't</span> confirmed yet. (auxiliar perfecto)",
+          "es": "«Haven't» auxiliar de perfecto."
+        },
+        {
+          "en": "<span class=\"r-verb\">Do</span> you need help? — No, I <span class=\"r-verb\">don't</span>. (respuesta corta)",
+          "es": "«Do/don't» en respuestas cortas."
+        },
+        {
+          "en": "The room <span class=\"r-verb\">is</span> being cleaned. (auxiliar pasivo continuo)",
+          "es": "«Is» auxiliar en pasiva continua."
+        },
+        {
+          "en": "She <span class=\"r-verb\">has</span> been working all day. (auxiliar perfecto continuo)",
+          "es": "«Has» auxiliar de perfecto continuo."
+        },
+        {
+          "en": "We <span class=\"r-verb\">didn't</span> receive it. (auxiliar negativo pasado)",
+          "es": "«Didn't» auxiliar negativo en pasado."
+        },
+        {
+          "en": "<span class=\"r-verb\">Are</span> they staying? — Yes, they <span class=\"r-verb\">are</span>. (respuesta corta)",
+          "es": "«Are» en respuestas cortas."
         }
       ],
       "tables": [],
@@ -320,6 +578,51 @@
           "question": "3. He <span class=\"blank\">___</span> his homework every day. (hace — verbo principal \"do\")",
           "options": [
             "does",
+            "is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s3q4",
+          "question": "4. ___ you understand? (auxiliar de pregunta)",
+          "options": [
+            "Do",
+            "Are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s3q5",
+          "question": "5. 'I am a manager' — aquí 'am' es...",
+          "options": [
+            "auxiliar",
+            "verbo principal"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s3q6",
+          "question": "6. Have you paid? — Yes, I ___. (respuesta corta)",
+          "options": [
+            "have",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s3q7",
+          "question": "7. 'I do my best' — aquí 'do' es...",
+          "options": [
+            "auxiliar",
+            "verbo principal"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s3q8",
+          "question": "8. She ___ finished. (auxiliar de perfecto)",
+          "options": [
+            "has",
             "is"
           ],
           "correctIndex": 0
@@ -382,6 +685,58 @@
         {
           "en": "Let's <span class=\"r-verb\">set up</span> a meeting.",
           "es": "Organicemos una reunión."
+        },
+        {
+          "en": "Please <span class=\"r-verb\">fill in</span> this form. / <span class=\"r-verb\">Fill</span> it <span class=\"r-verb\">in</span>. (separable)",
+          "es": "Rellene este formulario. / Rellénelo."
+        },
+        {
+          "en": "We need to <span class=\"r-verb\">sort out</span> the overbooking.",
+          "es": "Tenemos que resolver la sobreventa."
+        },
+        {
+          "en": "Reception will <span class=\"r-verb\">check</span> you <span class=\"r-verb\">in</span> shortly.",
+          "es": "Recepción le registrará en breve."
+        },
+        {
+          "en": "The porter will <span class=\"r-verb\">bring up</span> your bags.",
+          "es": "El mozo subirá sus maletas."
+        },
+        {
+          "en": "She <span class=\"r-verb\">looks after</span> the VIP guests. (inseparable)",
+          "es": "Ella se ocupa de los huéspedes VIP."
+        },
+        {
+          "en": "Can you <span class=\"r-verb\">write down</span> the address?",
+          "es": "¿Puedes apuntar la dirección?"
+        },
+        {
+          "en": "The offer <span class=\"r-verb\">ran out</span> yesterday.",
+          "es": "La oferta se agotó ayer."
+        },
+        {
+          "en": "I'll <span class=\"r-verb\">get back to</span> you by noon.",
+          "es": "Le responderé antes del mediodía."
+        },
+        {
+          "en": "Please <span class=\"r-verb\">turn off</span> the lights when you leave.",
+          "es": "Apague las luces al salir."
+        },
+        {
+          "en": "We <span class=\"r-verb\">set up</span> the conference room early.",
+          "es": "Preparamos la sala de conferencias temprano."
+        },
+        {
+          "en": "He <span class=\"r-verb\">dropped off</span> the keys at reception.",
+          "es": "Dejó las llaves en recepción."
+        },
+        {
+          "en": "Let's <span class=\"r-verb\">go over</span> the details again. (inseparable)",
+          "es": "Repasemos los detalles otra vez."
+        },
+        {
+          "en": "The meeting was <span class=\"r-verb\">put off</span> until Friday.",
+          "es": "La reunión se aplazó hasta el viernes."
         }
       ],
       "tables": [
@@ -447,6 +802,51 @@
             "follow on"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b11-s4q4",
+          "question": "4. Turn ___ off. (pronombre en medio, apagarla)",
+          "options": [
+            "it",
+            "off it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s4q5",
+          "question": "5. We'll ___ the issue. (investigar, inseparable)",
+          "options": [
+            "look into",
+            "look it into"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s4q6",
+          "question": "6. The offer ___ yesterday. (agotarse)",
+          "options": [
+            "ran out",
+            "run out"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s4q7",
+          "question": "7. We had to ___ the event. (cancelar)",
+          "options": [
+            "call off",
+            "call in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s4q8",
+          "question": "8. She ___ the VIP guests. (ocuparse de, inseparable)",
+          "options": [
+            "looks after",
+            "looks the guests after"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -506,6 +906,66 @@
         {
           "en": "I suggested <span class=\"r-verb\">booking</span> early.",
           "es": "Sugerí reservar pronto."
+        },
+        {
+          "en": "She <span class=\"r-verb\">avoids booking</span> during peak season. (+ -ing)",
+          "es": "Evita reservar en temporada alta."
+        },
+        {
+          "en": "We <span class=\"r-verb\">agreed to lower</span> the price. (+ to)",
+          "es": "Acordamos bajar el precio."
+        },
+        {
+          "en": "He <span class=\"r-verb\">suggested trying</span> the rooftop bar. (+ -ing)",
+          "es": "Sugirió probar el bar de la azotea."
+        },
+        {
+          "en": "They <span class=\"r-verb\">offered to help</span> with the luggage. (+ to)",
+          "es": "Se ofrecieron a ayudar con el equipaje."
+        },
+        {
+          "en": "I <span class=\"r-verb\">don't mind waiting</span>. (+ -ing)",
+          "es": "No me importa esperar."
+        },
+        {
+          "en": "She <span class=\"r-verb\">refused to pay</span> the extra fee. (+ to)",
+          "es": "Se negó a pagar el cargo extra."
+        },
+        {
+          "en": "We <span class=\"r-verb\">finished cleaning</span> the suite. (+ -ing)",
+          "es": "Terminamos de limpiar la suite."
+        },
+        {
+          "en": "He <span class=\"r-verb\">managed to fix</span> it in time. (+ to)",
+          "es": "Consiguió arreglarlo a tiempo."
+        },
+        {
+          "en": "Guests <span class=\"r-verb\">enjoy relaxing</span> by the pool. (+ -ing)",
+          "es": "A los huéspedes les gusta relajarse junto a la piscina."
+        },
+        {
+          "en": "I <span class=\"r-verb\">hope to see</span> you again. (+ to)",
+          "es": "Espero volver a verle."
+        },
+        {
+          "en": "She <span class=\"r-verb\">keeps forgetting</span> the code. (+ -ing)",
+          "es": "No para de olvidar el código."
+        },
+        {
+          "en": "We <span class=\"r-verb\">plan to expand</span> next year. (+ to)",
+          "es": "Planeamos expandirnos el año que viene."
+        },
+        {
+          "en": "Would you <span class=\"r-verb\">consider upgrading</span>? (+ -ing)",
+          "es": "¿Consideraría mejorar la categoría?"
+        },
+        {
+          "en": "He <span class=\"r-verb\">promised to call</span> back. (+ to)",
+          "es": "Prometió devolver la llamada."
+        },
+        {
+          "en": "They <span class=\"r-verb\">miss having</span> a sea view. (+ -ing)",
+          "es": "Echan de menos tener vistas al mar."
         }
       ],
       "tables": [],
@@ -536,6 +996,51 @@
             "to drink"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b11-s5q4",
+          "question": "4. She enjoys ___ with clients. (enjoy + -ing)",
+          "options": [
+            "to negotiate",
+            "negotiating"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s5q5",
+          "question": "5. We decided ___ the meeting. (decide + to)",
+          "options": [
+            "to postpone",
+            "postponing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s5q6",
+          "question": "6. I don't mind ___. (mind + -ing)",
+          "options": [
+            "to wait",
+            "waiting"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s5q7",
+          "question": "7. He managed ___ it in time. (manage + to)",
+          "options": [
+            "fixing",
+            "to fix"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s5q8",
+          "question": "8. They offered ___ with the bags. (offer + to)",
+          "options": [
+            "to help",
+            "helping"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -547,6 +1052,666 @@
         {
           "type": "tip",
           "text": "Tras preposición siempre va <b>-ing</b> (good at <i>closing</i>). Verbos como <i>remember/stop</i> cambian de sentido según lleven gerundio o infinitivo."
+        }
+      ]
+    },
+    {
+      "idx": "11.6",
+      "title": "Verbos de estado vs. de acción",
+      "level": "B1",
+      "rule": "Los <b>state verbs</b> describen estados, no acciones, y normalmente <b>no se usan en continuo</b>: emoción (love, hate, want, prefer), pensamiento (know, believe, understand, mean), sentidos (see, hear, smell, taste), pertenencia (have, own, belong). Se dice 'I <b>know</b>' (no 'I am knowing'). Algunos cambian de significado: 'I'm <b>having</b> lunch' (acción = comer) vs 'I <b>have</b> a car' (estado = poseer); 'I'm <b>thinking</b> about it' (proceso) vs 'I <b>think</b> so' (opinión).",
+      "examples": [
+        {
+          "en": "I <b class=\"hl\">know</b> the answer. (no 'am knowing')",
+          "es": "Sé la respuesta."
+        },
+        {
+          "en": "She <b class=\"hl\">wants</b> a quiet room.",
+          "es": "Quiere una habitación tranquila."
+        },
+        {
+          "en": "This suite <b class=\"hl\">belongs</b> to the honeymoon package.",
+          "es": "Esta suite pertenece al paquete de luna de miel."
+        },
+        {
+          "en": "I <b class=\"hl\">understand</b> your concern.",
+          "es": "Entiendo su preocupación."
+        },
+        {
+          "en": "The soup <b class=\"hl\">tastes</b> delicious. (estado, sentido)",
+          "es": "La sopa sabe deliciosa."
+        },
+        {
+          "en": "We <b class=\"hl\">'re having</b> lunch now. (acción = comer)",
+          "es": "Estamos comiendo ahora."
+        },
+        {
+          "en": "She <b class=\"hl\">has</b> three properties. (estado = poseer)",
+          "es": "Tiene tres propiedades."
+        },
+        {
+          "en": "I <b class=\"hl\">believe</b> the rate is fair.",
+          "es": "Creo que la tarifa es justa."
+        },
+        {
+          "en": "He <b class=\"hl\">prefers</b> the sea view.",
+          "es": "Prefiere la vista al mar."
+        },
+        {
+          "en": "I'm <b class=\"hl\">thinking</b> about extending my stay. (proceso)",
+          "es": "Estoy pensando en alargar mi estancia."
+        },
+        {
+          "en": "This room <b class=\"hl\">smells</b> fresh.",
+          "es": "Esta habitación huele a fresco."
+        },
+        {
+          "en": "We <b class=\"hl\">love</b> welcoming return guests.",
+          "es": "Nos encanta recibir a los huéspedes que repiten."
+        },
+        {
+          "en": "The chef is <b class=\"hl\">tasting</b> the sauce. (acción)",
+          "es": "El chef está probando la salsa."
+        },
+        {
+          "en": "I <b class=\"hl\">see</b> what you mean. (estado = entender)",
+          "es": "Ya veo lo que quieres decir."
+        },
+        {
+          "en": "They <b class=\"hl\">own</b> the whole building.",
+          "es": "Son dueños de todo el edificio."
+        },
+        {
+          "en": "She <b class=\"hl\">seems</b> happy with the service.",
+          "es": "Parece contenta con el servicio."
+        },
+        {
+          "en": "I <b class=\"hl\">need</b> your signature here.",
+          "es": "Necesito su firma aquí."
+        },
+        {
+          "en": "We're <b class=\"hl\">seeing</b> the client tomorrow. (acción = reunirse)",
+          "es": "Nos reunimos con el cliente mañana."
+        },
+        {
+          "en": "This wine <b class=\"hl\">tastes</b> expensive.",
+          "es": "Este vino sabe caro."
+        },
+        {
+          "en": "He <b class=\"hl\">doesn't recognise</b> the name.",
+          "es": "No reconoce el nombre."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b11-s6q1",
+          "question": "1. I ___ the answer. (state verb, no continuo)",
+          "options": [
+            "am knowing",
+            "know"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s6q2",
+          "question": "2. She ___ a quiet room. (querer, estado)",
+          "options": [
+            "wants",
+            "is wanting"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s6q3",
+          "question": "3. We ___ lunch right now. (acción = comer, sí continuo)",
+          "options": [
+            "have",
+            "are having"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s6q4",
+          "question": "4. This soup ___ great. (sentido, estado)",
+          "options": [
+            "is tasting",
+            "tastes"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s6q5",
+          "question": "5. I'm ___ about extending my stay. (proceso, sí continuo)",
+          "options": [
+            "thinking",
+            "think"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s6q6",
+          "question": "6. She ___ three hotels. (poseer, estado)",
+          "options": [
+            "is having",
+            "has"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s6q7",
+          "question": "7. ¿Cuál es un state verb?",
+          "options": [
+            "run",
+            "believe"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b11-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con un state verb (know, want, have=tener) y otra con 'have' o 'think' como acción en continuo.",
+        "placeholder": "Ej: I know the area. We're having dinner now."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Algunos verbos cambian de sentido: 'have' (tener = estado / tomar = acción), 'think' (opinar = estado / reflexionar = acción), 'see' (ver = estado / reunirse = acción). Solo el sentido de acción admite continuo."
+        }
+      ]
+    },
+    {
+      "idx": "11.7",
+      "title": "Gerundio o infinitivo con cambio de significado",
+      "level": "B2",
+      "rule": "Algunos verbos aceptan gerundio o infinitivo, pero <b>cambia el significado</b>. <b>stop + -ing</b> = dejar de hacer algo / <b>stop + to</b> = pararse para hacer algo. <b>remember + -ing</b> = recordar algo ya hecho / <b>remember + to</b> = acordarse de hacer algo. <b>try + -ing</b> = probar a / <b>try + to</b> = esforzarse por. <b>forget</b>, <b>regret</b> y <b>go on</b> siguen el mismo patrón: -ing mira al pasado, 'to' mira al futuro o al propósito.",
+      "examples": [
+        {
+          "en": "She <b class=\"hl\">stopped taking</b> bookings by phone. (dejó de)",
+          "es": "Dejó de aceptar reservas por teléfono."
+        },
+        {
+          "en": "He <b class=\"hl\">stopped to check</b> the room. (se paró para)",
+          "es": "Se paró para revisar la habitación."
+        },
+        {
+          "en": "I <b class=\"hl\">remember locking</b> the office. (recuerdo haberlo hecho)",
+          "es": "Recuerdo haber cerrado la oficina."
+        },
+        {
+          "en": "Please <b class=\"hl\">remember to lock</b> the office. (acuérdate de hacerlo)",
+          "es": "Por favor, acuérdate de cerrar la oficina."
+        },
+        {
+          "en": "<b class=\"hl\">Try adding</b> a welcome note. (prueba a)",
+          "es": "Prueba a añadir una nota de bienvenida."
+        },
+        {
+          "en": "We <b class=\"hl\">tried to reach</b> the guest all day. (nos esforzamos por)",
+          "es": "Intentamos localizar al huésped todo el día."
+        },
+        {
+          "en": "I <b class=\"hl\">forgot sending</b> the invoice. (olvidé que lo hice)",
+          "es": "Olvidé que había enviado la factura."
+        },
+        {
+          "en": "Don't <b class=\"hl\">forget to send</b> the invoice. (no olvides hacerlo)",
+          "es": "No olvides enviar la factura."
+        },
+        {
+          "en": "We <b class=\"hl\">regret to inform</b> you the suite is unavailable. (formal, dar mala noticia)",
+          "es": "Lamentamos informarle de que la suite no está disponible."
+        },
+        {
+          "en": "She <b class=\"hl\">regrets not booking</b> earlier. (se arrepiente de algo pasado)",
+          "es": "Se arrepiente de no haber reservado antes."
+        },
+        {
+          "en": "He <b class=\"hl\">went on talking</b> for an hour. (siguió con lo mismo)",
+          "es": "Siguió hablando durante una hora."
+        },
+        {
+          "en": "After the tour, she <b class=\"hl\">went on to describe</b> the spa. (pasó a otra cosa)",
+          "es": "Tras el tour, pasó a describir el spa."
+        },
+        {
+          "en": "I <b class=\"hl\">remember meeting</b> him at the fair.",
+          "es": "Recuerdo haberlo conocido en la feria."
+        },
+        {
+          "en": "<b class=\"hl\">Remember to confirm</b> before six.",
+          "es": "Acuérdate de confirmar antes de las seis."
+        },
+        {
+          "en": "<b class=\"hl\">Try restarting</b> the router. (prueba a)",
+          "es": "Prueba a reiniciar el router."
+        },
+        {
+          "en": "We <b class=\"hl\">stopped offering</b> free parking. (dejamos de)",
+          "es": "Dejamos de ofrecer aparcamiento gratis."
+        },
+        {
+          "en": "He <b class=\"hl\">stopped to help</b> a guest with directions. (se detuvo para)",
+          "es": "Se detuvo para ayudar a un huésped con las indicaciones."
+        },
+        {
+          "en": "Don't <b class=\"hl\">forget to bring</b> your ID.",
+          "es": "No olvides traer tu identificación."
+        },
+        {
+          "en": "I <b class=\"hl\">regret telling</b> her the wrong price. (me arrepiento)",
+          "es": "Me arrepiento de haberle dado el precio equivocado."
+        },
+        {
+          "en": "She <b class=\"hl\">tried lowering</b> the rate, but it didn't help. (probó a)",
+          "es": "Probó a bajar la tarifa, pero no sirvió."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b11-s7q1",
+          "question": "1. He stopped ___ the room. (se paró PARA revisar)",
+          "options": [
+            "checking",
+            "to check"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s7q2",
+          "question": "2. She stopped ___ phone bookings. (DEJÓ de)",
+          "options": [
+            "taking",
+            "to take"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s7q3",
+          "question": "3. Remember ___ the office. (acuérdate de hacerlo — futuro)",
+          "options": [
+            "locking",
+            "to lock"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s7q4",
+          "question": "4. I remember ___ the office. (recuerdo haberlo hecho — pasado)",
+          "options": [
+            "locking",
+            "to lock"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s7q5",
+          "question": "5. Try ___ the router. (prueba a, experimento)",
+          "options": [
+            "restarting",
+            "to restart"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s7q6",
+          "question": "6. We tried ___ the guest all day. (nos esforzamos por)",
+          "options": [
+            "reaching",
+            "to reach"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s7q7",
+          "question": "7. Don't forget ___ the invoice. (no olvides hacerlo)",
+          "options": [
+            "sending",
+            "to send"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b11-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases con <b>stop</b> o <b>remember</b> mostrando los dos significados (+ -ing y + to).",
+        "placeholder": "Ej: Remember to call. I remember calling. He stopped to rest. He stopped working."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Regla mnemotécnica: <b>-ing</b> mira al <b>pasado</b> o a la acción en sí (remember doing = ya hecho); <b>to</b> mira al <b>futuro</b> o al propósito (remember to do = tarea pendiente; stop to do = pararse con un fin)."
+        }
+      ]
+    },
+    {
+      "idx": "11.8",
+      "title": "Verbos causativos y de percepción",
+      "level": "B2",
+      "rule": "Tras ciertos verbos, el segundo verbo va en <b>infinitivo SIN 'to'</b> o en <b>-ing</b>. Causativos: <b>make</b> y <b>let</b> + objeto + <b>infinitivo sin to</b> (make him wait, let her go); pero <b>get</b> + objeto + <b>to</b> (get him to sign). <b>help</b> admite ambas (help me carry / to carry). De percepción (see, hear, watch, feel): + objeto + infinitivo sin to (acción completa: I saw her leave) o + -ing (acción en curso: I saw her leaving). No pongas 'to' tras make/let/see/hear.",
+      "examples": [
+        {
+          "en": "The manager <b class=\"hl\">made</b> us <b class=\"hl\">wait</b> ten minutes.",
+          "es": "El gerente nos hizo esperar diez minutos."
+        },
+        {
+          "en": "We <b class=\"hl\">let</b> guests <b class=\"hl\">check in</b> early when possible.",
+          "es": "Dejamos que los huéspedes se registren antes cuando se puede."
+        },
+        {
+          "en": "I <b class=\"hl\">saw</b> the porter <b class=\"hl\">carry</b> the bags up.",
+          "es": "Vi al mozo subir las maletas."
+        },
+        {
+          "en": "She <b class=\"hl\">heard</b> someone <b class=\"hl\">knocking</b> at the door. (en curso)",
+          "es": "Oyó a alguien llamando a la puerta."
+        },
+        {
+          "en": "Can you <b class=\"hl\">get</b> the client <b class=\"hl\">to sign</b> today? (get + to)",
+          "es": "¿Puedes conseguir que el cliente firme hoy?"
+        },
+        {
+          "en": "Let me <b class=\"hl\">help</b> you <b class=\"hl\">carry</b> that.",
+          "es": "Deja que te ayude a llevar eso."
+        },
+        {
+          "en": "Don't <b class=\"hl\">let</b> the guest <b class=\"hl\">leave</b> without a receipt.",
+          "es": "No dejes que el huésped se vaya sin recibo."
+        },
+        {
+          "en": "I <b class=\"hl\">watched</b> the team <b class=\"hl\">set up</b> the hall.",
+          "es": "Vi al equipo montar el salón."
+        },
+        {
+          "en": "The noise <b class=\"hl\">made</b> her <b class=\"hl\">complain</b>.",
+          "es": "El ruido hizo que se quejara."
+        },
+        {
+          "en": "We <b class=\"hl\">felt</b> the building <b class=\"hl\">shake</b> slightly.",
+          "es": "Notamos el edificio temblar ligeramente."
+        },
+        {
+          "en": "He <b class=\"hl\">let</b> me <b class=\"hl\">use</b> the office phone.",
+          "es": "Me dejó usar el teléfono de la oficina."
+        },
+        {
+          "en": "I <b class=\"hl\">saw</b> her <b class=\"hl\">talking</b> to the concierge. (en curso)",
+          "es": "La vi hablando con el conserje."
+        },
+        {
+          "en": "The offer <b class=\"hl\">made</b> them <b class=\"hl\">book</b> at once.",
+          "es": "La oferta hizo que reservaran enseguida."
+        },
+        {
+          "en": "We <b class=\"hl\">helped</b> the guests <b class=\"hl\">find</b> their room.",
+          "es": "Ayudamos a los huéspedes a encontrar su habitación."
+        },
+        {
+          "en": "She <b class=\"hl\">had</b> the porter <b class=\"hl\">bring</b> up the luggage. (have causativo)",
+          "es": "Hizo que el mozo subiera el equipaje."
+        },
+        {
+          "en": "I <b class=\"hl\">heard</b> the manager <b class=\"hl\">announce</b> the change. (acción completa)",
+          "es": "Oí al gerente anunciar el cambio."
+        },
+        {
+          "en": "Don't <b class=\"hl\">make</b> the client <b class=\"hl\">repeat</b> the story.",
+          "es": "No hagas que el cliente repita la historia."
+        },
+        {
+          "en": "We <b class=\"hl\">let</b> them <b class=\"hl\">stay</b> an extra hour.",
+          "es": "Les dejamos quedarse una hora más."
+        },
+        {
+          "en": "I <b class=\"hl\">watched</b> the sun <b class=\"hl\">setting</b> from the terrace. (en curso)",
+          "es": "Vi la puesta de sol desde la terraza."
+        },
+        {
+          "en": "She <b class=\"hl\">got</b> the team <b class=\"hl\">to finish</b> early. (get + to)",
+          "es": "Consiguió que el equipo terminara antes."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b11-s8q1",
+          "question": "1. The manager made us ___. (make + infinitivo sin 'to')",
+          "options": [
+            "to wait",
+            "wait"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s8q2",
+          "question": "2. We let guests ___ early. (let + sin 'to')",
+          "options": [
+            "check in",
+            "to check in"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s8q3",
+          "question": "3. Can you get him ___ today? (get + to)",
+          "options": [
+            "sign",
+            "to sign"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s8q4",
+          "question": "4. I saw her ___. (acción completa, sin 'to')",
+          "options": [
+            "leave",
+            "to leave"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s8q5",
+          "question": "5. She heard someone ___. (acción en curso)",
+          "options": [
+            "knock to",
+            "knocking"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b11-s8q6",
+          "question": "6. Tras 'make' y 'let' el verbo va...",
+          "options": [
+            "en infinitivo sin 'to'",
+            "con 'to'"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s8q7",
+          "question": "7. Let me help you ___ that. (help + sin/con 'to', ambas valen)",
+          "options": [
+            "carry",
+            "carried"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b11-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>make/let + infinitivo sin to</b> y otra con un verbo de percepción (see/hear).",
+        "placeholder": "Ej: We let guests check in early. I saw the porter carry the bags."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Nunca pongas 'to' tras <b>make</b>, <b>let</b>, <b>see</b>, <b>hear</b>, <b>watch</b>, <b>feel</b>: 'made him <b>wait</b>', 'saw her <b>leave</b>'. Excepción: <b>get</b> sí lleva 'to' (get him to sign), y la pasiva de make sí ('was made <b>to</b> wait')."
+        }
+      ]
+    },
+    {
+      "idx": "11.9",
+      "title": "Phrasal verbs por partícula (up / off / out / down)",
+      "level": "B1",
+      "rule": "Agrupar phrasal verbs por su <b>partícula</b> ayuda a intuir el sentido. <b>up</b> a menudo = completar o aumentar (fill up, set up, book up, speak up). <b>off</b> = separación o cancelación (call off, take off, drop off, put off). <b>out</b> = agotar, resolver o salir (run out, sort out, check out, hand out). <b>down</b> = reducir o anotar (write down, turn down, calm down, break down). No es una regla exacta, pero el patrón facilita recordarlos.",
+      "examples": [
+        {
+          "en": "The hotel is fully <b class=\"hl\">booked up</b> for August.",
+          "es": "El hotel está completo para agosto."
+        },
+        {
+          "en": "Could you <b class=\"hl\">speak up</b>? The line is bad.",
+          "es": "¿Podría hablar más alto? La línea está mal."
+        },
+        {
+          "en": "We had to <b class=\"hl\">call off</b> the outdoor event.",
+          "es": "Tuvimos que cancelar el evento al aire libre."
+        },
+        {
+          "en": "The flight will <b class=\"hl\">take off</b> at dawn.",
+          "es": "El vuelo despegará al amanecer."
+        },
+        {
+          "en": "We've <b class=\"hl\">run out</b> of welcome gifts.",
+          "es": "Nos hemos quedado sin regalos de bienvenida."
+        },
+        {
+          "en": "I'll <b class=\"hl\">sort out</b> the double booking.",
+          "es": "Resolveré la doble reserva."
+        },
+        {
+          "en": "Guests <b class=\"hl\">check out</b> by noon.",
+          "es": "Los huéspedes hacen el check-out antes del mediodía."
+        },
+        {
+          "en": "Please <b class=\"hl\">write down</b> the reference number.",
+          "es": "Por favor, apunte el número de referencia."
+        },
+        {
+          "en": "We had to <b class=\"hl\">turn down</b> the request.",
+          "es": "Tuvimos que rechazar la petición."
+        },
+        {
+          "en": "Reception will <b class=\"hl\">set up</b> the meeting room.",
+          "es": "Recepción preparará la sala de reuniones."
+        },
+        {
+          "en": "The porter will <b class=\"hl\">drop off</b> your bags.",
+          "es": "El mozo dejará sus maletas."
+        },
+        {
+          "en": "We <b class=\"hl\">handed out</b> maps to the group.",
+          "es": "Repartimos mapas al grupo."
+        },
+        {
+          "en": "The lift <b class=\"hl\">broke down</b> this morning.",
+          "es": "El ascensor se averió esta mañana."
+        },
+        {
+          "en": "Let's <b class=\"hl\">fill up</b> the minibars before arrival.",
+          "es": "Rellenemos los minibares antes de la llegada."
+        },
+        {
+          "en": "The manager <b class=\"hl\">put off</b> the meeting till Friday.",
+          "es": "El gerente aplazó la reunión hasta el viernes."
+        },
+        {
+          "en": "Please <b class=\"hl\">turn down</b> the music a little.",
+          "es": "Por favor, baje un poco la música."
+        },
+        {
+          "en": "We're <b class=\"hl\">booked up</b> this weekend.",
+          "es": "Estamos completos este fin de semana."
+        },
+        {
+          "en": "Help the guest <b class=\"hl\">calm down</b> after the mix-up.",
+          "es": "Ayuda al huésped a calmarse tras la confusión."
+        },
+        {
+          "en": "The offer <b class=\"hl\">ran out</b> at midnight.",
+          "es": "La oferta se agotó a medianoche."
+        },
+        {
+          "en": "Can you <b class=\"hl\">set up</b> the projector?",
+          "es": "¿Puedes preparar el proyector?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b11-s9q1",
+          "question": "1. The hotel is fully ___ for August. (completo — up)",
+          "options": [
+            "booked up",
+            "booked off"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s9q2",
+          "question": "2. We had to ___ the event. (cancelar — off)",
+          "options": [
+            "call off",
+            "call up"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s9q3",
+          "question": "3. We've ___ of towels. (agotarse — out)",
+          "options": [
+            "run out",
+            "run down"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s9q4",
+          "question": "4. Please ___ the number. (anotar — down)",
+          "options": [
+            "write down",
+            "write up"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s9q5",
+          "question": "5. We had to ___ the request. (rechazar — down)",
+          "options": [
+            "turn down",
+            "turn off"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s9q6",
+          "question": "6. Reception will ___ the room. (preparar — up)",
+          "options": [
+            "set up",
+            "set off"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b11-s9q7",
+          "question": "7. La partícula 'off' suele indicar...",
+          "options": [
+            "separación o cancelación",
+            "completar"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b11-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe cuatro frases, una con cada partícula: <b>up</b>, <b>off</b>, <b>out</b> y <b>down</b>.",
+        "placeholder": "Ej: We're booked up. Call it off. We ran out. Write it down."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "El patrón por partícula es orientativo, no absoluto: hay excepciones (look <b>up</b> = buscar, take <b>off</b> = despegar o quitarse). Úsalo como ayuda memorística, verificando siempre el significado real."
         }
       ]
     }
