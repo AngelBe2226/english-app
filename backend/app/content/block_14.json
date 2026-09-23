@@ -47,6 +47,54 @@
         {
           "en": "<b class=\"hl\">three</b> vs <b class=\"hl\">tree</b> — TH inicial, no T.",
           "es": "tres vs árbol."
+        },
+        {
+          "en": "<span class=\"r-verb\">ship</span> (barco) vs. <span class=\"r-verb\">sheep</span> (oveja) — /ɪ/ corta vs. /iː/ larga",
+          "es": "Un clásico: la vocal corta vs. larga cambia la palabra."
+        },
+        {
+          "en": "<span class=\"r-verb\">yellow</span> (amarillo) vs. <span class=\"r-verb\">jello</span> (gelatina) — Y vs. J",
+          "es": "La Y inglesa no suena como la J española."
+        },
+        {
+          "en": "<span class=\"r-verb\">this</span> (esto) vs. <span class=\"r-verb\">these</span> (estos) — TH sonora + vocal",
+          "es": "La TH sonora vibra; practica con la lengua entre los dientes."
+        },
+        {
+          "en": "<span class=\"r-verb\">hungry</span> (hambriento) vs. <span class=\"r-verb\">angry</span> (enfadado) — H aspirada vs. sin H",
+          "es": "La H inglesa se aspira; no es muda."
+        },
+        {
+          "en": "<span class=\"r-verb\">watch</span> (reloj/mirar) vs. <span class=\"r-verb\">wash</span> (lavar) — CH vs. SH",
+          "es": "CH y SH son sonidos distintos."
+        },
+        {
+          "en": "<span class=\"r-verb\">vest</span> (chaleco) vs. <span class=\"r-verb\">best</span> (mejor) — V vs. B",
+          "es": "La V se hace con los dientes en el labio inferior."
+        },
+        {
+          "en": "<span class=\"r-verb\">rice</span> (arroz) vs. <span class=\"r-verb\">lice</span> (piojos) — R vs. L",
+          "es": "La R inglesa no vibra como la española."
+        },
+        {
+          "en": "<span class=\"r-verb\">bath</span> (baño) vs. <span class=\"r-verb\">bass</span> (bajo) — TH sorda vs. S",
+          "es": "La TH sorda es suave, sin voz."
+        },
+        {
+          "en": "<span class=\"r-verb\">jam</span> (mermelada) vs. <span class=\"r-verb\">yam</span> (boniato) — J vs. Y",
+          "es": "La J inglesa suena como en 'jungle'."
+        },
+        {
+          "en": "<span class=\"r-verb\">measure</span> (medir) — sonido /ʒ/, raro en español",
+          "es": "El sonido /ʒ/ es como una 'll' suave y vibrada."
+        },
+        {
+          "en": "<span class=\"r-verb\">house</span> (casa) — la H se aspira claramente",
+          "es": "Aspira la H; no la conviertas en 'j' española."
+        },
+        {
+          "en": "<span class=\"r-verb\">village</span> (pueblo) — termina en /dʒ/",
+          "es": "La terminación -age suele sonar /ɪdʒ/."
         }
       ],
       "tables": [
@@ -81,6 +129,36 @@
               "V",
               "Dientes superiores tocan el labio inferior — nunca juntar los labios como en \"b\"",
               "very, voice, victory"
+            ],
+            [
+              "/v/ vs /b/",
+              "dientes en labio (v) vs labios juntos (b)",
+              "very / berry, vest / best"
+            ],
+            [
+              "/θ/ /ð/ (TH)",
+              "lengua entre los dientes",
+              "think, this, bath"
+            ],
+            [
+              "/h/ aspirada",
+              "soplo de aire, no muda",
+              "house, hungry, hotel"
+            ],
+            [
+              "/r/ vs /l/",
+              "R sin vibrar, L con la lengua arriba",
+              "rice / lice"
+            ],
+            [
+              "/j/ vs /dʒ/",
+              "Y suave vs J vibrada",
+              "yam / jam, yellow / jello"
+            ],
+            [
+              "/ʒ/",
+              "'ll' suave y vibrada",
+              "measure, pleasure, vision"
             ]
           ]
         }
@@ -110,6 +188,51 @@
           "options": [
             "No vibra, la lengua no toca el paladar",
             "Se pronuncia igual, solo cambia la ortografía"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s1q4",
+          "question": "4. 'Sheep' y 'ship' se diferencian en...",
+          "options": [
+            "la vocal (larga vs corta)",
+            "la consonante final"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s1q5",
+          "question": "5. En 'house', la H es...",
+          "options": [
+            "muda",
+            "aspirada"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s1q6",
+          "question": "6. 'Very' vs 'berry' se diferencian en...",
+          "options": [
+            "V vs B",
+            "la vocal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s1q7",
+          "question": "7. El sonido TH en 'think' es...",
+          "options": [
+            "como S",
+            "con la lengua entre los dientes"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s1q8",
+          "question": "8. 'Rice' vs 'lice' se diferencian en...",
+          "options": [
+            "R vs L",
+            "la vocal"
           ],
           "correctIndex": 0
         }
@@ -163,6 +286,54 @@
         {
           "en": "<b class=\"hl\">cheap</b> vs <b class=\"hl\">chip</b>.",
           "es": "barato vs patata frita."
+        },
+        {
+          "en": "<span class=\"r-verb\">full</span> (lleno, /ʊ/) vs. <span class=\"r-verb\">fool</span> (tonto, /uː/)",
+          "es": "Vocal corta vs larga: cambian de significado."
+        },
+        {
+          "en": "<span class=\"r-verb\">bit</span> (poco, /ɪ/) vs. <span class=\"r-verb\">beat</span> (golpear, /iː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">cot</span> (cuna, /ɒ/) vs. <span class=\"r-verb\">caught</span> (atrapó, /ɔː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">pull</span> (tirar, /ʊ/) vs. <span class=\"r-verb\">pool</span> (piscina, /uː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">live</span> (vivir, /ɪ/) vs. <span class=\"r-verb\">leave</span> (irse, /iː/)",
+          "es": "Corta vs larga: muy confundidas."
+        },
+        {
+          "en": "<span class=\"r-verb\">cut</span> (cortar, /ʌ/) vs. <span class=\"r-verb\">cart</span> (carro, /ɑː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">fill</span> (llenar, /ɪ/) vs. <span class=\"r-verb\">feel</span> (sentir, /iː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">hut</span> (cabaña, /ʌ/) vs. <span class=\"r-verb\">heart</span> (corazón, /ɑː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">chip</span> (patata, /ɪ/) vs. <span class=\"r-verb\">cheap</span> (barato, /iː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">wick</span> (mecha, /ɪ/) vs. <span class=\"r-verb\">week</span> (semana, /iː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">luck</span> (suerte, /ʌ/) vs. <span class=\"r-verb\">lark</span> (alondra, /ɑː/)",
+          "es": "Corta vs larga."
+        },
+        {
+          "en": "<span class=\"r-verb\">grin</span> (sonreír, /ɪ/) vs. <span class=\"r-verb\">green</span> (verde, /iː/)",
+          "es": "Corta vs larga."
         }
       ],
       "tables": [
@@ -192,6 +363,26 @@
               "hat /æ/ (corta)",
               "heart /ɑː/ (larga)",
               "sombrero vs. corazón"
+            ],
+            [
+              "/ɪ/ (bit)",
+              "/iː/ (beat)",
+              "live/leave, ship/sheep, fill/feel"
+            ],
+            [
+              "/ʊ/ (full)",
+              "/uː/ (fool)",
+              "pull/pool, full/fool"
+            ],
+            [
+              "/ɒ/ (cot)",
+              "/ɔː/ (caught)",
+              "cot/caught"
+            ],
+            [
+              "/ʌ/ (cut)",
+              "/ɑː/ (cart)",
+              "cut/cart, hut/heart"
             ]
           ]
         }
@@ -223,6 +414,51 @@
             "larga"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b14-s2q4",
+          "question": "4. 'Live' (/ɪ/) y 'leave' (/iː/) se diferencian en...",
+          "options": [
+            "la duración de la vocal",
+            "la consonante"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s2q5",
+          "question": "5. 'Pool' tiene una vocal...",
+          "options": [
+            "corta",
+            "larga"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s2q6",
+          "question": "6. 'Cheap' vs 'chip': ¿cuál tiene la vocal larga?",
+          "options": [
+            "cheap",
+            "chip"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s2q7",
+          "question": "7. La vocal de 'full' es...",
+          "options": [
+            "/ʊ/ corta",
+            "/uː/ larga"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s2q8",
+          "question": "8. 'Sit' vs 'seat': la larga es...",
+          "options": [
+            "sit",
+            "seat"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -282,6 +518,54 @@
         {
           "en": "That's a <b class=\"hl\">GREAT</b> idea! ↘",
           "es": "¡Es una gran idea! (entonación descendente = afirmación)"
+        },
+        {
+          "en": "I never said <span class=\"r-verb\">SHE</span> stole the money. (énfasis: fue ella, no otro)",
+          "es": "El énfasis en 'she' señala a la persona."
+        },
+        {
+          "en": "<span class=\"r-verb\">I</span> never said she stole it. (énfasis: yo no fui quien lo dijo)",
+          "es": "El énfasis en 'I' cambia quién lo dijo."
+        },
+        {
+          "en": "Are you coming <span class=\"r-verb\">TODAY</span>? (entonación ascendente = pregunta)",
+          "es": "La entonación sube al final en preguntas sí/no."
+        },
+        {
+          "en": "You're coming today. (entonación descendente = afirmación)",
+          "es": "La entonación baja en afirmaciones."
+        },
+        {
+          "en": "The word 'REcord' (sustantivo) vs 'reCORD' (verbo) — acento distinto",
+          "es": "El acento distingue sustantivo de verbo."
+        },
+        {
+          "en": "'PREsent' (regalo) vs 'preSENT' (presentar) — acento distinto",
+          "es": "Otro par sustantivo/verbo por el acento."
+        },
+        {
+          "en": "'OBject' (objeto) vs 'obJECT' (objetar) — acento distinto",
+          "es": "El acento marca el significado."
+        },
+        {
+          "en": "Really? (tono ascendente = sorpresa) vs Really. (tono plano = poco interés)",
+          "es": "La entonación transmite actitud."
+        },
+        {
+          "en": "'PROduce' (productos) vs 'proDUCE' (producir)",
+          "es": "Acento inicial (sustantivo) vs final (verbo)."
+        },
+        {
+          "en": "'CONtract' (contrato) vs 'conTRACT' (contraer)",
+          "es": "El acento cambia la categoría de la palabra."
+        },
+        {
+          "en": "Could you help me? (entonación cortés y suave)",
+          "es": "La entonación ascendente suaviza la petición."
+        },
+        {
+          "en": "'DEsert' (desierto) vs 'deSSERT' (postre) — cuidado con el acento y la S",
+          "es": "Acento y ortografía cambian el significado."
         }
       ],
       "tables": [],
@@ -310,6 +594,51 @@
           "options": [
             "cambiar lo que realmente se comunica",
             "no afecta el significado en absoluto"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s3q4",
+          "question": "4. En preguntas de sí/no, la entonación suele...",
+          "options": [
+            "subir al final",
+            "bajar al final"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s3q5",
+          "question": "5. 'REcord' (acento inicial) es...",
+          "options": [
+            "un sustantivo",
+            "un verbo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s3q6",
+          "question": "6. 'preSENT' (acento final) es...",
+          "options": [
+            "un regalo",
+            "el verbo presentar"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s3q7",
+          "question": "7. Cambiar la sílaba acentuada puede...",
+          "options": [
+            "cambiar el significado",
+            "no cambiar nada"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s3q8",
+          "question": "8. Enfatizar una palabra distinta en la frase...",
+          "options": [
+            "cambia el matiz del mensaje",
+            "es incorrecto"
           ],
           "correctIndex": 0
         }
@@ -351,6 +680,46 @@
         {
           "en": "Don't worry about imitating — focus on understanding.",
           "es": "No te preocupes por imitar; céntrate en entender."
+        },
+        {
+          "en": "British English often drops the final R (car → 'cah').",
+          "es": "El inglés británico suele omitir la R final."
+        },
+        {
+          "en": "Australian English shortens many vowels and endings.",
+          "es": "El inglés australiano acorta muchas vocales y terminaciones."
+        },
+        {
+          "en": "In American English, 'water' sounds like 'wader' (T suave).",
+          "es": "En inglés americano, la T entre vocales suena como una D suave."
+        },
+        {
+          "en": "Scottish English rolls the R strongly.",
+          "es": "El inglés escocés vibra mucho la R."
+        },
+        {
+          "en": "British 'schedule' /ˈʃedjuːl/ vs American /ˈskedʒuːl/.",
+          "es": "La palabra 'schedule' se pronuncia distinto en cada acento."
+        },
+        {
+          "en": "American 'tomato' /təˈmeɪtoʊ/ vs British /təˈmɑːtəʊ/.",
+          "es": "'Tomato' tiene vocal distinta según el acento."
+        },
+        {
+          "en": "Irish English has a musical, rising intonation.",
+          "es": "El inglés irlandés tiene una entonación musical y ascendente."
+        },
+        {
+          "en": "In the exam listening, you may hear several accents.",
+          "es": "En el listening del examen puedes oír varios acentos."
+        },
+        {
+          "en": "You don't need to imitate an accent — just understand it.",
+          "es": "No necesitas imitar ningún acento, solo entenderlo."
+        },
+        {
+          "en": "American 'can't' /kænt/ vs British /kɑːnt/.",
+          "es": "La vocal de 'can't' cambia entre acentos."
         }
       ],
       "tables": [
@@ -380,6 +749,31 @@
               "Canadiense",
               "Muy cercano al americano, con matices propios",
               "\"about\" se acerca a \"aboot\""
+            ],
+            [
+              "American",
+              "T entre vocales suena como D suave; R final marcada",
+              "water → 'wader', car → 'carr'"
+            ],
+            [
+              "British (RP)",
+              "R final muda; vocales más abiertas",
+              "car → 'cah', bath /ɑː/"
+            ],
+            [
+              "Australian",
+              "vocales acortadas, tono ascendente",
+              "day → 'die'-ish"
+            ],
+            [
+              "Scottish",
+              "R vibrada fuerte",
+              "'rrright'"
+            ],
+            [
+              "Irish",
+              "entonación musical y ascendente",
+              "melodía marcada"
             ]
           ]
         }
@@ -411,6 +805,51 @@
             "canadiense"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b14-s4q4",
+          "question": "3. En inglés americano, la R final normalmente...",
+          "options": [
+            "se pronuncia",
+            "se omite"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s4q5",
+          "question": "4. En inglés británico (RP), la R final normalmente...",
+          "options": [
+            "se pronuncia",
+            "se omite"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s4q6",
+          "question": "5. 'Water' en inglés americano suena como...",
+          "options": [
+            "'wader' (T suave)",
+            "'wa-terr'"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s4q7",
+          "question": "6. Para el examen, con los acentos conviene...",
+          "options": [
+            "imitarlos todos",
+            "reconocerlos y entenderlos"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s4q8",
+          "question": "7. El inglés escocés destaca por...",
+          "options": [
+            "la R muy vibrada",
+            "no pronunciar consonantes"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -422,6 +861,712 @@
         {
           "type": "tip",
           "text": "No necesitas imitar acentos: basta con <b>reconocerlos</b> para entender mejor en el listening."
+        }
+      ]
+    },
+    {
+      "idx": "14.5",
+      "title": "Consonantes finales y grupos consonánticos",
+      "level": "B1",
+      "rule": "El español casi no tiene grupos de consonantes juntas ni consonantes al final, así que tendemos a añadir una 'e' ('estreet' por 'street') o a comernos el final. En inglés hay que <b>pronunciar todas las consonantes</b>, incluidas las finales, que a menudo distinguen singular de plural o presente de pasado (walk vs walks vs walked). Grupos difíciles: <b>st-, str-, sp-, -sts, -cts, -lps</b>. Practica sin vocal de apoyo: 'school', no 'eschool'.",
+      "examples": [
+        {
+          "en": "<span class=\"r-verb\">street</span> — empieza en 'str', sin 'e' delante",
+          "es": "No digas 'estreet'; arranca directo en la S."
+        },
+        {
+          "en": "<span class=\"r-verb\">school</span> — 'sk', no 'eschool'",
+          "es": "Evita la 'e' de apoyo inicial."
+        },
+        {
+          "en": "<span class=\"r-verb\">asked</span> — pronuncia la 'kt' final /ɑːskt/",
+          "es": "El grupo final -sked es difícil pero audible."
+        },
+        {
+          "en": "<span class=\"r-verb\">texts</span> — 'ksts' al final, todas las consonantes",
+          "es": "Uno de los grupos más difíciles del inglés."
+        },
+        {
+          "en": "<span class=\"r-verb\">helped</span> — la 'p' y la 't' finales suenan",
+          "es": "El pasado -ped se oye claramente."
+        },
+        {
+          "en": "<span class=\"r-verb\">guests</span> — la 'sts' final marca el plural",
+          "es": "Sin la S final se pierde el plural."
+        },
+        {
+          "en": "<span class=\"r-verb\">spring</span> — 'spr', sin vocal delante",
+          "es": "Grupo triple spr-."
+        },
+        {
+          "en": "<span class=\"r-verb\">works</span> — la 'ks' final distingue de 'work'",
+          "es": "La 3ª persona depende de esa S."
+        },
+        {
+          "en": "<span class=\"r-verb\">clothes</span> — grupo 'ðz' final, complicado",
+          "es": "Suena casi como 'clothz'."
+        },
+        {
+          "en": "<span class=\"r-verb\">strengths</span> — uno de los grupos más largos",
+          "es": "Contiene 'ŋθs' al final."
+        },
+        {
+          "en": "<span class=\"r-verb\">stopped</span> — la 't' final del pasado se oye",
+          "es": "-pped suena /pt/."
+        },
+        {
+          "en": "<span class=\"r-verb\">facts</span> — 'kts' final",
+          "es": "Practica el grupo -cts."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Grupo",
+            "Dificultad",
+            "Practica con"
+          ],
+          "rows": [
+            [
+              "st- / str- / sp-",
+              "no añadir 'e' inicial",
+              "street, school, spring"
+            ],
+            [
+              "-sts",
+              "tres consonantes al final",
+              "guests, texts, tourists"
+            ],
+            [
+              "-cts / -kt",
+              "cierre consonántico",
+              "facts, asked"
+            ],
+            [
+              "-ped / -kt (pasados)",
+              "la -t/-d final marca el pasado",
+              "helped, stopped, worked"
+            ],
+            [
+              "-ks / -s (3ª pers./plural)",
+              "la -s final es significativa",
+              "works, guests, books"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b14-s5q1",
+          "question": "1. 'Street' debe empezar...",
+          "options": [
+            "con 'e' (estreet)",
+            "directo en la S (str-)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s5q2",
+          "question": "2. La -s final de 'guests'...",
+          "options": [
+            "es opcional",
+            "marca el plural y hay que pronunciarla"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s5q3",
+          "question": "3. 'Helped' termina en sonido...",
+          "options": [
+            "/pt/",
+            "/ped/ con vocal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s5q4",
+          "question": "4. El error típico del hispanohablante es...",
+          "options": [
+            "añadir una 'e' de apoyo",
+            "pronunciar de más"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s5q5",
+          "question": "5. 'Works' vs 'work' se distinguen por...",
+          "options": [
+            "la -s final",
+            "la vocal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s5q6",
+          "question": "6. 'School' se pronuncia...",
+          "options": [
+            "'eschool'",
+            "'skool' (sin e)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s5q7",
+          "question": "7. 'Texts' es difícil por...",
+          "options": [
+            "el grupo 'ksts' final",
+            "la vocal"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b14-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe (y practica en voz alta) dos frases con palabras de grupos consonánticos difíciles (street, guests, asked, texts).",
+        "placeholder": "Ej: The guests asked about the street. She texts the school."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "No añadas nunca una 'e' de apoyo antes de s + consonante: es 'Spain', no 'Espain'; 'student', no 'estudent'. Y no te comas las consonantes finales: 'guest<b>s</b>', 'work<b>ed</b>'."
+        }
+      ]
+    },
+    {
+      "idx": "14.6",
+      "title": "La schwa /ə/ y las sílabas átonas",
+      "level": "B2",
+      "rule": "La <b>schwa</b> /ə/ es el sonido más frecuente del inglés: una vocal <b>neutra y relajada</b>, como una 'e' muy floja, que aparece en las sílabas <b>átonas</b> (sin acento). Palabras como <b>about</b> (əˈbaʊt), <b>banana</b> (bəˈnɑːnə) o <b>the</b> la usan. El inglés reduce fuertemente las sílabas no acentuadas, mientras que el español pronuncia todas las vocales claras. Dominar la schwa hace que suenes mucho más natural y ayuda al ritmo del inglés.",
+      "examples": [
+        {
+          "en": "<span class=\"r-verb\">about</span> — la primera sílaba es schwa: /əˈbaʊt/",
+          "es": "La 'a' inicial no suena 'a', sino neutra."
+        },
+        {
+          "en": "<span class=\"r-verb\">banana</span> — /bəˈnɑːnə/, dos schwas",
+          "es": "Solo la sílaba central es fuerte."
+        },
+        {
+          "en": "<span class=\"r-verb\">the</span> hotel — 'the' átono suena /ðə/",
+          "es": "El artículo se reduce a schwa."
+        },
+        {
+          "en": "<span class=\"r-verb\">problem</span> — /ˈprɒbləm/, la segunda es schwa",
+          "es": "La 'e' de -blem es neutra."
+        },
+        {
+          "en": "<span class=\"r-verb\">manager</span> — /ˈmænɪdʒə/, terminación en schwa",
+          "es": "La -er final suena schwa."
+        },
+        {
+          "en": "<span class=\"r-verb\">arrival</span> — /əˈraɪvəl/, primera y última schwa",
+          "es": "Solo 'ri' es fuerte."
+        },
+        {
+          "en": "<span class=\"r-verb\">breakfast</span> — /ˈbrekfəst/, la segunda es schwa",
+          "es": "La 'a' de -fast no suena clara."
+        },
+        {
+          "en": "<span class=\"r-verb\">comfortable</span> — /ˈkʌmftəbəl/, varias reducciones",
+          "es": "Se reduce a menos sílabas de las que parece."
+        },
+        {
+          "en": "<span class=\"r-verb\">reception</span> — /rɪˈsepʃən/, terminación schwa",
+          "es": "La -tion final lleva schwa."
+        },
+        {
+          "en": "<span class=\"r-verb\">customer</span> — /ˈkʌstəmə/, dos schwas",
+          "es": "Solo 'cus' es fuerte."
+        },
+        {
+          "en": "<span class=\"r-verb\">supper</span> vs <span class=\"r-verb\">support</span> — la schwa cambia el ritmo",
+          "es": "El acento decide qué sílaba se reduce."
+        },
+        {
+          "en": "<span class=\"r-verb\">photograph</span> vs <span class=\"r-verb\">photography</span> — cambia qué sílaba es schwa",
+          "es": "Al mover el acento, la reducción se desplaza."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Sílaba fuerte",
+            "Schwa /ə/ en"
+          ],
+          "rows": [
+            [
+              "about",
+              "-BOUT",
+              "a-"
+            ],
+            [
+              "banana",
+              "-NA-",
+              "ba- y -na"
+            ],
+            [
+              "manager",
+              "MAN-",
+              "-a-ger"
+            ],
+            [
+              "arrival",
+              "-RI-",
+              "a- y -val"
+            ],
+            [
+              "breakfast",
+              "BREAK-",
+              "-fast"
+            ],
+            [
+              "reception",
+              "-CEP-",
+              "-tion"
+            ],
+            [
+              "customer",
+              "CUS-",
+              "-to-mer"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b14-s6q1",
+          "question": "1. La schwa /ə/ es una vocal...",
+          "options": [
+            "neutra y relajada, en sílabas átonas",
+            "fuerte y acentuada"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s6q2",
+          "question": "2. En 'about', la schwa está en...",
+          "options": [
+            "la primera sílaba (a-)",
+            "la segunda (-bout)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s6q3",
+          "question": "3. El inglés, en sílabas átonas...",
+          "options": [
+            "reduce la vocal a schwa",
+            "pronuncia todas las vocales claras"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s6q4",
+          "question": "4. La terminación -er de 'manager' suena...",
+          "options": [
+            "schwa /ə/",
+            "'er' fuerte"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s6q5",
+          "question": "5. La schwa es el sonido... del inglés.",
+          "options": [
+            "más frecuente",
+            "más raro"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s6q6",
+          "question": "6. El artículo 'the' antes de consonante suele sonar...",
+          "options": [
+            "/ðə/ (schwa)",
+            "/ðiː/ siempre"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s6q7",
+          "question": "7. Usar bien la schwa hace que...",
+          "options": [
+            "suenes más natural",
+            "hables más lento"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b14-s6",
+        "label": "<span class=\"badge\">tu turno</span>Elige tres palabras largas (manager, reception, customer) y marca en voz alta la sílaba fuerte, reduciendo el resto a schwa.",
+        "placeholder": "Ej: reCEPtion, CUStomer, aRRIval — el resto, relajado."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "La schwa solo aparece en sílabas <b>átonas</b>: si el acento se mueve, la reducción también (PHOtograph → phoTOGraphy). No pronuncies todas las vocales claras como en español; relaja las átonas."
+        }
+      ]
+    },
+    {
+      "idx": "14.7",
+      "title": "Formas débiles y habla enlazada (connected speech)",
+      "level": "B2",
+      "rule": "En el habla real, el inglés <b>enlaza</b> las palabras y <b>reduce</b> las gramaticales (auxiliares, preposiciones, artículos). Formas débiles: <b>and</b> → /ən/, <b>to</b> → /tə/, <b>can</b> → /kən/, <b>of</b> → /əv/, <b>have</b> → /əv/ (en 'could've'). Enlaces: consonante + vocal se unen ('an_apple' → 'a_napple'); vocal + vocal añade una /w/ o /j/. Por eso el listening cuesta: 'What do you want?' suena 'Wadaya want?'. Reconocerlo mejora tu comprensión enormemente.",
+      "examples": [
+        {
+          "en": "'fish <span class=\"r-verb\">and</span> chips' → 'fish'n'chips' (and → /ən/)",
+          "es": "'and' se reduce a /ən/ y se pega."
+        },
+        {
+          "en": "'I want <span class=\"r-verb\">to</span> go' → 'I wanna go' (to → /tə/)",
+          "es": "'want to' se enlaza en 'wanna' (informal)."
+        },
+        {
+          "en": "'a cup <span class=\"r-verb\">of</span> tea' → 'a cuppa tea' (of → /əv/)",
+          "es": "'of' se reduce a /əv/."
+        },
+        {
+          "en": "'What <span class=\"r-verb\">do you</span> want?' → 'Wadaya want?'",
+          "es": "Auxiliar + pronombre se funden."
+        },
+        {
+          "en": "'I <span class=\"r-verb\">could have</span> called' → 'I could've called'",
+          "es": "'have' se reduce a /əv/."
+        },
+        {
+          "en": "'an <span class=\"r-verb\">orange</span>' → 'a_norange' (enlace consonante-vocal)",
+          "es": "La N se enlaza con la vocal siguiente."
+        },
+        {
+          "en": "'She <span class=\"r-verb\">can</span> come' → /kən/ (débil) vs 'Yes she CAN' /kæn/ (fuerte)",
+          "es": "'can' se reduce salvo al enfatizar."
+        },
+        {
+          "en": "'Nice <span class=\"r-verb\">to</span> meet you' → 'Nice_tə_meetcha'",
+          "es": "'to' débil + enlace con 'you'."
+        },
+        {
+          "en": "'go <span class=\"r-verb\">and</span> get it' → 'go_n_get it'",
+          "es": "'and' casi desaparece."
+        },
+        {
+          "en": "'lots <span class=\"r-verb\">of</span> people' → 'lotsa people'",
+          "es": "'of' se reduce y enlaza."
+        },
+        {
+          "en": "'Give <span class=\"r-verb\">him</span> a hand' → 'give_im a hand' (h muda en débil)",
+          "es": "La H de 'him' se pierde en forma débil."
+        },
+        {
+          "en": "'Do you <span class=\"r-verb\">want a</span> room?' → 'wanna room?'",
+          "es": "'want a' se enlaza."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Forma fuerte",
+            "Forma débil"
+          ],
+          "rows": [
+            [
+              "and",
+              "/ænd/",
+              "/ən/ o /n/"
+            ],
+            [
+              "to",
+              "/tuː/",
+              "/tə/"
+            ],
+            [
+              "of",
+              "/ɒv/",
+              "/əv/"
+            ],
+            [
+              "can",
+              "/kæn/",
+              "/kən/"
+            ],
+            [
+              "have (could/should/would have)",
+              "/hæv/",
+              "/əv/ ('could've')"
+            ],
+            [
+              "him",
+              "/hɪm/",
+              "/ɪm/ (h muda)"
+            ],
+            [
+              "you",
+              "/juː/",
+              "/jə/"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b14-s7q1",
+          "question": "1. En habla rápida, 'and' suele sonar...",
+          "options": [
+            "/ən/ o /n/",
+            "/ænd/ siempre"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s7q2",
+          "question": "2. 'could have' se reduce a...",
+          "options": [
+            "could've /əv/",
+            "could of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s7q3",
+          "question": "3. 'What do you want?' en habla real suena...",
+          "options": [
+            "'Wadaya want?'",
+            "muy separado"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s7q4",
+          "question": "4. La forma débil de 'to' es...",
+          "options": [
+            "/tə/",
+            "/tuː/"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s7q5",
+          "question": "5. 'can' se pronuncia fuerte /kæn/...",
+          "options": [
+            "cuando se enfatiza",
+            "siempre"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s7q6",
+          "question": "6. El enlace 'an orange' suena...",
+          "options": [
+            "'a_norange'",
+            "muy cortado"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s7q7",
+          "question": "7. Reconocer formas débiles mejora sobre todo...",
+          "options": [
+            "el listening",
+            "la ortografía"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b14-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con varias palabras gramaticales y prueba a decirla enlazada (want to → wanna, could have → could've).",
+        "placeholder": "Ej: I want to give him a cup of tea. → 'I wanna give_im a cuppa tea.'"
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Las formas débiles se escriben igual pero se pronuncian reducidas: 'could have', no 'could of' (aunque suene así). En la escritura formal nunca uses 'wanna/gonna'; son solo representaciones del habla."
+        }
+      ]
+    },
+    {
+      "idx": "14.8",
+      "title": "Homófonos (suenan igual, se escriben distinto)",
+      "level": "B1",
+      "rule": "Los <b>homófonos</b> son palabras que <b>suenan idénticas</b> pero tienen ortografía y significado distintos: <b>their / there / they're</b>, <b>to / too / two</b>, <b>write / right</b>, <b>see / sea</b>, <b>flour / flower</b>. En el habla el contexto los distingue, pero al <b>escribir</b> son una fuente enorme de errores. Merece la pena memorizar los más frecuentes con un ejemplo para no fallar en correos y mensajes.",
+      "examples": [
+        {
+          "en": "<span class=\"r-verb\">their</span> room / <span class=\"r-verb\">there</span> it is / <span class=\"r-verb\">they're</span> here — suenan igual",
+          "es": "Tres palabras idénticas al oído, distintas al escribir."
+        },
+        {
+          "en": "<span class=\"r-verb\">to</span> the spa / <span class=\"r-verb\">too</span> expensive / room <span class=\"r-verb\">two</span>",
+          "es": "to / too / two suenan igual."
+        },
+        {
+          "en": "You're <span class=\"r-verb\">right</span>, please <span class=\"r-verb\">write</span> it down.",
+          "es": "right / write son homófonos."
+        },
+        {
+          "en": "We can <span class=\"r-verb\">see</span> the <span class=\"r-verb\">sea</span> from here.",
+          "es": "see / sea suenan igual."
+        },
+        {
+          "en": "Add some <span class=\"r-verb\">flour</span> — like a <span class=\"r-verb\">flower</span> it's delicate.",
+          "es": "flour / flower son homófonos."
+        },
+        {
+          "en": "The <span class=\"r-verb\">weak</span> signal lasted a <span class=\"r-verb\">week</span>.",
+          "es": "weak / week suenan igual."
+        },
+        {
+          "en": "Please <span class=\"r-verb\">wait</span> — the <span class=\"r-verb\">weight</span> limit is 20kg.",
+          "es": "wait / weight son homófonos."
+        },
+        {
+          "en": "They <span class=\"r-verb\">bought</span> the suite, then the deal was <span class=\"r-verb\">brought</span> forward. (casi homófonos)",
+          "es": "Cuidado: bought/brought se confunden mucho."
+        },
+        {
+          "en": "The <span class=\"r-verb\">whole</span> team dug a <span class=\"r-verb\">hole</span>.",
+          "es": "whole / hole suenan igual."
+        },
+        {
+          "en": "He <span class=\"r-verb\">knew</span> the room was <span class=\"r-verb\">new</span>.",
+          "es": "knew / new son homófonos."
+        },
+        {
+          "en": "Book a table <span class=\"r-verb\">for</span> <span class=\"r-verb\">four</span> guests.",
+          "es": "for / four suenan igual."
+        },
+        {
+          "en": "The <span class=\"r-verb\">sun</span> is out; her <span class=\"r-verb\">son</span> loves the pool.",
+          "es": "sun / son son homófonos."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Homófonos",
+            "Significados"
+          ],
+          "rows": [
+            [
+              "their / there / they're",
+              "su / allí / they are"
+            ],
+            [
+              "to / too / two",
+              "a / también / dos"
+            ],
+            [
+              "write / right",
+              "escribir / correcto·derecha"
+            ],
+            [
+              "see / sea",
+              "ver / mar"
+            ],
+            [
+              "flour / flower",
+              "harina / flor"
+            ],
+            [
+              "weak / week",
+              "débil / semana"
+            ],
+            [
+              "wait / weight",
+              "esperar / peso"
+            ],
+            [
+              "whole / hole",
+              "entero / agujero"
+            ],
+            [
+              "knew / new",
+              "supo (know) / nuevo"
+            ],
+            [
+              "for / four",
+              "para/por / cuatro"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b14-s8q1",
+          "question": "1. 'They're here' — 'they're' significa...",
+          "options": [
+            "they are",
+            "su (posesivo)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s8q2",
+          "question": "2. 'A table for ___ guests' (cuatro)",
+          "options": [
+            "for",
+            "four"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s8q3",
+          "question": "3. 'We can see the ___' (mar)",
+          "options": [
+            "see",
+            "sea"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s8q4",
+          "question": "4. 'Please ___ it down' (escribir)",
+          "options": [
+            "right",
+            "write"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s8q5",
+          "question": "5. 'The ___ team' (entero)",
+          "options": [
+            "whole",
+            "hole"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b14-s8q6",
+          "question": "6. 'It's ___ expensive' (demasiado)",
+          "options": [
+            "to",
+            "too"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b14-s8q7",
+          "question": "7. Los homófonos se distinguen sobre todo por...",
+          "options": [
+            "el contexto y la ortografía",
+            "el sonido"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b14-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase que use correctamente un grupo de homófonos, por ejemplo <b>their/there/they're</b> o <b>to/too/two</b>.",
+        "placeholder": "Ej: They're leaving their keys over there. / Two guests want to come too."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Los homófonos suenan igual, así que solo el <b>significado</b> te dice cómo escribirlos. Los tres grandes que más errores causan por escrito: their/there/they're, to/too/two y your/you're."
         }
       ]
     }
