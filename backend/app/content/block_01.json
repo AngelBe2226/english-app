@@ -67,6 +67,66 @@
         {
           "en": "<span class=\"r-subj\">They</span> offered <span class=\"r-obj\">him</span> a discount.",
           "es": "Le ofrecieron un descuento."
+        },
+        {
+          "en": "<span class=\"r-subj\">We</span> welcomed <span class=\"r-obj\">them</span> at reception.",
+          "es": "Los recibimos en recepción."
+        },
+        {
+          "en": "<span class=\"r-subj\">She</span> asked <span class=\"r-obj\">me</span> for the invoice.",
+          "es": "Ella me pidió la factura."
+        },
+        {
+          "en": "<span class=\"r-subj\">I</span> introduced <span class=\"r-obj\">him</span> to the team.",
+          "es": "Lo presenté al equipo."
+        },
+        {
+          "en": "<span class=\"r-subj\">They</span> upgraded <span class=\"r-obj\">us</span> for free.",
+          "es": "Nos mejoraron la habitación gratis."
+        },
+        {
+          "en": "<span class=\"r-subj\">He</span> drove <span class=\"r-obj\">her</span> to the airport.",
+          "es": "Él la llevó al aeropuerto."
+        },
+        {
+          "en": "Please call <span class=\"r-obj\">me</span> when <span class=\"r-subj\">you</span> arrive.",
+          "es": "Por favor, llámame cuando llegues."
+        },
+        {
+          "en": "<span class=\"r-subj\">We</span> booked <span class=\"r-obj\">it</span> online last night.",
+          "es": "Lo reservamos por internet anoche."
+        },
+        {
+          "en": "<span class=\"r-subj\">It</span> costs more than <span class=\"r-subj\">they</span> expected.",
+          "es": "Cuesta más de lo que esperaban."
+        },
+        {
+          "en": "The receptionist gave <span class=\"r-obj\">us</span> the keys.",
+          "es": "La recepcionista nos dio las llaves."
+        },
+        {
+          "en": "<span class=\"r-subj\">I</span> trust <span class=\"r-obj\">them</span> completely.",
+          "es": "Confío en ellos por completo."
+        },
+        {
+          "en": "Can <span class=\"r-subj\">you</span> send <span class=\"r-obj\">us</span> the confirmation?",
+          "es": "¿Puedes enviarnos la confirmación?"
+        },
+        {
+          "en": "<span class=\"r-subj\">She</span> and <span class=\"r-subj\">I</span> handled the complaint together.",
+          "es": "Ella y yo gestionamos la queja juntos."
+        },
+        {
+          "en": "<span class=\"r-subj\">He</span> reminded <span class=\"r-obj\">me</span> about the meeting.",
+          "es": "Él me recordó la reunión."
+        },
+        {
+          "en": "<span class=\"r-subj\">They</span> paid <span class=\"r-obj\">him</span> in advance.",
+          "es": "Le pagaron por adelantado."
+        },
+        {
+          "en": "Between <span class=\"r-obj\">you</span> and <span class=\"r-obj\">me</span>, the deal is closed.",
+          "es": "Entre tú y yo, el trato está cerrado."
         }
       ],
       "tables": [],
@@ -95,6 +155,51 @@
           "options": [
             "we",
             "us"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s1q4",
+          "question": "4. The guest thanked <span class=\"blank\">___</span> for the help. (a nosotros)",
+          "options": [
+            "we",
+            "us"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s1q5",
+          "question": "5. <span class=\"blank\">___</span> speak three languages. (ellos)",
+          "options": [
+            "Them",
+            "They"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s1q6",
+          "question": "6. Give the report to <span class=\"blank\">___</span>, please. (a él)",
+          "options": [
+            "he",
+            "him"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s1q7",
+          "question": "7. <span class=\"blank\">___</span> and I closed the sale. (ella)",
+          "options": [
+            "She",
+            "Her"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s1q8",
+          "question": "8. The hotel emailed <span class=\"blank\">___</span> the receipt. (a mí)",
+          "options": [
+            "I",
+            "me"
           ],
           "correctIndex": 1
         }
@@ -156,6 +261,66 @@
         {
           "en": "These bags are <span class=\"r-poss\">mine</span>, not <span class=\"r-poss\">yours</span>.",
           "es": "Estas maletas son mías, no tuyas."
+        },
+        {
+          "en": "<span class=\"r-poss\">My</span> flight leaves before <span class=\"r-poss\">yours</span>.",
+          "es": "Mi vuelo sale antes que el tuyo."
+        },
+        {
+          "en": "The company protects <span class=\"r-poss\">its</span> data carefully.",
+          "es": "La empresa protege sus datos con cuidado."
+        },
+        {
+          "en": "Is this desk <span class=\"r-poss\">hers</span> or <span class=\"r-poss\">his</span>?",
+          "es": "¿Este escritorio es de ella o de él?"
+        },
+        {
+          "en": "<span class=\"r-poss\">Our</span> suite has a better view than <span class=\"r-poss\">theirs</span>.",
+          "es": "Nuestra suite tiene mejores vistas que la suya."
+        },
+        {
+          "en": "She forgot <span class=\"r-poss\">her</span> passport at the desk.",
+          "es": "Ella olvidó su pasaporte en el mostrador."
+        },
+        {
+          "en": "This luggage isn't <span class=\"r-poss\">mine</span>; it must be <span class=\"r-poss\">theirs</span>.",
+          "es": "Este equipaje no es mío; debe de ser suyo."
+        },
+        {
+          "en": "The client raised <span class=\"r-poss\">his</span> concerns politely.",
+          "es": "El cliente planteó sus dudas con educación."
+        },
+        {
+          "en": "<span class=\"r-poss\">Their</span> offer expired, but <span class=\"r-poss\">ours</span> is still valid.",
+          "es": "Su oferta caducó, pero la nuestra sigue vigente."
+        },
+        {
+          "en": "Every product has <span class=\"r-poss\">its</span> own warranty.",
+          "es": "Cada producto tiene su propia garantía."
+        },
+        {
+          "en": "Is the corner office <span class=\"r-poss\">yours</span> now?",
+          "es": "¿La oficina de la esquina es tuya ahora?"
+        },
+        {
+          "en": "We updated <span class=\"r-poss\">our</span> prices last week.",
+          "es": "Actualizamos nuestros precios la semana pasada."
+        },
+        {
+          "en": "He said the mistake was <span class=\"r-poss\">his</span>.",
+          "es": "Él dijo que el error fue suyo."
+        },
+        {
+          "en": "<span class=\"r-poss\">Your</span> team met the target; <span class=\"r-poss\">mine</span> didn't.",
+          "es": "Tu equipo cumplió el objetivo; el mío no."
+        },
+        {
+          "en": "The dog wagged <span class=\"r-poss\">its</span> tail at the guests.",
+          "es": "El perro movió la cola a los huéspedes."
+        },
+        {
+          "en": "These keys are <span class=\"r-poss\">ours</span>, not <span class=\"r-poss\">hers</span>.",
+          "es": "Estas llaves son nuestras, no de ella."
         }
       ],
       "tables": [],
@@ -184,6 +349,51 @@
           "options": [
             "your",
             "yours"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s2q4",
+          "question": "4. This coat isn't mine, it's <span class=\"blank\">___</span>. (de ella, va solo)",
+          "options": [
+            "her",
+            "hers"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s2q5",
+          "question": "5. The firm renewed <span class=\"blank\">___</span> license. (su, antes del sustantivo)",
+          "options": [
+            "its",
+            "it's"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s2q6",
+          "question": "6. Your room is ready; <span class=\"blank\">___</span> isn't. (el nuestro, va solo)",
+          "options": [
+            "our",
+            "ours"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s2q7",
+          "question": "7. <span class=\"blank\">___</span> luggage is at the door. (su de ellos, antes del sustantivo)",
+          "options": [
+            "Their",
+            "Theirs"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s2q8",
+          "question": "8. Whose pen is this? It's <span class=\"blank\">___</span>. (mío, va solo)",
+          "options": [
+            "my",
+            "mine"
           ],
           "correctIndex": 1
         }
@@ -245,6 +455,66 @@
         {
           "en": "Why did you choose our resort?",
           "es": "¿Por qué elegiste nuestro resort?"
+        },
+        {
+          "en": "<b class=\"hl\">What</b> time does breakfast start?",
+          "es": "¿A qué hora empieza el desayuno?"
+        },
+        {
+          "en": "<b class=\"hl\">Who</b> is in charge of the booking?",
+          "es": "¿Quién está a cargo de la reserva?"
+        },
+        {
+          "en": "<b class=\"hl\">Where</b> can I leave my luggage?",
+          "es": "¿Dónde puedo dejar mi equipaje?"
+        },
+        {
+          "en": "<b class=\"hl\">Why</b> was the payment declined?",
+          "es": "¿Por qué se rechazó el pago?"
+        },
+        {
+          "en": "<b class=\"hl\">How much</b> is the deposit?",
+          "es": "¿Cuánto es el depósito?"
+        },
+        {
+          "en": "<b class=\"hl\">Which</b> floor is the gym on?",
+          "es": "¿En qué planta está el gimnasio?"
+        },
+        {
+          "en": "<b class=\"hl\">When</b> should we check out?",
+          "es": "¿Cuándo deberíamos hacer el check-out?"
+        },
+        {
+          "en": "<b class=\"hl\">Whose</b> signature is on the contract?",
+          "es": "¿De quién es la firma del contrato?"
+        },
+        {
+          "en": "<b class=\"hl\">How often</b> do the shuttles run?",
+          "es": "¿Con qué frecuencia salen los autobuses?"
+        },
+        {
+          "en": "<b class=\"hl\">What kind of</b> rooms do you have?",
+          "es": "¿Qué tipo de habitaciones tienen?"
+        },
+        {
+          "en": "<b class=\"hl\">How far</b> is the beach from here?",
+          "es": "¿A qué distancia está la playa de aquí?"
+        },
+        {
+          "en": "<b class=\"hl\">Who</b> did you speak to yesterday?",
+          "es": "¿Con quién hablaste ayer?"
+        },
+        {
+          "en": "<b class=\"hl\">What</b> is included in the price?",
+          "es": "¿Qué incluye el precio?"
+        },
+        {
+          "en": "<b class=\"hl\">Which</b> of these do you recommend?",
+          "es": "¿Cuál de estos recomiendas?"
+        },
+        {
+          "en": "<b class=\"hl\">How</b> would you like to pay?",
+          "es": "¿Cómo desea pagar?"
         }
       ],
       "tables": [],
@@ -275,6 +545,51 @@
             "Why"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b01-s3q4",
+          "question": "4. <span class=\"blank\">___</span> much does the tour cost? (cantidad)",
+          "options": [
+            "How",
+            "What"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s3q5",
+          "question": "5. <span class=\"blank\">___</span> of the two suites is bigger? (cuál, opciones)",
+          "options": [
+            "What",
+            "Which"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s3q6",
+          "question": "6. <span class=\"blank\">___</span> are you leaving? (cuándo)",
+          "options": [
+            "Where",
+            "When"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s3q7",
+          "question": "7. <span class=\"blank\">___</span> booked this table? (quién, sujeto)",
+          "options": [
+            "Who",
+            "Whom"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s3q8",
+          "question": "8. <span class=\"blank\">___</span> keys are these on the counter? (de quién)",
+          "options": [
+            "Who's",
+            "Whose"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -334,6 +649,66 @@
         {
           "en": "I prefer this one to that one.",
           "es": "Prefiero este que ese."
+        },
+        {
+          "en": "<b class=\"hl\">This</b> report is due today.",
+          "es": "Este informe es para hoy."
+        },
+        {
+          "en": "<b class=\"hl\">That</b> was the wrong invoice.",
+          "es": "Esa era la factura equivocada."
+        },
+        {
+          "en": "<b class=\"hl\">These</b> keys open the top floor.",
+          "es": "Estas llaves abren la planta de arriba."
+        },
+        {
+          "en": "<b class=\"hl\">Those</b> chairs need to be replaced.",
+          "es": "Esas sillas hay que reemplazarlas."
+        },
+        {
+          "en": "<b class=\"hl\">This</b> is Ms. Ortega from Sales.",
+          "es": "Le presento a la Sra. Ortega, de Ventas."
+        },
+        {
+          "en": "Is <b class=\"hl\">that</b> your car in the driveway?",
+          "es": "¿Es ese tu coche en la entrada?"
+        },
+        {
+          "en": "<b class=\"hl\">These</b> days, most guests book online.",
+          "es": "Hoy en día, la mayoría reserva por internet."
+        },
+        {
+          "en": "<b class=\"hl\">That</b> summer we opened three resorts.",
+          "es": "Aquel verano abrimos tres resorts."
+        },
+        {
+          "en": "I'll take <b class=\"hl\">this</b> one and leave <b class=\"hl\">that</b> one.",
+          "es": "Me llevo este y dejo aquel."
+        },
+        {
+          "en": "<b class=\"hl\">Those</b> were different times.",
+          "es": "Aquellos eran otros tiempos."
+        },
+        {
+          "en": "Could you sign <b class=\"hl\">this</b>, please?",
+          "es": "¿Podría firmar esto, por favor?"
+        },
+        {
+          "en": "<b class=\"hl\">That</b> sounds like a great plan.",
+          "es": "Eso suena a un gran plan."
+        },
+        {
+          "en": "<b class=\"hl\">These</b> are the terms we agreed on.",
+          "es": "Estos son los términos que acordamos."
+        },
+        {
+          "en": "Who are <b class=\"hl\">those</b> people at the entrance?",
+          "es": "¿Quiénes son esas personas en la entrada?"
+        },
+        {
+          "en": "<b class=\"hl\">This</b> is exactly what we needed.",
+          "es": "Esto es exactamente lo que necesitábamos."
         }
       ],
       "tables": [],
@@ -364,6 +739,51 @@
             "This"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b01-s4q4",
+          "question": "4. <span class=\"blank\">___</span> cake here smells delicious. (este, cerca + sing.)",
+          "options": [
+            "This",
+            "That"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s4q5",
+          "question": "5. <span class=\"blank\">___</span> mountains in the distance are huge. (aquellas, lejos + pl.)",
+          "options": [
+            "These",
+            "Those"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s4q6",
+          "question": "6. Take <span class=\"blank\">___</span> boxes over there to storage. (esas, lejos + pl.)",
+          "options": [
+            "these",
+            "those"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s4q7",
+          "question": "7. <span class=\"blank\">___</span> is the key you asked for. (esta, en la mano)",
+          "options": [
+            "This",
+            "That"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s4q8",
+          "question": "8. Do you remember <span class=\"blank\">___</span> night at the gala? (aquella, lejana)",
+          "options": [
+            "this",
+            "that"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -423,6 +843,66 @@
         {
           "en": "Summer is the season when we're busiest.",
           "es": "El verano es la temporada en que tenemos más trabajo."
+        },
+        {
+          "en": "The employee <b class=\"hl\">who</b> trained me just retired.",
+          "es": "El empleado que me formó acaba de jubilarse."
+        },
+        {
+          "en": "The proposal <b class=\"hl\">which</b> we sent was approved.",
+          "es": "La propuesta que enviamos fue aprobada."
+        },
+        {
+          "en": "The guest <b class=\"hl\">whose</b> room flooded got a full refund.",
+          "es": "El huésped cuya habitación se inundó recibió un reembolso completo."
+        },
+        {
+          "en": "This is the lounge <b class=\"hl\">where</b> we host events.",
+          "es": "Este es el salón donde organizamos eventos."
+        },
+        {
+          "en": "I'll never forget the year <b class=\"hl\">when</b> we opened.",
+          "es": "Nunca olvidaré el año en que abrimos."
+        },
+        {
+          "en": "The colleague <b class=\"hl\">who</b> speaks Japanese helped the guests.",
+          "es": "La compañera que habla japonés ayudó a los huéspedes."
+        },
+        {
+          "en": "The contract <b class=\"hl\">that</b> we signed protects both sides.",
+          "es": "El contrato que firmamos protege a ambas partes."
+        },
+        {
+          "en": "The supplier <b class=\"hl\">whose</b> prices rose lost the account.",
+          "es": "El proveedor cuyos precios subieron perdió la cuenta."
+        },
+        {
+          "en": "That's the city <b class=\"hl\">where</b> our head office is.",
+          "es": "Esa es la ciudad donde está nuestra sede."
+        },
+        {
+          "en": "The reason <b class=\"hl\">why</b> he left is still unclear.",
+          "es": "La razón por la que se fue sigue sin estar clara."
+        },
+        {
+          "en": "The manager, <b class=\"hl\">who</b> is on holiday, approved it by email.",
+          "es": "El gerente, que está de vacaciones, lo aprobó por email."
+        },
+        {
+          "en": "Guests <b class=\"hl\">who</b> book early pay less.",
+          "es": "Los huéspedes que reservan pronto pagan menos."
+        },
+        {
+          "en": "The tool <b class=\"hl\">which</b> we use tracks every sale.",
+          "es": "La herramienta que usamos registra cada venta."
+        },
+        {
+          "en": "The moment <b class=\"hl\">when</b> she said yes changed everything.",
+          "es": "El momento en que dijo que sí lo cambió todo."
+        },
+        {
+          "en": "The client <b class=\"hl\">whom</b> I called never replied.",
+          "es": "El cliente al que llamé nunca respondió."
         }
       ],
       "tables": [],
@@ -453,6 +933,51 @@
             "which"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b01-s5q4",
+          "question": "4. The waiter <span class=\"blank\">___</span> served us was very kind. (persona)",
+          "options": [
+            "which",
+            "who"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s5q5",
+          "question": "5. The email <span class=\"blank\">___</span> arrived today confirms the order. (cosa)",
+          "options": [
+            "who",
+            "which"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s5q6",
+          "question": "6. That's the guest <span class=\"blank\">___</span> passport we found. (posesión)",
+          "options": [
+            "whose",
+            "who's"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s5q7",
+          "question": "7. This is the office <span class=\"blank\">___</span> I work every day. (lugar)",
+          "options": [
+            "which",
+            "where"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s5q8",
+          "question": "8. My boss, <span class=\"blank\">___</span> called me, is abroad. (tras coma, persona)",
+          "options": [
+            "that",
+            "who"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -512,6 +1037,66 @@
         {
           "en": "We should be proud of <span class=\"r-refl\">ourselves</span>.",
           "es": "Deberíamos estar orgullosos de nosotros mismos."
+        },
+        {
+          "en": "I burned <span class=\"r-refl\">myself</span> on the coffee machine.",
+          "es": "Me quemé con la cafetera."
+        },
+        {
+          "en": "The guests helped <span class=\"r-refl\">themselves</span> to the buffet.",
+          "es": "Los huéspedes se sirvieron del bufé."
+        },
+        {
+          "en": "She introduced <span class=\"r-refl\">herself</span> to the board.",
+          "es": "Ella se presentó ante la junta."
+        },
+        {
+          "en": "The door locks <span class=\"r-refl\">itself</span> automatically.",
+          "es": "La puerta se cierra sola automáticamente."
+        },
+        {
+          "en": "We built the whole website <span class=\"r-refl\">ourselves</span>. <span style=\"color:var(--ink-faint)\">(enfático)</span>",
+          "es": "Construimos toda la web nosotros mismos."
+        },
+        {
+          "en": "Did you enjoy <span class=\"r-refl\">yourself</span> at the conference?",
+          "es": "¿Lo pasaste bien en el congreso?"
+        },
+        {
+          "en": "He blamed <span class=\"r-refl\">himself</span> for the delay.",
+          "es": "Se culpó a sí mismo por el retraso."
+        },
+        {
+          "en": "Please help <span class=\"r-refl\">yourselves</span> to coffee.",
+          "es": "Sírvanse café, por favor."
+        },
+        {
+          "en": "The manager answered the complaint <span class=\"r-refl\">himself</span>. <span style=\"color:var(--ink-faint)\">(enfático)</span>",
+          "es": "El gerente respondió la queja él mismo."
+        },
+        {
+          "en": "I taught <span class=\"r-refl\">myself</span> to code.",
+          "es": "Aprendí a programar por mi cuenta."
+        },
+        {
+          "en": "They found <span class=\"r-refl\">themselves</span> without a reservation.",
+          "es": "Se encontraron sin reserva."
+        },
+        {
+          "en": "Be careful not to hurt <span class=\"r-refl\">yourself</span>.",
+          "es": "Ten cuidado de no hacerte daño."
+        },
+        {
+          "en": "The team organized the launch <span class=\"r-refl\">themselves</span>. <span style=\"color:var(--ink-faint)\">(enfático)</span>",
+          "es": "El equipo organizó el lanzamiento por su cuenta."
+        },
+        {
+          "en": "She reminded <span class=\"r-refl\">herself</span> to stay calm.",
+          "es": "Se recordó a sí misma que debía mantener la calma."
+        },
+        {
+          "en": "We owe it to <span class=\"r-refl\">ourselves</span> to try.",
+          "es": "Nos debemos a nosotros mismos intentarlo."
         }
       ],
       "tables": [],
@@ -542,6 +1127,51 @@
             "yourself"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b01-s6q4",
+          "question": "4. He cut <span class=\"blank\">___</span> while cooking. (a sí mismo)",
+          "options": [
+            "him",
+            "himself"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s6q5",
+          "question": "5. We painted the office <span class=\"blank\">___</span>. (nosotros mismos, enfático)",
+          "options": [
+            "ourselves",
+            "us"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s6q6",
+          "question": "6. Help <span class=\"blank\">___</span> to more cake, everyone. (a vosotros mismos)",
+          "options": [
+            "yourself",
+            "yourselves"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s6q7",
+          "question": "7. The app updates <span class=\"blank\">___</span> overnight. (a sí mismo)",
+          "options": [
+            "it",
+            "itself"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s6q8",
+          "question": "8. She wrote the speech <span class=\"blank\">___</span>. (ella misma, enfático)",
+          "options": [
+            "herself",
+            "her"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -601,6 +1231,66 @@
         {
           "en": "Nobody answered the phone.",
           "es": "Nadie contestó el teléfono."
+        },
+        {
+          "en": "<b class=\"hl\">Somebody</b> left a bag in the lobby.",
+          "es": "Alguien dejó un bolso en el vestíbulo."
+        },
+        {
+          "en": "Is there <b class=\"hl\">anyone</b> at the front desk?",
+          "es": "¿Hay alguien en recepción?"
+        },
+        {
+          "en": "<b class=\"hl\">Nothing</b> is more important than safety.",
+          "es": "Nada es más importante que la seguridad."
+        },
+        {
+          "en": "<b class=\"hl\">Everybody</b> received the memo.",
+          "es": "Todos recibieron el comunicado."
+        },
+        {
+          "en": "We didn't find <b class=\"hl\">anything</b> wrong with the room.",
+          "es": "No encontramos nada mal en la habitación."
+        },
+        {
+          "en": "<b class=\"hl\">Someone</b> from IT will call you back.",
+          "es": "Alguien de informática te devolverá la llamada."
+        },
+        {
+          "en": "There's <b class=\"hl\">nowhere</b> left to sit in the hall.",
+          "es": "No queda ningún sitio libre en el salón."
+        },
+        {
+          "en": "Would you like <b class=\"hl\">anything</b> else, sir?",
+          "es": "¿Desea algo más, señor?"
+        },
+        {
+          "en": "<b class=\"hl\">No one</b> answered the survey.",
+          "es": "Nadie respondió la encuesta."
+        },
+        {
+          "en": "<b class=\"hl\">Everything</b> is included in the package.",
+          "es": "Todo está incluido en el paquete."
+        },
+        {
+          "en": "I need <b class=\"hl\">someone</b> to cover the night shift.",
+          "es": "Necesito a alguien para cubrir el turno de noche."
+        },
+        {
+          "en": "Has <b class=\"hl\">anybody</b> seen the manager?",
+          "es": "¿Alguien ha visto al gerente?"
+        },
+        {
+          "en": "<b class=\"hl\">Nobody</b> complained about the service.",
+          "es": "Nadie se quejó del servicio."
+        },
+        {
+          "en": "There must be <b class=\"hl\">something</b> we can do.",
+          "es": "Tiene que haber algo que podamos hacer."
+        },
+        {
+          "en": "<b class=\"hl\">Everyone</b> here speaks English.",
+          "es": "Todos aquí hablan inglés."
         }
       ],
       "tables": [],
@@ -631,6 +1321,51 @@
             "anybody"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b01-s7q4",
+          "question": "4. <span class=\"blank\">___</span> knows the Wi-Fi password? (¿alguien? — pregunta)",
+          "options": [
+            "Someone",
+            "Anyone"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s7q5",
+          "question": "5. There's <span class=\"blank\">___</span> in the safe; it's empty. (nada — verbo afirmativo)",
+          "options": [
+            "nothing",
+            "anything"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s7q6",
+          "question": "6. I'd like <span class=\"blank\">___</span> to eat. (oferta/afirmativa)",
+          "options": [
+            "anything",
+            "something"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s7q7",
+          "question": "7. We couldn't reach <span class=\"blank\">___</span>. (a nadie — frase negativa)",
+          "options": [
+            "nobody",
+            "anybody"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s7q8",
+          "question": "8. <span class=\"blank\">___</span> was ready on time. (todo)",
+          "options": [
+            "Everything",
+            "Anything"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -690,6 +1425,66 @@
         {
           "en": "There's nowhere to park during the festival.",
           "es": "No hay ningún sitio para aparcar durante el festival."
+        },
+        {
+          "en": "The elevators are <b class=\"hl\">over there</b>, past the desk.",
+          "es": "Los ascensores están por allí, pasado el mostrador."
+        },
+        {
+          "en": "Leave your coat <b class=\"hl\">here</b> for now.",
+          "es": "Deja tu abrigo aquí de momento."
+        },
+        {
+          "en": "We can't upgrade you <b class=\"hl\">anywhere</b> this weekend.",
+          "es": "No podemos mejorarte a ninguna parte este fin de semana."
+        },
+        {
+          "en": "Let's find <b class=\"hl\">somewhere</b> to talk privately.",
+          "es": "Busquemos algún sitio para hablar en privado."
+        },
+        {
+          "en": "Guests come from <b class=\"hl\">everywhere</b> in summer.",
+          "es": "En verano vienen huéspedes de todas partes."
+        },
+        {
+          "en": "There's <b class=\"hl\">nowhere</b> to charge my phone.",
+          "es": "No hay ningún sitio para cargar el móvil."
+        },
+        {
+          "en": "Sign <b class=\"hl\">here</b> and keep the copy.",
+          "es": "Firme aquí y quédese con la copia."
+        },
+        {
+          "en": "The spa is <b class=\"hl\">downstairs</b>, near the pool.",
+          "es": "El spa está abajo, cerca de la piscina."
+        },
+        {
+          "en": "Is there a cash machine <b class=\"hl\">anywhere</b> nearby?",
+          "es": "¿Hay un cajero por aquí cerca?"
+        },
+        {
+          "en": "Put the boxes <b class=\"hl\">there</b>, against the wall.",
+          "es": "Pon las cajas ahí, contra la pared."
+        },
+        {
+          "en": "The restaurant is <b class=\"hl\">upstairs</b>, on the top floor.",
+          "es": "El restaurante está arriba, en la última planta."
+        },
+        {
+          "en": "We looked <b class=\"hl\">everywhere</b> for the lost ring.",
+          "es": "Buscamos el anillo perdido por todas partes."
+        },
+        {
+          "en": "You can wait <b class=\"hl\">here</b> until your room is ready.",
+          "es": "Puede esperar aquí hasta que su habitación esté lista."
+        },
+        {
+          "en": "There's a quiet corner <b class=\"hl\">somewhere</b> on this floor.",
+          "es": "Hay un rincón tranquilo en algún punto de esta planta."
+        },
+        {
+          "en": "The signal drops <b class=\"hl\">nowhere</b> except the basement.",
+          "es": "La señal solo se cae en el sótano, en ningún otro sitio."
         }
       ],
       "tables": [],
@@ -720,6 +1515,51 @@
             "somewhere"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b01-s8q4",
+          "question": "4. Come <span class=\"blank\">___</span>, I'll show you the room. (aquí — sin preposición)",
+          "options": [
+            "to here",
+            "here"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s8q5",
+          "question": "5. I've looked <span class=\"blank\">___</span> and can't find it. (por todas partes)",
+          "options": [
+            "everywhere",
+            "somewhere"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s8q6",
+          "question": "6. There's <span class=\"blank\">___</span> to park near the venue. (en ningún sitio)",
+          "options": [
+            "anywhere",
+            "nowhere"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s8q7",
+          "question": "7. Is there a pharmacy <span class=\"blank\">___</span> around here? (pregunta)",
+          "options": [
+            "anywhere",
+            "somewhere"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s8q8",
+          "question": "8. Let's grab a coffee <span class=\"blank\">___</span> quiet. (algún sitio — afirmativa)",
+          "options": [
+            "anywhere",
+            "somewhere"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -731,6 +1571,1558 @@
         {
           "type": "emphasis",
           "text": "here / there son adverbios: <b>no llevan preposición</b>. Se dice 'Come <b>here</b>', nunca 'come to here'."
+        }
+      ]
+    },
+    {
+      "idx": "1.9",
+      "title": "Artículos: a / an / the / Ø",
+      "level": "A1",
+      "rule": "Los artículos son determinantes que preceden al sustantivo. <b>a/an</b> (indefinido) presenta algo <b>por primera vez</b> o no específico: <b>a</b> ante sonido consonántico (a hotel, a university) y <b>an</b> ante sonido vocálico (an hour, an email). <b>the</b> (definido) se usa cuando emisor y receptor <b>saben cuál</b> es (ya mencionado, único, o por contexto). El <b>artículo cero (Ø)</b> aparece con plurales o incontables en sentido general (Ø prices rose) y con la mayoría de nombres propios. Regla de oro: primera mención <b>a/an</b>, mención posterior <b>the</b>.",
+      "examples": [
+        {
+          "en": "We booked <b class=\"hl\">a</b> room with <b class=\"hl\">a</b> sea view.",
+          "es": "Reservamos una habitación con vistas al mar."
+        },
+        {
+          "en": "It takes <b class=\"hl\">an</b> hour to reach the resort.",
+          "es": "Se tarda una hora en llegar al resort."
+        },
+        {
+          "en": "She works at <b class=\"hl\">a</b> university in Madrid.",
+          "es": "Ella trabaja en una universidad de Madrid."
+        },
+        {
+          "en": "There's <b class=\"hl\">a</b> problem with <b class=\"hl\">the</b> booking.",
+          "es": "Hay un problema con la reserva."
+        },
+        {
+          "en": "I sent you <b class=\"hl\">an</b> email; did you read <b class=\"hl\">the</b> email?",
+          "es": "Te envié un email; ¿leíste el email?"
+        },
+        {
+          "en": "<b class=\"hl\">The</b> manager will see you now.",
+          "es": "El gerente le atenderá ahora."
+        },
+        {
+          "en": "Ø Prices rose last quarter.",
+          "es": "Los precios subieron el trimestre pasado."
+        },
+        {
+          "en": "We serve Ø breakfast until ten.",
+          "es": "Servimos desayuno hasta las diez."
+        },
+        {
+          "en": "He is <b class=\"hl\">a</b> receptionist and <b class=\"hl\">an</b> excellent one.",
+          "es": "Es recepcionista, y uno excelente."
+        },
+        {
+          "en": "Could I have <b class=\"hl\">a</b> glass of water?",
+          "es": "¿Me pone un vaso de agua?"
+        },
+        {
+          "en": "<b class=\"hl\">The</b> sun is very strong here in July.",
+          "es": "El sol es muy fuerte aquí en julio."
+        },
+        {
+          "en": "She's <b class=\"hl\">the</b> best salesperson on the team.",
+          "es": "Es la mejor comercial del equipo."
+        },
+        {
+          "en": "We need Ø staff who speak Ø languages.",
+          "es": "Necesitamos personal que hable idiomas."
+        },
+        {
+          "en": "It was <b class=\"hl\">an</b> honest mistake.",
+          "es": "Fue un error sincero."
+        },
+        {
+          "en": "Take <b class=\"hl\">the</b> lift to <b class=\"hl\">the</b> third floor.",
+          "es": "Toma el ascensor hasta la tercera planta."
+        },
+        {
+          "en": "They opened <b class=\"hl\">a</b> hotel near <b class=\"hl\">the</b> airport.",
+          "es": "Abrieron un hotel cerca del aeropuerto."
+        },
+        {
+          "en": "Ø Guests love our rooftop bar.",
+          "es": "A los huéspedes les encanta nuestro bar en la azotea."
+        },
+        {
+          "en": "I'll be back in <b class=\"hl\">an</b> hour and <b class=\"hl\">a</b> half.",
+          "es": "Vuelvo en una hora y media."
+        },
+        {
+          "en": "<b class=\"hl\">The</b> Wi-Fi password is on <b class=\"hl\">the</b> card.",
+          "es": "La contraseña del wifi está en la tarjeta."
+        },
+        {
+          "en": "She gave <b class=\"hl\">a</b> speech at <b class=\"hl\">the</b> gala.",
+          "es": "Dio un discurso en la gala."
+        },
+        {
+          "en": "We don't charge Ø extra for children.",
+          "es": "No cobramos extra por los niños."
+        },
+        {
+          "en": "<b class=\"hl\">A</b> guest is waiting at <b class=\"hl\">the</b> desk.",
+          "es": "Un huésped espera en el mostrador."
+        },
+        {
+          "en": "He bought <b class=\"hl\">a</b> ticket, but lost <b class=\"hl\">the</b> ticket.",
+          "es": "Compró un billete, pero perdió el billete."
+        },
+        {
+          "en": "It's <b class=\"hl\">a</b> once-in-<b class=\"hl\">a</b>-lifetime offer.",
+          "es": "Es una oferta única en la vida."
+        },
+        {
+          "en": "Ø Honesty is the best policy in Ø business.",
+          "es": "La honestidad es la mejor política en los negocios."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s9q1",
+          "question": "1. It's <span class=\"blank\">___</span> honour to meet you. (sonido vocálico)",
+          "options": [
+            "a",
+            "an"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s9q2",
+          "question": "2. She stayed at <span class=\"blank\">___</span> hotel near the beach. (primera mención)",
+          "options": [
+            "a",
+            "the"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s9q3",
+          "question": "3. Please close <span class=\"blank\">___</span> door; it's the one behind you. (ya conocido)",
+          "options": [
+            "a",
+            "the"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s9q4",
+          "question": "4. He waited for <span class=\"blank\">___</span> hour. (sonido vocálico)",
+          "options": [
+            "a",
+            "an"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s9q5",
+          "question": "5. <span class=\"blank\">___</span> guests appreciate good service. (plural general)",
+          "options": [
+            "Ø (sin artículo)",
+            "The"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s9q6",
+          "question": "6. She's <span class=\"blank\">___</span> university student. (sonido consonántico 'yu')",
+          "options": [
+            "a",
+            "an"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s9q7",
+          "question": "7. I read <span class=\"blank\">___</span> book you recommended. (concreto, ya mencionado)",
+          "options": [
+            "a",
+            "the"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s9q8",
+          "question": "8. We offer <span class=\"blank\">___</span> free parking to all guests. (incontable general)",
+          "options": [
+            "the",
+            "Ø (sin artículo)"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases: en la primera presenta algo con <b>a/an</b>, y en la segunda vuelve a mencionarlo con <b>the</b>.",
+        "placeholder": "Ej: We hired a chef. The chef starts on Monday."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "La elección <b>a/an</b> depende del <b>sonido</b>, no de la letra: <b>an</b> hour (h muda), pero <b>a</b> university (suena 'yu'). Los nombres propios normalmente van sin artículo (Ø Spain), salvo excepciones con 'the' (the United States, the Alps)."
+        }
+      ]
+    },
+    {
+      "idx": "1.10",
+      "title": "Cuantificadores: some / any / no",
+      "level": "A1",
+      "rule": "Indican una cantidad indefinida. <b>some</b> (algo de, algunos) se usa en <b>afirmativas</b> y en <b>ofertas o peticiones</b> (Would you like some tea?). <b>any</b> (algo, nada, cualquiera) aparece en <b>negativas</b> y <b>preguntas</b> (Is there any milk?), y en afirmativas significa 'cualquiera' (any room will do). <b>no</b> (ningún) es negativo por sí mismo, así que el verbo va en <b>afirmativo</b> (There's no time). Sirven con incontables (some water) y con contables en plural (some rooms).",
+      "examples": [
+        {
+          "en": "There are <b class=\"hl\">some</b> rooms available tonight.",
+          "es": "Hay algunas habitaciones libres esta noche."
+        },
+        {
+          "en": "I don't have <b class=\"hl\">any</b> change, sorry.",
+          "es": "No tengo nada de cambio, lo siento."
+        },
+        {
+          "en": "Would you like <b class=\"hl\">some</b> coffee?",
+          "es": "¿Le apetece un café?"
+        },
+        {
+          "en": "Is there <b class=\"hl\">any</b> news about the flight?",
+          "es": "¿Hay alguna noticia sobre el vuelo?"
+        },
+        {
+          "en": "There's <b class=\"hl\">no</b> reason to worry.",
+          "es": "No hay razón para preocuparse."
+        },
+        {
+          "en": "We need <b class=\"hl\">some</b> volunteers for the event.",
+          "es": "Necesitamos algunos voluntarios para el evento."
+        },
+        {
+          "en": "He didn't make <b class=\"hl\">any</b> mistakes.",
+          "es": "No cometió ningún error."
+        },
+        {
+          "en": "Take <b class=\"hl\">any</b> seat you like.",
+          "es": "Siéntate donde quieras."
+        },
+        {
+          "en": "There's <b class=\"hl\">no</b> milk left in the fridge.",
+          "es": "No queda leche en la nevera."
+        },
+        {
+          "en": "Could I have <b class=\"hl\">some</b> more towels?",
+          "es": "¿Me traería más toallas?"
+        },
+        {
+          "en": "Do you have <b class=\"hl\">any</b> questions so far?",
+          "es": "¿Tienen alguna pregunta hasta ahora?"
+        },
+        {
+          "en": "<b class=\"hl\">Some</b> guests prefer a quiet floor.",
+          "es": "Algunos huéspedes prefieren una planta tranquila."
+        },
+        {
+          "en": "We have <b class=\"hl\">no</b> vacancies this week.",
+          "es": "No tenemos habitaciones libres esta semana."
+        },
+        {
+          "en": "Is there <b class=\"hl\">any</b> chance of a late checkout?",
+          "es": "¿Hay alguna posibilidad de un check-out tardío?"
+        },
+        {
+          "en": "I bought <b class=\"hl\">some</b> gifts for the clients.",
+          "es": "Compré algunos regalos para los clientes."
+        },
+        {
+          "en": "There aren't <b class=\"hl\">any</b> tables free right now.",
+          "es": "No hay ninguna mesa libre ahora mismo."
+        },
+        {
+          "en": "<b class=\"hl\">Any</b> feedback is welcome.",
+          "es": "Cualquier comentario es bienvenido."
+        },
+        {
+          "en": "She made <b class=\"hl\">some</b> excellent points.",
+          "es": "Ella planteó algunos puntos excelentes."
+        },
+        {
+          "en": "We have <b class=\"hl\">no</b> record of your reservation.",
+          "es": "No tenemos constancia de su reserva."
+        },
+        {
+          "en": "Would you like <b class=\"hl\">some</b> help with your bags?",
+          "es": "¿Le ayudo con las maletas?"
+        },
+        {
+          "en": "There isn't <b class=\"hl\">any</b> parking near the venue.",
+          "es": "No hay aparcamiento cerca del recinto."
+        },
+        {
+          "en": "Give me <b class=\"hl\">some</b> time to check.",
+          "es": "Dame algo de tiempo para comprobarlo."
+        },
+        {
+          "en": "Are there <b class=\"hl\">any</b> allergies we should know about?",
+          "es": "¿Hay alguna alergia que debamos conocer?"
+        },
+        {
+          "en": "There's <b class=\"hl\">no</b> extra charge for breakfast.",
+          "es": "No hay ningún cargo extra por el desayuno."
+        },
+        {
+          "en": "I'll take <b class=\"hl\">any</b> room with a balcony.",
+          "es": "Me quedo con cualquier habitación que tenga balcón."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s10q1",
+          "question": "1. There are <span class=\"blank\">___</span> messages for you. (afirmativa)",
+          "options": [
+            "some",
+            "any"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s10q2",
+          "question": "2. I don't need <span class=\"blank\">___</span> help, thanks. (negativa)",
+          "options": [
+            "some",
+            "any"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s10q3",
+          "question": "3. Would you like <span class=\"blank\">___</span> water? (oferta)",
+          "options": [
+            "some",
+            "any"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s10q4",
+          "question": "4. There's <span class=\"blank\">___</span> time to lose. (ninguna — verbo afirmativo)",
+          "options": [
+            "no",
+            "any"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s10q5",
+          "question": "5. Is there <span class=\"blank\">___</span> coffee left? (pregunta)",
+          "options": [
+            "some",
+            "any"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s10q6",
+          "question": "6. Sit anywhere; <span class=\"blank\">___</span> table is fine. (cualquiera, afirmativa)",
+          "options": [
+            "any",
+            "no"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s10q7",
+          "question": "7. We made <span class=\"blank\">___</span> progress today. (afirmativa, incontable)",
+          "options": [
+            "any",
+            "some"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s10q8",
+          "question": "8. They have <span class=\"blank\">___</span> idea what happened. (ninguna — verbo afirmativo)",
+          "options": [
+            "no",
+            "any"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s10",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una oferta con <b>some</b>, una pregunta con <b>any</b> y una negación con <b>no</b>.",
+        "placeholder": "Ej: Would you like some tea? Is there any sugar? There's no rush."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>some</b> también aparece en preguntas cuando son <b>ofertas o peticiones</b> que esperan un 'sí' (Can I have <b>some</b> water?). Y <b>any</b> en afirmativas significa 'cualquiera' (<b>any</b> time is fine)."
+        }
+      ]
+    },
+    {
+      "idx": "1.11",
+      "title": "much / many / a lot of / (a) few / (a) little",
+      "level": "A2",
+      "rule": "La cantidad cambia según el sustantivo sea <b>contable</b> o <b>incontable</b>. <b>many</b> + contables (many rooms); <b>much</b> + incontables (much time), casi siempre en negativas/preguntas. <b>a lot of / lots of</b> valen para ambos y dominan en afirmativas (a lot of guests, a lot of money). Poca cantidad: <b>(a) few</b> + contables, <b>(a) little</b> + incontables. Ojo al matiz: <b>a few / a little</b> = 'algo, suficiente' (positivo); <b>few / little</b> (sin 'a') = 'casi nada' (negativo).",
+      "examples": [
+        {
+          "en": "How <b class=\"hl\">many</b> guests are checking in today?",
+          "es": "¿Cuántos huéspedes hacen el check-in hoy?"
+        },
+        {
+          "en": "We don't have <b class=\"hl\">much</b> time before the event.",
+          "es": "No tenemos mucho tiempo antes del evento."
+        },
+        {
+          "en": "There were <b class=\"hl\">a lot of</b> complaints last month.",
+          "es": "Hubo muchas quejas el mes pasado."
+        },
+        {
+          "en": "Only <b class=\"hl\">a few</b> rooms are still free.",
+          "es": "Solo quedan unas pocas habitaciones libres."
+        },
+        {
+          "en": "Add <b class=\"hl\">a little</b> milk to the coffee.",
+          "es": "Añade un poco de leche al café."
+        },
+        {
+          "en": "<b class=\"hl\">Few</b> people booked the early tour.",
+          "es": "Poca gente reservó el tour temprano."
+        },
+        {
+          "en": "We made <b class=\"hl\">a lot of</b> money this season.",
+          "es": "Ganamos mucho dinero esta temporada."
+        },
+        {
+          "en": "There's <b class=\"hl\">little</b> hope of a refund now.",
+          "es": "Hay pocas esperanzas de un reembolso ya."
+        },
+        {
+          "en": "How <b class=\"hl\">much</b> does a night cost?",
+          "es": "¿Cuánto cuesta una noche?"
+        },
+        {
+          "en": "<b class=\"hl\">Many</b> of our guests return every year.",
+          "es": "Muchos de nuestros huéspedes vuelven cada año."
+        },
+        {
+          "en": "I have <b class=\"hl\">a few</b> ideas for the campaign.",
+          "es": "Tengo unas cuantas ideas para la campaña."
+        },
+        {
+          "en": "She speaks <b class=\"hl\">a little</b> Spanish.",
+          "es": "Ella habla un poco de español."
+        },
+        {
+          "en": "We don't get <b class=\"hl\">many</b> cancellations.",
+          "es": "No tenemos muchas cancelaciones."
+        },
+        {
+          "en": "There isn't <b class=\"hl\">much</b> room in the safe.",
+          "es": "No hay mucho espacio en la caja fuerte."
+        },
+        {
+          "en": "<b class=\"hl\">A lot of</b> staff called in sick.",
+          "es": "Mucho personal llamó para decir que estaba enfermo."
+        },
+        {
+          "en": "Very <b class=\"hl\">few</b> clients read the small print.",
+          "es": "Muy pocos clientes leen la letra pequeña."
+        },
+        {
+          "en": "Give it <b class=\"hl\">a little</b> more thought.",
+          "es": "Piénsalo un poco más."
+        },
+        {
+          "en": "How <b class=\"hl\">many</b> languages do you speak?",
+          "es": "¿Cuántos idiomas hablas?"
+        },
+        {
+          "en": "We spent <b class=\"hl\">a lot of</b> time on the proposal.",
+          "es": "Dedicamos mucho tiempo a la propuesta."
+        },
+        {
+          "en": "There's <b class=\"hl\">little</b> difference between the two rooms.",
+          "es": "Hay poca diferencia entre las dos habitaciones."
+        },
+        {
+          "en": "Only <b class=\"hl\">a little</b> patience is needed.",
+          "es": "Solo hace falta un poco de paciencia."
+        },
+        {
+          "en": "<b class=\"hl\">Many</b> thanks for your quick reply.",
+          "es": "Muchas gracias por su rápida respuesta."
+        },
+        {
+          "en": "We have <b class=\"hl\">a few</b> minutes before the call.",
+          "es": "Tenemos unos minutos antes de la llamada."
+        },
+        {
+          "en": "Not <b class=\"hl\">much</b> has changed since last year.",
+          "es": "No ha cambiado mucho desde el año pasado."
+        },
+        {
+          "en": "<b class=\"hl\">Few</b> hotels offer this at no charge.",
+          "es": "Pocos hoteles ofrecen esto sin coste."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s11q1",
+          "question": "1. How <span class=\"blank\">___</span> luggage do you have? (incontable)",
+          "options": [
+            "many",
+            "much"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s11q2",
+          "question": "2. There are <span class=\"blank\">___</span> tourists in August. (contable, afirmativa)",
+          "options": [
+            "a lot of",
+            "much"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s11q3",
+          "question": "3. We have <span class=\"blank\">___</span> rooms left — hurry! (pocas pero algunas, positivo)",
+          "options": [
+            "a few",
+            "few"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s11q4",
+          "question": "4. Sadly, <span class=\"blank\">___</span> guests came to the talk. (casi ninguno, negativo)",
+          "options": [
+            "a few",
+            "few"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s11q5",
+          "question": "5. Add <span class=\"blank\">___</span> salt, not too much. (incontable, positivo)",
+          "options": [
+            "a little",
+            "a few"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s11q6",
+          "question": "6. How <span class=\"blank\">___</span> nights will you stay? (contable)",
+          "options": [
+            "much",
+            "many"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s11q7",
+          "question": "7. There's <span class=\"blank\">___</span> point in waiting. (casi nada, incontable, negativo)",
+          "options": [
+            "a little",
+            "little"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s11q8",
+          "question": "8. We don't have <span class=\"blank\">___</span> time. (incontable, negativa)",
+          "options": [
+            "many",
+            "much"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s11",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>much/many</b>, otra con <b>a lot of</b> y una que contraste <b>a few</b> con <b>few</b>.",
+        "placeholder": "Ej: We have a lot of guests, but few complaints."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "El matiz de la 'a' es clave: <b>a few / a little</b> = 'algo, lo suficiente' (positivo); <b>few / little</b> = 'casi nada' (negativo). 'I have <b>a little</b> money' (puedo pagar) vs 'I have <b>little</b> money' (no me llega)."
+        }
+      ]
+    },
+    {
+      "idx": "1.12",
+      "title": "all / both / every / each",
+      "level": "A2",
+      "rule": "Cuantifican grupos, pero con matices. <b>all</b> = el total (3+), va con plural o incontable (all guests, all day). <b>both</b> = los dos (exactamente 2) + plural (both rooms). <b>every</b> = cada uno visto como el conjunto completo, + singular (every guest matters). <b>each</b> = cada uno visto de forma individual, + singular (each room has a key). Every/each se parecen: usa <b>each</b> para grupos pequeños o cuando resaltas lo individual; <b>every</b> para generalizar o con grupos grandes.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">All</b> guests must check out by noon.",
+          "es": "Todos los huéspedes deben salir antes del mediodía."
+        },
+        {
+          "en": "<b class=\"hl\">Both</b> suites have a private balcony.",
+          "es": "Ambas suites tienen balcón privado."
+        },
+        {
+          "en": "<b class=\"hl\">Every</b> room comes with free Wi-Fi.",
+          "es": "Cada habitación incluye wifi gratis."
+        },
+        {
+          "en": "<b class=\"hl\">Each</b> guest receives a welcome drink.",
+          "es": "Cada huésped recibe una bebida de bienvenida."
+        },
+        {
+          "en": "We worked <b class=\"hl\">all</b> weekend on the launch.",
+          "es": "Trabajamos todo el fin de semana en el lanzamiento."
+        },
+        {
+          "en": "<b class=\"hl\">Both</b> of us signed the contract.",
+          "es": "Los dos firmamos el contrato."
+        },
+        {
+          "en": "<b class=\"hl\">Every</b> detail was checked twice.",
+          "es": "Cada detalle se revisó dos veces."
+        },
+        {
+          "en": "<b class=\"hl\">Each</b> of the reports needs a signature.",
+          "es": "Cada uno de los informes necesita una firma."
+        },
+        {
+          "en": "<b class=\"hl\">All</b> the information is on the website.",
+          "es": "Toda la información está en la web."
+        },
+        {
+          "en": "I liked <b class=\"hl\">both</b> options equally.",
+          "es": "Me gustaron ambas opciones por igual."
+        },
+        {
+          "en": "<b class=\"hl\">Every</b> employee got a bonus.",
+          "es": "Cada empleado recibió una bonificación."
+        },
+        {
+          "en": "We gave <b class=\"hl\">each</b> client a personal tour.",
+          "es": "Dimos a cada cliente una visita personalizada."
+        },
+        {
+          "en": "<b class=\"hl\">All</b> of them arrived on time.",
+          "es": "Todos ellos llegaron a tiempo."
+        },
+        {
+          "en": "<b class=\"hl\">Both</b> flights were delayed.",
+          "es": "Ambos vuelos se retrasaron."
+        },
+        {
+          "en": "Almost <b class=\"hl\">every</b> table was booked.",
+          "es": "Casi todas las mesas estaban reservadas."
+        },
+        {
+          "en": "<b class=\"hl\">Each</b> floor has its own manager.",
+          "es": "Cada planta tiene su propio responsable."
+        },
+        {
+          "en": "<b class=\"hl\">All</b> feedback helps us improve.",
+          "es": "Todos los comentarios nos ayudan a mejorar."
+        },
+        {
+          "en": "You can pick <b class=\"hl\">either</b>, or <b class=\"hl\">both</b>.",
+          "es": "Puedes elegir cualquiera, o los dos."
+        },
+        {
+          "en": "<b class=\"hl\">Every</b> time she calls, it's urgent.",
+          "es": "Cada vez que llama, es urgente."
+        },
+        {
+          "en": "<b class=\"hl\">Each</b> ticket has a unique code.",
+          "es": "Cada entrada tiene un código único."
+        },
+        {
+          "en": "We reviewed <b class=\"hl\">all</b> the applications.",
+          "es": "Revisamos todas las solicitudes."
+        },
+        {
+          "en": "<b class=\"hl\">Both</b> managers agreed on the price.",
+          "es": "Ambos gerentes acordaron el precio."
+        },
+        {
+          "en": "<b class=\"hl\">Every</b> guest counts, no matter the rate.",
+          "es": "Cada huésped cuenta, sea cual sea la tarifa."
+        },
+        {
+          "en": "Give <b class=\"hl\">each</b> department a copy.",
+          "es": "Dale a cada departamento una copia."
+        },
+        {
+          "en": "<b class=\"hl\">All</b> in all, it was a great year.",
+          "es": "En resumen, fue un gran año."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s12q1",
+          "question": "1. <span class=\"blank\">___</span> room has a safe. (cada, + singular)",
+          "options": [
+            "Every",
+            "All"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s12q2",
+          "question": "2. <span class=\"blank\">___</span> hotels were fully booked. (todos, 3+)",
+          "options": [
+            "Both",
+            "All"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s12q3",
+          "question": "3. I visited <span class=\"blank\">___</span> resorts — the two of them. (exactamente 2)",
+          "options": [
+            "both",
+            "every"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s12q4",
+          "question": "4. <span class=\"blank\">___</span> of the two answers is correct. (cada uno de los dos)",
+          "options": [
+            "Every",
+            "Each"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s12q5",
+          "question": "5. We stayed there <span class=\"blank\">___</span> summer. (todo el, incontable)",
+          "options": [
+            "all",
+            "every"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s12q6",
+          "question": "6. <span class=\"blank\">___</span> guest deserves attention. (cada, generalización)",
+          "options": [
+            "Each",
+            "Every"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s12q7",
+          "question": "7. <span class=\"blank\">___</span> of us wants this to work. (todos, +de3)",
+          "options": [
+            "Both",
+            "All"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s12q8",
+          "question": "8. She gave <span class=\"blank\">___</span> child a gift. (cada, individual)",
+          "options": [
+            "each",
+            "all"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s12",
+        "label": "<span class=\"badge\">tu turno</span>Escribe cuatro frases cortas, una con <b>all</b>, otra con <b>both</b>, otra con <b>every</b> y otra con <b>each</b>.",
+        "placeholder": "Ej: Both rooms are ready. Each guest has a key."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>every</b> y <b>each</b> llevan verbo en <b>singular</b> (every room <b>has</b>…, not have). <b>both</b> es solo para <b>dos</b>; para tres o más se usa <b>all</b>. Con incontables y periodos: 'all day', nunca 'every day' con el mismo sentido."
+        }
+      ]
+    },
+    {
+      "idx": "1.13",
+      "title": "either / neither / none",
+      "level": "B1",
+      "rule": "Sirven para hablar de opciones en negativo o de elección entre dos. <b>either</b> = 'cualquiera de los dos' o 'uno u otro' (either date works); en negativas, 'ninguno de los dos' (I don't like either). <b>neither</b> = 'ninguno de los dos', ya es negativo, así que el verbo va en <b>afirmativo</b> y en <b>singular</b> (neither option is good). <b>none</b> = 'ninguno' de un grupo de tres o más (none of the rooms are ready). Construcciones típicas: <b>either… or</b> (uno u otro) y <b>neither… nor</b> (ni uno ni otro).",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">Either</b> Monday or Tuesday works for me.",
+          "es": "Me viene bien el lunes o el martes."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> option fits our budget.",
+          "es": "Ninguna de las dos opciones entra en el presupuesto."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of the rooms have a sea view.",
+          "es": "Ninguna de las habitaciones tiene vistas al mar."
+        },
+        {
+          "en": "You can take <b class=\"hl\">either</b> road; both lead there.",
+          "es": "Puedes tomar cualquiera de las dos carreteras; ambas llevan allí."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> the manager <b class=\"hl\">nor</b> the owner replied.",
+          "es": "Ni el gerente ni el propietario respondieron."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of us knew about the change.",
+          "es": "Ninguno de nosotros sabía del cambio."
+        },
+        {
+          "en": "I don't want <b class=\"hl\">either</b> of them.",
+          "es": "No quiero ninguno de los dos."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> answer is completely right.",
+          "es": "Ninguna respuesta es del todo correcta."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of the guests complained.",
+          "es": "Ninguno de los huéspedes se quejó."
+        },
+        {
+          "en": "We can meet <b class=\"hl\">either</b> today <b class=\"hl\">or</b> tomorrow.",
+          "es": "Podemos vernos hoy o mañana."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> flight was on time.",
+          "es": "Ninguno de los dos vuelos llegó a su hora."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of this was in the contract.",
+          "es": "Nada de esto estaba en el contrato."
+        },
+        {
+          "en": "There's parking on <b class=\"hl\">either</b> side of the street.",
+          "es": "Hay aparcamiento a ambos lados de la calle."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> of the keys worked.",
+          "es": "Ninguna de las dos llaves funcionó."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of the offers appealed to us.",
+          "es": "Ninguna de las ofertas nos atrajo."
+        },
+        {
+          "en": "\"I can't go.\" \"<b class=\"hl\">Neither</b> can I.\"",
+          "es": "«No puedo ir.» «Yo tampoco.»"
+        },
+        {
+          "en": "<b class=\"hl\">Either</b> way, we'll refund you.",
+          "es": "En cualquier caso, le reembolsaremos."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> restaurant takes walk-ins.",
+          "es": "Ninguno de los dos restaurantes acepta sin reserva."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of the staff were available.",
+          "es": "Ningún miembro del personal estaba disponible."
+        },
+        {
+          "en": "You may pay by <b class=\"hl\">either</b> card or cash.",
+          "es": "Puede pagar con tarjeta o en efectivo."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> of us is to blame.",
+          "es": "Ninguno de los dos tiene la culpa."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of these dates suit the client.",
+          "es": "Ninguna de estas fechas le conviene al cliente."
+        },
+        {
+          "en": "It's fine <b class=\"hl\">either</b> way for us.",
+          "es": "Para nosotros está bien de las dos maneras."
+        },
+        {
+          "en": "<b class=\"hl\">Neither</b> plan will work without more staff.",
+          "es": "Ninguno de los dos planes funcionará sin más personal."
+        },
+        {
+          "en": "<b class=\"hl\">None</b> of the feedback was negative.",
+          "es": "Ninguno de los comentarios fue negativo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s13q1",
+          "question": "1. <span class=\"blank\">___</span> of the two suites is free tonight. (ninguno de dos, verbo afirmativo)",
+          "options": [
+            "Neither",
+            "None"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s13q2",
+          "question": "2. <span class=\"blank\">___</span> of the ten rooms were ready. (ninguno de 3+)",
+          "options": [
+            "Neither",
+            "None"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s13q3",
+          "question": "3. You can sit on <span class=\"blank\">___</span> side. (cualquiera de los dos)",
+          "options": [
+            "either",
+            "none"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s13q4",
+          "question": "4. Neither the phone <span class=\"blank\">___</span> the email worked. (ni… ni)",
+          "options": [
+            "or",
+            "nor"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s13q5",
+          "question": "5. We can go <span class=\"blank\">___</span> Friday or Saturday. (uno u otro)",
+          "options": [
+            "either",
+            "neither"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s13q6",
+          "question": "6. <span class=\"blank\">___</span> answer convinced the client. (ninguna de las dos)",
+          "options": [
+            "None",
+            "Neither"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s13q7",
+          "question": "7. \"I'm not ready.\" \"<span class=\"blank\">___</span> am I.\" (yo tampoco)",
+          "options": [
+            "Neither",
+            "Either"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s13q8",
+          "question": "8. <span class=\"blank\">___</span> of the guests noticed the mistake. (ninguno del grupo)",
+          "options": [
+            "Neither",
+            "None"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s13",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>either… or</b>, otra con <b>neither… nor</b> y otra con <b>none of</b>.",
+        "placeholder": "Ej: Neither the lift nor the stairs were working."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>neither</b> y <b>none</b> ya son negativos: el verbo va en <b>afirmativo</b> (Neither <b>is</b> ready, not 'isn't'). En registro cuidado, 'neither/none of + singular' lleva verbo singular; en habla informal se oye en plural (None of them <b>were</b> here)."
+        }
+      ]
+    },
+    {
+      "idx": "1.14",
+      "title": "Genitivo sajón vs 'of' (posesión)",
+      "level": "A2",
+      "rule": "Para expresar pertenencia hay dos vías. El <b>genitivo sajón</b> ('s / s') se usa sobre todo con <b>personas, animales y tiempo</b>: <b>-'s</b> en singular y plurales irregulares (the guest's key, the children's menu) y solo <b>apóstrofo</b> tras plural en -s (the guests' keys). La estructura con <b>of</b> se prefiere para <b>cosas e ideas</b> (the price of the room, the end of the day). Con dos poseedores: 's en el segundo si comparten (Ann and Tom's office) o en ambos si no (Ann's and Tom's offices).",
+      "examples": [
+        {
+          "en": "This is the <b class=\"hl\">manager's</b> office.",
+          "es": "Esta es la oficina del gerente."
+        },
+        {
+          "en": "The <b class=\"hl\">guests'</b> luggage is in room 4.",
+          "es": "El equipaje de los huéspedes está en la habitación 4."
+        },
+        {
+          "en": "We updated the <b class=\"hl\">children's</b> menu.",
+          "es": "Actualizamos el menú infantil."
+        },
+        {
+          "en": "What's the <b class=\"hl\">price of</b> the suite?",
+          "es": "¿Cuál es el precio de la suite?"
+        },
+        {
+          "en": "At the <b class=\"hl\">end of</b> the day, guests want comfort.",
+          "es": "Al final del día, los huéspedes quieren comodidad."
+        },
+        {
+          "en": "That's <b class=\"hl\">Sara's</b> desk, not mine.",
+          "es": "Ese es el escritorio de Sara, no el mío."
+        },
+        {
+          "en": "The <b class=\"hl\">company's</b> logo is on every door.",
+          "es": "El logotipo de la empresa está en cada puerta."
+        },
+        {
+          "en": "It's a <b class=\"hl\">week's</b> holiday.",
+          "es": "Son unas vacaciones de una semana."
+        },
+        {
+          "en": "The <b class=\"hl\">roof of</b> the building needs repair.",
+          "es": "El tejado del edificio necesita reparación."
+        },
+        {
+          "en": "<b class=\"hl\">Ann and Tom's</b> project won the award.",
+          "es": "El proyecto de Ann y Tom ganó el premio."
+        },
+        {
+          "en": "The <b class=\"hl\">client's</b> feedback was very positive.",
+          "es": "Los comentarios del cliente fueron muy positivos."
+        },
+        {
+          "en": "We doubled the <b class=\"hl\">restaurant's</b> capacity.",
+          "es": "Duplicamos el aforo del restaurante."
+        },
+        {
+          "en": "The <b class=\"hl\">women's</b> spa is on the second floor.",
+          "es": "El spa de mujeres está en la segunda planta."
+        },
+        {
+          "en": "I love the <b class=\"hl\">colour of</b> the walls.",
+          "es": "Me encanta el color de las paredes."
+        },
+        {
+          "en": "Today's special is the <b class=\"hl\">chef's</b> choice.",
+          "es": "El especial de hoy es la elección del chef."
+        },
+        {
+          "en": "The <b class=\"hl\">staff's</b> effort made the difference.",
+          "es": "El esfuerzo del personal marcó la diferencia."
+        },
+        {
+          "en": "It was a <b class=\"hl\">two hours'</b> delay.",
+          "es": "Fue un retraso de dos horas."
+        },
+        {
+          "en": "The <b class=\"hl\">cover of</b> the report looks great.",
+          "es": "La portada del informe queda genial."
+        },
+        {
+          "en": "That's the <b class=\"hl\">owners'</b> private entrance.",
+          "es": "Esa es la entrada privada de los propietarios."
+        },
+        {
+          "en": "The <b class=\"hl\">city's</b> best hotel is fully booked.",
+          "es": "El mejor hotel de la ciudad está completo."
+        },
+        {
+          "en": "Have you seen <b class=\"hl\">James's</b> new proposal?",
+          "es": "¿Has visto la nueva propuesta de James?"
+        },
+        {
+          "en": "The <b class=\"hl\">size of</b> the room surprised them.",
+          "es": "El tamaño de la habitación les sorprendió."
+        },
+        {
+          "en": "We follow the <b class=\"hl\">team's</b> schedule.",
+          "es": "Seguimos el horario del equipo."
+        },
+        {
+          "en": "The <b class=\"hl\">start of</b> the season is always busy.",
+          "es": "El inicio de la temporada siempre es de mucho trabajo."
+        },
+        {
+          "en": "It's on the <b class=\"hl\">tip of</b> my tongue.",
+          "es": "Lo tengo en la punta de la lengua."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s14q1",
+          "question": "1. That's the <span class=\"blank\">___</span> car. (de mi jefe, persona singular)",
+          "options": [
+            "boss's",
+            "boss of"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s14q2",
+          "question": "2. Where is the <span class=\"blank\">___</span> lounge? (de los huéspedes, plural en -s)",
+          "options": [
+            "guests's",
+            "guests'"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s14q3",
+          "question": "3. What's the <span class=\"blank\">___</span> the tour? (precio de — cosa)",
+          "options": [
+            "price of",
+            "price's"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s14q4",
+          "question": "4. The <span class=\"blank\">___</span> menu is new. (de los niños, plural irregular)",
+          "options": [
+            "childrens'",
+            "children's"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s14q5",
+          "question": "5. It was a <span class=\"blank\">___</span> delay. (de una hora, tiempo)",
+          "options": [
+            "hour delay",
+            "hour's delay"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s14q6",
+          "question": "6. We admired the <span class=\"blank\">___</span> the building. (diseño de — cosa)",
+          "options": [
+            "design of",
+            "design's"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s14q7",
+          "question": "7. This is <span class=\"blank\">___</span> report. (de Ana y Luis, compartido)",
+          "options": [
+            "Ana's and Luis's",
+            "Ana and Luis's"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s14q8",
+          "question": "8. The <span class=\"blank\">___</span> decision is final. (de la empresa)",
+          "options": [
+            "company's",
+            "company of"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s14",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con genitivo sajón (persona) y otra con <b>of</b> (cosa).",
+        "placeholder": "Ej: The manager's decision. The end of the meeting."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras un plural terminado en -s solo se añade el <b>apóstrofo</b> (the guests' keys), pero los plurales <b>irregulares</b> llevan 's (the children's, the women's, the men's). Con cosas suele sonar mejor <b>of</b> (the leg of the table), aunque el genitivo se admite en muchos casos fijos."
+        }
+      ]
+    },
+    {
+      "idx": "1.15",
+      "title": "'one' / 'ones' (pro-forma)",
+      "level": "A2",
+      "rule": "<b>one</b> (singular) y <b>ones</b> (plural) sustituyen a un sustantivo <b>contable</b> ya mencionado para no repetirlo (I'll take the red one). Se usan tras un adjetivo (a cheaper one), tras this/that/these/those (I prefer these ones) y en preguntas de elección (Which one?). No sustituyen incontables: para 'agua', 'dinero' o 'información' se omite o se usa 'some', nunca 'one'. Con posesivos o números suele bastar el adjetivo solo (I like yours), pero 'one/ones' aclara cuando hay ambigüedad.",
+      "examples": [
+        {
+          "en": "I'll take the blue <b class=\"hl\">one</b>.",
+          "es": "Me llevo el azul."
+        },
+        {
+          "en": "These rooms are nicer than the old <b class=\"hl\">ones</b>.",
+          "es": "Estas habitaciones son mejores que las antiguas."
+        },
+        {
+          "en": "Which <b class=\"hl\">one</b> do you recommend?",
+          "es": "¿Cuál recomiendas?"
+        },
+        {
+          "en": "I need a pen. Do you have <b class=\"hl\">one</b>?",
+          "es": "Necesito un boli. ¿Tienes uno?"
+        },
+        {
+          "en": "The small suites book faster than the big <b class=\"hl\">ones</b>.",
+          "es": "Las suites pequeñas se reservan antes que las grandes."
+        },
+        {
+          "en": "That's a good idea, but I have a better <b class=\"hl\">one</b>.",
+          "es": "Es buena idea, pero tengo una mejor."
+        },
+        {
+          "en": "Which <b class=\"hl\">ones</b> are on sale?",
+          "es": "¿Cuáles están en oferta?"
+        },
+        {
+          "en": "This key doesn't work; try the other <b class=\"hl\">one</b>.",
+          "es": "Esta llave no funciona; prueba la otra."
+        },
+        {
+          "en": "I prefer the quiet <b class=\"hl\">ones</b> at the back.",
+          "es": "Prefiero las tranquilas del fondo."
+        },
+        {
+          "en": "He's the <b class=\"hl\">one</b> who handled your complaint.",
+          "es": "Él es quien gestionó tu queja."
+        },
+        {
+          "en": "Are these the tickets? — No, the printed <b class=\"hl\">ones</b>.",
+          "es": "¿Son estas las entradas? — No, las impresas."
+        },
+        {
+          "en": "A window seat? I'd love <b class=\"hl\">one</b>.",
+          "es": "¿Un asiento de ventanilla? Me encantaría uno."
+        },
+        {
+          "en": "The new brochures look better than the old <b class=\"hl\">ones</b>.",
+          "es": "Los folletos nuevos quedan mejor que los antiguos."
+        },
+        {
+          "en": "Which <b class=\"hl\">one</b> is cheaper?",
+          "es": "¿Cuál es más barato?"
+        },
+        {
+          "en": "I lost my card, so they gave me a new <b class=\"hl\">one</b>.",
+          "es": "Perdí mi tarjeta, así que me dieron una nueva."
+        },
+        {
+          "en": "The best rooms are the corner <b class=\"hl\">ones</b>.",
+          "es": "Las mejores habitaciones son las de esquina."
+        },
+        {
+          "en": "Do you want a big towel or a small <b class=\"hl\">one</b>?",
+          "es": "¿Quieres una toalla grande o una pequeña?"
+        },
+        {
+          "en": "These chairs are broken; we need new <b class=\"hl\">ones</b>.",
+          "es": "Estas sillas están rotas; necesitamos nuevas."
+        },
+        {
+          "en": "Is there a later flight? — Yes, there's <b class=\"hl\">one</b> at nine.",
+          "es": "¿Hay un vuelo más tarde? — Sí, hay uno a las nueve."
+        },
+        {
+          "en": "I like this design more than that <b class=\"hl\">one</b>.",
+          "es": "Me gusta más este diseño que aquel."
+        },
+        {
+          "en": "The cheap <b class=\"hl\">ones</b> sold out first.",
+          "es": "Los baratos se agotaron primero."
+        },
+        {
+          "en": "Which <b class=\"hl\">one</b> of you took the call?",
+          "es": "¿Cuál de vosotros atendió la llamada?"
+        },
+        {
+          "en": "That suite? We don't have a free <b class=\"hl\">one</b> tonight.",
+          "es": "¿Esa suite? No tenemos ninguna libre esta noche."
+        },
+        {
+          "en": "The red folders are mine; the green <b class=\"hl\">ones</b> are hers.",
+          "es": "Las carpetas rojas son mías; las verdes, de ella."
+        },
+        {
+          "en": "This offer is good, but the last <b class=\"hl\">one</b> was better.",
+          "es": "Esta oferta está bien, pero la anterior era mejor."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s15q1",
+          "question": "1. I don't like this room; I prefer that <span class=\"blank\">___</span>. (singular)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s15q2",
+          "question": "2. The new chairs are comfier than the old <span class=\"blank\">___</span>. (plural)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s15q3",
+          "question": "3. Which <span class=\"blank\">___</span> would you like? (elección, singular)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s15q4",
+          "question": "4. I need some water. → 'one' aquí sería... (incontable)",
+          "options": [
+            "correcto",
+            "incorrecto: no se usa 'one'"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s15q5",
+          "question": "5. Do you have a charger? I forgot to bring <span class=\"blank\">___</span>. (singular)",
+          "options": [
+            "one",
+            "it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s15q6",
+          "question": "6. The quiet <span class=\"blank\">___</span> at the back are the best. (plural)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s15q7",
+          "question": "7. This key is broken; use the other <span class=\"blank\">___</span>. (singular)",
+          "options": [
+            "ones",
+            "one"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s15q8",
+          "question": "8. Which <span class=\"blank\">___</span> are on offer this week? (plural)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b01-s15",
+        "label": "<span class=\"badge\">tu turno</span>Responde a una elección usando <b>one</b> y compara dos grupos usando <b>ones</b>.",
+        "placeholder": "Ej: I'll take the small one. The new ones are better."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>one/ones</b> solo sustituye <b>contables</b>: no se usa con incontables (agua, dinero, información) — ahí se omite o se usa 'some'. Tras un posesivo solo suele bastar el posesivo ('That's my <b>one</b>' suena raro → 'That's <b>mine</b>')."
+        }
+      ]
+    },
+    {
+      "idx": "1.16",
+      "title": "'it' y 'there' como sujetos (impersonal / existencial)",
+      "level": "A2",
+      "rule": "En inglés el sujeto casi nunca se omite, así que se usan sujetos 'vacíos'. <b>there + be</b> introduce la <b>existencia</b> de algo ('hay'): concuerda con lo que sigue (there <b>is</b> a problem / there <b>are</b> two rooms). <b>it</b> es el sujeto <b>impersonal</b> para el tiempo atmosférico, la hora, la distancia, la temperatura y valoraciones (it's raining, it's five o'clock, it's easy to book). No confundas: 'hay' = <b>there is/are</b>, nunca 'it has' ni 'have'. En español ambos suelen no traducirse, pero en inglés son obligatorios.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">There is</b> a message for you at reception.",
+          "es": "Hay un mensaje para usted en recepción."
+        },
+        {
+          "en": "<b class=\"hl\">There are</b> two conferences this week.",
+          "es": "Hay dos congresos esta semana."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> raining, so the pool is closed.",
+          "es": "Está lloviendo, así que la piscina está cerrada."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> almost noon; let's check out.",
+          "es": "Es casi mediodía; hagamos el check-out."
+        },
+        {
+          "en": "<b class=\"hl\">There isn't</b> any hot water in room 12.",
+          "es": "No hay agua caliente en la habitación 12."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> a two-hour drive to the resort.",
+          "es": "Hay dos horas de coche hasta el resort."
+        },
+        {
+          "en": "<b class=\"hl\">Is there</b> a lift to the top floor?",
+          "es": "¿Hay ascensor hasta la última planta?"
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> important to confirm by email.",
+          "es": "Es importante confirmar por email."
+        },
+        {
+          "en": "<b class=\"hl\">There was</b> a delay with the shuttle.",
+          "es": "Hubo un retraso con el autobús."
+        },
+        {
+          "en": "<b class=\"hl\">It was</b> very cold last night.",
+          "es": "Anoche hizo mucho frío."
+        },
+        {
+          "en": "<b class=\"hl\">There were</b> no complaints this month.",
+          "es": "No hubo quejas este mes."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> easy to get lost in the old town.",
+          "es": "Es fácil perderse en el casco antiguo."
+        },
+        {
+          "en": "<b class=\"hl\">There's</b> someone waiting for you.",
+          "es": "Hay alguien esperándole."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> 35 degrees outside today.",
+          "es": "Hoy hace 35 grados fuera."
+        },
+        {
+          "en": "<b class=\"hl\">Are there</b> any vegetarian options?",
+          "es": "¿Hay opciones vegetarianas?"
+        },
+        {
+          "en": "<b class=\"hl\">It takes</b> ten minutes to walk there.",
+          "es": "Se tarda diez minutos andando hasta allí."
+        },
+        {
+          "en": "<b class=\"hl\">There will be</b> a welcome reception at seven.",
+          "es": "Habrá una recepción de bienvenida a las siete."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> a pleasure to have you with us.",
+          "es": "Es un placer tenerle con nosotros."
+        },
+        {
+          "en": "<b class=\"hl\">There have been</b> some changes to the schedule.",
+          "es": "Ha habido algunos cambios en el horario."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> worth booking early.",
+          "es": "Vale la pena reservar con antelación."
+        },
+        {
+          "en": "<b class=\"hl\">There's</b> no need to tip here.",
+          "es": "No hace falta dar propina aquí."
+        },
+        {
+          "en": "<b class=\"hl\">It seems</b> the payment didn't go through.",
+          "es": "Parece que el pago no se procesó."
+        },
+        {
+          "en": "<b class=\"hl\">There are</b> plenty of taxis outside.",
+          "es": "Hay muchos taxis fuera."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> Friday, so the bar closes late.",
+          "es": "Es viernes, así que el bar cierra tarde."
+        },
+        {
+          "en": "<b class=\"hl\">Is it</b> far to the station?",
+          "es": "¿Está lejos la estación?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b01-s16q1",
+          "question": "1. <span class=\"blank\">___</span> a problem with the booking. (hay, singular)",
+          "options": [
+            "There is",
+            "It is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s16q2",
+          "question": "2. <span class=\"blank\">___</span> raining outside. (tiempo atmosférico)",
+          "options": [
+            "There's",
+            "It's"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s16q3",
+          "question": "3. <span class=\"blank\">___</span> three guests waiting. (hay, plural)",
+          "options": [
+            "There are",
+            "It are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s16q4",
+          "question": "4. <span class=\"blank\">___</span> two o'clock already. (la hora)",
+          "options": [
+            "There's",
+            "It's"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s16q5",
+          "question": "5. <span class=\"blank\">___</span> any rooms left? (¿hay?, pregunta)",
+          "options": [
+            "Are there",
+            "Is it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b01-s16q6",
+          "question": "6. <span class=\"blank\">___</span> a long way to the airport. (distancia, impersonal)",
+          "options": [
+            "There's",
+            "It's"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s16q7",
+          "question": "7. <span class=\"blank\">___</span> no hot water this morning. (no hay)",
+          "options": [
+            "It's",
+            "There's"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b01-s16q8",
+          "question": "8. <span class=\"blank\">___</span> important to arrive early. (valoración + to)",
+          "options": [
+            "It's",
+            "There's"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b01-s16",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>there is/are</b> (existencia) y otra con <b>it's</b> (tiempo, hora o valoración).",
+        "placeholder": "Ej: There are two lifts. It's easy to find."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "'Hay' es siempre <b>there is/are</b>, nunca 'it has' ni 'have' (There <b>is</b> a garden, no 'It has a garden' para 'hay un jardín'). <b>there</b> concuerda con el sustantivo que le sigue: there <b>is</b> one room, there <b>are</b> many rooms."
         }
       ]
     }
