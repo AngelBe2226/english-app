@@ -51,6 +51,58 @@
         {
           "en": "\"Why did you refund the full amount?\" \"You didn't have to <b class=\"hl\">do that</b>.\"",
           "es": "\"¿Por qué reembolsaste el importe completo?\" \"No tenías que hacer eso.\""
+        },
+        {
+          "en": "Guests must check out by noon; please <b class=\"hl\">do so</b> promptly.",
+          "es": "Los huéspedes deben salir antes del mediodía; háganlo con puntualidad."
+        },
+        {
+          "en": "I promised to confirm, and I'll <b class=\"hl\">do it</b> today.",
+          "es": "Prometí confirmar, y lo haré hoy."
+        },
+        {
+          "en": "You shouldn't have cancelled, but you <b class=\"hl\">did that</b> anyway.",
+          "es": "No deberías haber cancelado, pero lo hiciste igual."
+        },
+        {
+          "en": "If you want to complain, you can <b class=\"hl\">do so</b> in writing.",
+          "es": "Si desea reclamar, puede hacerlo por escrito."
+        },
+        {
+          "en": "She asked me to greet them, so I <b class=\"hl\">did so</b> warmly.",
+          "es": "Me pidió que los recibiera, así que lo hice con calidez."
+        },
+        {
+          "en": "We recommend booking early; those who <b class=\"hl\">do so</b> save money.",
+          "es": "Recomendamos reservar pronto; quienes lo hacen ahorran."
+        },
+        {
+          "en": "Could you sign here? Please <b class=\"hl\">do it</b> now.",
+          "es": "¿Podría firmar aquí? Hágalo ahora, por favor."
+        },
+        {
+          "en": "He said he'd handle it, and he <b class=\"hl\">did so</b> perfectly.",
+          "es": "Dijo que se encargaría, y lo hizo a la perfección."
+        },
+        {
+          "en": "Don't leave the balcony open; if you <b class=\"hl\">do so</b>, the alarm rings.",
+          "es": "No deje el balcón abierto; si lo hace, suena la alarma."
+        },
+        {
+          "en": "You need to update the rate — <b class=\"hl\">do it</b> before nine.",
+          "es": "Tienes que actualizar la tarifa; hazlo antes de las nueve."
+        },
+        {
+          "en": "They wanted a refund and we <b class=\"hl\">did that</b> at once.",
+          "es": "Querían un reembolso y lo hicimos enseguida."
+        },
+        {
+          "en": "To claim points, log in and <b class=\"hl\">do so</b> within a week.",
+          "es": "Para reclamar puntos, entre y hágalo en una semana."
+        },
+        {
+          "en": "She always double-checks; I should <b class=\"hl\">do so</b> too.",
+          "es": "Ella siempre revisa dos veces; yo debería hacerlo también."
         }
       ],
       "tables": [],
@@ -79,6 +131,51 @@
           "options": [
             "do it",
             "do so it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s1q4",
+          "question": "4. If you wish to cancel, you must ___ 48h ahead. (formal, sustituye la acción)",
+          "options": [
+            "do so",
+            "do it so"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s1q5",
+          "question": "5. '___' es la forma más formal para sustituir un verbo de acción.",
+          "options": [
+            "do so",
+            "do that"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s1q6",
+          "question": "6. She asked me to sign, and I ___ immediately.",
+          "options": [
+            "did so",
+            "made so"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s1q7",
+          "question": "7. 'Do that' suele añadir un matiz de...",
+          "options": [
+            "distancia/énfasis en la acción concreta",
+            "formalidad extrema"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s1q8",
+          "question": "8. Please ___ before nine. (sustituir 'update the rate')",
+          "options": [
+            "do it",
+            "do"
           ],
           "correctIndex": 0
         }
@@ -136,6 +233,58 @@
         {
           "en": "The manager wasn't informed, <b class=\"hl\">nor was</b> the rest of the team.",
           "es": "No se informó al gerente, ni al resto del equipo."
+        },
+        {
+          "en": "\"We're fully booked.\" \"<b class=\"hl\">So are we</b>.\"",
+          "es": "«Estamos completos.» «Nosotros también.»"
+        },
+        {
+          "en": "\"I didn't get the email.\" \"<b class=\"hl\">Neither did I</b>.\"",
+          "es": "«No recibí el correo.» «Yo tampoco.»"
+        },
+        {
+          "en": "\"She'll take the suite.\" \"<b class=\"hl\">So will he</b>.\"",
+          "es": "«Ella se queda la suite.» «Él también.»"
+        },
+        {
+          "en": "\"He can't come.\" \"<b class=\"hl\">Nor can she</b>.\"",
+          "es": "«Él no puede venir.» «Ella tampoco.»"
+        },
+        {
+          "en": "\"I've stayed here before.\" \"<b class=\"hl\">So have we</b>.\"",
+          "es": "«Ya me he alojado aquí.» «Nosotros también.»"
+        },
+        {
+          "en": "\"They don't offer parking.\" \"<b class=\"hl\">Neither do we</b>.\"",
+          "es": "«No ofrecen aparcamiento.» «Nosotros tampoco.»"
+        },
+        {
+          "en": "\"I'm exhausted.\" \"<b class=\"hl\">So am I</b>.\"",
+          "es": "«Estoy agotado.» «Yo también.»"
+        },
+        {
+          "en": "\"She won't cancel.\" \"<b class=\"hl\">Nor will he</b>.\"",
+          "es": "«Ella no cancelará.» «Él tampoco.»"
+        },
+        {
+          "en": "\"We loved the tour.\" \"<b class=\"hl\">So did the kids</b>.\"",
+          "es": "«Nos encantó el tour.» «A los niños también.»"
+        },
+        {
+          "en": "\"He hasn't paid.\" \"<b class=\"hl\">Neither has she</b>.\"",
+          "es": "«Él no ha pagado.» «Ella tampoco.»"
+        },
+        {
+          "en": "\"I'd recommend the spa.\" \"<b class=\"hl\">So would I</b>.\"",
+          "es": "«Recomendaría el spa.» «Yo también.»"
+        },
+        {
+          "en": "\"I couldn't sleep.\" \"<b class=\"hl\">Neither could I</b>.\"",
+          "es": "«No pude dormir.» «Yo tampoco.»"
+        },
+        {
+          "en": "\"We're staying two nights.\" \"<b class=\"hl\">So are they</b>.\"",
+          "es": "«Nos quedamos dos noches.» «Ellos también.»"
         }
       ],
       "tables": [],
@@ -164,6 +313,51 @@
           "options": [
             "So can he",
             "So he can"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s2q4",
+          "question": "4. \"I'm tired.\" \"___ I.\" (yo también, con 'be')",
+          "options": [
+            "So am",
+            "So do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s2q5",
+          "question": "5. \"I can't come.\" \"___ can I.\" (yo tampoco)",
+          "options": [
+            "So",
+            "Neither"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b16-s2q6",
+          "question": "6. \"We didn't get it.\" \"Neither ___ we.\" (auxiliar pasado)",
+          "options": [
+            "did",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s2q7",
+          "question": "7. \"She'll take it.\" \"So ___ I.\" (futuro)",
+          "options": [
+            "will",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s2q8",
+          "question": "8. La estructura correcta es...",
+          "options": [
+            "So + auxiliar + sujeto",
+            "So + sujeto + auxiliar"
           ],
           "correctIndex": 0
         }
@@ -217,6 +411,58 @@
         {
           "en": "\"Is he coming to the meeting?\" \"I <b class=\"hl\">don't think so</b>.\"",
           "es": "\"¿Viene él a la reunión?\" \"Creo que no.\""
+        },
+        {
+          "en": "\"Is breakfast included?\" \"I <b class=\"hl\">believe so</b>.\"",
+          "es": "«¿Incluye desayuno?» «Creo que sí.»"
+        },
+        {
+          "en": "\"Will it rain?\" \"I <b class=\"hl\">hope not</b>.\"",
+          "es": "«¿Va a llover?» «Espero que no.»"
+        },
+        {
+          "en": "\"Are we overbooked?\" \"I'm <b class=\"hl\">afraid so</b>.\"",
+          "es": "«¿Estamos sobrevendidos?» «Me temo que sí.»"
+        },
+        {
+          "en": "\"Did she cancel?\" \"I <b class=\"hl\">don't think so</b>.\"",
+          "es": "«¿Canceló?» «Creo que no.»"
+        },
+        {
+          "en": "\"Is the manager in?\" \"I <b class=\"hl\">suppose so</b>.\"",
+          "es": "«¿Está el gerente?» «Supongo que sí.»"
+        },
+        {
+          "en": "\"Will they complain?\" \"I <b class=\"hl\">hope not</b>.\"",
+          "es": "«¿Se quejarán?» «Espero que no.»"
+        },
+        {
+          "en": "\"Is it the right room?\" \"I <b class=\"hl\">think so</b>.\"",
+          "es": "«¿Es la habitación correcta?» «Creo que sí.»"
+        },
+        {
+          "en": "\"Has the payment failed?\" \"I'm <b class=\"hl\">afraid so</b>.\"",
+          "es": "«¿Ha fallado el pago?» «Me temo que sí.»"
+        },
+        {
+          "en": "\"Are we sold out?\" \"I <b class=\"hl\">guess so</b>.\"",
+          "es": "«¿Estamos agotados?» «Supongo que sí.»"
+        },
+        {
+          "en": "\"Is there a problem?\" \"I <b class=\"hl\">hope not</b>.\"",
+          "es": "«¿Hay algún problema?» «Espero que no.»"
+        },
+        {
+          "en": "\"Will he sign today?\" \"I <b class=\"hl\">expect so</b>.\"",
+          "es": "«¿Firmará hoy?» «Espero que sí.»"
+        },
+        {
+          "en": "\"Did we lose the client?\" \"I <b class=\"hl\">don't think so</b>.\"",
+          "es": "«¿Perdimos al cliente?» «Creo que no.»"
+        },
+        {
+          "en": "\"Is that seat taken?\" \"I <b class=\"hl\">don't believe so</b>.\"",
+          "es": "«¿Está ocupado ese asiento?» «Creo que no.»"
         }
       ],
       "tables": [],
@@ -245,6 +491,51 @@
           "options": [
             "don't think so",
             "think not so"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s3q4",
+          "question": "4. \"Is it available?\" \"I ___.\" (creo que sí)",
+          "options": [
+            "think so",
+            "think it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s3q5",
+          "question": "5. \"Will it rain?\" \"I ___.\" (espero que no)",
+          "options": [
+            "hope not",
+            "don't hope"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s3q6",
+          "question": "6. \"Are we overbooked?\" \"I'm ___.\" (me temo que sí)",
+          "options": [
+            "afraid so",
+            "afraid it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s3q7",
+          "question": "7. \"Did she cancel?\" \"I ___.\" (creo que no)",
+          "options": [
+            "don't think so",
+            "think not so"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s3q8",
+          "question": "8. 'so' y 'not' aquí sustituyen a...",
+          "options": [
+            "toda la oración anterior",
+            "un sustantivo"
           ],
           "correctIndex": 0
         }
@@ -298,6 +589,58 @@
         {
           "en": "This key card doesn't work. Try the new <b class=\"hl\">one</b>.",
           "es": "Esta tarjeta no funciona. Prueba la nueva."
+        },
+        {
+          "en": "\"Which suite?\" \"The <b class=\"hl\">one</b> on the top floor.\"",
+          "es": "«¿Qué suite?» «La de la última planta.»"
+        },
+        {
+          "en": "These towels are dirty; bring clean <b class=\"hl\">ones</b>.",
+          "es": "Estas toallas están sucias; trae unas limpias."
+        },
+        {
+          "en": "I prefer the quiet <b class=\"hl\">ones</b> at the back.",
+          "es": "Prefiero las tranquilas del fondo."
+        },
+        {
+          "en": "\"Do you have a charger?\" \"I forgot to bring <b class=\"hl\">one</b>.\"",
+          "es": "«¿Tienes cargador?» «Olvidé traer uno.»"
+        },
+        {
+          "en": "The new rooms are nicer than the old <b class=\"hl\">ones</b>.",
+          "es": "Las habitaciones nuevas son mejores que las viejas."
+        },
+        {
+          "en": "\"Which key?\" \"The red <b class=\"hl\">one</b>.\"",
+          "es": "«¿Qué llave?» «La roja.»"
+        },
+        {
+          "en": "This offer is good, but the last <b class=\"hl\">one</b> was better.",
+          "es": "Esta oferta está bien, pero la anterior era mejor."
+        },
+        {
+          "en": "Are these the tickets? No, the printed <b class=\"hl\">ones</b>.",
+          "es": "¿Son estas las entradas? No, las impresas."
+        },
+        {
+          "en": "\"Which table?\" \"The <b class=\"hl\">one</b> by the window.\"",
+          "es": "«¿Qué mesa?» «La de la ventana.»"
+        },
+        {
+          "en": "The cheap <b class=\"hl\">ones</b> sold out first.",
+          "es": "Las baratas se agotaron primero."
+        },
+        {
+          "en": "I lost my card, so they gave me a new <b class=\"hl\">one</b>.",
+          "es": "Perdí mi tarjeta, así que me dieron una nueva."
+        },
+        {
+          "en": "\"Which brochures?\" \"The Spanish <b class=\"hl\">ones</b>.\"",
+          "es": "«¿Qué folletos?» «Los que están en español.»"
+        },
+        {
+          "en": "That suite? We don't have a free <b class=\"hl\">one</b> tonight.",
+          "es": "¿Esa suite? No tenemos ninguna libre esta noche."
         }
       ],
       "tables": [],
@@ -328,6 +671,51 @@
             "ones"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b16-s4q4",
+          "question": "4. I don't like this room; I prefer that ___. (singular)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s4q5",
+          "question": "5. Bring clean ___. (plural, sustituye 'towels')",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b16-s4q6",
+          "question": "6. 'Do you have a pen?' 'I have ___.' (singular)",
+          "options": [
+            "one",
+            "it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s4q7",
+          "question": "7. 'one/ones' sustituye sustantivos...",
+          "options": [
+            "contables",
+            "incontables"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s4q8",
+          "question": "8. The new rooms are nicer than the old ___. (plural)",
+          "options": [
+            "one",
+            "ones"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -379,6 +767,58 @@
         {
           "en": "She's better at closing deals than I am <b class=\"hl\">(good at closing deals)</b>.",
           "es": "Se le da mejor cerrar tratos que a mí."
+        },
+        {
+          "en": "She can handle it, and so can I <b class=\"hl\">(handle it)</b>.",
+          "es": "Ella puede con ello, y yo también."
+        },
+        {
+          "en": "I'd love to join, but I can't <b class=\"hl\">(join)</b>.",
+          "es": "Me encantaría unirme, pero no puedo."
+        },
+        {
+          "en": "You can pay now or later, whichever you prefer <b class=\"hl\">(to do)</b>.",
+          "es": "Puede pagar ahora o luego, lo que prefiera."
+        },
+        {
+          "en": "He said he'd call, and he did <b class=\"hl\">(call)</b>.",
+          "es": "Dijo que llamaría, y llamó."
+        },
+        {
+          "en": "We wanted to upgrade them but weren't able to <b class=\"hl\">(upgrade them)</b>.",
+          "es": "Queríamos mejorarles la habitación, pero no pudimos."
+        },
+        {
+          "en": "Some guests booked online; others didn't <b class=\"hl\">(book online)</b>.",
+          "es": "Algunos huéspedes reservaron por internet; otros no."
+        },
+        {
+          "en": "I'll confirm if you want me to <b class=\"hl\">(confirm)</b>.",
+          "es": "Confirmaré si quieres que lo haga."
+        },
+        {
+          "en": "She's happy to help, and glad to <b class=\"hl\">(help)</b>.",
+          "es": "Está encantada de ayudar."
+        },
+        {
+          "en": "The first tour was full; the second wasn't <b class=\"hl\">(full)</b>.",
+          "es": "El primer tour estaba lleno; el segundo no."
+        },
+        {
+          "en": "You don't have to sign now, but you can if you'd like to <b class=\"hl\">(sign)</b>.",
+          "es": "No tiene que firmar ahora, pero puede si quiere."
+        },
+        {
+          "en": "He promised to reply and he will <b class=\"hl\">(reply)</b>.",
+          "es": "Prometió responder y lo hará."
+        },
+        {
+          "en": "Would you like coffee or tea? — Coffee, please <b class=\"hl\">(I'd like)</b>.",
+          "es": "¿Café o té? — Café, por favor."
+        },
+        {
+          "en": "They asked us to wait, so we did <b class=\"hl\">(wait)</b>.",
+          "es": "Nos pidieron esperar, así que esperamos."
         }
       ],
       "tables": [],
@@ -409,6 +849,51 @@
             "to join"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b16-s5q4",
+          "question": "4. 'I'll help if you want me to ___' — se omite...",
+          "options": [
+            "'help' (verbo repetido)",
+            "el sujeto"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s5q5",
+          "question": "5. 'He wanted to come but couldn't ___' — falta...",
+          "options": [
+            "'come'",
+            "'to'"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s5q6",
+          "question": "6. La elipsis sirve para...",
+          "options": [
+            "evitar repetir lo ya dicho",
+            "añadir información"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s5q7",
+          "question": "7. 'She's glad to' (help) — tras 'to' se omite...",
+          "options": [
+            "el verbo repetido",
+            "el sujeto"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s5q8",
+          "question": "8. 'They asked us to wait, so we did.' — 'did' sustituye...",
+          "options": [
+            "'waited'",
+            "'asked'"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -420,6 +905,477 @@
         {
           "type": "tip",
           "text": "En respuestas cortas conserva el <b>auxiliar</b> que aparece en la pregunta y omite el resto: 'Have you booked?' → 'Yes, I <b>have</b>'; 'Do you want to come?' → 'I'd love <b>to</b>'."
+        }
+      ]
+    },
+    {
+      "idx": "16.6",
+      "title": "Sustitución con 'the same' y 'such'",
+      "level": "B2",
+      "rule": "Otras formas de evitar repetir. <b>the same</b> = 'lo mismo' (I'll have the same; She said the same). <b>do the same</b> = hacer lo mismo. <b>such</b> retoma una idea ya dicha con el sentido de 'de ese tipo' (We had a delay, and such problems are rare = problemas <i>así</i>). También <b>the former / the latter</b> sustituyen a 'el primero / el segundo' de dos elementos ya mencionados. Son recursos de cohesión que dan fluidez y elegancia al texto.",
+      "examples": [
+        {
+          "en": "\"I'll have the salmon.\" \"I'll have <b class=\"hl\">the same</b>.\"",
+          "es": "«Yo tomaré el salmón.» «Yo, lo mismo.»"
+        },
+        {
+          "en": "She booked a suite; we did <b class=\"hl\">the same</b>.",
+          "es": "Ella reservó una suite; nosotros hicimos lo mismo."
+        },
+        {
+          "en": "There was a small delay. <b class=\"hl\">Such</b> issues are rare here.",
+          "es": "Hubo un pequeño retraso. Problemas así son raros aquí."
+        },
+        {
+          "en": "\"Thanks for a lovely stay.\" \"We wish you <b class=\"hl\">the same</b>.\"",
+          "es": "«Gracias por una estancia estupenda.» «Le deseamos lo mismo.»"
+        },
+        {
+          "en": "We offer a spa and a gym; <b class=\"hl\">the former</b> is free, <b class=\"hl\">the latter</b> costs extra.",
+          "es": "Ofrecemos spa y gimnasio; el primero es gratis, el segundo tiene coste."
+        },
+        {
+          "en": "He complained loudly. <b class=\"hl\">Such</b> behaviour is unusual.",
+          "es": "Se quejó a gritos. Un comportamiento así es raro."
+        },
+        {
+          "en": "\"I'd like an early check-in.\" \"Many guests request <b class=\"hl\">the same</b>.\"",
+          "es": "«Quisiera un check-in anticipado.» «Muchos huéspedes piden lo mismo.»"
+        },
+        {
+          "en": "The suite has a view; the room lacks <b class=\"hl\">the same</b>.",
+          "es": "La suite tiene vistas; la habitación no las tiene."
+        },
+        {
+          "en": "They upgraded us, and expect us to do <b class=\"hl\">the same</b> for referrals.",
+          "es": "Nos mejoraron la habitación y esperan que hagamos lo mismo por recomendaciones."
+        },
+        {
+          "en": "It was a five-star service. <b class=\"hl\">Such</b> attention is why we return.",
+          "es": "Fue un servicio de cinco estrellas. Esa atención es por lo que volvemos."
+        },
+        {
+          "en": "\"Same again?\" \"Yes, <b class=\"hl\">the same</b>, please.\"",
+          "es": "«¿Lo mismo otra vez?» «Sí, lo mismo, por favor.»"
+        },
+        {
+          "en": "One plan is flexible, the other cheap; <b class=\"hl\">the latter</b> sells more.",
+          "es": "Un plan es flexible, el otro barato; el segundo se vende más."
+        },
+        {
+          "en": "We had a power cut. <b class=\"hl\">Such</b> events test the team.",
+          "es": "Tuvimos un corte de luz. Sucesos así ponen a prueba al equipo."
+        },
+        {
+          "en": "She ordered tea; her colleague did <b class=\"hl\">the same</b>.",
+          "es": "Ella pidió té; su compañero hizo lo mismo."
+        },
+        {
+          "en": "\"Happy anniversary!\" \"And <b class=\"hl\">the same</b> to you.\"",
+          "es": "«¡Feliz aniversario!» «Igualmente.»"
+        },
+        {
+          "en": "The gala and the tour clashed; <b class=\"hl\">the former</b> won.",
+          "es": "La gala y el tour coincidieron; ganó la primera."
+        },
+        {
+          "en": "Guests want value. <b class=\"hl\">Such</b> is the market today.",
+          "es": "Los huéspedes quieren valor. Así es el mercado hoy."
+        },
+        {
+          "en": "I recommended the sea-view room and she chose <b class=\"hl\">the same</b>.",
+          "es": "Recomendé la habitación con vistas al mar y ella eligió esa."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s6q1",
+          "question": "1. \"I'll have the fish.\" \"I'll have ___.\" (lo mismo)",
+          "options": [
+            "the same",
+            "same"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s6q2",
+          "question": "2. She booked early; we did ___. (hacer lo mismo)",
+          "options": [
+            "the same",
+            "such"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s6q3",
+          "question": "3. There was a delay. ___ issues are rare. ('de ese tipo')",
+          "options": [
+            "Such",
+            "Same"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s6q4",
+          "question": "4. De dos opciones, 'el primero' es...",
+          "options": [
+            "the former",
+            "the latter"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s6q5",
+          "question": "5. De dos opciones, 'el segundo' es...",
+          "options": [
+            "the former",
+            "the latter"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b16-s6q6",
+          "question": "6. \"Happy holidays!\" \"And ___ to you.\" (igualmente)",
+          "options": [
+            "the same",
+            "such"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s6q7",
+          "question": "7. 'the same' y 'such' sirven para...",
+          "options": [
+            "evitar repetir ideas ya dichas",
+            "introducir temas nuevos"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una respuesta con <b>the same</b> y una frase que retome una idea con <b>such</b>.",
+        "placeholder": "Ej: I'll have the same. There was a delay; such problems are rare."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "'the same' casi siempre lleva 'the' (no 'I'll have same'). 'the former/the latter' solo funcionan con exactamente <b>dos</b> elementos mencionados antes: former = el primero, latter = el segundo."
+        }
+      ]
+    },
+    {
+      "idx": "16.7",
+      "title": "Sustitución con auxiliares en respuestas",
+      "level": "B1",
+      "rule": "Para no repetir todo el verbo, el inglés responde con el <b>auxiliar</b> solo. En respuestas cortas (Yes/No) se repite el auxiliar de la pregunta: 'Do you…?' → 'Yes, I <b>do</b>'; 'Have you…?' → 'No, I <b>haven't</b>'; 'Can she…?' → 'Yes, she <b>can</b>'. También sustituye tras 'I think', 'I hope', 'probably': 'Will it work?' → 'It <b>might</b>'. El auxiliar carga con el tiempo y la persona, evitando repetir el verbo principal.",
+      "examples": [
+        {
+          "en": "\"Do you have a reservation?\" \"Yes, I <b class=\"hl\">do</b>.\"",
+          "es": "«¿Tiene una reserva?» «Sí.»"
+        },
+        {
+          "en": "\"Has the room been cleaned?\" \"It <b class=\"hl\">has</b>.\"",
+          "es": "«¿Se ha limpiado la habitación?» «Sí.»"
+        },
+        {
+          "en": "\"Can she speak French?\" \"Yes, she <b class=\"hl\">can</b>.\"",
+          "es": "«¿Sabe hablar francés?» «Sí.»"
+        },
+        {
+          "en": "\"Will they arrive tonight?\" \"They <b class=\"hl\">might</b>.\"",
+          "es": "«¿Llegarán esta noche?» «Puede que sí.»"
+        },
+        {
+          "en": "\"Did you send the invoice?\" \"I <b class=\"hl\">did</b>.\"",
+          "es": "«¿Enviaste la factura?» «Sí.»"
+        },
+        {
+          "en": "\"Is the spa open?\" \"It <b class=\"hl\">isn't</b>, sorry.\"",
+          "es": "«¿Está abierto el spa?» «No, lo siento.»"
+        },
+        {
+          "en": "\"Are you staying another night?\" \"We <b class=\"hl\">are</b>.\"",
+          "es": "«¿Se quedan otra noche?» «Sí.»"
+        },
+        {
+          "en": "\"Should I confirm now?\" \"You <b class=\"hl\">should</b>.\"",
+          "es": "«¿Confirmo ahora?» «Debería.»"
+        },
+        {
+          "en": "\"Do they offer parking?\" \"They <b class=\"hl\">don't</b>.\"",
+          "es": "«¿Ofrecen aparcamiento?» «No.»"
+        },
+        {
+          "en": "\"Has he paid?\" \"He <b class=\"hl\">hasn't</b> yet.\"",
+          "es": "«¿Ha pagado?» «Todavía no.»"
+        },
+        {
+          "en": "\"Would you recommend it?\" \"I <b class=\"hl\">would</b>.\"",
+          "es": "«¿Lo recomendarías?» «Sí.»"
+        },
+        {
+          "en": "\"Could you help me?\" \"Of course I <b class=\"hl\">can</b>.\"",
+          "es": "«¿Podría ayudarme?» «Claro que sí.»"
+        },
+        {
+          "en": "\"Is it going to rain?\" \"It <b class=\"hl\">probably will</b>.\"",
+          "es": "«¿Va a llover?» «Probablemente sí.»"
+        },
+        {
+          "en": "\"Did the deal close?\" \"It <b class=\"hl\">did</b>.\"",
+          "es": "«¿Se cerró el trato?» «Sí.»"
+        },
+        {
+          "en": "\"Are the rooms ready?\" \"Some <b class=\"hl\">are</b>, some aren't.\"",
+          "es": "«¿Están listas las habitaciones?» «Algunas sí, otras no.»"
+        },
+        {
+          "en": "\"Will you be there?\" \"I <b class=\"hl\">will</b>.\"",
+          "es": "«¿Estarás allí?» «Sí.»"
+        },
+        {
+          "en": "\"Does it include breakfast?\" \"It <b class=\"hl\">does</b>.\"",
+          "es": "«¿Incluye desayuno?» «Sí.»"
+        },
+        {
+          "en": "\"Have they confirmed?\" \"I think they <b class=\"hl\">have</b>.\"",
+          "es": "«¿Han confirmado?» «Creo que sí.»"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s7q1",
+          "question": "1. \"Do you have a booking?\" \"Yes, I ___.\"",
+          "options": [
+            "do",
+            "have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s7q2",
+          "question": "2. \"Has it been cleaned?\" \"It ___.\"",
+          "options": [
+            "has",
+            "is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s7q3",
+          "question": "3. \"Can she come?\" \"Yes, she ___.\"",
+          "options": [
+            "can",
+            "does"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s7q4",
+          "question": "4. \"Did you send it?\" \"I ___.\" (pasado)",
+          "options": [
+            "did",
+            "sent"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s7q5",
+          "question": "5. \"Will they come?\" \"They ___.\" (posibilidad)",
+          "options": [
+            "might",
+            "will do come"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s7q6",
+          "question": "6. En la respuesta corta se repite...",
+          "options": [
+            "el auxiliar",
+            "el verbo principal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s7q7",
+          "question": "7. \"Does it include breakfast?\" \"It ___.\"",
+          "options": [
+            "does",
+            "includes"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s7",
+        "label": "<span class=\"badge\">tu turno</span>Responde a dos preguntas con respuesta corta usando solo el auxiliar (Yes, I do / No, it isn't / It might).",
+        "placeholder": "Ej: \"Do you have a reservation?\" \"Yes, I do.\""
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "La respuesta corta repite el <b>auxiliar</b>, no el verbo principal: 'Do you like it?' → 'Yes, I <b>do</b>' (no 'Yes, I like'). Con 'be' y modales, se repiten ellos mismos: 'Are you…?' → 'Yes, I <b>am</b>'."
+        }
+      ]
+    },
+    {
+      "idx": "16.8",
+      "title": "Elipsis tras conjunciones y en comparativas",
+      "level": "B2",
+      "rule": "Cuando dos partes de la frase comparten elementos, el inglés <b>omite lo repetido</b> tras <b>and</b>, <b>but</b>, <b>or</b> y en comparaciones. Se puede omitir el sujeto ('She smiled and Ø waved'), el auxiliar ('I have finished and Ø gone home' con cuidado), o el verbo en comparativas ('She works harder than he does / than he Ø'). También en respuestas y listas. La clave: solo se omite lo que el oyente puede <b>reconstruir sin ambigüedad</b>.",
+      "examples": [
+        {
+          "en": "She greeted the guests and <b class=\"hl\">Ø</b> showed them their room.",
+          "es": "Saludó a los huéspedes y les enseñó su habitación."
+        },
+        {
+          "en": "He wanted to help but <b class=\"hl\">Ø</b> couldn't.",
+          "es": "Quería ayudar pero no pudo."
+        },
+        {
+          "en": "You can pay now or <b class=\"hl\">Ø</b> at check-out.",
+          "es": "Puede pagar ahora o al hacer el check-out."
+        },
+        {
+          "en": "She works harder than he <b class=\"hl\">does</b>.",
+          "es": "Ella trabaja más duro que él."
+        },
+        {
+          "en": "The suite is bigger than the room <b class=\"hl\">(is)</b>.",
+          "es": "La suite es más grande que la habitación."
+        },
+        {
+          "en": "I booked the tour and <b class=\"hl\">Ø</b> paid the deposit.",
+          "es": "Reservé el tour y pagué el depósito."
+        },
+        {
+          "en": "They arrived early but <b class=\"hl\">Ø</b> left late.",
+          "es": "Llegaron temprano pero se fueron tarde."
+        },
+        {
+          "en": "He speaks French and <b class=\"hl\">Ø</b> German.",
+          "es": "Habla francés y alemán."
+        },
+        {
+          "en": "We offer more than they <b class=\"hl\">do</b>.",
+          "es": "Ofrecemos más que ellos."
+        },
+        {
+          "en": "She checked in and <b class=\"hl\">Ø</b> went straight to the spa.",
+          "es": "Hizo el check-in y fue directa al spa."
+        },
+        {
+          "en": "The first room was ready, the second <b class=\"hl\">(was) not</b>.",
+          "es": "La primera habitación estaba lista, la segunda no."
+        },
+        {
+          "en": "You should confirm today or <b class=\"hl\">Ø</b> lose the rate.",
+          "es": "Debería confirmar hoy o perderá la tarifa."
+        },
+        {
+          "en": "He ordered coffee and she <b class=\"hl\">Ø</b> tea.",
+          "es": "Él pidió café y ella té."
+        },
+        {
+          "en": "We upgraded some guests but not <b class=\"hl\">Ø</b> others.",
+          "es": "Mejoramos a algunos huéspedes pero a otros no."
+        },
+        {
+          "en": "She'll take the suite and he <b class=\"hl\">Ø</b> the room.",
+          "es": "Ella se queda la suite y él la habitación."
+        },
+        {
+          "en": "The tour lasted longer than expected <b class=\"hl\">(it would)</b>.",
+          "es": "El tour duró más de lo esperado."
+        },
+        {
+          "en": "I called reception and <b class=\"hl\">Ø</b> asked for towels.",
+          "es": "Llamé a recepción y pedí toallas."
+        },
+        {
+          "en": "They wanted the sea view but got a garden one instead <b class=\"hl\">Ø</b>.",
+          "es": "Querían la vista al mar pero les tocó una con jardín."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b16-s8q1",
+          "question": "1. 'She smiled and ___ waved.' — se omite...",
+          "options": [
+            "el sujeto repetido (she)",
+            "el verbo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s8q2",
+          "question": "2. 'He wanted to help but couldn't ___.' — falta...",
+          "options": [
+            "'help'",
+            "el sujeto"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s8q3",
+          "question": "3. 'She works harder than he ___.' (comparativa)",
+          "options": [
+            "does",
+            "works"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s8q4",
+          "question": "4. La elipsis solo funciona cuando lo omitido...",
+          "options": [
+            "se reconstruye sin ambigüedad",
+            "es un sustantivo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s8q5",
+          "question": "5. 'He ordered coffee and she ___ tea.' — se omite...",
+          "options": [
+            "el verbo 'ordered'",
+            "el sujeto"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s8q6",
+          "question": "6. 'You can pay now or ___ at checkout.' — falta...",
+          "options": [
+            "'pay'",
+            "'you can'"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b16-s8q7",
+          "question": "7. La elipsis sirve para...",
+          "options": [
+            "no repetir lo compartido",
+            "enfatizar"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b16-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con elipsis tras <b>and/but</b> (omitiendo el sujeto o el verbo repetido) y una comparativa con elipsis.",
+        "placeholder": "Ej: She checked in and went to her room. We offer more than they do."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Solo omite lo que se pueda reconstruir: 'She works harder than he does' es claro; omitir de más puede crear ambigüedad. En comparativas, el auxiliar 'does/is' suele quedarse para mantener la claridad."
         }
       ]
     }
