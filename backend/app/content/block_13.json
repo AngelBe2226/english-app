@@ -47,6 +47,54 @@
         {
           "en": "I'll <b class=\"hl\">keep in touch</b> after the deal.",
           "es": "Seguiré en contacto tras el trato."
+        },
+        {
+          "en": "Let's <b class=\"hl\">reach an agreement</b> today.",
+          "es": "Lleguemos a un acuerdo hoy."
+        },
+        {
+          "en": "We need to <b class=\"hl\">meet the deadline</b>.",
+          "es": "Tenemos que cumplir el plazo."
+        },
+        {
+          "en": "She <b class=\"hl\">takes responsibility</b> for the team.",
+          "es": "Ella asume la responsabilidad del equipo."
+        },
+        {
+          "en": "They <b class=\"hl\">pay attention</b> to every detail.",
+          "es": "Prestan atención a cada detalle."
+        },
+        {
+          "en": "We <b class=\"hl\">run a business</b> in three cities.",
+          "es": "Llevamos un negocio en tres ciudades."
+        },
+        {
+          "en": "He <b class=\"hl\">made a mistake</b> on the invoice.",
+          "es": "Cometió un error en la factura."
+        },
+        {
+          "en": "Let's <b class=\"hl\">set a goal</b> for the quarter.",
+          "es": "Fijemos un objetivo para el trimestre."
+        },
+        {
+          "en": "We <b class=\"hl\">keep a record</b> of every booking.",
+          "es": "Llevamos un registro de cada reserva."
+        },
+        {
+          "en": "She <b class=\"hl\">gave a presentation</b> to the board.",
+          "es": "Dio una presentación a la junta."
+        },
+        {
+          "en": "They <b class=\"hl\">took a risk</b> and it paid off.",
+          "es": "Corrieron un riesgo y salió bien."
+        },
+        {
+          "en": "We should <b class=\"hl\">save time</b> by booking online.",
+          "es": "Deberíamos ahorrar tiempo reservando por internet."
+        },
+        {
+          "en": "He <b class=\"hl\">broke the news</b> gently.",
+          "es": "Dio la noticia con tacto."
         }
       ],
       "tables": [
@@ -87,6 +135,54 @@
             [
               "pay attention",
               "Please pay attention to the terms and conditions."
+            ],
+            [
+              "reach an agreement",
+              "We reached an agreement quickly."
+            ],
+            [
+              "meet the deadline",
+              "We must meet the deadline."
+            ],
+            [
+              "take responsibility",
+              "She takes responsibility."
+            ],
+            [
+              "pay attention",
+              "Pay attention to detail."
+            ],
+            [
+              "run a business",
+              "They run a business."
+            ],
+            [
+              "make a mistake",
+              "He made a mistake."
+            ],
+            [
+              "set a goal",
+              "Let's set a goal."
+            ],
+            [
+              "keep a record",
+              "We keep a record."
+            ],
+            [
+              "give a presentation",
+              "She gave a presentation."
+            ],
+            [
+              "take a risk",
+              "They took a risk."
+            ],
+            [
+              "save time",
+              "It saves time."
+            ],
+            [
+              "break the news",
+              "He broke the news."
             ]
           ]
         }
@@ -116,6 +212,51 @@
           "options": [
             "highly",
             "strongly"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s1q4",
+          "question": "4. We need to ___ a decision. (colocación con 'make')",
+          "options": [
+            "make",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s1q5",
+          "question": "5. They ___ business with us. (colocación con 'do')",
+          "options": [
+            "make",
+            "do"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s1q6",
+          "question": "6. Let's ___ the deadline. (colocación)",
+          "options": [
+            "meet",
+            "arrive"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s1q7",
+          "question": "7. She ___ responsibility for it. (colocación)",
+          "options": [
+            "takes",
+            "makes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s1q8",
+          "question": "8. Please ___ attention. (colocación)",
+          "options": [
+            "pay",
+            "give"
           ],
           "correctIndex": 0
         }
@@ -177,6 +318,54 @@
         {
           "en": "The report shows the <span class=\"r-verb\">actual</span> figures.",
           "es": "El informe muestra las cifras reales. (actual=real, no \"actuales\")"
+        },
+        {
+          "en": "The hotel offers a great <span class=\"r-verb\">facility</span>. (instalación, no 'facilidad')",
+          "es": "El hotel ofrece una gran instalación."
+        },
+        {
+          "en": "I'd like to <span class=\"r-verb\">assist</span> at the meeting. (asistir/ayudar)",
+          "es": "Me gustaría asistir/ayudar en la reunión."
+        },
+        {
+          "en": "The invoice has a small <span class=\"r-verb\">discussion</span> pending. (debate, no 'discusión-pelea')",
+          "es": "La factura tiene un pequeño debate pendiente."
+        },
+        {
+          "en": "She gave me good <span class=\"r-verb\">advice</span>. (consejo, no 'aviso')",
+          "es": "Me dio un buen consejo."
+        },
+        {
+          "en": "We need to <span class=\"r-verb\">realize</span> the plan this year. (llevar a cabo / darse cuenta)",
+          "es": "Debemos llevar a cabo el plan este año."
+        },
+        {
+          "en": "He's a reliable <span class=\"r-verb\">contractor</span>. (contratista)",
+          "es": "Es un contratista fiable."
+        },
+        {
+          "en": "The <span class=\"r-verb\">fabric</span> of the curtains is lovely. (tela, no 'fábrica')",
+          "es": "La tela de las cortinas es preciosa."
+        },
+        {
+          "en": "That's an <span class=\"r-verb\">actual</span> photo of the room. (real, no 'actual')",
+          "es": "Esa es una foto real de la habitación."
+        },
+        {
+          "en": "Please <span class=\"r-verb\">record</span> the meeting. (grabar/registrar, no 'recordar')",
+          "es": "Por favor, graba la reunión."
+        },
+        {
+          "en": "The <span class=\"r-verb\">library</span> is on the second floor. (biblioteca, no 'librería')",
+          "es": "La biblioteca está en la segunda planta."
+        },
+        {
+          "en": "We had a long <span class=\"r-verb\">career</span> in hospitality. (carrera profesional)",
+          "es": "Tuvimos una larga carrera en la hostelería."
+        },
+        {
+          "en": "The dish is quite <span class=\"r-verb\">exquisite</span>. (exquisito/delicado)",
+          "es": "El plato es bastante exquisito."
         }
       ],
       "tables": [
@@ -226,6 +415,66 @@
               "eventually",
               "finalmente / con el tiempo",
               "\"eventualmente\" = possibly / occasionally"
+            ],
+            [
+              "facility",
+              "instalación / servicio",
+              "'facilidad' → ease"
+            ],
+            [
+              "assist",
+              "asistir a / ayudar",
+              "'asistir=acudir' también attend"
+            ],
+            [
+              "advice",
+              "consejo",
+              "'aviso' → notice/warning"
+            ],
+            [
+              "realize",
+              "darse cuenta / llevar a cabo",
+              "'realizar' → carry out"
+            ],
+            [
+              "fabric",
+              "tela, tejido",
+              "'fábrica' → factory"
+            ],
+            [
+              "actual",
+              "real, efectivo",
+              "'actual' → current"
+            ],
+            [
+              "record",
+              "grabar / registro",
+              "'recordar' → remember"
+            ],
+            [
+              "library",
+              "biblioteca",
+              "'librería' → bookshop"
+            ],
+            [
+              "career",
+              "carrera profesional",
+              "'carrera=estudios' → degree"
+            ],
+            [
+              "exit",
+              "salida",
+              "'éxito' → success"
+            ],
+            [
+              "carpet",
+              "alfombra / moqueta",
+              "'carpeta' → folder"
+            ],
+            [
+              "contest",
+              "concurso, competición",
+              "'contestar' → answer"
             ]
           ]
         }
@@ -255,6 +504,51 @@
           "options": [
             "realize the project",
             "carry out the project"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s2q4",
+          "question": "4. 'Actual' en inglés significa...",
+          "options": [
+            "real, efectivo",
+            "actual, de ahora"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s2q5",
+          "question": "5. 'Library' significa...",
+          "options": [
+            "librería (tienda)",
+            "biblioteca"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s2q6",
+          "question": "6. 'Fabric' significa...",
+          "options": [
+            "tela",
+            "fábrica"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s2q7",
+          "question": "7. 'Advice' significa...",
+          "options": [
+            "aviso",
+            "consejo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s2q8",
+          "question": "8. 'Exit' significa...",
+          "options": [
+            "éxito",
+            "salida"
           ],
           "correctIndex": 1
         }
@@ -316,6 +610,54 @@
         {
           "en": "The room has a <span class=\"r-verb\">sea view</span>.",
           "es": "La habitación tiene vista al mar."
+        },
+        {
+          "en": "The <span class=\"r-verb\">front desk</span> handles all arrivals.",
+          "es": "La recepción gestiona todas las llegadas."
+        },
+        {
+          "en": "We track our <span class=\"r-verb\">occupancy rate</span> daily.",
+          "es": "Controlamos la tasa de ocupación a diario."
+        },
+        {
+          "en": "A generous <span class=\"r-verb\">commission</span> motivates the sales team.",
+          "es": "Una buena comisión motiva al equipo de ventas."
+        },
+        {
+          "en": "Please process the <span class=\"r-verb\">check-out</span> quickly.",
+          "es": "Por favor, procesa el check-out rápido."
+        },
+        {
+          "en": "Our <span class=\"r-verb\">repeat guests</span> get special perks.",
+          "es": "Nuestros clientes que repiten tienen ventajas especiales."
+        },
+        {
+          "en": "The <span class=\"r-verb\">amenities</span> include a spa and gym.",
+          "es": "Los servicios incluyen spa y gimnasio."
+        },
+        {
+          "en": "We closed the <span class=\"r-verb\">sale</span> at full rate.",
+          "es": "Cerramos la venta a tarifa completa."
+        },
+        {
+          "en": "Handle every <span class=\"r-verb\">complaint</span> with care.",
+          "es": "Gestiona cada queja con cuidado."
+        },
+        {
+          "en": "The <span class=\"r-verb\">concierge</span> booked us a table.",
+          "es": "El conserje nos reservó una mesa."
+        },
+        {
+          "en": "We offer a <span class=\"r-verb\">loyalty scheme</span> for members.",
+          "es": "Ofrecemos un programa de fidelización para socios."
+        },
+        {
+          "en": "Our <span class=\"r-verb\">peak season</span> runs June to September.",
+          "es": "Nuestra temporada alta va de junio a septiembre."
+        },
+        {
+          "en": "The <span class=\"r-verb\">lead</span> came from a referral.",
+          "es": "El posible cliente vino por recomendación."
         }
       ],
       "tables": [
@@ -360,6 +702,54 @@
             [
               "objection handling",
               "manejo de objeciones"
+            ],
+            [
+              "front desk",
+              "recepción"
+            ],
+            [
+              "occupancy rate",
+              "tasa de ocupación"
+            ],
+            [
+              "commission",
+              "comisión"
+            ],
+            [
+              "check-out",
+              "salida / registro de salida"
+            ],
+            [
+              "repeat guest",
+              "cliente que repite"
+            ],
+            [
+              "amenities",
+              "servicios / comodidades"
+            ],
+            [
+              "complaint",
+              "queja / reclamación"
+            ],
+            [
+              "concierge",
+              "conserje"
+            ],
+            [
+              "loyalty scheme",
+              "programa de fidelización"
+            ],
+            [
+              "peak season",
+              "temporada alta"
+            ],
+            [
+              "lead",
+              "posible cliente / oportunidad"
+            ],
+            [
+              "walk-in",
+              "cliente sin reserva"
             ]
           ]
         }
@@ -389,6 +779,51 @@
           "options": [
             "closing a sale",
             "booking a sale"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s3q4",
+          "question": "4. 'Occupancy rate' significa...",
+          "options": [
+            "tasa de ocupación",
+            "tarifa por hora"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s3q5",
+          "question": "5. 'Amenities' significa...",
+          "options": [
+            "servicios/comodidades",
+            "quejas"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s3q6",
+          "question": "6. 'Repeat guest' es...",
+          "options": [
+            "un cliente que repite",
+            "una reserva doble"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s3q7",
+          "question": "7. 'Peak season' significa...",
+          "options": [
+            "temporada baja",
+            "temporada alta"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s3q8",
+          "question": "8. 'Walk-in' es un cliente...",
+          "options": [
+            "sin reserva",
+            "VIP"
           ],
           "correctIndex": 0
         }
@@ -450,6 +885,54 @@
         {
           "en": "We arranged a <span class=\"r-verb\">viewing</span> for Saturday.",
           "es": "Concertamos una visita para el sábado."
+        },
+        {
+          "en": "The <span class=\"r-verb\">mortgage</span> was approved last week.",
+          "es": "La hipoteca se aprobó la semana pasada."
+        },
+        {
+          "en": "We signed the <span class=\"r-verb\">deeds</span> at the notary.",
+          "es": "Firmamos las escrituras en la notaría."
+        },
+        {
+          "en": "The <span class=\"r-verb\">landlord</span> covers the maintenance.",
+          "es": "El casero se hace cargo del mantenimiento."
+        },
+        {
+          "en": "There's a monthly <span class=\"r-verb\">service charge</span>.",
+          "es": "Hay una cuota de comunidad mensual."
+        },
+        {
+          "en": "The flat is on a long <span class=\"r-verb\">leasehold</span>.",
+          "es": "El piso está en régimen de arrendamiento largo."
+        },
+        {
+          "en": "We paid a 10% <span class=\"r-verb\">down payment</span>.",
+          "es": "Pagamos una entrada del 10%."
+        },
+        {
+          "en": "The <span class=\"r-verb\">estate agent</span> showed us three flats.",
+          "es": "El agente inmobiliario nos enseñó tres pisos."
+        },
+        {
+          "en": "The property has good <span class=\"r-verb\">yield</span> for investors.",
+          "es": "La propiedad tiene buena rentabilidad para inversores."
+        },
+        {
+          "en": "The <span class=\"r-verb\">survey</span> found some damp.",
+          "es": "La inspección técnica halló algo de humedad."
+        },
+        {
+          "en": "We're still in <span class=\"r-verb\">negotiations</span> over the price.",
+          "es": "Seguimos negociando el precio."
+        },
+        {
+          "en": "The <span class=\"r-verb\">freehold</span> includes the garden.",
+          "es": "La plena propiedad incluye el jardín."
+        },
+        {
+          "en": "They handed over the <span class=\"r-verb\">keys</span> at completion.",
+          "es": "Entregaron las llaves al cerrar la operación."
         }
       ],
       "tables": [
@@ -494,6 +977,54 @@
             [
               "market value",
               "valor de mercado"
+            ],
+            [
+              "mortgage",
+              "hipoteca"
+            ],
+            [
+              "deeds",
+              "escrituras"
+            ],
+            [
+              "landlord",
+              "casero / arrendador"
+            ],
+            [
+              "service charge",
+              "cuota de comunidad"
+            ],
+            [
+              "leasehold",
+              "arrendamiento (propiedad temporal)"
+            ],
+            [
+              "down payment",
+              "entrada / pago inicial"
+            ],
+            [
+              "estate agent",
+              "agente inmobiliario"
+            ],
+            [
+              "yield",
+              "rentabilidad"
+            ],
+            [
+              "survey",
+              "inspección técnica"
+            ],
+            [
+              "freehold",
+              "plena propiedad"
+            ],
+            [
+              "completion",
+              "cierre de la compraventa"
+            ],
+            [
+              "appraisal / valuation",
+              "tasación"
             ]
           ]
         }
@@ -525,6 +1056,51 @@
             "valuation"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b13-s4q4",
+          "question": "4. 'Mortgage' significa...",
+          "options": [
+            "hipoteca",
+            "alquiler"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s4q5",
+          "question": "5. 'Landlord' es...",
+          "options": [
+            "el inquilino",
+            "el casero"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s4q6",
+          "question": "6. 'Down payment' significa...",
+          "options": [
+            "entrada / pago inicial",
+            "cuota mensual"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s4q7",
+          "question": "7. 'Estate agent' es...",
+          "options": [
+            "agente inmobiliario",
+            "tasador"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s4q8",
+          "question": "8. 'Yield' (inmobiliario) significa...",
+          "options": [
+            "rentabilidad",
+            "hipoteca"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -536,6 +1112,840 @@
         {
           "type": "tip",
           "text": "Vocabulario inmobiliario para D-Live: memoriza <b>lease</b>, <b>mortgage</b>, <b>valuation</b> y <b>tenant</b>."
+        }
+      ]
+    },
+    {
+      "idx": "13.5",
+      "title": "Colocaciones con make / do / take / have / get",
+      "level": "B1",
+      "rule": "Cinco verbos comodín que se combinan con sustantivos fijos y que hay que aprender de memoria porque el español los mezcla. <b>make</b> = crear/producir (make a decision, make progress). <b>do</b> = tareas y actividades (do business, do your best, do the paperwork). <b>take</b> = tomar/ocupar (take a break, take a risk, take notes). <b>have</b> = experimentar (have a meeting, have lunch). <b>get</b> = conseguir/llegar a un estado (get a reply, get ready). Error típico: 'do a decision' en vez de 'make a decision'.",
+      "examples": [
+        {
+          "en": "Let's <b class=\"hl\">make progress</b> before lunch.",
+          "es": "Hagamos avances antes de comer."
+        },
+        {
+          "en": "Please <b class=\"hl\">do the paperwork</b> first.",
+          "es": "Por favor, haz primero el papeleo."
+        },
+        {
+          "en": "You should <b class=\"hl\">take a break</b>.",
+          "es": "Deberías tomarte un descanso."
+        },
+        {
+          "en": "We're going to <b class=\"hl\">have a meeting</b> at ten.",
+          "es": "Vamos a tener una reunión a las diez."
+        },
+        {
+          "en": "Did you <b class=\"hl\">get a reply</b> from the client?",
+          "es": "¿Recibiste respuesta del cliente?"
+        },
+        {
+          "en": "She always <b class=\"hl\">makes an effort</b> with guests.",
+          "es": "Siempre se esfuerza con los huéspedes."
+        },
+        {
+          "en": "We <b class=\"hl\">do our best</b> during peak season.",
+          "es": "Damos lo mejor en temporada alta."
+        },
+        {
+          "en": "Please <b class=\"hl\">take notes</b> during the call.",
+          "es": "Por favor, toma notas durante la llamada."
+        },
+        {
+          "en": "Let's <b class=\"hl\">have a chat</b> about the schedule.",
+          "es": "Charlemos sobre el horario."
+        },
+        {
+          "en": "I need to <b class=\"hl\">get ready</b> for the arrivals.",
+          "es": "Tengo que prepararme para las llegadas."
+        },
+        {
+          "en": "They <b class=\"hl\">made a complaint</b> about the noise.",
+          "es": "Presentaron una queja por el ruido."
+        },
+        {
+          "en": "We <b class=\"hl\">do research</b> before pricing.",
+          "es": "Investigamos antes de fijar precios."
+        },
+        {
+          "en": "Let's <b class=\"hl\">take advantage</b> of the low season.",
+          "es": "Aprovechemos la temporada baja."
+        },
+        {
+          "en": "Did you <b class=\"hl\">have trouble</b> finding us?",
+          "es": "¿Tuviste problemas para encontrarnos?"
+        },
+        {
+          "en": "Let's <b class=\"hl\">get in touch</b> next week.",
+          "es": "Pongámonos en contacto la semana que viene."
+        },
+        {
+          "en": "We <b class=\"hl\">made a reservation</b> for four.",
+          "es": "Hicimos una reserva para cuatro."
+        },
+        {
+          "en": "She'll <b class=\"hl\">do the honours</b> at the opening.",
+          "es": "Ella hará los honores en la inauguración."
+        },
+        {
+          "en": "Please <b class=\"hl\">take a seat</b> in the lounge.",
+          "es": "Tome asiento en el salón, por favor."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Verbo",
+            "Colocaciones frecuentes"
+          ],
+          "rows": [
+            [
+              "make",
+              "make a decision, make progress, make an effort, make a mistake, make a reservation"
+            ],
+            [
+              "do",
+              "do business, do your best, do the paperwork, do research, do the honours"
+            ],
+            [
+              "take",
+              "take a break, take a risk, take notes, take advantage, take a seat"
+            ],
+            [
+              "have",
+              "have a meeting, have lunch, have a chat, have trouble, have a look"
+            ],
+            [
+              "get",
+              "get a reply, get ready, get in touch, get the point, get a discount"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s5q1",
+          "question": "1. ___ a decision. (crear/producir)",
+          "options": [
+            "make",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s5q2",
+          "question": "2. ___ your best. (esforzarse)",
+          "options": [
+            "make",
+            "do"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s5q3",
+          "question": "3. ___ a break. (tomarse)",
+          "options": [
+            "take",
+            "have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s5q4",
+          "question": "4. ___ a meeting. (experimentar/celebrar)",
+          "options": [
+            "do",
+            "have"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s5q5",
+          "question": "5. ___ ready for the arrivals. (llegar a un estado)",
+          "options": [
+            "get",
+            "make"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s5q6",
+          "question": "6. ___ the paperwork. (tarea)",
+          "options": [
+            "make",
+            "do"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s5q7",
+          "question": "7. ___ notes during the call. (tomar)",
+          "options": [
+            "take",
+            "do"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b13-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>make</b>, otra con <b>do</b> y otra con <b>take</b>, cada una con su colocación típica.",
+        "placeholder": "Ej: We made a decision, did the paperwork, and took a break."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "El error clásico del hispanohablante es confundir <b>make</b> y <b>do</b> (ambos 'hacer'): 'make a decision' (no 'do a decision'), pero 'do the homework' (no 'make the homework'). Apréndelos como bloque fijo."
+        }
+      ]
+    },
+    {
+      "idx": "13.6",
+      "title": "Formación de palabras (prefijos y sufijos)",
+      "level": "B2",
+      "rule": "Conocer los <b>afijos</b> multiplica tu vocabulario. Prefijos de negación: <b>un-</b> (unhappy), <b>in-/im-/ir-/il-</b> (impossible, irregular), <b>dis-</b> (disagree), <b>mis-</b> (misunderstand). Sufijos que forman <b>sustantivos</b>: -tion (reservation), -ment (payment), -ness (kindness), -ity (availability). Que forman <b>adjetivos</b>: -ful (useful), -less (useless), -able (comfortable), -ive (attractive). Reconocerlos te ayuda a deducir palabras nuevas y a escribir con precisión.",
+      "examples": [
+        {
+          "en": "The room was <b class=\"hl\">uncomfortable</b> at first. (un- = no)",
+          "es": "La habitación era incómoda al principio."
+        },
+        {
+          "en": "That request is <b class=\"hl\">impossible</b> tonight. (im- = no)",
+          "es": "Esa petición es imposible esta noche."
+        },
+        {
+          "en": "We <b class=\"hl\">disagree</b> on the price. (dis- = lo contrario)",
+          "es": "No estamos de acuerdo en el precio."
+        },
+        {
+          "en": "There was a <b class=\"hl\">misunderstanding</b> about the dates. (mis- = mal)",
+          "es": "Hubo un malentendido con las fechas."
+        },
+        {
+          "en": "Thank you for your <b class=\"hl\">kindness</b>. (-ness = sustantivo)",
+          "es": "Gracias por su amabilidad."
+        },
+        {
+          "en": "Please check <b class=\"hl\">availability</b>. (-ity = sustantivo)",
+          "es": "Por favor, comprueba la disponibilidad."
+        },
+        {
+          "en": "The app is very <b class=\"hl\">useful</b>. (-ful = adjetivo)",
+          "es": "La app es muy útil."
+        },
+        {
+          "en": "That coupon is <b class=\"hl\">useless</b> now. (-less = sin)",
+          "es": "Ese cupón ya no sirve."
+        },
+        {
+          "en": "The suite is extremely <b class=\"hl\">comfortable</b>. (-able)",
+          "es": "La suite es comodísima."
+        },
+        {
+          "en": "Our offer is very <b class=\"hl\">attractive</b>. (-ive)",
+          "es": "Nuestra oferta es muy atractiva."
+        },
+        {
+          "en": "We value your <b class=\"hl\">payment</b> promptly. (-ment)",
+          "es": "Valoramos su pago puntual."
+        },
+        {
+          "en": "Your <b class=\"hl\">reservation</b> is confirmed. (-tion)",
+          "es": "Su reserva está confirmada."
+        },
+        {
+          "en": "The schedule is quite <b class=\"hl\">irregular</b>. (ir- = no)",
+          "es": "El horario es bastante irregular."
+        },
+        {
+          "en": "He's a <b class=\"hl\">reliable</b> supplier. (-able)",
+          "es": "Es un proveedor fiable."
+        },
+        {
+          "en": "We appreciate your <b class=\"hl\">flexibility</b>. (-ity)",
+          "es": "Agradecemos su flexibilidad."
+        },
+        {
+          "en": "That's a <b class=\"hl\">thoughtful</b> touch. (-ful)",
+          "es": "Es un detalle considerado."
+        },
+        {
+          "en": "The wifi is <b class=\"hl\">unreliable</b> upstairs. (un- + -able)",
+          "es": "El wifi es poco fiable arriba."
+        },
+        {
+          "en": "Her <b class=\"hl\">management</b> style is calm. (-ment)",
+          "es": "Su estilo de gestión es tranquilo."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Afijo",
+            "Significado / función",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "un-",
+              "negación (adjetivos)",
+              "unhappy, unreliable"
+            ],
+            [
+              "in-/im-/ir-/il-",
+              "negación",
+              "impossible, irregular, illegal"
+            ],
+            [
+              "dis-",
+              "lo contrario",
+              "disagree, dislike"
+            ],
+            [
+              "mis-",
+              "mal, incorrectamente",
+              "misunderstand, misplace"
+            ],
+            [
+              "-tion / -ment",
+              "forma sustantivos (acción/resultado)",
+              "reservation, payment"
+            ],
+            [
+              "-ness / -ity",
+              "forma sustantivos (cualidad)",
+              "kindness, availability"
+            ],
+            [
+              "-ful",
+              "adjetivo: 'lleno de'",
+              "useful, helpful"
+            ],
+            [
+              "-less",
+              "adjetivo: 'sin'",
+              "useless, harmless"
+            ],
+            [
+              "-able / -ible",
+              "adjetivo: 'que se puede'",
+              "comfortable, reliable"
+            ],
+            [
+              "-ive",
+              "adjetivo (tendencia)",
+              "attractive, effective"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s6q1",
+          "question": "1. Lo contrario de 'comfortable' con prefijo:",
+          "options": [
+            "uncomfortable",
+            "discomfortable"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s6q2",
+          "question": "2. 'No posible' se forma como...",
+          "options": [
+            "unpossible",
+            "impossible"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s6q3",
+          "question": "3. El sustantivo de 'kind' (amable) es...",
+          "options": [
+            "kindness",
+            "kindity"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s6q4",
+          "question": "4. 'Sin uso' (adjetivo) es...",
+          "options": [
+            "useful",
+            "useless"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s6q5",
+          "question": "5. El sustantivo de 'pay' es...",
+          "options": [
+            "payment",
+            "payness"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s6q6",
+          "question": "6. 'Entender mal' con prefijo:",
+          "options": [
+            "disunderstand",
+            "misunderstand"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s6q7",
+          "question": "7. El adjetivo 'que se puede fiar' es...",
+          "options": [
+            "reliable",
+            "reliful"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b13-s6",
+        "label": "<span class=\"badge\">tu turno</span>Forma un adjetivo negativo con un prefijo (un-/im-/dis-) y un sustantivo con un sufijo (-ment/-ness).",
+        "placeholder": "Ej: The service was unreliable, but the payment and kindness were fine."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "La forma del prefijo de negación depende de la letra inicial: <b>im-</b> ante p/m (impossible), <b>ir-</b> ante r (irregular), <b>il-</b> ante l (illegal), <b>in-</b> en el resto (incorrect). No hay regla perfecta: verifícalo."
+        }
+      ]
+    },
+    {
+      "idx": "13.7",
+      "title": "Vocabulario temático — negocios y finanzas",
+      "level": "B2",
+      "rule": "Términos de gestión, ventas y finanzas que aparecen en informes, reuniones y correos profesionales. Muchos tienen una colocación fija (<b>meet a target</b>, <b>cut costs</b>, <b>close a deal</b>). Aprende el término con su verbo habitual, no aislado. Distingue registro: 'revenue' e 'invoice' son formales; 'the bottom line' es más coloquial pero muy usado.",
+      "examples": [
+        {
+          "en": "We exceeded our <span class=\"r-verb\">revenue</span> target this quarter.",
+          "es": "Superamos nuestro objetivo de ingresos este trimestre."
+        },
+        {
+          "en": "Please send the <span class=\"r-verb\">invoice</span> by Friday.",
+          "es": "Por favor, envía la factura para el viernes."
+        },
+        {
+          "en": "We need to <span class=\"r-verb\">cut costs</span> without cutting quality.",
+          "es": "Necesitamos recortar costes sin recortar calidad."
+        },
+        {
+          "en": "The <span class=\"r-verb\">profit margin</span> is tight this year.",
+          "es": "El margen de beneficio es estrecho este año."
+        },
+        {
+          "en": "Let's close the <span class=\"r-verb\">deal</span> before month-end.",
+          "es": "Cerremos el trato antes de fin de mes."
+        },
+        {
+          "en": "Our <span class=\"r-verb\">cash flow</span> improved after the season.",
+          "es": "Nuestro flujo de caja mejoró tras la temporada."
+        },
+        {
+          "en": "The <span class=\"r-verb\">stakeholders</span> approved the budget.",
+          "es": "Los interesados aprobaron el presupuesto."
+        },
+        {
+          "en": "We're expanding our <span class=\"r-verb\">market share</span>.",
+          "es": "Estamos ampliando nuestra cuota de mercado."
+        },
+        {
+          "en": "The <span class=\"r-verb\">bottom line</span> is that bookings are up.",
+          "es": "En resumidas cuentas, las reservas han subido."
+        },
+        {
+          "en": "They offered a generous <span class=\"r-verb\">discount</span> for bulk.",
+          "es": "Ofrecieron un buen descuento por volumen."
+        },
+        {
+          "en": "We track <span class=\"r-verb\">overheads</span> every month.",
+          "es": "Controlamos los gastos fijos cada mes."
+        },
+        {
+          "en": "The <span class=\"r-verb\">forecast</span> looks strong for summer.",
+          "es": "La previsión es buena para el verano."
+        },
+        {
+          "en": "Let's review the <span class=\"r-verb\">quarterly figures</span>.",
+          "es": "Repasemos las cifras trimestrales."
+        },
+        {
+          "en": "We signed a new <span class=\"r-verb\">supplier</span> contract.",
+          "es": "Firmamos un nuevo contrato con un proveedor."
+        },
+        {
+          "en": "The <span class=\"r-verb\">return on investment</span> was excellent.",
+          "es": "El retorno de la inversión fue excelente."
+        },
+        {
+          "en": "We need to <span class=\"r-verb\">break even</span> by August.",
+          "es": "Necesitamos cubrir gastos para agosto."
+        },
+        {
+          "en": "Our <span class=\"r-verb\">turnover</span> doubled in two years.",
+          "es": "Nuestra facturación se duplicó en dos años."
+        },
+        {
+          "en": "They requested a detailed <span class=\"r-verb\">quote</span>.",
+          "es": "Solicitaron un presupuesto detallado."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Término",
+            "Significado"
+          ],
+          "rows": [
+            [
+              "revenue",
+              "ingresos"
+            ],
+            [
+              "invoice",
+              "factura"
+            ],
+            [
+              "cut costs",
+              "recortar costes"
+            ],
+            [
+              "profit margin",
+              "margen de beneficio"
+            ],
+            [
+              "cash flow",
+              "flujo de caja"
+            ],
+            [
+              "stakeholders",
+              "partes interesadas"
+            ],
+            [
+              "market share",
+              "cuota de mercado"
+            ],
+            [
+              "the bottom line",
+              "el resultado final / lo esencial"
+            ],
+            [
+              "overheads",
+              "gastos fijos / generales"
+            ],
+            [
+              "forecast",
+              "previsión"
+            ],
+            [
+              "break even",
+              "cubrir gastos, alcanzar el equilibrio"
+            ],
+            [
+              "turnover",
+              "facturación / volumen de negocio"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s7q1",
+          "question": "1. 'Revenue' significa...",
+          "options": [
+            "ingresos",
+            "gastos"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s7q2",
+          "question": "2. 'Cut costs' significa...",
+          "options": [
+            "recortar costes",
+            "subir precios"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s7q3",
+          "question": "3. 'The bottom line' significa...",
+          "options": [
+            "lo esencial / el resultado final",
+            "la última línea del texto"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s7q4",
+          "question": "4. 'Break even' significa...",
+          "options": [
+            "cubrir gastos (ni pérdida ni ganancia)",
+            "quebrar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s7q5",
+          "question": "5. 'Turnover' (finanzas) significa...",
+          "options": [
+            "facturación",
+            "rotación de personal solamente"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s7q6",
+          "question": "6. 'Overheads' son...",
+          "options": [
+            "gastos fijos/generales",
+            "ingresos extra"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s7q7",
+          "question": "7. 'Forecast' significa...",
+          "options": [
+            "previsión",
+            "factura"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b13-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases con vocabulario financiero, por ejemplo con <b>revenue</b> y <b>cut costs</b> o <b>break even</b>.",
+        "placeholder": "Ej: Revenue is up, but we still need to cut costs to break even."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cuidado con 'turnover': en finanzas = facturación, pero 'staff turnover' = rotación de personal. Y 'quote' aquí es presupuesto (nombre) o citar (verbo), no 'cuota' (que es 'fee' o 'quota')."
+        }
+      ]
+    },
+    {
+      "idx": "13.8",
+      "title": "Palabras que se confunden (confusables)",
+      "level": "B1",
+      "rule": "Pares de palabras que suenan o se escriben parecido pero significan cosas distintas, y que causan errores frecuentes incluso en nativos. <b>affect</b> (verbo: afectar) vs <b>effect</b> (sustantivo: efecto). <b>its</b> (posesivo) vs <b>it's</b> (it is). <b>your</b> vs <b>you're</b>. <b>there / their / they're</b>. <b>lose</b> (perder) vs <b>loose</b> (suelto). <b>advice</b> (sustantivo) vs <b>advise</b> (verbo). Merece la pena memorizar la diferencia con un ejemplo claro.",
+      "examples": [
+        {
+          "en": "The delay didn't <b class=\"hl\">affect</b> the booking. (verbo)",
+          "es": "El retraso no afectó a la reserva."
+        },
+        {
+          "en": "The upgrade had a great <b class=\"hl\">effect</b> on reviews. (sustantivo)",
+          "es": "La mejora tuvo un gran efecto en las reseñas."
+        },
+        {
+          "en": "The hotel changed <b class=\"hl\">its</b> policy. (posesivo)",
+          "es": "El hotel cambió su política."
+        },
+        {
+          "en": "<b class=\"hl\">It's</b> a great time to book. (it is)",
+          "es": "Es un buen momento para reservar."
+        },
+        {
+          "en": "Is this <b class=\"hl\">your</b> reservation? (posesivo)",
+          "es": "¿Es esta su reserva?"
+        },
+        {
+          "en": "<b class=\"hl\">You're</b> in room 12. (you are)",
+          "es": "Está en la habitación 12."
+        },
+        {
+          "en": "<b class=\"hl\">Their</b> luggage is at the desk. (posesivo)",
+          "es": "Su equipaje está en el mostrador."
+        },
+        {
+          "en": "<b class=\"hl\">There</b> are two suites free. (lugar/existencia)",
+          "es": "Hay dos suites libres."
+        },
+        {
+          "en": "<b class=\"hl\">They're</b> arriving tonight. (they are)",
+          "es": "Llegan esta noche."
+        },
+        {
+          "en": "Don't <b class=\"hl\">lose</b> your key card. (perder)",
+          "es": "No pierda su tarjeta llave."
+        },
+        {
+          "en": "The handle is <b class=\"hl\">loose</b>. (suelto)",
+          "es": "El pomo está suelto."
+        },
+        {
+          "en": "Can I give you some <b class=\"hl\">advice</b>? (sustantivo)",
+          "es": "¿Le puedo dar un consejo?"
+        },
+        {
+          "en": "I'd <b class=\"hl\">advise</b> booking early. (verbo)",
+          "es": "Le aconsejaría reservar pronto."
+        },
+        {
+          "en": "The rooms are <b class=\"hl\">quiet</b> at night. (tranquilo)",
+          "es": "Las habitaciones están tranquilas de noche."
+        },
+        {
+          "en": "The suite is <b class=\"hl\">quite</b> spacious. (bastante)",
+          "es": "La suite es bastante amplia."
+        },
+        {
+          "en": "Please <b class=\"hl\">accept</b> our apologies. (aceptar)",
+          "es": "Por favor, acepte nuestras disculpas."
+        },
+        {
+          "en": "Everyone came <b class=\"hl\">except</b> the guide. (excepto)",
+          "es": "Vinieron todos excepto el guía."
+        },
+        {
+          "en": "We'll <b class=\"hl\">then</b> confirm the details. (entonces/luego)",
+          "es": "Luego confirmaremos los detalles."
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Palabra",
+            "Significado",
+            "No confundir con"
+          ],
+          "rows": [
+            [
+              "affect (v.)",
+              "afectar",
+              "effect (n.) = efecto"
+            ],
+            [
+              "its",
+              "su (posesivo)",
+              "it's = it is"
+            ],
+            [
+              "your",
+              "tu/su (posesivo)",
+              "you're = you are"
+            ],
+            [
+              "their",
+              "su (posesivo, plural)",
+              "there = allí / they're = they are"
+            ],
+            [
+              "lose (v.)",
+              "perder",
+              "loose (adj.) = suelto/flojo"
+            ],
+            [
+              "advice (n.)",
+              "consejo",
+              "advise (v.) = aconsejar"
+            ],
+            [
+              "quiet",
+              "tranquilo, silencioso",
+              "quite = bastante"
+            ],
+            [
+              "accept (v.)",
+              "aceptar",
+              "except = excepto"
+            ],
+            [
+              "then",
+              "entonces, luego",
+              "than = que (comparación)"
+            ],
+            [
+              "principal",
+              "principal / director",
+              "principle = principio"
+            ]
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b13-s8q1",
+          "question": "1. The delay didn't ___ the plan. (verbo: afectar)",
+          "options": [
+            "affect",
+            "effect"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s8q2",
+          "question": "2. The hotel changed ___ policy. (posesivo)",
+          "options": [
+            "it's",
+            "its"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s8q3",
+          "question": "3. Don't ___ your key. (perder)",
+          "options": [
+            "loose",
+            "lose"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s8q4",
+          "question": "4. Can I give you some ___? (sustantivo: consejo)",
+          "options": [
+            "advice",
+            "advise"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b13-s8q5",
+          "question": "5. The suite is ___ spacious. (bastante)",
+          "options": [
+            "quiet",
+            "quite"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s8q6",
+          "question": "6. Everyone came ___ the guide. (excepto)",
+          "options": [
+            "accept",
+            "except"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b13-s8q7",
+          "question": "7. ___ arriving tonight. (they are)",
+          "options": [
+            "Their",
+            "They're"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b13-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases que usen bien un par confuso, por ejemplo <b>affect/effect</b> o <b>its/it's</b>.",
+        "placeholder": "Ej: It's a lovely hotel, and its staff affect the guest experience."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Truco: <b>it's</b> siempre = 'it is/it has' (lleva apóstrofo por la contracción); <b>its</b> es posesivo, sin apóstrofo. Igual con your/you're y their/they're: el apóstrofo marca la contracción."
         }
       ]
     }
