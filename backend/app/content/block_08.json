@@ -59,6 +59,66 @@
         {
           "en": "The suite <span class=\"r-verb\">was redecorated</span> <span class=\"r-cd\">by a famous designer</span>.",
           "es": "La suite fue redecorada por un diseñador famoso."
+        },
+        {
+          "en": "The invoice <span class=\"r-verb\">was sent</span> this morning.",
+          "es": "La factura se envió esta mañana."
+        },
+        {
+          "en": "The suite <span class=\"r-verb\">is cleaned</span> twice a day.",
+          "es": "La suite se limpia dos veces al día."
+        },
+        {
+          "en": "Your request <span class=\"r-verb\">is being processed</span>.",
+          "es": "Su solicitud se está tramitando."
+        },
+        {
+          "en": "The gala <span class=\"r-verb\">has been postponed</span> <span class=\"r-cd\">by the organisers</span>.",
+          "es": "La gala ha sido pospuesta por los organizadores."
+        },
+        {
+          "en": "The rooms <span class=\"r-verb\">will be inspected</span> before arrival.",
+          "es": "Las habitaciones se inspeccionarán antes de la llegada."
+        },
+        {
+          "en": "The complaint <span class=\"r-verb\">was handled</span> within an hour.",
+          "es": "La queja se gestionó en una hora."
+        },
+        {
+          "en": "Breakfast <span class=\"r-verb\">is served</span> until ten.",
+          "es": "El desayuno se sirve hasta las diez."
+        },
+        {
+          "en": "The keys <span class=\"r-verb\">had been left</span> at reception.",
+          "es": "Las llaves se habían dejado en recepción."
+        },
+        {
+          "en": "A new wing <span class=\"r-verb\">is being built</span> this year.",
+          "es": "Se está construyendo un ala nueva este año."
+        },
+        {
+          "en": "The bill <span class=\"r-verb\">will have been settled</span> by checkout.",
+          "es": "La factura habrá sido saldada antes del check-out."
+        },
+        {
+          "en": "The menu <span class=\"r-verb\">was designed</span> <span class=\"r-cd\">by a Michelin chef</span>.",
+          "es": "El menú fue diseñado por un chef con estrella Michelin."
+        },
+        {
+          "en": "Guests <span class=\"r-verb\">are greeted</span> with a welcome drink.",
+          "es": "Los huéspedes son recibidos con una bebida de bienvenida."
+        },
+        {
+          "en": "The payment <span class=\"r-verb\">has been received</span>.",
+          "es": "El pago se ha recibido."
+        },
+        {
+          "en": "The event <span class=\"r-verb\">is being organised</span> <span class=\"r-cd\">by our team</span>.",
+          "es": "El evento está siendo organizado por nuestro equipo."
+        },
+        {
+          "en": "The pool <span class=\"r-verb\">was closed</span> for maintenance.",
+          "es": "La piscina se cerró por mantenimiento."
         }
       ],
       "tables": [
@@ -124,6 +184,51 @@
             "will be signed"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b08-s1q4",
+          "question": "4. The rooms ___ every morning. (presente pasivo)",
+          "options": [
+            "are cleaned",
+            "clean"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s1q5",
+          "question": "5. Your booking ___ confirmed. (presente perfecto pasivo)",
+          "options": [
+            "has been",
+            "was being"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s1q6",
+          "question": "6. The contract will ___ tomorrow. (futuro pasivo)",
+          "options": [
+            "be signed",
+            "been signed"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s1q7",
+          "question": "7. Breakfast ___ prepared right now. (presente continuo pasivo)",
+          "options": [
+            "is being",
+            "has been"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s1q8",
+          "question": "8. All contracts ___ before the deadline. (pasado perfecto pasivo)",
+          "options": [
+            "had been signed",
+            "were signing"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -183,6 +288,66 @@
         {
           "en": "\"The price has gone up.\" → He said the price <span class=\"r-verb\">had gone</span> up.",
           "es": "Dijo que el precio había subido."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">work</span> here.\" → She said she <span class=\"r-verb\">worked</span> there.",
+          "es": "«Trabajo aquí.» → Dijo que trabajaba allí."
+        },
+        {
+          "en": "\"We <span class=\"r-verb\">are</span> fully booked.\" → He said they <span class=\"r-verb\">were</span> fully booked.",
+          "es": "«Estamos completos.» → Dijo que estaban completos."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">have sent</span> it.\" → She said she <span class=\"r-verb\">had sent</span> it.",
+          "es": "«Lo he enviado.» → Dijo que lo había enviado."
+        },
+        {
+          "en": "\"The rate <span class=\"r-verb\">will rise</span>.\" → He said the rate <span class=\"r-verb\">would rise</span>.",
+          "es": "«La tarifa subirá.» → Dijo que la tarifa subiría."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">can</span> upgrade you.\" → She said she <span class=\"r-verb\">could</span> upgrade me.",
+          "es": "«Puedo mejorarle la habitación.» → Dijo que podía mejorármela."
+        },
+        {
+          "en": "\"We <span class=\"r-verb\">don't</span> allow pets.\" → He said they <span class=\"r-verb\">didn't</span> allow pets.",
+          "es": "«No permitimos mascotas.» → Dijo que no permitían mascotas."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">am checking</span> it.\" → She said she <span class=\"r-verb\">was checking</span> it.",
+          "es": "«Lo estoy comprobando.» → Dijo que lo estaba comprobando."
+        },
+        {
+          "en": "\"The room <span class=\"r-verb\">has been</span> cleaned.\" → He said it <span class=\"r-verb\">had been</span> cleaned.",
+          "es": "«La habitación ha sido limpiada.» → Dijo que había sido limpiada."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">must</span> confirm.\" → She said she <span class=\"r-verb\">had to</span> confirm.",
+          "es": "«Debo confirmar.» → Dijo que tenía que confirmar."
+        },
+        {
+          "en": "\"We <span class=\"r-verb\">may</span> extend.\" → They said they <span class=\"r-verb\">might</span> extend.",
+          "es": "«Puede que ampliemos.» → Dijeron que quizá ampliaran."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">booked</span> it online.\" → He said he <span class=\"r-verb\">had booked</span> it online.",
+          "es": "«Lo reservé por internet.» → Dijo que lo había reservado por internet."
+        },
+        {
+          "en": "\"The suite <span class=\"r-verb\">is</span> ready.\" → She said the suite <span class=\"r-verb\">was</span> ready.",
+          "es": "«La suite está lista.» → Dijo que la suite estaba lista."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">didn't</span> get the email.\" → He said he <span class=\"r-verb\">hadn't got</span> the email.",
+          "es": "«No recibí el correo.» → Dijo que no había recibido el correo."
+        },
+        {
+          "en": "\"We <span class=\"r-verb\">are raising</span> prices.\" → They said they <span class=\"r-verb\">were raising</span> prices.",
+          "es": "«Vamos a subir los precios.» → Dijeron que iban a subir los precios."
+        },
+        {
+          "en": "\"I <span class=\"r-verb\">love</span> this hotel.\" → She said she <span class=\"r-verb\">loved</span> that hotel.",
+          "es": "«Me encanta este hotel.» → Dijo que le encantaba ese hotel."
         }
       ],
       "tables": [],
@@ -213,6 +378,51 @@
             "had finished"
           ],
           "correctIndex": 1
+        },
+        {
+          "id": "b08-s2q4",
+          "question": "4. \"I am busy.\" → She said she ___ busy. (presente → pasado)",
+          "options": [
+            "was",
+            "is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s2q5",
+          "question": "5. \"I signed it.\" → He said he ___ it. (pasado → pasado perfecto)",
+          "options": [
+            "signed",
+            "had signed"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s2q6",
+          "question": "6. \"I will call.\" → She said she ___ call. (will → would)",
+          "options": [
+            "would",
+            "will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s2q7",
+          "question": "7. \"I can help.\" → He said he ___ help. (can → could)",
+          "options": [
+            "can",
+            "could"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s2q8",
+          "question": "8. \"We have finished.\" → They said they ___ finished. (have → had)",
+          "options": [
+            "had",
+            "have"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -272,6 +482,66 @@
         {
           "en": "\"Why did the price change?\" → She asked why the price <span class=\"r-verb\">had changed</span>.",
           "es": "Preguntó por qué había cambiado el precio."
+        },
+        {
+          "en": "\"What's your name?\" → She asked <span class=\"r-verb\">what my name was</span>.",
+          "es": "«¿Cómo se llama?» → Preguntó cómo me llamaba."
+        },
+        {
+          "en": "\"Do you need a taxi?\" → He asked <span class=\"r-verb\">if I needed</span> a taxi.",
+          "es": "«¿Necesita un taxi?» → Preguntó si necesitaba un taxi."
+        },
+        {
+          "en": "\"When did you arrive?\" → She asked <span class=\"r-verb\">when I had arrived</span>.",
+          "es": "«¿Cuándo llegó?» → Preguntó cuándo había llegado."
+        },
+        {
+          "en": "\"Are the rooms ready?\" → He asked <span class=\"r-verb\">whether the rooms were</span> ready.",
+          "es": "«¿Están listas las habitaciones?» → Preguntó si las habitaciones estaban listas."
+        },
+        {
+          "en": "\"How much is it?\" → She asked <span class=\"r-verb\">how much it was</span>.",
+          "es": "«¿Cuánto cuesta?» → Preguntó cuánto costaba."
+        },
+        {
+          "en": "\"Can I check in early?\" → He asked <span class=\"r-verb\">if he could check in</span> early.",
+          "es": "«¿Puedo registrarme antes?» → Preguntó si podía registrarse antes."
+        },
+        {
+          "en": "\"Where is the gym?\" → She asked <span class=\"r-verb\">where the gym was</span>.",
+          "es": "«¿Dónde está el gimnasio?» → Preguntó dónde estaba el gimnasio."
+        },
+        {
+          "en": "\"Have you paid?\" → He asked <span class=\"r-verb\">whether I had paid</span>.",
+          "es": "«¿Ha pagado?» → Preguntó si había pagado."
+        },
+        {
+          "en": "\"Why is it closed?\" → She asked <span class=\"r-verb\">why it was closed</span>.",
+          "es": "«¿Por qué está cerrado?» → Preguntó por qué estaba cerrado."
+        },
+        {
+          "en": "\"Will there be parking?\" → He asked <span class=\"r-verb\">if there would be</span> parking.",
+          "es": "«¿Habrá aparcamiento?» → Preguntó si habría aparcamiento."
+        },
+        {
+          "en": "\"Who booked this?\" → She asked <span class=\"r-verb\">who had booked</span> it.",
+          "es": "«¿Quién reservó esto?» → Preguntó quién lo había reservado."
+        },
+        {
+          "en": "\"Does it include breakfast?\" → He asked <span class=\"r-verb\">if it included</span> breakfast.",
+          "es": "«¿Incluye desayuno?» → Preguntó si incluía desayuno."
+        },
+        {
+          "en": "\"What time do you close?\" → She asked <span class=\"r-verb\">what time we closed</span>.",
+          "es": "«¿A qué hora cierran?» → Preguntó a qué hora cerrábamos."
+        },
+        {
+          "en": "\"Are you enjoying your stay?\" → He asked <span class=\"r-verb\">if I was enjoying</span> my stay.",
+          "es": "«¿Está disfrutando su estancia?» → Preguntó si estaba disfrutando mi estancia."
+        },
+        {
+          "en": "\"How long will you stay?\" → She asked <span class=\"r-verb\">how long I would stay</span>.",
+          "es": "«¿Cuánto se quedará?» → Preguntó cuánto me quedaría."
         }
       ],
       "tables": [],
@@ -300,6 +570,51 @@
           "options": [
             "She asked where I lived",
             "She asked where did I live"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s3q4",
+          "question": "4. \"Where do you live?\" → She asked where I ___. (orden afirmativo)",
+          "options": [
+            "live",
+            "lived"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s3q5",
+          "question": "5. \"Are you interested?\" → He asked ___ I was interested. (sí/no)",
+          "options": [
+            "that",
+            "if"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s3q6",
+          "question": "6. \"Can you help?\" → He asked if I ___ help. (can → could)",
+          "options": [
+            "could",
+            "can"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s3q7",
+          "question": "7. Reported: ¿orden correcto tras 'where'?",
+          "options": [
+            "where was the spa",
+            "where the spa was"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s3q8",
+          "question": "8. \"Have you signed?\" → She asked ___ I had signed. (sí/no formal)",
+          "options": [
+            "whether",
+            "that"
           ],
           "correctIndex": 0
         }
@@ -361,6 +676,66 @@
         {
           "en": "\"Don't cancel yet.\" → He told us <span class=\"r-verb\">not to cancel</span> yet.",
           "es": "Nos dijo que no canceláramos todavía."
+        },
+        {
+          "en": "\"Wait here.\" → She told me <span class=\"r-verb\">to wait</span> there.",
+          "es": "«Espere aquí.» → Me dijo que esperara allí."
+        },
+        {
+          "en": "\"Please call back.\" → He asked me <span class=\"r-verb\">to call</span> back.",
+          "es": "«Por favor, vuelva a llamar.» → Me pidió que volviera a llamar."
+        },
+        {
+          "en": "\"Don't touch the minibar.\" → She told us <span class=\"r-verb\">not to touch</span> the minibar.",
+          "es": "«No toquen el minibar.» → Nos dijo que no tocáramos el minibar."
+        },
+        {
+          "en": "\"Bring your ID.\" → He told me <span class=\"r-verb\">to bring</span> my ID.",
+          "es": "«Traiga su identificación.» → Me dijo que trajera mi identificación."
+        },
+        {
+          "en": "\"Please be quiet.\" → She asked them <span class=\"r-verb\">to be</span> quiet.",
+          "es": "«Por favor, guarden silencio.» → Les pidió que guardaran silencio."
+        },
+        {
+          "en": "\"Don't forget the deposit.\" → He reminded me <span class=\"r-verb\">not to forget</span> the deposit.",
+          "es": "«No olvide el depósito.» → Me recordó que no olvidara el depósito."
+        },
+        {
+          "en": "\"Sign at the bottom.\" → She asked the client <span class=\"r-verb\">to sign</span> at the bottom.",
+          "es": "«Firme abajo.» → Le pidió al cliente que firmara abajo."
+        },
+        {
+          "en": "\"Don't leave bags here.\" → He told guests <span class=\"r-verb\">not to leave</span> bags there.",
+          "es": "«No dejen las maletas aquí.» → Les dijo a los huéspedes que no dejaran las maletas allí."
+        },
+        {
+          "en": "\"Check the room first.\" → The manager told me <span class=\"r-verb\">to check</span> the room first.",
+          "es": "«Revisa la habitación primero.» → El gerente me dijo que revisara la habitación primero."
+        },
+        {
+          "en": "\"Please confirm today.\" → She asked me <span class=\"r-verb\">to confirm</span> that day.",
+          "es": "«Por favor, confirme hoy.» → Me pidió que confirmara ese día."
+        },
+        {
+          "en": "\"Don't rush the guest.\" → He told us <span class=\"r-verb\">not to rush</span> the guest.",
+          "es": "«No metan prisa al huésped.» → Nos dijo que no le metiéramos prisa al huésped."
+        },
+        {
+          "en": "\"Take the lift.\" → She told them <span class=\"r-verb\">to take</span> the lift.",
+          "es": "«Tomen el ascensor.» → Les dijo que tomaran el ascensor."
+        },
+        {
+          "en": "\"Please arrive early.\" → He asked us <span class=\"r-verb\">to arrive</span> early.",
+          "es": "«Por favor, lleguen temprano.» → Nos pidió que llegáramos temprano."
+        },
+        {
+          "en": "\"Don't worry.\" → She told the guest <span class=\"r-verb\">not to worry</span>.",
+          "es": "«No se preocupe.» → Le dijo al huésped que no se preocupara."
+        },
+        {
+          "en": "\"Email me the details.\" → He asked her <span class=\"r-verb\">to email</span> him the details.",
+          "es": "«Envíame los detalles.» → Le pidió que le enviara los detalles."
         }
       ],
       "tables": [],
@@ -391,6 +766,51 @@
             "wait"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b08-s4q4",
+          "question": "4. \"Close the door.\" → She told me ___ the door. (infinitivo)",
+          "options": [
+            "to close",
+            "closing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s4q5",
+          "question": "5. \"Don't be late.\" → He told me ___ late. (negativo)",
+          "options": [
+            "to not be",
+            "not to be"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s4q6",
+          "question": "6. \"Send it.\" → He asked me ___ it. (orden cortés → ask + to)",
+          "options": [
+            "to send",
+            "sending"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s4q7",
+          "question": "7. \"Please sign here.\" → She asked the client ___ there. (infinitivo)",
+          "options": [
+            "to sign",
+            "sign"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s4q8",
+          "question": "8. \"Don't cancel.\" → He told us ___. (negativo)",
+          "options": [
+            "to not cancel",
+            "not to cancel"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -432,10 +852,6 @@
           "es": "\"Esta oferta termina hoy.\" → Dijo que esa oferta terminaba ese día."
         },
         {
-          "en": "\"I'll call you tomorrow.\" → He said he'd call me <span class=\"r-verb\">the next day</span>.",
-          "es": "Dijo que me llamaría al día siguiente."
-        },
-        {
           "en": "\"We arrived yesterday.\" → They said they'd arrived <span class=\"r-verb\">the day before</span>.",
           "es": "Dijeron que habían llegado el día anterior."
         },
@@ -450,6 +866,66 @@
         {
           "en": "\"Come next week.\" → She said to come <span class=\"r-verb\">the following week</span>.",
           "es": "Dijo que fuera la semana siguiente."
+        },
+        {
+          "en": "\"I'll finish it <span class=\"r-verb\">today</span>.\" → She said she'd finish it <span class=\"r-verb\">that day</span>.",
+          "es": "«Lo terminaré hoy.» → Dijo que lo terminaría ese día."
+        },
+        {
+          "en": "\"We opened <span class=\"r-verb\">last week</span>.\" → He said they'd opened <span class=\"r-verb\">the week before</span>.",
+          "es": "«Abrimos la semana pasada.» → Dijo que habían abierto la semana anterior."
+        },
+        {
+          "en": "\"Bring it <span class=\"r-verb\">here</span>.\" → She said to bring it <span class=\"r-verb\">there</span>.",
+          "es": "«Tráelo aquí.» → Dijo que lo llevaran allí."
+        },
+        {
+          "en": "\"I saw it <span class=\"r-verb\">now</span>.\" → He said he'd seen it <span class=\"r-verb\">then</span>.",
+          "es": "«Lo vi ahora.» → Dijo que lo había visto entonces."
+        },
+        {
+          "en": "\"We leave <span class=\"r-verb\">tomorrow</span>.\" → They said they'd leave <span class=\"r-verb\">the next day</span>.",
+          "es": "«Nos vamos mañana.» → Dijeron que se irían al día siguiente."
+        },
+        {
+          "en": "\"This <span class=\"r-verb\">offer</span> ends soon.\" → He said <span class=\"r-verb\">that offer</span> ended soon.",
+          "es": "«Esta oferta acaba pronto.» → Dijo que aquella oferta acababa pronto."
+        },
+        {
+          "en": "\"I paid <span class=\"r-verb\">yesterday</span>.\" → She said she'd paid <span class=\"r-verb\">the day before</span>.",
+          "es": "«Pagué ayer.» → Dijo que había pagado el día anterior."
+        },
+        {
+          "en": "\"Call me <span class=\"r-verb\">tonight</span>.\" → He asked me to call him <span class=\"r-verb\">that night</span>.",
+          "es": "«Llámame esta noche.» → Me pidió que le llamara esa noche."
+        },
+        {
+          "en": "\"These <span class=\"r-verb\">rooms</span> are ready.\" → She said <span class=\"r-verb\">those rooms</span> were ready.",
+          "es": "«Estas habitaciones están listas.» → Dijo que aquellas habitaciones estaban listas."
+        },
+        {
+          "en": "\"I'll come <span class=\"r-verb\">next month</span>.\" → He said he'd come <span class=\"r-verb\">the following month</span>.",
+          "es": "«Vendré el mes que viene.» → Dijo que vendría al mes siguiente."
+        },
+        {
+          "en": "\"We met <span class=\"r-verb\">three days ago</span>.\" → She said they'd met <span class=\"r-verb\">three days before</span>.",
+          "es": "«Nos conocimos hace tres días.» → Dijo que se habían conocido tres días antes."
+        },
+        {
+          "en": "\"Wait <span class=\"r-verb\">here</span>.\" → He told them to wait <span class=\"r-verb\">there</span>.",
+          "es": "«Esperen aquí.» → Les dijo que esperaran allí."
+        },
+        {
+          "en": "\"I booked it <span class=\"r-verb\">this morning</span>.\" → She said she'd booked it <span class=\"r-verb\">that morning</span>.",
+          "es": "«Lo reservé esta mañana.» → Dijo que lo había reservado esa mañana."
+        },
+        {
+          "en": "\"Come back <span class=\"r-verb\">tomorrow</span>.\" → He said to come back <span class=\"r-verb\">the next day</span>.",
+          "es": "«Vuelva mañana.» → Dijo que volviera al día siguiente."
+        },
+        {
+          "en": "\"I love <span class=\"r-verb\">this</span> place.\" → She said she loved <span class=\"r-verb\">that</span> place.",
+          "es": "«Me encanta este sitio.» → Dijo que le encantaba aquel sitio."
         }
       ],
       "tables": [
@@ -521,6 +997,51 @@
             "ago"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b08-s5q4",
+          "question": "4. \"today\" en estilo indirecto pasa a...",
+          "options": [
+            "that day",
+            "this day"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s5q5",
+          "question": "5. \"tomorrow\" → ...",
+          "options": [
+            "the next day",
+            "the day before"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s5q6",
+          "question": "6. \"here\" → ...",
+          "options": [
+            "here",
+            "there"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s5q7",
+          "question": "7. \"yesterday\" → ...",
+          "options": [
+            "the day before",
+            "the next day"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s5q8",
+          "question": "8. \"this offer\" → ...",
+          "options": [
+            "that offer",
+            "this offer"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -532,6 +1053,666 @@
         {
           "type": "exception",
           "text": "now→then, today→that day, tomorrow→<b>the next day</b>, here→there, this→that. El contexto ya no es 'aquí y ahora'."
+        }
+      ]
+    },
+    {
+      "idx": "8.6",
+      "title": "Pasiva impersonal (It is said that / He is believed to)",
+      "level": "C1",
+      "rule": "Sirve para dar información sin identificar la fuente ('se dice que…'), típica de noticias, informes y reseñas. Dos estructuras: <b>It + is/was + participio + that + oración</b> (It is said that the hotel is haunted). O <b>Sujeto + is/was + participio + to + infinitivo</b> (The hotel is said to be haunted; para algo anterior, to have + participio). Verbos habituales: say, believe, think, know, report, expect, consider, claim. Elevan el registro y suenan objetivos.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">It is said that</b> this is the best hotel in town.",
+          "es": "Se dice que este es el mejor hotel de la ciudad."
+        },
+        {
+          "en": "The resort <b class=\"hl\">is believed to be</b> fully booked.",
+          "es": "Se cree que el resort está completo."
+        },
+        {
+          "en": "<b class=\"hl\">It is reported that</b> prices will rise next year.",
+          "es": "Se informa de que los precios subirán el año que viene."
+        },
+        {
+          "en": "She <b class=\"hl\">is thought to have</b> designed the lobby.",
+          "es": "Se cree que ella diseñó el vestíbulo."
+        },
+        {
+          "en": "<b class=\"hl\">It is expected that</b> occupancy will hit 100%.",
+          "es": "Se espera que la ocupación llegue al 100%."
+        },
+        {
+          "en": "The chef <b class=\"hl\">is known to be</b> very demanding.",
+          "es": "Se sabe que el chef es muy exigente."
+        },
+        {
+          "en": "<b class=\"hl\">It was believed that</b> the villa was haunted.",
+          "es": "Se creía que la villa estaba embrujada."
+        },
+        {
+          "en": "The offer <b class=\"hl\">is considered to be</b> the best on the market.",
+          "es": "Se considera que la oferta es la mejor del mercado."
+        },
+        {
+          "en": "<b class=\"hl\">It is claimed that</b> the spa uses volcanic water.",
+          "es": "Se afirma que el spa usa agua volcánica."
+        },
+        {
+          "en": "The manager <b class=\"hl\">is said to speak</b> five languages.",
+          "es": "Se dice que el gerente habla cinco idiomas."
+        },
+        {
+          "en": "<b class=\"hl\">It is understood that</b> renovations start in autumn.",
+          "es": "Se entiende que las reformas empiezan en otoño."
+        },
+        {
+          "en": "The brand <b class=\"hl\">is reported to have</b> opened ten hotels.",
+          "es": "Se informa de que la marca ha abierto diez hoteles."
+        },
+        {
+          "en": "<b class=\"hl\">It is thought that</b> demand will double.",
+          "es": "Se piensa que la demanda se duplicará."
+        },
+        {
+          "en": "The suite <b class=\"hl\">is rumoured to be</b> where a star stayed.",
+          "es": "Se rumorea que en la suite se alojó una estrella."
+        },
+        {
+          "en": "<b class=\"hl\">It is estimated that</b> repairs will cost thousands.",
+          "es": "Se estima que las reparaciones costarán miles."
+        },
+        {
+          "en": "The area <b class=\"hl\">is known to be</b> very safe.",
+          "es": "Se sabe que la zona es muy segura."
+        },
+        {
+          "en": "<b class=\"hl\">It is announced that</b> the pool reopens Monday.",
+          "es": "Se anuncia que la piscina reabre el lunes."
+        },
+        {
+          "en": "He <b class=\"hl\">is believed to have</b> left already.",
+          "es": "Se cree que ya se ha ido."
+        },
+        {
+          "en": "<b class=\"hl\">It is agreed that</b> service here is excellent.",
+          "es": "Se coincide en que el servicio aquí es excelente."
+        },
+        {
+          "en": "The hotel <b class=\"hl\">is said to date</b> from 1890.",
+          "es": "Se dice que el hotel data de 1890."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b08-s6q1",
+          "question": "1. ___ that it's the best hotel. (impersonal con 'it')",
+          "options": [
+            "It is said",
+            "He is said"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s6q2",
+          "question": "2. The resort ___ to be full. (creído + to)",
+          "options": [
+            "is believed",
+            "believes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s6q3",
+          "question": "3. She is thought ___ designed it. (algo anterior)",
+          "options": [
+            "to have",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s6q4",
+          "question": "4. It is reported ___ prices will rise. (+ that)",
+          "options": [
+            "that",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s6q5",
+          "question": "5. The chef ___ to be demanding. (se sabe)",
+          "options": [
+            "is known",
+            "knows"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s6q6",
+          "question": "6. He is said ___ five languages. (habla, simultáneo)",
+          "options": [
+            "to speak",
+            "to have spoken"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s6q7",
+          "question": "7. ___ that renovations start soon. (impersonal)",
+          "options": [
+            "It is understood",
+            "They are understood"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b08-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>It is said that…</b> y su equivalente con <b>… is said to…</b>.",
+        "placeholder": "Ej: It is said that the hotel is old. → The hotel is said to be old."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Para algo <b>anterior</b>, se usa 'to have + participio': 'He is believed <b>to have left</b>' (se cree que ya se fue). Para algo simultáneo, 'to + infinitivo': 'to be', 'to speak'."
+        }
+      ]
+    },
+    {
+      "idx": "8.7",
+      "title": "Causativa: have / get something done",
+      "level": "B2",
+      "rule": "Cuando <b>otra persona</b> hace algo por ti (un servicio), se usa <b>have + objeto + participio</b> o, más informal, <b>get + objeto + participio</b>: 'We <b>had the room cleaned</b>' (=alguien la limpió por nosotros). No es lo mismo que 'We cleaned the room' (lo hicimos nosotros). También expresa experiencias negativas sufridas: 'She <b>had her bag stolen</b>' (le robaron el bolso). El orden objeto + participio es fijo.",
+      "examples": [
+        {
+          "en": "We <b class=\"hl\">had the suite redecorated</b> last month.",
+          "es": "Hicimos redecorar la suite el mes pasado."
+        },
+        {
+          "en": "She's <b class=\"hl\">getting her car serviced</b> today.",
+          "es": "Hoy le hacen la revisión del coche."
+        },
+        {
+          "en": "The guest <b class=\"hl\">had her luggage delivered</b> to the room.",
+          "es": "A la huésped le llevaron el equipaje a la habitación."
+        },
+        {
+          "en": "We <b class=\"hl\">have the linen washed</b> off-site.",
+          "es": "La ropa de cama la lavamos fuera (nos la lavan)."
+        },
+        {
+          "en": "He <b class=\"hl\">had his passport photocopied</b> at reception.",
+          "es": "Le hicieron una fotocopia del pasaporte en recepción."
+        },
+        {
+          "en": "Let's <b class=\"hl\">get the sign repaired</b> before summer.",
+          "es": "Hagamos reparar el cartel antes del verano."
+        },
+        {
+          "en": "She <b class=\"hl\">had her hair done</b> at the hotel spa.",
+          "es": "Se arregló el pelo en el spa del hotel."
+        },
+        {
+          "en": "We <b class=\"hl\">had the windows cleaned</b> yesterday.",
+          "es": "Ayer hicimos limpiar las ventanas."
+        },
+        {
+          "en": "The client <b class=\"hl\">had the contract translated</b>.",
+          "es": "El cliente hizo traducir el contrato."
+        },
+        {
+          "en": "You can <b class=\"hl\">get your shoes shined</b> by the concierge.",
+          "es": "El conserje puede hacerle lustrar los zapatos."
+        },
+        {
+          "en": "We <b class=\"hl\">had the pool refilled</b> this morning.",
+          "es": "Esta mañana hicimos rellenar la piscina."
+        },
+        {
+          "en": "She <b class=\"hl\">had her bag stolen</b> at the airport. (negativa)",
+          "es": "Le robaron el bolso en el aeropuerto."
+        },
+        {
+          "en": "We're <b class=\"hl\">having a new lift installed</b>.",
+          "es": "Estamos haciendo instalar un ascensor nuevo."
+        },
+        {
+          "en": "He <b class=\"hl\">got his booking upgraded</b> for free.",
+          "es": "Le mejoraron la reserva gratis."
+        },
+        {
+          "en": "We <b class=\"hl\">had the menu printed</b> in three languages.",
+          "es": "Hicimos imprimir el menú en tres idiomas."
+        },
+        {
+          "en": "She <b class=\"hl\">had her dress pressed</b> before the gala.",
+          "es": "Hizo planchar su vestido antes de la gala."
+        },
+        {
+          "en": "We <b class=\"hl\">get the gardens maintained</b> weekly.",
+          "es": "Hacemos mantener los jardines cada semana."
+        },
+        {
+          "en": "The couple <b class=\"hl\">had breakfast served</b> on the terrace.",
+          "es": "A la pareja le sirvieron el desayuno en la terraza."
+        },
+        {
+          "en": "We <b class=\"hl\">had the room inspected</b> before arrival.",
+          "es": "Hicimos inspeccionar la habitación antes de la llegada."
+        },
+        {
+          "en": "He <b class=\"hl\">had his car parked</b> by the valet.",
+          "es": "El aparcacoches le estacionó el coche."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b08-s7q1",
+          "question": "1. We ___ the room cleaned. (nos la limpiaron)",
+          "options": [
+            "had",
+            "did"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s7q2",
+          "question": "2. Orden correcto (causativa):",
+          "options": [
+            "had cleaned the room",
+            "had the room cleaned"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s7q3",
+          "question": "3. She's ___ her car serviced. (informal)",
+          "options": [
+            "getting",
+            "doing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s7q4",
+          "question": "4. She had her bag ___. (le robaron, negativa)",
+          "options": [
+            "stealing",
+            "stolen"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s7q5",
+          "question": "5. 'We had the room cleaned' significa...",
+          "options": [
+            "lo limpiamos nosotros",
+            "alguien lo limpió por nosotros"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s7q6",
+          "question": "6. We had the menu ___ in three languages. (participio)",
+          "options": [
+            "printed",
+            "printing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s7q7",
+          "question": "7. He got his booking ___. (participio, mejorada)",
+          "options": [
+            "upgrade",
+            "upgraded"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b08-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases con la causativa: un servicio con <b>have something done</b> y una experiencia negativa con <b>have something done</b>.",
+        "placeholder": "Ej: We had the suite cleaned. She had her wallet stolen."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "El orden es fijo: <b>have/get + objeto + participio</b> ('had the car <b>washed</b>', no 'had washed the car'). 'have' es más neutro/formal; 'get' más coloquial. Sirve también para desgracias sufridas (had her bag stolen)."
+        }
+      ]
+    },
+    {
+      "idx": "8.8",
+      "title": "Verbos introductores del estilo indirecto",
+      "level": "B2",
+      "rule": "Más allá de 'say' y 'tell', hay verbos que reportan el <b>tipo</b> de acto de habla y exigen una estructura fija: <b>offer/promise/agree/refuse + to</b> + infinitivo (She offered to help); <b>suggest/recommend + -ing</b> o + that (He suggested waiting); <b>warn/remind/advise + persona + to</b> (They warned us not to); <b>apologise for / insist on / admit + -ing</b>. Elegir el verbo correcto resume la intención sin repetir las palabras exactas. Muy útil en atención al cliente y correos.",
+      "examples": [
+        {
+          "en": "She <b class=\"hl\">offered to</b> upgrade our room.",
+          "es": "Se ofreció a mejorarnos la habitación."
+        },
+        {
+          "en": "He <b class=\"hl\">suggested booking</b> the earlier slot.",
+          "es": "Sugirió reservar el turno más temprano."
+        },
+        {
+          "en": "They <b class=\"hl\">warned us not to</b> leave valuables out.",
+          "es": "Nos advirtieron que no dejáramos objetos de valor a la vista."
+        },
+        {
+          "en": "The manager <b class=\"hl\">promised to</b> refund the charge.",
+          "es": "El gerente prometió reembolsar el cargo."
+        },
+        {
+          "en": "She <b class=\"hl\">apologised for</b> the delay.",
+          "es": "Se disculpó por el retraso."
+        },
+        {
+          "en": "He <b class=\"hl\">refused to</b> pay the extra fee.",
+          "es": "Se negó a pagar el cargo extra."
+        },
+        {
+          "en": "We <b class=\"hl\">recommend arriving</b> before noon.",
+          "es": "Recomendamos llegar antes del mediodía."
+        },
+        {
+          "en": "The guest <b class=\"hl\">insisted on</b> speaking to the manager.",
+          "es": "El huésped insistió en hablar con el gerente."
+        },
+        {
+          "en": "She <b class=\"hl\">reminded me to</b> confirm the booking.",
+          "es": "Me recordó que confirmara la reserva."
+        },
+        {
+          "en": "He <b class=\"hl\">admitted making</b> a mistake with the bill.",
+          "es": "Admitió haberse equivocado con la factura."
+        },
+        {
+          "en": "They <b class=\"hl\">agreed to</b> a later checkout.",
+          "es": "Accedieron a una salida más tardía."
+        },
+        {
+          "en": "The receptionist <b class=\"hl\">advised us to</b> book the tour early.",
+          "es": "La recepcionista nos aconsejó reservar el tour pronto."
+        },
+        {
+          "en": "She <b class=\"hl\">offered to</b> call a taxi for us.",
+          "es": "Se ofreció a llamarnos un taxi."
+        },
+        {
+          "en": "He <b class=\"hl\">threatened to</b> leave a bad review.",
+          "es": "Amenazó con dejar una mala reseña."
+        },
+        {
+          "en": "We <b class=\"hl\">suggested that</b> she try the rooftop bar.",
+          "es": "Le sugerimos que probara el bar de la azotea."
+        },
+        {
+          "en": "The team <b class=\"hl\">apologised for</b> the mix-up.",
+          "es": "El equipo se disculpó por la confusión."
+        },
+        {
+          "en": "He <b class=\"hl\">promised to</b> look into it personally.",
+          "es": "Prometió investigarlo en persona."
+        },
+        {
+          "en": "She <b class=\"hl\">warned them not to</b> miss the transfer.",
+          "es": "Les advirtió que no perdieran el traslado."
+        },
+        {
+          "en": "They <b class=\"hl\">recommend booking</b> direct for the best rate.",
+          "es": "Recomiendan reservar directo para la mejor tarifa."
+        },
+        {
+          "en": "He <b class=\"hl\">insisted on</b> paying in cash.",
+          "es": "Insistió en pagar en efectivo."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b08-s8q1",
+          "question": "1. She offered ___ help. (offer + to)",
+          "options": [
+            "to",
+            "-ing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s8q2",
+          "question": "2. He suggested ___ the earlier slot. (suggest + -ing)",
+          "options": [
+            "to book",
+            "booking"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s8q3",
+          "question": "3. They warned us ___ leave valuables out. (warn + not to)",
+          "options": [
+            "not to",
+            "to not"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s8q4",
+          "question": "4. She apologised ___ the delay. (apologise + for)",
+          "options": [
+            "for",
+            "to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s8q5",
+          "question": "5. He refused ___ the fee. (refuse + to)",
+          "options": [
+            "paying",
+            "to pay"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b08-s8q6",
+          "question": "6. She reminded me ___ confirm. (remind + to)",
+          "options": [
+            "to",
+            "-ing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s8q7",
+          "question": "7. The guest insisted ___ speaking to the manager. (insist + on)",
+          "options": [
+            "on",
+            "to"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b08-s8",
+        "label": "<span class=\"badge\">tu turno</span>Reporta dos frases con verbos distintos: uno con <b>+ to</b> (offer/promise) y otro con <b>+ -ing</b> (suggest/apologise for).",
+        "placeholder": "Ej: She offered to help. He suggested booking early."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cada verbo exige su patrón: offer/promise/agree/refuse + <b>to</b>; suggest/recommend/admit + <b>-ing</b> (o that); warn/remind/advise + <b>persona + to</b>; apologise <b>for</b> / insist <b>on</b> + -ing."
+        }
+      ]
+    },
+    {
+      "idx": "8.9",
+      "title": "Pasiva con dos objetos (She was given a gift)",
+      "level": "B2",
+      "rule": "Los verbos con dos objetos (give, send, offer, tell, show, pay, promise…) admiten <b>dos pasivas</b>. Lo más natural en inglés es hacer sujeto a la <b>persona</b> (el objeto indirecto): 'They gave <b>her</b> a gift' → '<b>She</b> was given a gift'. La otra opción hace sujeto a la <b>cosa</b>: 'A gift was given to her'. La primera es la habitual en el habla. El complemento que no se convierte en sujeto se queda tras el verbo.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">She was given</b> a welcome drink.",
+          "es": "Le dieron una bebida de bienvenida."
+        },
+        {
+          "en": "<b class=\"hl\">We were offered</b> a free upgrade.",
+          "es": "Nos ofrecieron una mejora gratuita."
+        },
+        {
+          "en": "<b class=\"hl\">He was told</b> the news at reception.",
+          "es": "Le comunicaron la noticia en recepción."
+        },
+        {
+          "en": "<b class=\"hl\">The guests were shown</b> to their room.",
+          "es": "Acompañaron a los huéspedes a su habitación."
+        },
+        {
+          "en": "<b class=\"hl\">I was sent</b> the confirmation by email.",
+          "es": "Me enviaron la confirmación por correo."
+        },
+        {
+          "en": "<b class=\"hl\">She was promised</b> a full refund.",
+          "es": "Le prometieron un reembolso completo."
+        },
+        {
+          "en": "<b class=\"hl\">We were charged</b> twice by mistake.",
+          "es": "Nos cobraron dos veces por error."
+        },
+        {
+          "en": "<b class=\"hl\">He was paid</b> in advance for the event.",
+          "es": "Le pagaron por adelantado por el evento."
+        },
+        {
+          "en": "<b class=\"hl\">The couple were given</b> the honeymoon suite.",
+          "es": "A la pareja le dieron la suite de luna de miel."
+        },
+        {
+          "en": "<b class=\"hl\">I was handed</b> the keys at check-in.",
+          "es": "Me entregaron las llaves en el check-in."
+        },
+        {
+          "en": "<b class=\"hl\">They were sent</b> a voucher as an apology.",
+          "es": "Les enviaron un vale como disculpa."
+        },
+        {
+          "en": "<b class=\"hl\">She was shown</b> the spa facilities.",
+          "es": "Le enseñaron las instalaciones del spa."
+        },
+        {
+          "en": "<b class=\"hl\">We were offered</b> late checkout at no charge.",
+          "es": "Nos ofrecieron salida tardía sin coste."
+        },
+        {
+          "en": "<b class=\"hl\">He was told</b> to wait in the lobby.",
+          "es": "Le dijeron que esperara en el vestíbulo."
+        },
+        {
+          "en": "<b class=\"hl\">The guest was given</b> directions to the beach.",
+          "es": "Al huésped le dieron indicaciones para la playa."
+        },
+        {
+          "en": "<b class=\"hl\">I was awarded</b> a loyalty discount.",
+          "es": "Me concedieron un descuento por fidelidad."
+        },
+        {
+          "en": "<b class=\"hl\">They were served</b> breakfast on the terrace.",
+          "es": "Les sirvieron el desayuno en la terraza."
+        },
+        {
+          "en": "<b class=\"hl\">She was refused</b> a refund at first.",
+          "es": "Al principio le negaron el reembolso."
+        },
+        {
+          "en": "<b class=\"hl\">We were shown</b> around the property.",
+          "es": "Nos enseñaron la propiedad."
+        },
+        {
+          "en": "<b class=\"hl\">He was lent</b> a charger by reception.",
+          "es": "Recepción le prestó un cargador."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b08-s9q1",
+          "question": "1. They gave her a gift → ___ a gift. (persona como sujeto)",
+          "options": [
+            "She was given",
+            "A gift was given her"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s9q2",
+          "question": "2. We ___ a free upgrade. (nos ofrecieron)",
+          "options": [
+            "were offered",
+            "were offering"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s9q3",
+          "question": "3. He ___ the news. (le comunicaron)",
+          "options": [
+            "was told",
+            "was said"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s9q4",
+          "question": "4. I ___ the confirmation by email. (me enviaron)",
+          "options": [
+            "was sent",
+            "was send"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s9q5",
+          "question": "5. The couple ___ the suite. (les dieron)",
+          "options": [
+            "were given",
+            "were gave"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s9q6",
+          "question": "6. She ___ a full refund. (le prometieron)",
+          "options": [
+            "was promised",
+            "was promise"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b08-s9q7",
+          "question": "7. La pasiva más natural en inglés hace sujeto a...",
+          "options": [
+            "la cosa",
+            "la persona"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b08-s9",
+        "label": "<span class=\"badge\">tu turno</span>Transforma dos frases activas con dos objetos a pasiva haciendo sujeto a la persona.",
+        "placeholder": "Ej: They gave us a discount. → We were given a discount."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "La pasiva más natural hace sujeto al <b>objeto indirecto (persona)</b>: 'She was given a gift'. La cosa restante se queda tras el verbo, sin preposición. La otra pasiva ('A gift was given to her') suena más formal."
         }
       ]
     }
