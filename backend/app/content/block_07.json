@@ -59,6 +59,66 @@
         {
           "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">she signed earlier</span>, she'd have saved more.",
           "es": "Si hubiera firmado antes, habría ahorrado más."
+        },
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">you require assistance</span>, dial zero.",
+          "es": "Si necesitara ayuda, marque el cero."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">we to lower the price</span>, demand would soar.",
+          "es": "Si bajáramos el precio, la demanda se dispararía."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">the deposit arrived</span>, we would have held the room.",
+          "es": "Si el depósito hubiera llegado, habríamos guardado la habitación."
+        },
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">any issue arise</span>, contact reception.",
+          "es": "Si surgiera algún problema, contacte con recepción."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">it not for the storm</span>, the tour would run.",
+          "es": "Si no fuera por la tormenta, el tour se haría."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">we anticipated the demand</span>, we'd have added rooms.",
+          "es": "Si hubiéramos previsto la demanda, habríamos añadido habitaciones."
+        },
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">the flight be delayed</span>, we will wait.",
+          "es": "Si el vuelo se retrasara, esperaremos."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">the client to complain</span>, we'd act at once.",
+          "es": "Si el cliente se quejara, actuaríamos de inmediato."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">she booked direct</span>, breakfast would have been free.",
+          "es": "Si hubiera reservado directo, el desayuno habría sido gratis."
+        },
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">prices change</span>, we'll honour the quote.",
+          "es": "Si los precios cambiaran, respetaremos el presupuesto."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">I the manager</span>, I would approve it.",
+          "es": "Si yo fuera el gerente, lo aprobaría."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">they arrived earlier</span>, they'd have caught the transfer.",
+          "es": "Si hubieran llegado antes, habrían pillado el traslado."
+        },
+        {
+          "en": "<span class=\"r-sub\">Should</span> <span class=\"r-corr\">you wish to extend</span>, just let us know.",
+          "es": "Si deseara prolongar la estancia, solo avísenos."
+        },
+        {
+          "en": "<span class=\"r-sub\">Were</span> <span class=\"r-corr\">the suite available</span>, we'd upgrade you.",
+          "es": "Si la suite estuviera disponible, le mejoraríamos."
+        },
+        {
+          "en": "<span class=\"r-sub\">Had</span> <span class=\"r-corr\">we known your preference</span>, we'd have prepared it.",
+          "es": "Si hubiéramos conocido su preferencia, la habríamos preparado."
         }
       ],
       "tables": [],
@@ -87,6 +147,51 @@
           "options": [
             "Were",
             "Was"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s1q4",
+          "question": "4. ___ you need anything, call us. (inversión de 'If you should')",
+          "options": [
+            "Should",
+            "Would"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s1q5",
+          "question": "5. ___ I in your position, I'd accept. (inversión de 'If I were')",
+          "options": [
+            "Was",
+            "Were"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s1q6",
+          "question": "6. ___ I known, I would have rebooked. (3er condicional invertido)",
+          "options": [
+            "Had",
+            "Have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s1q7",
+          "question": "7. ___ the client cancel, we'll refund. (inversión formal)",
+          "options": [
+            "Should",
+            "Did"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s1q8",
+          "question": "8. ___ she signed earlier, she'd have saved. (inversión de 'If she had')",
+          "options": [
+            "Had",
+            "Has"
           ],
           "correctIndex": 0
         }
@@ -148,6 +253,66 @@
         {
           "en": "<span class=\"r-sub\">Little</span> <span class=\"r-corr\">did the client know</span> about the surprise upgrade.",
           "es": "Poco sabía el cliente sobre la mejora sorpresa."
+        },
+        {
+          "en": "<span class=\"r-sub\">Never</span> <span class=\"r-corr\">have we had</span> such a busy season.",
+          "es": "Nunca hemos tenido una temporada tan ajetreada."
+        },
+        {
+          "en": "<span class=\"r-sub\">Hardly</span> <span class=\"r-corr\">had she arrived</span> when the phone rang.",
+          "es": "Apenas había llegado cuando sonó el teléfono."
+        },
+        {
+          "en": "<span class=\"r-sub\">No sooner</span> <span class=\"r-corr\">had we opened</span> than the guests poured in.",
+          "es": "Nada más abrir, los huéspedes entraron en tromba."
+        },
+        {
+          "en": "<span class=\"r-sub\">Rarely</span> <span class=\"r-corr\">do we see</span> such loyalty.",
+          "es": "Rara vez vemos tanta fidelidad."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not once</span> <span class=\"r-corr\">did he complain</span> about the wait.",
+          "es": "Ni una sola vez se quejó de la espera."
+        },
+        {
+          "en": "<span class=\"r-sub\">Seldom</span> <span class=\"r-corr\">have I met</span> such a dedicated team.",
+          "es": "Rara vez he conocido un equipo tan entregado."
+        },
+        {
+          "en": "<span class=\"r-sub\">Under no circumstances</span> <span class=\"r-corr\">should you share the code</span>.",
+          "es": "Bajo ninguna circunstancia debe compartir el código."
+        },
+        {
+          "en": "<span class=\"r-sub\">Little</span> <span class=\"r-corr\">did we expect</span> the room to sell out.",
+          "es": "Poco esperábamos que la habitación se agotara."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not only</span> <span class=\"r-corr\">did she apologise</span>, but she offered a voucher.",
+          "es": "No solo se disculpó, sino que ofreció un vale."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only rarely</span> <span class=\"r-corr\">do we close early</span>.",
+          "es": "Solo en contadas ocasiones cerramos antes."
+        },
+        {
+          "en": "<span class=\"r-sub\">At no time</span> <span class=\"r-corr\">was the guest left waiting</span>.",
+          "es": "En ningún momento se dejó esperando al huésped."
+        },
+        {
+          "en": "<span class=\"r-sub\">Never before</span> <span class=\"r-corr\">had the resort seen</span> such demand.",
+          "es": "Nunca antes había visto el resort tal demanda."
+        },
+        {
+          "en": "<span class=\"r-sub\">Rarely</span> <span class=\"r-corr\">does a complaint go</span> unresolved here.",
+          "es": "Rara vez una queja queda sin resolver aquí."
+        },
+        {
+          "en": "<span class=\"r-sub\">Hardly ever</span> <span class=\"r-corr\">do we overbook</span>.",
+          "es": "Casi nunca sobrevendemos."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not until later</span> <span class=\"r-corr\">did they realise</span> the upgrade.",
+          "es": "No fue hasta más tarde cuando se dieron cuenta de la mejora."
         }
       ],
       "tables": [],
@@ -178,6 +343,51 @@
             "guests do"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b07-s2q4",
+          "question": "4. Never ___ such a team. (inversión: auxiliar + sujeto)",
+          "options": [
+            "I have seen",
+            "have I seen"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s2q5",
+          "question": "5. Rarely ___ late. (ella llega — inversión con 'do')",
+          "options": [
+            "she arrives",
+            "does she arrive"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s2q6",
+          "question": "6. Not only ___ the deal, but he got a referral. (inversión)",
+          "options": [
+            "did he close",
+            "he closed"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s2q7",
+          "question": "7. ___ had we opened than guests arrived. (nada más)",
+          "options": [
+            "No sooner",
+            "No longer"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s2q8",
+          "question": "8. Under no circumstances ___ the discount. (inversión con modal)",
+          "options": [
+            "you should offer",
+            "should you offer"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -237,6 +447,66 @@
         {
           "en": "<span class=\"r-sub\">It's</span> the service <span class=\"r-corr\">that keeps guests coming back</span>.",
           "es": "Es el servicio lo que hace que los huéspedes vuelvan."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> the concierge <span class=\"r-corr\">who arranged everything</span>.",
+          "es": "Fue el conserje quien lo organizó todo."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">sealed the deal</span> was the free upgrade.",
+          "es": "Lo que cerró el trato fue la mejora gratuita."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> in Seville <span class=\"r-corr\">that we opened our first hotel</span>.",
+          "es": "Fue en Sevilla donde abrimos nuestro primer hotel."
+        },
+        {
+          "en": "<span class=\"r-sub\">All</span> <span class=\"r-corr\">the guest asked for</span> was an early check-in.",
+          "es": "Todo lo que pidió el huésped fue un check-in anticipado."
+        },
+        {
+          "en": "<span class=\"r-sub\">The reason</span> <span class=\"r-corr\">we upgraded her</span> was her loyalty.",
+          "es": "La razón por la que la mejoramos fue su fidelidad."
+        },
+        {
+          "en": "<span class=\"r-sub\">It's</span> the location <span class=\"r-corr\">that makes us special</span>.",
+          "es": "Es la ubicación lo que nos hace especiales."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">guests remember</span> is the service.",
+          "es": "Lo que los huéspedes recuerdan es el servicio."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> only after the tour <span class=\"r-corr\">that she booked</span>.",
+          "es": "Fue solo después del tour cuando reservó."
+        },
+        {
+          "en": "<span class=\"r-sub\">The thing that</span> <span class=\"r-corr\">won them over</span> was the view.",
+          "es": "Lo que los convenció fue la vista."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> the manager <span class=\"r-corr\">who called personally</span>.",
+          "es": "Fue el gerente quien llamó en persona."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">we value most</span> is repeat business.",
+          "es": "Lo que más valoramos es que repitan."
+        },
+        {
+          "en": "<span class=\"r-sub\">It was</span> her feedback <span class=\"r-corr\">that changed our menu</span>.",
+          "es": "Fueron sus comentarios los que cambiaron nuestro menú."
+        },
+        {
+          "en": "<span class=\"r-sub\">All</span> <span class=\"r-corr\">we need</span> is a confirmation.",
+          "es": "Todo lo que necesitamos es una confirmación."
+        },
+        {
+          "en": "<span class=\"r-sub\">It's</span> the little details <span class=\"r-corr\">that guests notice</span>.",
+          "es": "Son los pequeños detalles los que los huéspedes notan."
+        },
+        {
+          "en": "<span class=\"r-sub\">What</span> <span class=\"r-corr\">impressed the inspector</span> was our cleanliness.",
+          "es": "Lo que impresionó al inspector fue nuestra limpieza."
         }
       ],
       "tables": [],
@@ -265,6 +535,51 @@
           "options": [
             "What",
             "That"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s3q4",
+          "question": "4. ___ the manager who approved it. (énfasis en quién)",
+          "options": [
+            "It was",
+            "There was"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s3q5",
+          "question": "5. ___ impressed the client was the service. (hendida con what)",
+          "options": [
+            "What",
+            "That"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s3q6",
+          "question": "6. ___ she wants is a clear answer. (énfasis con 'all')",
+          "options": [
+            "All",
+            "It"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s3q7",
+          "question": "7. It was on Friday ___ we closed the deal. (énfasis en cuándo)",
+          "options": [
+            "that",
+            "which"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s3q8",
+          "question": "8. ___ we offer is total flexibility. (hendida con what)",
+          "options": [
+            "What",
+            "It"
           ],
           "correctIndex": 0
         }
@@ -326,6 +641,66 @@
         {
           "en": "<span class=\"r-sub\">Not until the deposit cleared</span> <span class=\"r-corr\">did we confirm</span> the room.",
           "es": "No fue hasta que se abonó el depósito que confirmamos la habitación."
+        },
+        {
+          "en": "<span class=\"r-sub\">So popular is the suite</span> <span class=\"r-corr\">that it books a year ahead</span>.",
+          "es": "Tan popular es la suite que se reserva con un año de antelación."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only when the deposit clears</span> <span class=\"r-corr\">do we confirm</span>.",
+          "es": "Solo cuando el depósito se procesa confirmamos."
+        },
+        {
+          "en": "<span class=\"r-sub\">Such was the demand</span> <span class=\"r-corr\">that we opened a waitlist</span>.",
+          "es": "Tal fue la demanda que abrimos una lista de espera."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only by booking early</span> <span class=\"r-corr\">can you secure the rate</span>.",
+          "es": "Solo reservando pronto puede asegurar la tarifa."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not until she saw the room</span> <span class=\"r-corr\">did she decide</span>.",
+          "es": "No fue hasta que vio la habitación cuando decidió."
+        },
+        {
+          "en": "<span class=\"r-sub\">So impressed were the critics</span> <span class=\"r-corr\">that they gave five stars</span>.",
+          "es": "Tan impresionados quedaron los críticos que dieron cinco estrellas."
+        },
+        {
+          "en": "<span class=\"r-sub\">Under no circumstances</span> <span class=\"r-corr\">may staff accept cash tips</span>.",
+          "es": "Bajo ninguna circunstancia el personal puede aceptar propinas en efectivo."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only after the refund</span> <span class=\"r-corr\">was the guest satisfied</span>.",
+          "es": "Solo tras el reembolso quedó satisfecho el huésped."
+        },
+        {
+          "en": "<span class=\"r-sub\">So high was demand</span> <span class=\"r-corr\">that rates doubled</span>.",
+          "es": "Tan alta fue la demanda que las tarifas se duplicaron."
+        },
+        {
+          "en": "<span class=\"r-sub\">Such was her skill</span> <span class=\"r-corr\">that she led the team within a year</span>.",
+          "es": "Tal era su destreza que dirigió el equipo en un año."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only then</span> <span class=\"r-corr\">did we grasp the scale of the event</span>.",
+          "es": "Solo entonces comprendimos la magnitud del evento."
+        },
+        {
+          "en": "<span class=\"r-sub\">Not for a moment</span> <span class=\"r-corr\">did she lose her composure</span>.",
+          "es": "Ni por un momento perdió la compostura."
+        },
+        {
+          "en": "<span class=\"r-sub\">So smoothly did check-in run</span> <span class=\"r-corr\">that no one waited</span>.",
+          "es": "Tan fluido fue el check-in que nadie esperó."
+        },
+        {
+          "en": "<span class=\"r-sub\">Only in peak season</span> <span class=\"r-corr\">do we add extra staff</span>.",
+          "es": "Solo en temporada alta añadimos personal extra."
+        },
+        {
+          "en": "<span class=\"r-sub\">Such was the view</span> <span class=\"r-corr\">that guests extended their stay</span>.",
+          "es": "Tal era la vista que los huéspedes prolongaron su estancia."
         }
       ],
       "tables": [],
@@ -356,6 +731,51 @@
             "you should"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b07-s4q4",
+          "question": "4. So impressed ___ that she signed. (inversión tras 'so + adj')",
+          "options": [
+            "she was",
+            "was she"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s4q5",
+          "question": "5. Only then ___ the mistake. (inversión con 'only')",
+          "options": [
+            "I realised",
+            "did I realise"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s4q6",
+          "question": "6. ___ was the demand that we added rooms. (tal… que)",
+          "options": [
+            "Such",
+            "So"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s4q7",
+          "question": "7. Only after the tour ___ to book. (inversión)",
+          "options": [
+            "she decided",
+            "did she decide"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s4q8",
+          "question": "8. Under no circumstances ___ that discount. (inversión con modal)",
+          "options": [
+            "should you offer",
+            "you should offer"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -367,6 +787,666 @@
         {
           "type": "emphasis",
           "text": "Nivel C2: 'So + adj + were they that…', 'Only then did…'. Reserva para writing formal; en oral, con moderación."
+        }
+      ]
+    },
+    {
+      "idx": "7.5",
+      "title": "Énfasis con 'do / does / did'",
+      "level": "B2",
+      "rule": "En afirmativas normales no hay auxiliar, pero se puede <b>añadir do/does/did</b> delante del verbo base para <b>enfatizar</b> que algo sí es cierto, a menudo contradiciendo o insistiendo: 'I <b>do</b> like it' (sí que me gusta), 'She <b>does</b> care', 'We <b>did</b> send it'. El verbo principal va en <b>base</b> (do like, not do likes/liked). También refuerza imperativos corteses: 'Do sit down', 'Do come in'. Es una de las formas más naturales de dar énfasis en inglés hablado.",
+      "examples": [
+        {
+          "en": "I <b class=\"hl\">do</b> apologise for the delay.",
+          "es": "Sí que le pido disculpas por el retraso."
+        },
+        {
+          "en": "We <b class=\"hl\">did</b> send the confirmation yesterday.",
+          "es": "Sí que enviamos la confirmación ayer."
+        },
+        {
+          "en": "She <b class=\"hl\">does</b> care about every guest.",
+          "es": "Sí que se preocupa por cada huésped."
+        },
+        {
+          "en": "<b class=\"hl\">Do</b> come in and make yourself at home.",
+          "es": "Pase, por favor, y siéntase como en casa."
+        },
+        {
+          "en": "I <b class=\"hl\">do</b> understand your frustration.",
+          "es": "De verdad que entiendo su frustración."
+        },
+        {
+          "en": "We <b class=\"hl\">do</b> offer free cancellation, actually.",
+          "es": "En realidad, sí que ofrecemos cancelación gratis."
+        },
+        {
+          "en": "He <b class=\"hl\">did</b> mention the allergy to us.",
+          "es": "Sí que nos mencionó la alergia."
+        },
+        {
+          "en": "<b class=\"hl\">Do</b> let us know if anything's wrong.",
+          "es": "No deje de avisarnos si algo va mal."
+        },
+        {
+          "en": "The room <b class=\"hl\">does</b> have a sea view, I assure you.",
+          "es": "La habitación sí tiene vistas al mar, se lo aseguro."
+        },
+        {
+          "en": "They <b class=\"hl\">did</b> honour the original price.",
+          "es": "Sí que respetaron el precio original."
+        },
+        {
+          "en": "I <b class=\"hl\">do</b> recommend booking early.",
+          "es": "Le recomiendo encarecidamente reservar pronto."
+        },
+        {
+          "en": "We <b class=\"hl\">did</b> try to reach you by phone.",
+          "es": "Sí que intentamos localizarle por teléfono."
+        },
+        {
+          "en": "She <b class=\"hl\">does</b> speak fluent French.",
+          "es": "Sí que habla francés con fluidez."
+        },
+        {
+          "en": "<b class=\"hl\">Do</b> take a seat while we check.",
+          "es": "Tome asiento, por favor, mientras comprobamos."
+        },
+        {
+          "en": "The offer <b class=\"hl\">does</b> include breakfast.",
+          "es": "La oferta sí incluye el desayuno."
+        },
+        {
+          "en": "He <b class=\"hl\">did</b> pay the deposit on time.",
+          "es": "Sí que pagó el depósito a tiempo."
+        },
+        {
+          "en": "We <b class=\"hl\">do</b> value your loyalty.",
+          "es": "De verdad valoramos su fidelidad."
+        },
+        {
+          "en": "I <b class=\"hl\">did</b> book a table, under Smith.",
+          "es": "Sí que reservé mesa, a nombre de Smith."
+        },
+        {
+          "en": "<b class=\"hl\">Do</b> ask if you need anything at all.",
+          "es": "No dude en preguntar si necesita cualquier cosa."
+        },
+        {
+          "en": "They <b class=\"hl\">do</b> deserve the five-star rating.",
+          "es": "Sí que merecen la calificación de cinco estrellas."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s5q1",
+          "question": "1. I ___ apologise for the delay. (énfasis afirmativo)",
+          "options": [
+            "do",
+            "am"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s5q2",
+          "question": "2. We ___ send it yesterday. (énfasis, pasado)",
+          "options": [
+            "did",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s5q3",
+          "question": "3. She ___ care about guests. (énfasis, 3ª persona)",
+          "options": [
+            "do",
+            "does"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s5q4",
+          "question": "4. She does ___ about guests. (verbo en base)",
+          "options": [
+            "cares",
+            "care"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s5q5",
+          "question": "5. ___ come in! (imperativo enfático cortés)",
+          "options": [
+            "Do",
+            "Does"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s5q6",
+          "question": "6. The offer ___ include breakfast. (énfasis, 3ª persona)",
+          "options": [
+            "do",
+            "does"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s5q7",
+          "question": "7. He did ___ the deposit. (verbo en base tras 'did')",
+          "options": [
+            "paid",
+            "pay"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b07-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases con énfasis usando <b>do/does/did</b> (por ejemplo, insistiendo en algo con un cliente).",
+        "placeholder": "Ej: We do offer refunds. I did send the email."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras do/does/did enfático, el verbo va en <b>base</b>: 'She <b>does care</b>' (no 'does cares'), 'We <b>did send</b>' (no 'did sent'). El do/does/did lleva la marca de tiempo y persona."
+        }
+      ]
+    },
+    {
+      "idx": "7.6",
+      "title": "Fronting (adelantar para enfatizar)",
+      "level": "C1",
+      "rule": "El <b>fronting</b> mueve al principio de la frase un elemento que normalmente iría después (un complemento, un adjetivo, un adverbio) para darle <b>relieve</b>. A veces provoca inversión, a veces no: 'The view, I loved' (objeto adelantado, sin inversión); 'Down came the rain' (adverbio de lugar + inversión con verbo pleno). Con adverbios de lugar y sujeto no pronominal se invierte el verbo (Here comes the bus / There goes our chance). Da un tono enfático o literario.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">The sea view</b>, everyone loved.",
+          "es": "La vista al mar, a todos les encantó."
+        },
+        {
+          "en": "<b class=\"hl\">Here comes</b> the shuttle.",
+          "es": "Aquí llega el autobús."
+        },
+        {
+          "en": "<b class=\"hl\">There goes</b> our last free room.",
+          "es": "Ahí se va nuestra última habitación libre."
+        },
+        {
+          "en": "<b class=\"hl\">Down came</b> the rain, right before the gala.",
+          "es": "Se puso a llover, justo antes de la gala."
+        },
+        {
+          "en": "<b class=\"hl\">In walked</b> the manager, and the room went quiet.",
+          "es": "Entró el gerente, y la sala se quedó en silencio."
+        },
+        {
+          "en": "<b class=\"hl\">Delicious</b>, the guests called the paella.",
+          "es": "Deliciosa, así llamaron los huéspedes a la paella."
+        },
+        {
+          "en": "<b class=\"hl\">Such kindness</b> we had never seen.",
+          "es": "Tal amabilidad no habíamos visto nunca."
+        },
+        {
+          "en": "<b class=\"hl\">On the terrace</b> stood a beautiful old fountain.",
+          "es": "En la terraza se alzaba una hermosa fuente antigua."
+        },
+        {
+          "en": "<b class=\"hl\">Away</b> went the taxi before she could wave.",
+          "es": "Se marchó el taxi antes de que pudiera hacer señas."
+        },
+        {
+          "en": "<b class=\"hl\">The complaint</b>, we handled within minutes.",
+          "es": "La queja, la resolvimos en minutos."
+        },
+        {
+          "en": "<b class=\"hl\">Here is</b> your key card.",
+          "es": "Aquí tiene su tarjeta llave."
+        },
+        {
+          "en": "<b class=\"hl\">Round the corner</b> came a group of tourists.",
+          "es": "Por la esquina apareció un grupo de turistas."
+        },
+        {
+          "en": "<b class=\"hl\">A finer hotel</b> you will not find.",
+          "es": "Un hotel mejor no encontrará."
+        },
+        {
+          "en": "<b class=\"hl\">Up went</b> the prices as summer approached.",
+          "es": "Subieron los precios al acercarse el verano."
+        },
+        {
+          "en": "<b class=\"hl\">That suite</b>, we reserve for VIPs.",
+          "es": "Esa suite la reservamos para los VIP."
+        },
+        {
+          "en": "<b class=\"hl\">Off she went</b> to greet the arrivals.",
+          "es": "Allá fue ella a recibir a los que llegaban."
+        },
+        {
+          "en": "<b class=\"hl\">Never</b> a dull moment do we have here.",
+          "es": "Nunca tenemos un momento aburrido aquí."
+        },
+        {
+          "en": "<b class=\"hl\">Loyal</b>, our regulars certainly are.",
+          "es": "Fieles, desde luego que lo son nuestros habituales."
+        },
+        {
+          "en": "<b class=\"hl\">At the door</b> waited a smiling concierge.",
+          "es": "En la puerta esperaba un conserje sonriente."
+        },
+        {
+          "en": "<b class=\"hl\">This</b>, I promise you, we'll fix today.",
+          "es": "Esto, se lo prometo, lo arreglaremos hoy."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s6q1",
+          "question": "1. ___ the shuttle. (adverbio de lugar + verbo, sujeto no pronominal)",
+          "options": [
+            "Here comes",
+            "Here the shuttle comes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s6q2",
+          "question": "2. ___ our last free room. (ahí se va)",
+          "options": [
+            "There goes",
+            "Goes there"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s6q3",
+          "question": "3. Con pronombre NO se invierte: ¿cuál es correcta?",
+          "options": [
+            "Here comes she",
+            "Here she comes"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s6q4",
+          "question": "4. ___ came the rain. (adverbio + inversión)",
+          "options": [
+            "Down",
+            "Downwards"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s6q5",
+          "question": "5. Objeto adelantado (sin inversión):",
+          "options": [
+            "The view everyone loved",
+            "The view loved everyone"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s6q6",
+          "question": "6. ___ walked the manager. (entró el gerente)",
+          "options": [
+            "In",
+            "Into"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s6q7",
+          "question": "7. On the terrace ___ a fountain. (verbo pleno invertido)",
+          "options": [
+            "stood",
+            "it stood"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b07-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase adelantando un adverbio de lugar con inversión (Here comes... / There goes...).",
+        "placeholder": "Ej: Here comes the manager. Down came the price."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Con adverbio de lugar al frente y sujeto <b>no pronominal</b>, se invierte el verbo pleno (Here <b>comes the bus</b>). Pero con <b>pronombre</b> NO se invierte: 'Here <b>she comes</b>', 'There <b>it goes</b>'."
+        }
+      ]
+    },
+    {
+      "idx": "7.7",
+      "title": "So do I / Neither do I (respuestas paralelas)",
+      "level": "B1",
+      "rule": "Para decir que estás de acuerdo o en la misma situación, se usa una respuesta breve con inversión. En <b>afirmativo</b>: <b>So + auxiliar + sujeto</b> ('yo también': So do I, So am I, So can we). En <b>negativo</b>: <b>Neither/Nor + auxiliar + sujeto</b> ('yo tampoco': Neither do I, Nor can he). El auxiliar debe <b>coincidir</b> con el de la frase original (be→be, can→can, presente→do/does, pasado→did). Para discrepar se responde entero: 'I do' / 'I don't'.",
+      "examples": [
+        {
+          "en": "\"I love this hotel.\" \"<b class=\"hl\">So do I</b>.\"",
+          "es": "«Me encanta este hotel.» «A mí también.»"
+        },
+        {
+          "en": "\"I can't find my key.\" \"<b class=\"hl\">Neither can I</b>.\"",
+          "es": "«No encuentro mi llave.» «Yo tampoco.»"
+        },
+        {
+          "en": "\"She's a great manager.\" \"<b class=\"hl\">So is he</b>.\"",
+          "es": "«Ella es una gran gerente.» «Él también.»"
+        },
+        {
+          "en": "\"We didn't get a refund.\" \"<b class=\"hl\">Neither did we</b>.\"",
+          "es": "«No nos devolvieron el dinero.» «A nosotros tampoco.»"
+        },
+        {
+          "en": "\"I'll take the sea view.\" \"<b class=\"hl\">So will I</b>.\"",
+          "es": "«Yo me quedo con la vista al mar.» «Yo también.»"
+        },
+        {
+          "en": "\"He hasn't checked in.\" \"<b class=\"hl\">Nor has she</b>.\"",
+          "es": "«Él no ha hecho el check-in.» «Ella tampoco.»"
+        },
+        {
+          "en": "\"I'm exhausted.\" \"<b class=\"hl\">So am I</b>.\"",
+          "es": "«Estoy agotado.» «Yo también.»"
+        },
+        {
+          "en": "\"They don't offer parking.\" \"<b class=\"hl\">Neither do we</b>.\"",
+          "es": "«No ofrecen aparcamiento.» «Nosotros tampoco.»"
+        },
+        {
+          "en": "\"I booked online.\" \"<b class=\"hl\">So did she</b>.\"",
+          "es": "«Reservé por internet.» «Ella también.»"
+        },
+        {
+          "en": "\"We can't wait!\" \"<b class=\"hl\">Neither can the team</b>.\"",
+          "es": "«¡No podemos esperar!» «El equipo tampoco.»"
+        },
+        {
+          "en": "\"I'd recommend the spa.\" \"<b class=\"hl\">So would I</b>.\"",
+          "es": "«Yo recomendaría el spa.» «Yo también.»"
+        },
+        {
+          "en": "\"She won't cancel.\" \"<b class=\"hl\">Nor will he</b>.\"",
+          "es": "«Ella no cancelará.» «Él tampoco.»"
+        },
+        {
+          "en": "\"I've stayed here before.\" \"<b class=\"hl\">So have we</b>.\"",
+          "es": "«Ya me he alojado aquí antes.» «Nosotros también.»"
+        },
+        {
+          "en": "\"He isn't ready.\" \"<b class=\"hl\">Neither am I</b>.\"",
+          "es": "«Él no está listo.» «Yo tampoco.»"
+        },
+        {
+          "en": "\"We loved the tour.\" \"<b class=\"hl\">So did the kids</b>.\"",
+          "es": "«Nos encantó el tour.» «A los niños también.»"
+        },
+        {
+          "en": "\"I don't like early flights.\" \"<b class=\"hl\">Neither does she</b>.\"",
+          "es": "«No me gustan los vuelos temprano.» «A ella tampoco.»"
+        },
+        {
+          "en": "\"I should confirm now.\" \"<b class=\"hl\">So should you</b>.\"",
+          "es": "«Debería confirmar ahora.» «Usted también.»"
+        },
+        {
+          "en": "\"They're staying two nights.\" \"<b class=\"hl\">So are we</b>.\"",
+          "es": "«Se quedan dos noches.» «Nosotros también.»"
+        },
+        {
+          "en": "\"I couldn't sleep.\" \"<b class=\"hl\">Neither could I</b>.\"",
+          "es": "«No pude dormir.» «Yo tampoco.»"
+        },
+        {
+          "en": "\"We've paid already.\" \"<b class=\"hl\">So has the group</b>.\"",
+          "es": "«Ya hemos pagado.» «El grupo también.»"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s7q1",
+          "question": "1. \"I love it.\" \"___ I.\" (yo también, presente)",
+          "options": [
+            "So do",
+            "So am"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s7q2",
+          "question": "2. \"I can't come.\" \"___ can I.\" (yo tampoco)",
+          "options": [
+            "So",
+            "Neither"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s7q3",
+          "question": "3. \"She's tired.\" \"___ he.\" (él también, con 'be')",
+          "options": [
+            "So is",
+            "So does"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s7q4",
+          "question": "4. \"We didn't get it.\" \"Neither ___ we.\" (auxiliar pasado)",
+          "options": [
+            "did",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s7q5",
+          "question": "5. \"I'll take it.\" \"So ___ I.\" (futuro)",
+          "options": [
+            "will",
+            "do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s7q6",
+          "question": "6. \"He hasn't paid.\" \"___ has she.\" (ella tampoco, perfecto)",
+          "options": [
+            "So",
+            "Nor"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s7q7",
+          "question": "7. Estructura correcta de 'So do I':",
+          "options": [
+            "So I do",
+            "So + auxiliar + sujeto"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b07-s7",
+        "label": "<span class=\"badge\">tu turno</span>Responde a dos frases mostrando acuerdo: una afirmativa (So...) y una negativa (Neither...).",
+        "placeholder": "Ej: \"I love the view.\" \"So do I.\"  \"I can't wait.\" \"Neither can I.\""
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "El auxiliar de la respuesta debe coincidir con el de la frase: be→be (So <b>is</b> he), modal→modal (So <b>can</b> we), presente→do/does, pasado→did. 'Neither' y 'Nor' son intercambiables; van con verbo afirmativo."
+        }
+      ]
+    },
+    {
+      "idx": "7.8",
+      "title": "Adverbios de foco (only, even, just, especially)",
+      "level": "B2",
+      "rule": "Son adverbios que <b>resaltan</b> una parte de la frase: <b>only</b> (solo), <b>even</b> (incluso), <b>just</b> (solo/justo), <b>especially / particularly</b> (especialmente), <b>also / too / as well</b> (también), <b>mainly</b> (sobre todo). Su <b>posición</b> cambia el significado: 'Only I called him' (solo yo) ≠ 'I only called him' (solo lo llamé, no más) ≠ 'I called only him' (solo a él). Colócalos justo antes del elemento que quieres enfatizar.",
+      "examples": [
+        {
+          "en": "We accept <b class=\"hl\">only</b> card payments here.",
+          "es": "Aquí solo aceptamos pagos con tarjeta."
+        },
+        {
+          "en": "<b class=\"hl\">Even</b> the manager helped carry the bags.",
+          "es": "Incluso el gerente ayudó a llevar las maletas."
+        },
+        {
+          "en": "I <b class=\"hl\">just</b> need a moment to check.",
+          "es": "Solo necesito un momento para comprobarlo."
+        },
+        {
+          "en": "The spa is popular, <b class=\"hl\">especially</b> at weekends.",
+          "es": "El spa es popular, especialmente los fines de semana."
+        },
+        {
+          "en": "We offer late checkout, <b class=\"hl\">too</b>.",
+          "es": "También ofrecemos salida tardía."
+        },
+        {
+          "en": "This rate is <b class=\"hl\">only</b> available online.",
+          "es": "Esta tarifa solo está disponible por internet."
+        },
+        {
+          "en": "<b class=\"hl\">Even</b> in low season, the pool stays open.",
+          "es": "Incluso en temporada baja, la piscina sigue abierta."
+        },
+        {
+          "en": "She's <b class=\"hl\">particularly</b> good with VIP guests.",
+          "es": "Es especialmente buena con los huéspedes VIP."
+        },
+        {
+          "en": "We <b class=\"hl\">mainly</b> serve business travellers.",
+          "es": "Atendemos sobre todo a viajeros de negocios."
+        },
+        {
+          "en": "I called <b class=\"hl\">only</b> him, no one else.",
+          "es": "Llamé solo a él, a nadie más."
+        },
+        {
+          "en": "<b class=\"hl\">Only</b> members get this discount.",
+          "es": "Solo los socios reciben este descuento."
+        },
+        {
+          "en": "The tour includes lunch <b class=\"hl\">as well</b>.",
+          "es": "El tour incluye también el almuerzo."
+        },
+        {
+          "en": "He's <b class=\"hl\">just</b> arrived at reception.",
+          "es": "Acaba de llegar a recepción."
+        },
+        {
+          "en": "<b class=\"hl\">Even</b> the smallest detail matters to us.",
+          "es": "Incluso el detalle más pequeño nos importa."
+        },
+        {
+          "en": "We're busy, <b class=\"hl\">especially</b> in August.",
+          "es": "Estamos muy ocupados, sobre todo en agosto."
+        },
+        {
+          "en": "This suite is <b class=\"hl\">only</b> for two guests.",
+          "es": "Esta suite es solo para dos huéspedes."
+        },
+        {
+          "en": "<b class=\"hl\">Just</b> sign here and you're done.",
+          "es": "Solo firme aquí y ya está."
+        },
+        {
+          "en": "The gym is open to guests <b class=\"hl\">only</b>.",
+          "es": "El gimnasio es solo para huéspedes."
+        },
+        {
+          "en": "She <b class=\"hl\">also</b> speaks Portuguese.",
+          "es": "También habla portugués."
+        },
+        {
+          "en": "<b class=\"hl\">Even</b> he was impressed by the view.",
+          "es": "Hasta él quedó impresionado por la vista."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b07-s8q1",
+          "question": "1. We accept ___ card payments. (solo)",
+          "options": [
+            "only",
+            "even"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s8q2",
+          "question": "2. ___ the manager carried bags. (incluso)",
+          "options": [
+            "Only",
+            "Even"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s8q3",
+          "question": "3. 'I only called him' significa...",
+          "options": [
+            "solo lo llamé (no hice más)",
+            "solo yo lo llamé"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s8q4",
+          "question": "4. 'Only I called him' significa...",
+          "options": [
+            "solo lo llamé a él",
+            "solo yo lo llamé"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b07-s8q5",
+          "question": "5. Popular, ___ at weekends. (especialmente)",
+          "options": [
+            "especially",
+            "even"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s8q6",
+          "question": "6. I ___ need a moment. (solo)",
+          "options": [
+            "just",
+            "even"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b07-s8q7",
+          "question": "7. We offer breakfast ___. (también, al final)",
+          "options": [
+            "too",
+            "only"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b07-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases cambiando la posición de <b>only</b> para que signifiquen cosas distintas.",
+        "placeholder": "Ej: Only I booked it. / I only booked it. / I booked only it."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "La posición de <b>only</b> cambia el sentido: colócalo justo delante de lo que enfatizas. 'Only she saw it' (solo ella), 'She only saw it' (solo lo vio, no lo tocó), 'She saw only it' (solo eso vio)."
         }
       ]
     }
