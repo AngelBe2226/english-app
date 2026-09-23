@@ -59,6 +59,54 @@
         {
           "en": "She <span class=\"r-verb\">doesn't work</span> <span class=\"r-adv\">on Sundays</span>.",
           "es": "Ella no trabaja los domingos."
+        },
+        {
+          "en": "Reception <span class=\"r-verb\">opens</span> at seven every day.",
+          "es": "La recepción abre a las siete todos los días."
+        },
+        {
+          "en": "She <span class=\"r-verb\">handles</span> all the VIP bookings.",
+          "es": "Ella lleva todas las reservas VIP."
+        },
+        {
+          "en": "We <span class=\"r-verb\">don't charge</span> for early check-in.",
+          "es": "No cobramos por el check-in anticipado."
+        },
+        {
+          "en": "The shuttle <span class=\"r-verb\">leaves</span> on the hour.",
+          "es": "El autobús sale en punto cada hora."
+        },
+        {
+          "en": "<span class=\"r-verb\">Does</span> the price include breakfast?",
+          "es": "¿El precio incluye el desayuno?"
+        },
+        {
+          "en": "Our guests usually <span class=\"r-verb\">arrive</span> after lunch.",
+          "es": "Nuestros huéspedes suelen llegar después de comer."
+        },
+        {
+          "en": "He <span class=\"r-verb\">works</span> the night shift on weekends.",
+          "es": "Él hace el turno de noche los fines de semana."
+        },
+        {
+          "en": "The spa <span class=\"r-verb\">closes</span> at nine.",
+          "es": "El spa cierra a las nueve."
+        },
+        {
+          "en": "We always <span class=\"r-verb\">confirm</span> by email.",
+          "es": "Siempre confirmamos por correo."
+        },
+        {
+          "en": "The restaurant <span class=\"r-verb\">serves</span> local dishes.",
+          "es": "El restaurante sirve platos locales."
+        },
+        {
+          "en": "She <span class=\"r-verb\">speaks</span> four languages.",
+          "es": "Ella habla cuatro idiomas."
+        },
+        {
+          "en": "It <span class=\"r-verb\">rains</span> a lot here in spring.",
+          "es": "Aquí llueve mucho en primavera."
         }
       ],
       "tables": [],
@@ -87,6 +135,51 @@
           "options": [
             "don't",
             "doesn't"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s1q4",
+          "question": "4. She ___ the reports every Friday. (3ª persona)",
+          "options": [
+            "submit",
+            "submits"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s1q5",
+          "question": "5. ___ the price include tax? (pregunta, 3ª persona)",
+          "options": [
+            "Do",
+            "Does"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s1q6",
+          "question": "6. He ___ like early meetings. (negativa, 3ª persona)",
+          "options": [
+            "doesn't",
+            "don't"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s1q7",
+          "question": "7. Water ___ at 100°C. (hecho general)",
+          "options": [
+            "boils",
+            "is boiling"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s1q8",
+          "question": "8. The shuttle ___ every hour. (rutina/horario)",
+          "options": [
+            "is leaving",
+            "leaves"
           ],
           "correctIndex": 1
         }
@@ -148,6 +241,54 @@
         {
           "en": "Sorry, I'm <span class=\"r-verb\">dealing with</span> a complaint <span class=\"r-adv\">at the moment</span>.",
           "es": "Perdona, estoy gestionando una queja en este momento."
+        },
+        {
+          "en": "She <span class=\"r-verb\">is showing</span> a client the penthouse right now.",
+          "es": "Está enseñándole el ático a un cliente ahora mismo."
+        },
+        {
+          "en": "We <span class=\"r-verb\">are launching</span> the summer offer next week.",
+          "es": "Lanzamos la oferta de verano la semana que viene."
+        },
+        {
+          "en": "The team <span class=\"r-verb\">is preparing</span> the conference room.",
+          "es": "El equipo está preparando la sala de conferencias."
+        },
+        {
+          "en": "Sorry, I <span class=\"r-verb\">am dealing with</span> a complaint at the moment.",
+          "es": "Perdón, estoy gestionando una queja en este momento."
+        },
+        {
+          "en": "They <span class=\"r-verb\">are staying</span> until Sunday.",
+          "es": "Se quedan hasta el domingo."
+        },
+        {
+          "en": "I <span class=\"r-verb\">am not working</span> tomorrow.",
+          "es": "Mañana no trabajo."
+        },
+        {
+          "en": "The lift <span class=\"r-verb\">is being repaired</span> today.",
+          "es": "El ascensor se está reparando hoy."
+        },
+        {
+          "en": "We <span class=\"r-verb\">are meeting</span> the owner this afternoon. (plan)",
+          "es": "Nos reunimos con el propietario esta tarde."
+        },
+        {
+          "en": "She <span class=\"r-verb\">is covering</span> the desk while I'm out.",
+          "es": "Ella cubre la recepción mientras estoy fuera."
+        },
+        {
+          "en": "Prices <span class=\"r-verb\">are rising</span> across the sector.",
+          "es": "Los precios están subiendo en todo el sector."
+        },
+        {
+          "en": "He <span class=\"r-verb\">is checking</span> the guest in now.",
+          "es": "Está registrando al huésped ahora."
+        },
+        {
+          "en": "What <span class=\"r-verb\">are</span> you <span class=\"r-verb\">looking</span> for?",
+          "es": "¿Qué estás buscando?"
         }
       ],
       "tables": [],
@@ -176,6 +317,51 @@
           "options": [
             "are visiting",
             "visit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s2q4",
+          "question": "4. She ___ the presentation right now. (en progreso)",
+          "options": [
+            "prepares",
+            "is preparing"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s2q5",
+          "question": "5. I ___ this product. (lo quiero — state verb)",
+          "options": [
+            "am wanting",
+            "want"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s2q6",
+          "question": "6. We ___ the office tomorrow at 10. (plan confirmado)",
+          "options": [
+            "are visiting",
+            "visit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s2q7",
+          "question": "7. Look — it ___ outside. (ahora mismo)",
+          "options": [
+            "rains",
+            "is raining"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s2q8",
+          "question": "8. He ___ a guest in at the moment. (en progreso)",
+          "options": [
+            "is checking",
+            "checks"
           ],
           "correctIndex": 0
         }
@@ -237,6 +423,54 @@
         {
           "en": "The client hasn't <span class=\"r-verb\">confirmed</span> <span class=\"r-adv\">yet</span>.",
           "es": "El cliente aún no ha confirmado."
+        },
+        {
+          "en": "I <span class=\"r-verb\">have just sent</span> you the quote.",
+          "es": "Acabo de enviarte el presupuesto."
+        },
+        {
+          "en": "We <span class=\"r-verb\">have upgraded</span> your room already.",
+          "es": "Ya te hemos mejorado la habitación."
+        },
+        {
+          "en": "<span class=\"r-verb\">Have</span> you ever <span class=\"r-verb\">stayed</span> with us before?",
+          "es": "¿Se ha alojado con nosotros alguna vez?"
+        },
+        {
+          "en": "She <span class=\"r-verb\">has worked</span> in five countries.",
+          "es": "Ha trabajado en cinco países."
+        },
+        {
+          "en": "The client <span class=\"r-verb\">hasn't confirmed</span> yet.",
+          "es": "El cliente aún no ha confirmado."
+        },
+        {
+          "en": "We <span class=\"r-verb\">have received</span> your payment.",
+          "es": "Hemos recibido su pago."
+        },
+        {
+          "en": "He <span class=\"r-verb\">has never missed</span> a deadline.",
+          "es": "Nunca ha incumplido un plazo."
+        },
+        {
+          "en": "They <span class=\"r-verb\">have already left</span> the hotel.",
+          "es": "Ya se han ido del hotel."
+        },
+        {
+          "en": "I <span class=\"r-verb\">have lived</span> here since 2022.",
+          "es": "He vivido aquí desde 2022."
+        },
+        {
+          "en": "<span class=\"r-verb\">Has</span> the manager <span class=\"r-verb\">approved</span> the discount?",
+          "es": "¿Ha aprobado el gerente el descuento?"
+        },
+        {
+          "en": "We <span class=\"r-verb\">have booked</span> your transfer.",
+          "es": "Hemos reservado su traslado."
+        },
+        {
+          "en": "She <span class=\"r-verb\">has just finished</span> the call.",
+          "es": "Acaba de terminar la llamada."
         }
       ],
       "tables": [],
@@ -267,6 +501,51 @@
             "already"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b09-s3q4",
+          "question": "4. I ___ never ___ such a case. (nunca he visto)",
+          "options": [
+            "have / seen",
+            "had / seen"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s3q5",
+          "question": "5. She's worked here ___ five years. (durante)",
+          "options": [
+            "since",
+            "for"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s3q6",
+          "question": "6. Has he called ___? (todavía, pregunta)",
+          "options": [
+            "yet",
+            "already"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s3q7",
+          "question": "7. We've lived here ___ 2020. (punto de inicio)",
+          "options": [
+            "for",
+            "since"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s3q8",
+          "question": "8. ¿Cuál es correcta? (conecta con el presente)",
+          "options": [
+            "I've seen it yesterday",
+            "I saw it yesterday"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -326,6 +605,50 @@
         {
           "en": "They've been <span class=\"r-verb\">staying</span> here <span class=\"r-adv\">since Friday</span>.",
           "es": "Se alojan aquí desde el viernes."
+        },
+        {
+          "en": "I <span class=\"r-verb\">have been waiting</span> for the report since Monday.",
+          "es": "Llevo esperando el informe desde el lunes."
+        },
+        {
+          "en": "She <span class=\"r-verb\">has been negotiating</span> all morning.",
+          "es": "Ha estado negociando toda la mañana."
+        },
+        {
+          "en": "We <span class=\"r-verb\">have been working</span> on this proposal for weeks.",
+          "es": "Llevamos semanas trabajando en esta propuesta."
+        },
+        {
+          "en": "They <span class=\"r-verb\">have been staying</span> here since Friday.",
+          "es": "Se alojan aquí desde el viernes."
+        },
+        {
+          "en": "He looks tired — he <span class=\"r-verb\">has been travelling</span> all day.",
+          "es": "Se ve cansado; ha estado viajando todo el día."
+        },
+        {
+          "en": "We <span class=\"r-verb\">have been getting</span> great reviews lately.",
+          "es": "Últimamente hemos estado recibiendo grandes reseñas."
+        },
+        {
+          "en": "She <span class=\"r-verb\">has been covering</span> two shifts this week.",
+          "es": "Esta semana ha estado cubriendo dos turnos."
+        },
+        {
+          "en": "The team <span class=\"r-verb\">has been preparing</span> for the gala.",
+          "es": "El equipo ha estado preparando la gala."
+        },
+        {
+          "en": "I <span class=\"r-verb\">have been trying</span> to reach the client.",
+          "es": "He estado intentando localizar al cliente."
+        },
+        {
+          "en": "Prices <span class=\"r-verb\">have been rising</span> all year.",
+          "es": "Los precios han estado subiendo todo el año."
+        },
+        {
+          "en": "We <span class=\"r-verb\">have been renovating</span> the lobby.",
+          "es": "Hemos estado renovando el vestíbulo."
         }
       ],
       "tables": [],
@@ -354,6 +677,51 @@
           "options": [
             "has been working",
             "has worked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s4q4",
+          "question": "4. I ___ for two hours. (llevo esperando)",
+          "options": [
+            "have been waiting",
+            "have waited"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s4q5",
+          "question": "5. How long ___ you been studying? (auxiliar)",
+          "options": [
+            "have",
+            "are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s4q6",
+          "question": "6. She's tired because she ___ all day. (ha estado trabajando)",
+          "options": [
+            "has been working",
+            "has worked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s4q7",
+          "question": "7. Énfasis en la duración del proceso: se usa el...",
+          "options": [
+            "perfecto continuo",
+            "perfecto simple"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s4q8",
+          "question": "8. We ___ on this for weeks. (llevamos trabajando)",
+          "options": [
+            "have been working",
+            "work"
           ],
           "correctIndex": 0
         }
@@ -415,6 +783,50 @@
         {
           "en": "Did they <span class=\"r-verb\">enjoy</span> their stay?",
           "es": "¿Disfrutaron su estancia?"
+        },
+        {
+          "en": "We <span class=\"r-verb\">closed</span> the deal last week.",
+          "es": "Cerramos el trato la semana pasada."
+        },
+        {
+          "en": "She <span class=\"r-verb\">called</span> the guest an hour ago.",
+          "es": "Llamó al huésped hace una hora."
+        },
+        {
+          "en": "I <span class=\"r-verb\">started</span> in sales in 2019.",
+          "es": "Empecé en ventas en 2019."
+        },
+        {
+          "en": "<span class=\"r-verb\">Did</span> they <span class=\"r-verb\">enjoy</span> their stay?",
+          "es": "¿Disfrutaron su estancia?"
+        },
+        {
+          "en": "We <span class=\"r-verb\">met</span> the client at the fair.",
+          "es": "Conocimos al cliente en la feria."
+        },
+        {
+          "en": "The hotel <span class=\"r-verb\">opened</span> in 1998.",
+          "es": "El hotel abrió en 1998."
+        },
+        {
+          "en": "She <span class=\"r-verb\">signed</span> the contract yesterday.",
+          "es": "Firmó el contrato ayer."
+        },
+        {
+          "en": "They <span class=\"r-verb\">arrived</span> late because of the traffic.",
+          "es": "Llegaron tarde por el tráfico."
+        },
+        {
+          "en": "I <span class=\"r-verb\">didn't receive</span> the confirmation.",
+          "es": "No recibí la confirmación."
+        },
+        {
+          "en": "He <span class=\"r-verb\">upgraded</span> our room for free.",
+          "es": "Nos mejoró la habitación gratis."
+        },
+        {
+          "en": "We <span class=\"r-verb\">booked</span> the suite online.",
+          "es": "Reservamos la suite por internet."
         }
       ],
       "tables": [],
@@ -443,6 +855,51 @@
           "options": [
             "Did",
             "Was"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s5q4",
+          "question": "4. She ___ the report last night. (finish, pasado)",
+          "options": [
+            "finished",
+            "finish"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s5q5",
+          "question": "5. They ___ to Madrid last year. (go, irregular)",
+          "options": [
+            "went",
+            "goed"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s5q6",
+          "question": "6. ___ she call you back? (pregunta)",
+          "options": [
+            "Did",
+            "Was"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s5q7",
+          "question": "7. We ___ the email. (no recibimos, negativa)",
+          "options": [
+            "didn't receive",
+            "didn't received"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s5q8",
+          "question": "8. The company ___ ten years ago. (found, pasivo/pasado)",
+          "options": [
+            "was founded",
+            "founded"
           ],
           "correctIndex": 0
         }
@@ -504,6 +961,50 @@
         {
           "en": "He was <span class=\"r-verb\">driving</span> to the resort while I was <span class=\"r-verb\">booking</span> his room.",
           "es": "Él conducía al resort mientras yo reservaba su habitación."
+        },
+        {
+          "en": "I <span class=\"r-verb\">was checking</span> a guest in when the alarm went off.",
+          "es": "Estaba haciendo el check-in de un huésped cuando sonó la alarma."
+        },
+        {
+          "en": "While she <span class=\"r-verb\">was presenting</span>, the client took notes.",
+          "es": "Mientras ella presentaba, el cliente tomaba notas."
+        },
+        {
+          "en": "They <span class=\"r-verb\">were waiting</span> in the lobby at 9am.",
+          "es": "Estaban esperando en el vestíbulo a las 9."
+        },
+        {
+          "en": "What <span class=\"r-verb\">were</span> you <span class=\"r-verb\">doing</span> when the system crashed?",
+          "es": "¿Qué hacías cuando se cayó el sistema?"
+        },
+        {
+          "en": "He <span class=\"r-verb\">was driving</span> to the resort while I booked his room.",
+          "es": "Él conducía al resort mientras yo reservaba su habitación."
+        },
+        {
+          "en": "The staff <span class=\"r-verb\">were setting up</span> the terrace at dawn.",
+          "es": "El personal montaba la terraza al amanecer."
+        },
+        {
+          "en": "We <span class=\"r-verb\">were serving</span> dinner when the power cut.",
+          "es": "Servíamos la cena cuando se fue la luz."
+        },
+        {
+          "en": "The guests <span class=\"r-verb\">were relaxing</span> by the pool.",
+          "es": "Los huéspedes se relajaban junto a la piscina."
+        },
+        {
+          "en": "I <span class=\"r-verb\">was reviewing</span> the invoice when she called.",
+          "es": "Revisaba la factura cuando ella llamó."
+        },
+        {
+          "en": "They <span class=\"r-verb\">were negotiating</span> while we prepared the paperwork.",
+          "es": "Negociaban mientras preparábamos el papeleo."
+        },
+        {
+          "en": "It <span class=\"r-verb\">was raining</span> when the tour started.",
+          "es": "Llovía cuando empezó el tour."
         }
       ],
       "tables": [],
@@ -532,6 +1033,51 @@
           "options": [
             "were",
             "did"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s6q4",
+          "question": "4. I ___ lunch when the phone rang. (estaba comiendo)",
+          "options": [
+            "was having",
+            "had"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s6q5",
+          "question": "5. They ___ a meeting all afternoon. (en curso)",
+          "options": [
+            "were having",
+            "had"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s6q6",
+          "question": "6. What ___ you doing when I called? (auxiliar)",
+          "options": [
+            "were",
+            "did"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s6q7",
+          "question": "7. While I ___, the client interrupted. (presentaba, fondo)",
+          "options": [
+            "was presenting",
+            "presented"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s6q8",
+          "question": "8. It ___ when the tour started. (llovía, fondo)",
+          "options": [
+            "was raining",
+            "rained"
           ],
           "correctIndex": 0
         }
@@ -593,6 +1139,54 @@
         {
           "en": "By 6pm, everyone had <span class=\"r-verb\">left</span> the office.",
           "es": "A las 6pm, todos se habían ido de la oficina."
+        },
+        {
+          "en": "By the time we arrived, the guests <span class=\"r-verb\">had already checked in</span>.",
+          "es": "Cuando llegamos, los huéspedes ya habían hecho el check-in."
+        },
+        {
+          "en": "She <span class=\"r-verb\">had closed</span> the deal before the manager returned.",
+          "es": "Había cerrado el trato antes de que volviera el gerente."
+        },
+        {
+          "en": "After I <span class=\"r-verb\">had sent</span> the invoice, the client paid.",
+          "es": "Después de que envié la factura, el cliente pagó."
+        },
+        {
+          "en": "He told me he <span class=\"r-verb\">had worked</span> at a resort before.",
+          "es": "Me dijo que había trabajado en un resort antes."
+        },
+        {
+          "en": "By 6pm, everyone <span class=\"r-verb\">had left</span> the office.",
+          "es": "A las 6, todos se habían ido de la oficina."
+        },
+        {
+          "en": "The suite <span class=\"r-verb\">had been booked</span> months in advance.",
+          "es": "La suite se había reservado con meses de antelación."
+        },
+        {
+          "en": "We realised the payment <span class=\"r-verb\">had failed</span>.",
+          "es": "Nos dimos cuenta de que el pago había fallado."
+        },
+        {
+          "en": "She <span class=\"r-verb\">had never seen</span> such a busy season.",
+          "es": "Nunca había visto una temporada tan ajetreada."
+        },
+        {
+          "en": "By the time she called, we <span class=\"r-verb\">had already refunded</span> her.",
+          "es": "Para cuando llamó, ya la habíamos reembolsado."
+        },
+        {
+          "en": "They <span class=\"r-verb\">had finished</span> the tour before lunch.",
+          "es": "Habían terminado el tour antes de comer."
+        },
+        {
+          "en": "The room <span class=\"r-verb\">had been cleaned</span> by the time he arrived.",
+          "es": "La habitación se había limpiado para cuando él llegó."
+        },
+        {
+          "en": "I <span class=\"r-verb\">had confirmed</span> the booking before the deadline.",
+          "es": "Había confirmado la reserva antes del plazo."
         }
       ],
       "tables": [],
@@ -621,6 +1215,51 @@
           "options": [
             "had already made",
             "already made"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s7q4",
+          "question": "4. When I arrived, the meeting ___ already ___. (había terminado)",
+          "options": [
+            "had / ended",
+            "has / ended"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s7q5",
+          "question": "5. She ___ the report before the deadline. (había enviado)",
+          "options": [
+            "had sent",
+            "sent"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s7q6",
+          "question": "6. By the time we called, they ___ the decision. (ya habían tomado)",
+          "options": [
+            "had already made",
+            "already made"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s7q7",
+          "question": "7. He ___ just ___ the call when I walked in. (acababa de terminar)",
+          "options": [
+            "had / finished",
+            "has / finished"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s7q8",
+          "question": "8. El pasado perfecto expresa una acción...",
+          "options": [
+            "anterior a otra pasada",
+            "en curso ahora"
           ],
           "correctIndex": 0
         }
@@ -682,6 +1321,54 @@
         {
           "en": "The guests had been <span class=\"r-verb\">complaining</span> for weeks before we fixed it.",
           "es": "Los huéspedes llevaban semanas quejándose antes de que lo arregláramos."
+        },
+        {
+          "en": "She <span class=\"r-verb\">had been working</span> there for ten years before her promotion.",
+          "es": "Llevaba diez años trabajando allí antes de su ascenso."
+        },
+        {
+          "en": "We <span class=\"r-verb\">had been waiting</span> for an hour when the owner called.",
+          "es": "Llevábamos una hora esperando cuando llamó el propietario."
+        },
+        {
+          "en": "They were tired because they <span class=\"r-verb\">had been travelling</span> all day.",
+          "es": "Estaban cansados porque habían estado viajando todo el día."
+        },
+        {
+          "en": "He <span class=\"r-verb\">had been trying</span> to reach you before he emailed.",
+          "es": "Había estado intentando localizarte antes de escribirte."
+        },
+        {
+          "en": "The guests <span class=\"r-verb\">had been complaining</span> for weeks before we fixed it.",
+          "es": "Los huéspedes llevaban semanas quejándose antes de que lo arregláramos."
+        },
+        {
+          "en": "By noon, she <span class=\"r-verb\">had been checking in</span> guests for hours.",
+          "es": "Para el mediodía, llevaba horas registrando huéspedes."
+        },
+        {
+          "en": "We <span class=\"r-verb\">had been planning</span> the gala since spring.",
+          "es": "Llevábamos planeando la gala desde primavera."
+        },
+        {
+          "en": "He <span class=\"r-verb\">had been negotiating</span> for days when they agreed.",
+          "es": "Llevaba días negociando cuando aceptaron."
+        },
+        {
+          "en": "The team <span class=\"r-verb\">had been preparing</span> long before the opening.",
+          "es": "El equipo llevaba mucho preparándose antes de la apertura."
+        },
+        {
+          "en": "I <span class=\"r-verb\">had been reviewing</span> contracts all morning.",
+          "es": "Llevaba toda la mañana revisando contratos."
+        },
+        {
+          "en": "Prices <span class=\"r-verb\">had been rising</span> before we adjusted them.",
+          "es": "Los precios llevaban subiendo antes de que los ajustáramos."
+        },
+        {
+          "en": "She <span class=\"r-verb\">had been covering</span> reception before she got the role.",
+          "es": "Había estado cubriendo recepción antes de conseguir el puesto."
         }
       ],
       "tables": [],
@@ -710,6 +1397,51 @@
           "options": [
             "had been negotiating",
             "had negotiated"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s8q4",
+          "question": "4. She was exhausted because she ___ since dawn. (llevaba trabajando)",
+          "options": [
+            "had been working",
+            "had worked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s8q5",
+          "question": "5. How long ___ you been waiting when they arrived? (auxiliar pasado)",
+          "options": [
+            "had",
+            "have"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s8q6",
+          "question": "6. They ___ for an hour before the client showed up. (llevaban negociando)",
+          "options": [
+            "had been negotiating",
+            "had negotiated"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s8q7",
+          "question": "7. Enfatiza la ___ de un proceso antes de otro momento pasado.",
+          "options": [
+            "duración",
+            "finalización única"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s8q8",
+          "question": "8. We ___ the gala since spring. (llevábamos planeando)",
+          "options": [
+            "had been planning",
+            "planned"
           ],
           "correctIndex": 0
         }
@@ -771,6 +1503,54 @@
         {
           "en": "I think prices will <span class=\"r-verb\">rise</span> next year.",
           "es": "Creo que los precios subirán el año que viene."
+        },
+        {
+          "en": "I <span class=\"r-verb\">'ll send</span> you the details right away.",
+          "es": "Te envío los detalles enseguida."
+        },
+        {
+          "en": "Don't worry, we <span class=\"r-verb\">'ll take care</span> of everything.",
+          "es": "No se preocupe, nos encargamos de todo."
+        },
+        {
+          "en": "Look at those clouds — it <span class=\"r-verb\">'s going to rain</span>.",
+          "es": "Mira esas nubes, va a llover."
+        },
+        {
+          "en": "We <span class=\"r-verb\">'re going to open</span> a new resort in Ibiza.",
+          "es": "Vamos a abrir un nuevo resort en Ibiza."
+        },
+        {
+          "en": "I think prices <span class=\"r-verb\">will rise</span> next year.",
+          "es": "Creo que los precios subirán el año que viene."
+        },
+        {
+          "en": "The phone's ringing — I <span class=\"r-verb\">'ll get</span> it.",
+          "es": "Suena el teléfono; lo cojo yo."
+        },
+        {
+          "en": "She <span class=\"r-verb\">'s going to start</span> her new role on Monday.",
+          "es": "Va a empezar su nuevo puesto el lunes."
+        },
+        {
+          "en": "I promise I <span class=\"r-verb\">'ll call</span> you back today.",
+          "es": "Prometo que le devolveré la llamada hoy."
+        },
+        {
+          "en": "We <span class=\"r-verb\">'re going to renovate</span> the lobby this winter.",
+          "es": "Vamos a renovar el vestíbulo este invierno."
+        },
+        {
+          "en": "That looks heavy — I <span class=\"r-verb\">'ll help</span> you.",
+          "es": "Eso parece pesado; te ayudo."
+        },
+        {
+          "en": "They <span class=\"r-verb\">'re going to launch</span> a loyalty app.",
+          "es": "Van a lanzar una app de fidelización."
+        },
+        {
+          "en": "I'm sure you <span class=\"r-verb\">'ll enjoy</span> your stay.",
+          "es": "Seguro que disfrutará su estancia."
         }
       ],
       "tables": [],
@@ -799,6 +1579,51 @@
           "options": [
             "are going to be",
             "will be"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s9q4",
+          "question": "4. I've booked the flights — we ___ to Madrid. (plan decidido)",
+          "options": [
+            "will go",
+            "are going"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s9q5",
+          "question": "5. This bag is heavy — I ___ help you. (decisión espontánea)",
+          "options": [
+            "will",
+            "am going to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s9q6",
+          "question": "6. Look at the traffic — we ___ late. (evidencia visible)",
+          "options": [
+            "are going to be",
+            "will be"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s9q7",
+          "question": "7. I promise I ___ call you. (promesa)",
+          "options": [
+            "will",
+            "am going to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s9q8",
+          "question": "8. We ___ a new hotel next year. (plan/intención)",
+          "options": [
+            "are going to open",
+            "will open"
           ],
           "correctIndex": 0
         }
@@ -860,6 +1685,50 @@
         {
           "en": "At 9am the team will be <span class=\"r-verb\">welcoming</span> the first guests.",
           "es": "A las 9am el equipo estará dando la bienvenida a los primeros huéspedes."
+        },
+        {
+          "en": "We <span class=\"r-verb\">'ll be hosting</span> a gala next Saturday.",
+          "es": "Estaremos organizando una gala el sábado que viene."
+        },
+        {
+          "en": "She <span class=\"r-verb\">'ll be working</span> from the resort all week.",
+          "es": "Estará trabajando desde el resort toda la semana."
+        },
+        {
+          "en": "<span class=\"r-verb\">Will</span> you <span class=\"r-verb\">be using</span> the conference room this afternoon?",
+          "es": "¿Vas a usar la sala de conferencias esta tarde?"
+        },
+        {
+          "en": "At 9am the team <span class=\"r-verb\">will be welcoming</span> the first guests.",
+          "es": "A las 9 el equipo estará dando la bienvenida a los primeros huéspedes."
+        },
+        {
+          "en": "Don't call at three — we <span class=\"r-verb\">'ll be meeting</span> the client.",
+          "es": "No llames a las tres; estaremos reunidos con el cliente."
+        },
+        {
+          "en": "This time next year, they <span class=\"r-verb\">'ll be living</span> abroad.",
+          "es": "El año que viene por estas fechas estarán viviendo en el extranjero."
+        },
+        {
+          "en": "I <span class=\"r-verb\">'ll be waiting</span> for you at reception.",
+          "es": "Estaré esperándote en recepción."
+        },
+        {
+          "en": "The staff <span class=\"r-verb\">will be setting up</span> the terrace at dawn.",
+          "es": "El personal estará montando la terraza al amanecer."
+        },
+        {
+          "en": "We <span class=\"r-verb\">'ll be running</span> promotions all summer.",
+          "es": "Estaremos haciendo promociones todo el verano."
+        },
+        {
+          "en": "She <span class=\"r-verb\">'ll be covering</span> the desk tonight.",
+          "es": "Estará cubriendo la recepción esta noche."
+        },
+        {
+          "en": "By then, guests <span class=\"r-verb\">will be checking out</span>.",
+          "es": "Para entonces, los huéspedes estarán haciendo el check-out."
         }
       ],
       "tables": [],
@@ -888,6 +1757,51 @@
           "options": [
             "will be writing",
             "writes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s10q4",
+          "question": "4. At 9am tomorrow, I ___ the client. (estaré llamando)",
+          "options": [
+            "will be calling",
+            "will call"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s10q5",
+          "question": "5. This time next week, we ___ on the beach. (estaremos relajándonos)",
+          "options": [
+            "will be relaxing",
+            "relax"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s10q6",
+          "question": "6. She ___ the report at that time tomorrow. (en progreso futuro)",
+          "options": [
+            "will be writing",
+            "writes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s10q7",
+          "question": "7. Don't call at 3 — we ___ the client then. (estaremos reunidos)",
+          "options": [
+            "will be meeting",
+            "will meet"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s10q8",
+          "question": "8. El futuro continuo describe una acción...",
+          "options": [
+            "en progreso en un momento futuro",
+            "terminada antes del futuro"
           ],
           "correctIndex": 0
         }
@@ -949,6 +1863,54 @@
         {
           "en": "In two years I'll have <span class=\"r-verb\">worked</span> here for a decade.",
           "es": "En dos años habré trabajado aquí una década."
+        },
+        {
+          "en": "By next month, we <span class=\"r-verb\">'ll have sold</span> all the units.",
+          "es": "Para el mes que viene, habremos vendido todas las unidades."
+        },
+        {
+          "en": "She <span class=\"r-verb\">'ll have finished</span> the report by Friday.",
+          "es": "Habrá terminado el informe para el viernes."
+        },
+        {
+          "en": "By the time you arrive, we <span class=\"r-verb\">'ll have prepared</span> your suite.",
+          "es": "Para cuando llegue, habremos preparado su suite."
+        },
+        {
+          "en": "They <span class=\"r-verb\">'ll have completed</span> the renovation by summer.",
+          "es": "Habrán terminado la reforma para el verano."
+        },
+        {
+          "en": "In two years I <span class=\"r-verb\">'ll have worked</span> here for a decade.",
+          "es": "En dos años habré trabajado aquí una década."
+        },
+        {
+          "en": "By checkout, the bill <span class=\"r-verb\">will have been</span> settled.",
+          "es": "Para el check-out, la factura habrá sido saldada."
+        },
+        {
+          "en": "By the end of the month, she <span class=\"r-verb\">'ll have closed</span> five deals.",
+          "es": "Para fin de mes, habrá cerrado cinco tratos."
+        },
+        {
+          "en": "We <span class=\"r-verb\">'ll have trained</span> all the new staff by June.",
+          "es": "Habremos formado a todo el personal nuevo para junio."
+        },
+        {
+          "en": "By tonight, they <span class=\"r-verb\">'ll have checked out</span>.",
+          "es": "Para esta noche, habrán hecho el check-out."
+        },
+        {
+          "en": "By 2028, we <span class=\"r-verb\">'ll have opened</span> ten hotels.",
+          "es": "Para 2028, habremos abierto diez hoteles."
+        },
+        {
+          "en": "She <span class=\"r-verb\">'ll have replied</span> before lunch.",
+          "es": "Habrá respondido antes de comer."
+        },
+        {
+          "en": "By then, the offer <span class=\"r-verb\">will have expired</span>.",
+          "es": "Para entonces, la oferta habrá caducado."
         }
       ],
       "tables": [],
@@ -977,6 +1939,51 @@
           "options": [
             "will have left",
             "will leave"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s11q4",
+          "question": "4. By next week, we ___ the negotiation. (habremos terminado)",
+          "options": [
+            "will have finished",
+            "will finish"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s11q5",
+          "question": "5. She ___ the report by 5pm. (habrá enviado)",
+          "options": [
+            "will have sent",
+            "will send"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s11q6",
+          "question": "6. By the time you call, they ___. (ya se habrán ido)",
+          "options": [
+            "will have left",
+            "will leave"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s11q7",
+          "question": "7. El futuro perfecto suele ir con...",
+          "options": [
+            "by / by the time",
+            "while"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s11q8",
+          "question": "8. By June, we ___ the new wing. (habremos abierto)",
+          "options": [
+            "will have opened",
+            "will open"
           ],
           "correctIndex": 0
         }
@@ -1038,6 +2045,54 @@
         {
           "en": "At 6pm, the staff will have been <span class=\"r-verb\">working</span> for twelve hours straight.",
           "es": "A las 6pm, el personal llevará doce horas seguidas trabajando."
+        },
+        {
+          "en": "By December, I <span class=\"r-verb\">'ll have been working</span> here for five years.",
+          "es": "Para diciembre, llevaré cinco años trabajando aquí."
+        },
+        {
+          "en": "By the time the resort opens, they <span class=\"r-verb\">'ll have been building</span> it for three years.",
+          "es": "Para cuando abra el resort, llevarán tres años construyéndolo."
+        },
+        {
+          "en": "Next month she <span class=\"r-verb\">'ll have been managing</span> the team for a decade.",
+          "es": "El mes que viene llevará una década dirigiendo el equipo."
+        },
+        {
+          "en": "By 2027, we <span class=\"r-verb\">'ll have been operating</span> in Asia for ten years.",
+          "es": "Para 2027, llevaremos diez años operando en Asia."
+        },
+        {
+          "en": "At 6pm, the staff <span class=\"r-verb\">'ll have been working</span> for twelve hours straight.",
+          "es": "A las 6, el personal llevará doce horas seguidas trabajando."
+        },
+        {
+          "en": "By June, we <span class=\"r-verb\">'ll have been serving</span> this client for a year.",
+          "es": "Para junio, llevaremos un año atendiendo a este cliente."
+        },
+        {
+          "en": "When the deal closes, they <span class=\"r-verb\">'ll have been negotiating</span> for months.",
+          "es": "Cuando se cierre el trato, llevarán meses negociando."
+        },
+        {
+          "en": "By tonight, she <span class=\"r-verb\">'ll have been travelling</span> for 24 hours.",
+          "es": "Para esta noche, llevará 24 horas viajando."
+        },
+        {
+          "en": "By next year, I <span class=\"r-verb\">'ll have been living</span> abroad for a decade.",
+          "es": "Para el año que viene, llevaré una década viviendo en el extranjero."
+        },
+        {
+          "en": "By summer, they <span class=\"r-verb\">'ll have been renovating</span> for six months.",
+          "es": "Para el verano, llevarán seis meses de reforma."
+        },
+        {
+          "en": "By closing, we <span class=\"r-verb\">'ll have been hosting</span> guests non-stop.",
+          "es": "Para el cierre, llevaremos recibiendo huéspedes sin parar."
+        },
+        {
+          "en": "By the review, he <span class=\"r-verb\">'ll have been leading</span> sales for two years.",
+          "es": "Para la evaluación, llevará dos años liderando ventas."
         }
       ],
       "tables": [],
@@ -1068,6 +2123,51 @@
             "will negotiate"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b09-s12q4",
+          "question": "4. By next year, she ___ at this company for a decade. (llevará trabajando)",
+          "options": [
+            "will have been working",
+            "will have worked"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s12q5",
+          "question": "5. By June, we ___ this client for a full year. (llevaremos atendiendo)",
+          "options": [
+            "will have been serving",
+            "will serve"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s12q6",
+          "question": "6. When the deal closes, they ___ for three months. (llevarán negociando)",
+          "options": [
+            "will have been negotiating",
+            "will negotiate"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s12q7",
+          "question": "7. Combina futuro + duración + ...",
+          "options": [
+            "proceso aún en marcha",
+            "acción terminada"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s12q8",
+          "question": "8. By December, I ___ here for five years. (llevaré trabajando)",
+          "options": [
+            "will have been working",
+            "will work"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -1079,6 +2179,501 @@
         {
           "type": "tip",
           "text": "El más avanzado: <b>duración</b> hasta un punto futuro. 'By December I'll have been working here <b>for</b> five years'."
+        }
+      ]
+    },
+    {
+      "idx": "9.13",
+      "title": "used to / would (hábitos y estados pasados)",
+      "level": "A2",
+      "rule": "Para hablar de hábitos o estados del pasado que <b>ya no ocurren</b>. <b>used to + infinitivo</b> vale para <b>acciones repetidas</b> y <b>estados</b> pasados (I <b>used to work</b> nights; The hotel <b>used to be</b> a palace). <b>would + infinitivo</b> solo sirve para <b>acciones repetidas</b>, no para estados (Every summer we <b>would open</b> the terrace; pero NO 'would be'). No confundir con <b>be used to + -ing</b> = 'estar acostumbrado a'. En negativa/pregunta: 'didn't use to', 'did you use to?'.",
+      "examples": [
+        {
+          "en": "I <b class=\"hl\">used to work</b> at a small guesthouse.",
+          "es": "Antes trabajaba en una pequeña casa de huéspedes."
+        },
+        {
+          "en": "This hotel <b class=\"hl\">used to be</b> a palace.",
+          "es": "Este hotel antes era un palacio."
+        },
+        {
+          "en": "Every summer we <b class=\"hl\">would open</b> the rooftop bar.",
+          "es": "Cada verano abríamos el bar de la azotea."
+        },
+        {
+          "en": "She <b class=\"hl\">used to handle</b> all the bookings herself.",
+          "es": "Antes ella llevaba todas las reservas ella sola."
+        },
+        {
+          "en": "We <b class=\"hl\">didn't use to</b> charge for parking.",
+          "es": "Antes no cobrábamos el aparcamiento."
+        },
+        {
+          "en": "<b class=\"hl\">Did</b> you <b class=\"hl\">use to</b> live near the coast?",
+          "es": "¿Antes vivías cerca de la costa?"
+        },
+        {
+          "en": "Guests <b class=\"hl\">would gather</b> in the lobby each evening.",
+          "es": "Los huéspedes se reunían en el vestíbulo cada tarde."
+        },
+        {
+          "en": "There <b class=\"hl\">used to be</b> a fountain in the courtyard.",
+          "es": "Antes había una fuente en el patio."
+        },
+        {
+          "en": "He <b class=\"hl\">used to manage</b> three properties.",
+          "es": "Antes gestionaba tres propiedades."
+        },
+        {
+          "en": "On Fridays we <b class=\"hl\">would host</b> live music.",
+          "es": "Los viernes poníamos música en vivo."
+        },
+        {
+          "en": "I <b class=\"hl\">used to be</b> nervous with guests, but not anymore.",
+          "es": "Antes me ponía nervioso con los huéspedes, pero ya no."
+        },
+        {
+          "en": "The resort <b class=\"hl\">used to close</b> in winter.",
+          "es": "El resort antes cerraba en invierno."
+        },
+        {
+          "en": "She <b class=\"hl\">would always greet</b> regulars by name.",
+          "es": "Siempre saludaba a los habituales por su nombre."
+        },
+        {
+          "en": "We <b class=\"hl\">used to offer</b> free tours.",
+          "es": "Antes ofrecíamos tours gratuitos."
+        },
+        {
+          "en": "They <b class=\"hl\">didn't use to</b> take online bookings.",
+          "es": "Antes no aceptaban reservas por internet."
+        },
+        {
+          "en": "My grandfather <b class=\"hl\">used to run</b> this restaurant.",
+          "es": "Mi abuelo antes llevaba este restaurante."
+        },
+        {
+          "en": "Every winter the staff <b class=\"hl\">would decorate</b> the hall.",
+          "es": "Cada invierno el personal decoraba el salón."
+        },
+        {
+          "en": "There <b class=\"hl\">used to be</b> only ten rooms.",
+          "es": "Antes solo había diez habitaciones."
+        },
+        {
+          "en": "I'm now <b class=\"hl\">used to dealing</b> with VIPs. (be used to + -ing)",
+          "es": "Ahora estoy acostumbrado a tratar con VIP."
+        },
+        {
+          "en": "We <b class=\"hl\">used to prefer</b> phone bookings.",
+          "es": "Antes preferíamos las reservas por teléfono."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s13q1",
+          "question": "1. I ___ work nights. (hábito pasado)",
+          "options": [
+            "used to",
+            "would be"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s13q2",
+          "question": "2. The hotel ___ a palace. (estado pasado — solo 'used to')",
+          "options": [
+            "would be",
+            "used to be"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s13q3",
+          "question": "3. Every summer we ___ the terrace. (acción repetida — vale would)",
+          "options": [
+            "would open",
+            "used to being"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s13q4",
+          "question": "4. We ___ charge for parking. (negativa)",
+          "options": [
+            "didn't use to",
+            "didn't used to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s13q5",
+          "question": "5. ___ you use to live here? (pregunta)",
+          "options": [
+            "Did",
+            "Do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s13q6",
+          "question": "6. 'I'm used to dealing with VIPs' significa...",
+          "options": [
+            "antes trataba con VIPs",
+            "estoy acostumbrado a tratar con VIPs"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s13q7",
+          "question": "7. ¿Cuál es INCORRECTA?",
+          "options": [
+            "It would be a palace",
+            "It used to be a palace"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s13",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>used to</b> (estado pasado) y otra con <b>would</b> (acción repetida pasada).",
+        "placeholder": "Ej: The hotel used to be smaller. Every summer we would host a gala."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>would</b> NO se usa para estados: 'It <b>used to be</b> a palace' ✓ pero 'It would be a palace' ✗. Y no confundas 'used to + infinitivo' (hábito pasado) con 'be used to + -ing' (estar acostumbrado a)."
+        }
+      ]
+    },
+    {
+      "idx": "9.14",
+      "title": "El presente para hablar del futuro",
+      "level": "B1",
+      "rule": "El inglés usa a menudo tiempos <b>presentes</b> para el futuro. El <b>presente simple</b> se usa para <b>horarios</b> fijos (transporte, cines, agendas): 'The train <b>leaves</b> at six'. El <b>presente continuo</b> expresa <b>planes ya concertados</b> con hora/lugar: 'We <b>'re meeting</b> the client at ten'. Tras conjunciones de tiempo/condición (when, if, as soon as, before, until), el futuro va SIEMPRE en presente: 'I'll call when I <b>arrive</b>'. No uses 'will' en estos tres casos.",
+      "examples": [
+        {
+          "en": "The shuttle <b class=\"hl\">leaves</b> at eight sharp.",
+          "es": "El autobús sale a las ocho en punto."
+        },
+        {
+          "en": "We <b class=\"hl\">'re meeting</b> the supplier tomorrow.",
+          "es": "Nos reunimos con el proveedor mañana."
+        },
+        {
+          "en": "Breakfast <b class=\"hl\">starts</b> at seven.",
+          "es": "El desayuno empieza a las siete."
+        },
+        {
+          "en": "She <b class=\"hl\">'s checking out</b> on Friday.",
+          "es": "Hace el check-out el viernes."
+        },
+        {
+          "en": "The tour <b class=\"hl\">begins</b> at ten and <b class=\"hl\">ends</b> at noon.",
+          "es": "El tour empieza a las diez y acaba al mediodía."
+        },
+        {
+          "en": "They <b class=\"hl\">'re arriving</b> on the evening flight.",
+          "es": "Llegan en el vuelo de la tarde."
+        },
+        {
+          "en": "Call me when you <b class=\"hl\">get</b> here.",
+          "es": "Llámame cuando llegues."
+        },
+        {
+          "en": "The conference <b class=\"hl\">opens</b> on Monday.",
+          "es": "El congreso abre el lunes."
+        },
+        {
+          "en": "We <b class=\"hl\">'re hosting</b> a wedding this weekend.",
+          "es": "Celebramos una boda este fin de semana."
+        },
+        {
+          "en": "I'll confirm as soon as I <b class=\"hl\">hear</b> back.",
+          "es": "Confirmaré en cuanto tenga respuesta."
+        },
+        {
+          "en": "The restaurant <b class=\"hl\">closes</b> at eleven tonight.",
+          "es": "El restaurante cierra a las once esta noche."
+        },
+        {
+          "en": "He <b class=\"hl\">'s flying</b> to London on Thursday.",
+          "es": "Vuela a Londres el jueves."
+        },
+        {
+          "en": "The spa <b class=\"hl\">reopens</b> next week.",
+          "es": "El spa reabre la semana que viene."
+        },
+        {
+          "en": "We <b class=\"hl\">'re welcoming</b> a group of 40 on Saturday.",
+          "es": "Recibimos un grupo de 40 el sábado."
+        },
+        {
+          "en": "Please wait here until the room <b class=\"hl\">is</b> ready.",
+          "es": "Espere aquí hasta que la habitación esté lista."
+        },
+        {
+          "en": "My flight <b class=\"hl\">departs</b> at dawn.",
+          "es": "Mi vuelo sale al amanecer."
+        },
+        {
+          "en": "She <b class=\"hl\">'s giving</b> a talk at the fair next month.",
+          "es": "Da una charla en la feria el mes que viene."
+        },
+        {
+          "en": "The offer <b class=\"hl\">ends</b> at midnight.",
+          "es": "La oferta acaba a medianoche."
+        },
+        {
+          "en": "If it <b class=\"hl\">rains</b>, we'll move the event inside.",
+          "es": "Si llueve, trasladaremos el evento dentro."
+        },
+        {
+          "en": "We <b class=\"hl\">'re opening</b> the new wing in June.",
+          "es": "Abrimos el ala nueva en junio."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s14q1",
+          "question": "1. The train ___ at six. (horario fijo)",
+          "options": [
+            "leaves",
+            "will leave"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s14q2",
+          "question": "2. We ___ the client at ten. (plan concertado)",
+          "options": [
+            "will meet",
+            "are meeting"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s14q3",
+          "question": "3. I'll call you when I ___. (tras 'when', presente)",
+          "options": [
+            "arrive",
+            "will arrive"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s14q4",
+          "question": "4. Breakfast ___ at seven. (horario)",
+          "options": [
+            "is starting",
+            "starts"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s14q5",
+          "question": "5. She ___ out on Friday. (plan personal)",
+          "options": [
+            "is checking",
+            "checks"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s14q6",
+          "question": "6. If it ___, we'll move inside. (tras 'if', presente)",
+          "options": [
+            "will rain",
+            "rains"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b09-s14q7",
+          "question": "7. Wait until the room ___ ready. (tras 'until', presente)",
+          "options": [
+            "is",
+            "will be"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s14",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase de horario con presente simple y un plan con presente continuo, ambos con sentido de futuro.",
+        "placeholder": "Ej: The tour starts at ten. We're meeting them at noon."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras <b>when, if, as soon as, before, after, until</b>, el futuro se expresa en <b>presente</b>: 'I'll call when I <b>arrive</b>' (no 'when I will arrive'). Horarios → presente simple; planes concertados → presente continuo."
+        }
+      ]
+    },
+    {
+      "idx": "9.15",
+      "title": "Futuro en el pasado (was going to / would)",
+      "level": "B2",
+      "rule": "Para hablar, desde el pasado, de algo que <b>iba a ocurrir después</b>. <b>was/were going to</b> + infinitivo = un plan o intención pasada, a menudo que no se cumplió (We <b>were going to</b> open in May, but we delayed it). <b>would</b> + infinitivo = futuro visto desde el pasado, típico en narración y estilo indirecto (She said she <b>would call</b>). También <b>was about to</b> = a punto de. Es el 'condicional' del español en muchos casos: 'dijo que vendría' → he said he <b>would come</b>.",
+      "examples": [
+        {
+          "en": "We <b class=\"hl\">were going to</b> upgrade her, but the suite was taken.",
+          "es": "Íbamos a mejorarle la habitación, pero la suite estaba ocupada."
+        },
+        {
+          "en": "She said she <b class=\"hl\">would call</b> before noon.",
+          "es": "Dijo que llamaría antes del mediodía."
+        },
+        {
+          "en": "I <b class=\"hl\">was about to</b> close the desk when he arrived.",
+          "es": "Estaba a punto de cerrar la recepción cuando él llegó."
+        },
+        {
+          "en": "They <b class=\"hl\">were going to</b> cancel, then changed their minds.",
+          "es": "Iban a cancelar, pero cambiaron de idea."
+        },
+        {
+          "en": "He promised he <b class=\"hl\">would refund</b> the deposit.",
+          "es": "Prometió que reembolsaría el depósito."
+        },
+        {
+          "en": "We <b class=\"hl\">were going to</b> open in May.",
+          "es": "Íbamos a abrir en mayo."
+        },
+        {
+          "en": "The manager said the room <b class=\"hl\">would be</b> ready by three.",
+          "es": "El gerente dijo que la habitación estaría lista para las tres."
+        },
+        {
+          "en": "She <b class=\"hl\">was about to</b> leave when the client called.",
+          "es": "Estaba a punto de irse cuando llamó el cliente."
+        },
+        {
+          "en": "I knew the offer <b class=\"hl\">would sell out</b> fast.",
+          "es": "Sabía que la oferta se agotaría rápido."
+        },
+        {
+          "en": "We <b class=\"hl\">were going to</b> raise prices, but held off.",
+          "es": "Íbamos a subir los precios, pero lo dejamos."
+        },
+        {
+          "en": "He said he <b class=\"hl\">would send</b> the invoice that day.",
+          "es": "Dijo que enviaría la factura ese día."
+        },
+        {
+          "en": "They <b class=\"hl\">were going to</b> stay a week, then extended it.",
+          "es": "Iban a quedarse una semana, luego la ampliaron."
+        },
+        {
+          "en": "I <b class=\"hl\">was about to</b> confirm when the system froze.",
+          "es": "Estaba a punto de confirmar cuando el sistema se colgó."
+        },
+        {
+          "en": "She hoped the deal <b class=\"hl\">would close</b> by Friday.",
+          "es": "Esperaba que el trato se cerrara para el viernes."
+        },
+        {
+          "en": "We <b class=\"hl\">were going to</b> serve dinner outside, but it rained.",
+          "es": "Íbamos a servir la cena fuera, pero llovió."
+        },
+        {
+          "en": "He said the shuttle <b class=\"hl\">would leave</b> at six.",
+          "es": "Dijo que el autobús saldría a las seis."
+        },
+        {
+          "en": "The team knew it <b class=\"hl\">would be</b> a busy season.",
+          "es": "El equipo sabía que sería una temporada ajetreada."
+        },
+        {
+          "en": "I <b class=\"hl\">was going to</b> email you, but I called instead.",
+          "es": "Iba a escribirte, pero te llamé en su lugar."
+        },
+        {
+          "en": "She said she <b class=\"hl\">would look into</b> it.",
+          "es": "Dijo que lo investigaría."
+        },
+        {
+          "en": "We <b class=\"hl\">were about to</b> start when the power cut.",
+          "es": "Estábamos a punto de empezar cuando se fue la luz."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b09-s15q1",
+          "question": "1. We ___ open in May, but delayed it. (plan pasado no cumplido)",
+          "options": [
+            "were going to",
+            "will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s15q2",
+          "question": "2. She said she ___ call. (futuro en el pasado / estilo indirecto)",
+          "options": [
+            "would",
+            "will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s15q3",
+          "question": "3. I ___ close when he arrived. (a punto de)",
+          "options": [
+            "was about to",
+            "was going"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s15q4",
+          "question": "4. He promised he ___ refund it. (condicional en pasado)",
+          "options": [
+            "would",
+            "will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s15q5",
+          "question": "5. They ___ cancel, then changed their minds. (intención pasada)",
+          "options": [
+            "were going to",
+            "would"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s15q6",
+          "question": "6. 'Dijo que vendría' → He said he ___ come.",
+          "options": [
+            "would",
+            "will"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b09-s15q7",
+          "question": "7. I was ___ to confirm when it froze. (a punto de)",
+          "options": [
+            "about",
+            "going"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b09-s15",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una intención pasada con <b>was going to</b> y un futuro visto desde el pasado con <b>would</b>.",
+        "placeholder": "Ej: We were going to close early. She said she would call back."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>was going to</b> suele implicar que el plan <b>no se cumplió</b> ('We were going to…, but…'). <b>would</b> es el 'condicional' del pasado en estilo indirecto: 'He said he <b>would</b> come' = dijo que vendría."
         }
       ]
     }
