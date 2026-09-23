@@ -71,6 +71,66 @@
         {
           "en": "The system <span class=\"r-verb\">works</span> perfectly now.",
           "es": "El sistema funciona perfectamente ahora."
+        },
+        {
+          "en": "The chef <span class=\"r-verb\">prepares</span> the menu daily.",
+          "es": "El chef prepara el menú a diario."
+        },
+        {
+          "en": "Our guests <span class=\"r-verb\">value</span> good service.",
+          "es": "Nuestros huéspedes valoran el buen servicio."
+        },
+        {
+          "en": "The lift <span class=\"r-verb\">isn't working</span> today.",
+          "es": "El ascensor no funciona hoy."
+        },
+        {
+          "en": "Prices <span class=\"r-verb\">rose</span> last quarter.",
+          "es": "Los precios subieron el trimestre pasado."
+        },
+        {
+          "en": "The team <span class=\"r-verb\">meets</span> every Monday.",
+          "es": "El equipo se reúne cada lunes."
+        },
+        {
+          "en": "It <span class=\"r-verb\">gets</span> busy in August.",
+          "es": "Se llena de trabajo en agosto."
+        },
+        {
+          "en": "She <span class=\"r-verb\">doesn't handle</span> refunds. (3ª pers. negativa)",
+          "es": "Ella no gestiona los reembolsos."
+        },
+        {
+          "en": "There <span class=\"r-verb\">is</span> a problem with the booking.",
+          "es": "Hay un problema con la reserva."
+        },
+        {
+          "en": "The guests <span class=\"r-verb\">complained</span> politely.",
+          "es": "Los huéspedes se quejaron con educación."
+        },
+        {
+          "en": "My phone <span class=\"r-verb\">rang</span> during the meeting.",
+          "es": "Me sonó el teléfono durante la reunión."
+        },
+        {
+          "en": "The manager <span class=\"r-verb\">approved</span> the discount.",
+          "es": "El gerente aprobó el descuento."
+        },
+        {
+          "en": "Breakfast <span class=\"r-verb\">is served</span> until ten.",
+          "es": "El desayuno se sirve hasta las diez."
+        },
+        {
+          "en": "The staff <span class=\"r-verb\">work</span> in shifts.",
+          "es": "El personal trabaja por turnos."
+        },
+        {
+          "en": "It <span class=\"r-verb\">costs</span> more in high season.",
+          "es": "Cuesta más en temporada alta."
+        },
+        {
+          "en": "The report <span class=\"r-verb\">looks</span> good.",
+          "es": "El informe tiene buena pinta."
         }
       ],
       "tables": [],
@@ -99,6 +159,51 @@
           "options": [
             "It",
             "(sin sujeto)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s1q4",
+          "question": "4. ___ works at the desk. (falta el sujeto explícito)",
+          "options": [
+            "Works at the desk",
+            "She works at the desk"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s1q5",
+          "question": "5. It ___ a lot here in winter. (llover, 3ª persona)",
+          "options": [
+            "rain",
+            "rains"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s1q6",
+          "question": "6. There ___ two suites available. (haber, plural)",
+          "options": [
+            "is",
+            "are"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s1q7",
+          "question": "7. He ___ early meetings. (no le gustan, 3ª pers. neg.)",
+          "options": [
+            "doesn't like",
+            "don't like"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s1q8",
+          "question": "8. My colleagues ___ early. (llegar, pasado)",
+          "options": [
+            "arrived",
+            "arrives"
           ],
           "correctIndex": 0
         }
@@ -160,6 +265,66 @@
         {
           "en": "They signed <span class=\"r-cd\">the contract</span> yesterday.",
           "es": "Firmaron el contrato ayer."
+        },
+        {
+          "en": "She reviewed <span class=\"r-cd\">the contract</span> carefully.",
+          "es": "Revisó el contrato con atención."
+        },
+        {
+          "en": "We welcomed <span class=\"r-cd\">the delegation</span> at noon.",
+          "es": "Recibimos a la delegación al mediodía."
+        },
+        {
+          "en": "He forgot <span class=\"r-cd\">his passport</span> at reception.",
+          "es": "Olvidó su pasaporte en recepción."
+        },
+        {
+          "en": "They cancelled <span class=\"r-cd\">the event</span> last minute.",
+          "es": "Cancelaron el evento a última hora."
+        },
+        {
+          "en": "I confirmed <span class=\"r-cd\">the reservation</span>. → I confirmed <span class=\"r-cd\">it</span>.",
+          "es": "Confirmé la reserva. → La confirmé."
+        },
+        {
+          "en": "She prepared <span class=\"r-cd\">the welcome pack</span>.",
+          "es": "Preparó el pack de bienvenida."
+        },
+        {
+          "en": "We appreciate <span class=\"r-cd\">your feedback</span>.",
+          "es": "Agradecemos sus comentarios."
+        },
+        {
+          "en": "He locked <span class=\"r-cd\">the office</span> at night.",
+          "es": "Cerró la oficina por la noche."
+        },
+        {
+          "en": "They painted <span class=\"r-cd\">the lobby</span> last week.",
+          "es": "Pintaron el vestíbulo la semana pasada."
+        },
+        {
+          "en": "I'll email <span class=\"r-cd\">the quote</span> today.",
+          "es": "Enviaré el presupuesto hoy."
+        },
+        {
+          "en": "She solved <span class=\"r-cd\">the problem</span> quickly.",
+          "es": "Resolvió el problema rápido."
+        },
+        {
+          "en": "We upgraded <span class=\"r-cd\">their room</span> for free.",
+          "es": "Les mejoramos la habitación gratis."
+        },
+        {
+          "en": "He greeted <span class=\"r-cd\">every guest</span> by name.",
+          "es": "Saludó a cada huésped por su nombre."
+        },
+        {
+          "en": "They checked <span class=\"r-cd\">the invoice</span> twice.",
+          "es": "Revisaron la factura dos veces."
+        },
+        {
+          "en": "I booked <span class=\"r-cd\">a table</span> for four.",
+          "es": "Reservé una mesa para cuatro."
         }
       ],
       "tables": [],
@@ -185,6 +350,51 @@
         {
           "id": "b05-s2q3",
           "question": "3. He read <span class=\"blank\">___</span> twice before signing. (lo, sustituyendo \"the contract\")",
+          "options": [
+            "it",
+            "them"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s2q4",
+          "question": "4. She called ___ this morning. (CD: ¿a quién?)",
+          "options": [
+            "the client",
+            "quickly"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s2q5",
+          "question": "5. I booked the suite. → I booked ___. (pronombre CD)",
+          "options": [
+            "it",
+            "her"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s2q6",
+          "question": "6. ¿Cuál es el CD? 'We finished the report on time.'",
+          "options": [
+            "the report",
+            "on time"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s2q7",
+          "question": "7. He signed ___ yesterday. (CD)",
+          "options": [
+            "the contract",
+            "at the office"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s2q8",
+          "question": "8. We upgraded ___ for free. (pronombre CD de 'the room')",
           "options": [
             "it",
             "them"
@@ -249,6 +459,66 @@
         {
           "en": "The manager told <span class=\"r-ci\">the team</span> the good news.",
           "es": "El gerente le contó al equipo la buena noticia."
+        },
+        {
+          "en": "She handed <span class=\"r-ci\">the guest</span> the keys.",
+          "es": "Le entregó las llaves al huésped."
+        },
+        {
+          "en": "I'll send <span class=\"r-ci\">you</span> the confirmation. = I'll send the confirmation <span class=\"r-ci\">to you</span>.",
+          "es": "Le enviaré la confirmación."
+        },
+        {
+          "en": "He offered <span class=\"r-ci\">the couple</span> a late checkout.",
+          "es": "Les ofreció a la pareja una salida tardía."
+        },
+        {
+          "en": "We gave <span class=\"r-ci\">the staff</span> a bonus.",
+          "es": "Les dimos al personal una bonificación."
+        },
+        {
+          "en": "Could you bring <span class=\"r-ci\">us</span> some water?",
+          "es": "¿Nos traería agua?"
+        },
+        {
+          "en": "She read <span class=\"r-ci\">the children</span> a story.",
+          "es": "Les leyó un cuento a los niños."
+        },
+        {
+          "en": "The chef cooked <span class=\"r-ci\">them</span> a special meal. = cooked a special meal <span class=\"r-ci\">for them</span>.",
+          "es": "El chef les preparó una comida especial."
+        },
+        {
+          "en": "I owe <span class=\"r-ci\">you</span> an apology.",
+          "es": "Te debo una disculpa."
+        },
+        {
+          "en": "Please pass <span class=\"r-ci\">the guest</span> the menu.",
+          "es": "Por favor, pásale la carta al huésped."
+        },
+        {
+          "en": "They promised <span class=\"r-ci\">the client</span> a refund.",
+          "es": "Le prometieron al cliente un reembolso."
+        },
+        {
+          "en": "He lent <span class=\"r-ci\">me</span> his charger.",
+          "es": "Me prestó su cargador."
+        },
+        {
+          "en": "We wish <span class=\"r-ci\">you</span> a pleasant stay.",
+          "es": "Le deseamos una estancia agradable."
+        },
+        {
+          "en": "She taught <span class=\"r-ci\">the new hires</span> the system.",
+          "es": "Les enseñó el sistema a los nuevos empleados."
+        },
+        {
+          "en": "Can you show <span class=\"r-ci\">them</span> the way?",
+          "es": "¿Puedes indicarles el camino?"
+        },
+        {
+          "en": "I'll get <span class=\"r-ci\">you</span> a taxi.",
+          "es": "Te conseguiré un taxi."
         }
       ],
       "tables": [],
@@ -277,6 +547,51 @@
           "options": [
             "I gave my manager the report",
             "I gave the report my manager"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s3q4",
+          "question": "4. She sent ___ an email. (CI: ¿a quién?)",
+          "options": [
+            "the client",
+            "yesterday"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s3q5",
+          "question": "5. I gave a discount ___. (CI con preposición)",
+          "options": [
+            "to the client",
+            "the client to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s3q6",
+          "question": "6. He bought flowers ___. (CI con 'for')",
+          "options": [
+            "for his wife",
+            "his wife for"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s3q7",
+          "question": "7. Send ___ the details. (CI pronombre, sin preposición)",
+          "options": [
+            "me",
+            "to me the"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s3q8",
+          "question": "8. We offered ___ a free upgrade. (CI)",
+          "options": [
+            "the guests",
+            "for the guests to"
           ],
           "correctIndex": 0
         }
@@ -338,6 +653,66 @@
         {
           "en": "The gala takes place <span class=\"r-cc\">on the terrace</span> <span class=\"r-cc\">every summer</span>.",
           "es": "La gala se celebra en la terraza cada verano."
+        },
+        {
+          "en": "The gala starts <span class=\"r-cc\">at nine</span> <span class=\"r-cc\">on the terrace</span>.",
+          "es": "La gala empieza a las nueve en la terraza."
+        },
+        {
+          "en": "She replied <span class=\"r-cc\">immediately</span>.",
+          "es": "Respondió de inmediato."
+        },
+        {
+          "en": "We closed early <span class=\"r-cc\">because of the storm</span>.",
+          "es": "Cerramos antes por la tormenta."
+        },
+        {
+          "en": "He works <span class=\"r-cc\">from home</span> <span class=\"r-cc\">on Fridays</span>.",
+          "es": "Trabaja desde casa los viernes."
+        },
+        {
+          "en": "They celebrated <span class=\"r-cc\">quietly</span> <span class=\"r-cc\">in the lounge</span>.",
+          "es": "Lo celebraron con discreción en el salón."
+        },
+        {
+          "en": "The shuttle leaves <span class=\"r-cc\">every hour</span>.",
+          "es": "El autobús sale cada hora."
+        },
+        {
+          "en": "She spoke <span class=\"r-cc\">confidently</span> <span class=\"r-cc\">at the meeting</span>.",
+          "es": "Habló con seguridad en la reunión."
+        },
+        {
+          "en": "We'll review it <span class=\"r-cc\">tomorrow</span> <span class=\"r-cc\">in the office</span>.",
+          "es": "Lo revisaremos mañana en la oficina."
+        },
+        {
+          "en": "He left <span class=\"r-cc\">without a word</span>.",
+          "es": "Se fue sin decir una palabra."
+        },
+        {
+          "en": "Guests arrive <span class=\"r-cc\">throughout the day</span>.",
+          "es": "Los huéspedes llegan a lo largo del día."
+        },
+        {
+          "en": "The pool is cleaned <span class=\"r-cc\">every morning</span>.",
+          "es": "La piscina se limpia cada mañana."
+        },
+        {
+          "en": "She smiled <span class=\"r-cc\">warmly</span> <span class=\"r-cc\">at the door</span>.",
+          "es": "Sonrió con calidez en la puerta."
+        },
+        {
+          "en": "They negotiated <span class=\"r-cc\">for hours</span>.",
+          "es": "Negociaron durante horas."
+        },
+        {
+          "en": "We met <span class=\"r-cc\">by chance</span> <span class=\"r-cc\">at the airport</span>.",
+          "es": "Nos encontramos por casualidad en el aeropuerto."
+        },
+        {
+          "en": "He handled the crisis <span class=\"r-cc\">with total calm</span>.",
+          "es": "Gestionó la crisis con total calma."
         }
       ],
       "tables": [],
@@ -366,6 +741,51 @@
           "options": [
             "by Friday",
             "the report"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s4q4",
+          "question": "4. ¿Qué parte es CC (prescindible)? 'She called the client this morning.'",
+          "options": [
+            "the client",
+            "this morning"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s4q5",
+          "question": "5. Orden natural (modo-lugar-tiempo):",
+          "options": [
+            "She works carefully at the desk every day",
+            "She works every day at the desk carefully"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s4q6",
+          "question": "6. They arrived late ___. (CC de causa)",
+          "options": [
+            "because of the traffic",
+            "the traffic"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s4q7",
+          "question": "7. He handled it ___. (CC de modo)",
+          "options": [
+            "very professionally",
+            "the complaint"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s4q8",
+          "question": "8. The gala takes place ___. (CC de lugar)",
+          "options": [
+            "on the terrace",
+            "the guests"
           ],
           "correctIndex": 0
         }
@@ -427,6 +847,66 @@
         {
           "en": "We consider <span class=\"r-cd\">this deal</span> <span class=\"r-pred\">a success</span>.",
           "es": "Consideramos este trato un éxito."
+        },
+        {
+          "en": "The lobby <span class=\"r-pred\">looks</span> <span class=\"r-pred\">elegant</span>.",
+          "es": "El vestíbulo se ve elegante."
+        },
+        {
+          "en": "She <span class=\"r-pred\">became</span> <span class=\"r-pred\">manager</span> after two years.",
+          "es": "Llegó a ser gerente tras dos años."
+        },
+        {
+          "en": "The guests seemed <span class=\"r-pred\">delighted</span>.",
+          "es": "Los huéspedes parecían encantados."
+        },
+        {
+          "en": "We consider <span class=\"r-cd\">the season</span> <span class=\"r-pred\">a success</span>.",
+          "es": "Consideramos la temporada un éxito."
+        },
+        {
+          "en": "The soup tastes <span class=\"r-pred\">delicious</span>.",
+          "es": "La sopa sabe deliciosa."
+        },
+        {
+          "en": "He remained <span class=\"r-pred\">calm</span> under pressure.",
+          "es": "Permaneció tranquilo bajo presión."
+        },
+        {
+          "en": "They named <span class=\"r-cd\">her</span> <span class=\"r-pred\">employee of the year</span>.",
+          "es": "La nombraron empleada del año."
+        },
+        {
+          "en": "The room felt <span class=\"r-pred\">cozy</span>.",
+          "es": "La habitación resultaba acogedora."
+        },
+        {
+          "en": "The plan sounds <span class=\"r-pred\">reasonable</span>.",
+          "es": "El plan suena razonable."
+        },
+        {
+          "en": "This deal proved <span class=\"r-pred\">profitable</span>.",
+          "es": "Este trato resultó rentable."
+        },
+        {
+          "en": "The staff appeared <span class=\"r-pred\">confident</span>.",
+          "es": "El personal parecía seguro."
+        },
+        {
+          "en": "We found <span class=\"r-cd\">the service</span> <span class=\"r-pred\">outstanding</span>.",
+          "es": "Encontramos el servicio excepcional."
+        },
+        {
+          "en": "The weather turned <span class=\"r-pred\">cold</span> overnight.",
+          "es": "El tiempo se volvió frío de la noche a la mañana."
+        },
+        {
+          "en": "He grew <span class=\"r-pred\">tired</span> of the delays.",
+          "es": "Se cansó de los retrasos."
+        },
+        {
+          "en": "The offer looks <span class=\"r-pred\">too good</span> to refuse.",
+          "es": "La oferta parece demasiado buena para rechazarla."
         }
       ],
       "tables": [],
@@ -457,6 +937,51 @@
             "perfectly"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b05-s5q4",
+          "question": "4. She seems ___ today. (predicativo del sujeto)",
+          "options": [
+            "tired",
+            "the desk"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s5q5",
+          "question": "5. They elected him ___. (predicativo del CD)",
+          "options": [
+            "president",
+            "quickly"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s5q6",
+          "question": "6. The soup ___ delicious. (verbo copulativo)",
+          "options": [
+            "tastes",
+            "eats"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s5q7",
+          "question": "7. She ___ the top seller. (verbo copulativo de cambio)",
+          "options": [
+            "became",
+            "sold"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s5q8",
+          "question": "8. We consider this deal ___. (predicativo del CD)",
+          "options": [
+            "excellent",
+            "at the office"
+          ],
+          "correctIndex": 0
         }
       ],
       "produce": {
@@ -468,6 +993,831 @@
         {
           "type": "exception",
           "text": "Tras verbos copulativos (be, seem, look, feel) va <b>adjetivo</b>, no adverbio: 'It looks <b>good</b>', no 'looks well' (well = de salud)."
+        }
+      ]
+    },
+    {
+      "idx": "5.6",
+      "title": "Formación de preguntas (orden de palabras)",
+      "level": "A2",
+      "rule": "El inglés invierte el orden para preguntar. Sí/No: <b>auxiliar + sujeto + verbo</b> (Do you have…? Are you…? Have they…?). Preguntas de información: <b>wh-word + auxiliar + sujeto + verbo</b> (Where do you work?). Con el verbo <b>be</b> no hace falta 'do' (Where are you?). Excepción importante: cuando el <b>wh- es el sujeto</b>, no hay inversión ni 'do' (Who called? / What happened?). Nunca uses el orden del español ('¿Dónde tú trabajas?').",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">Do</b> you have a reservation?",
+          "es": "¿Tiene una reserva?"
+        },
+        {
+          "en": "<b class=\"hl\">Where</b> do you work?",
+          "es": "¿Dónde trabajas?"
+        },
+        {
+          "en": "<b class=\"hl\">Are</b> you ready to check out?",
+          "es": "¿Está listo para el check-out?"
+        },
+        {
+          "en": "<b class=\"hl\">What time</b> does breakfast start?",
+          "es": "¿A qué hora empieza el desayuno?"
+        },
+        {
+          "en": "<b class=\"hl\">Have</b> you stayed with us before?",
+          "es": "¿Se ha alojado con nosotros antes?"
+        },
+        {
+          "en": "<b class=\"hl\">Who</b> booked this table? (wh- sujeto: sin 'did')",
+          "es": "¿Quién reservó esta mesa?"
+        },
+        {
+          "en": "<b class=\"hl\">How many</b> nights are you staying?",
+          "es": "¿Cuántas noches se queda?"
+        },
+        {
+          "en": "<b class=\"hl\">Did</b> you enjoy your stay?",
+          "es": "¿Disfrutó su estancia?"
+        },
+        {
+          "en": "<b class=\"hl\">Can</b> I help you with anything?",
+          "es": "¿Le puedo ayudar en algo?"
+        },
+        {
+          "en": "<b class=\"hl\">Why</b> was the payment declined?",
+          "es": "¿Por qué se rechazó el pago?"
+        },
+        {
+          "en": "<b class=\"hl\">Where</b> is the nearest pharmacy?",
+          "es": "¿Dónde está la farmacia más cercana?"
+        },
+        {
+          "en": "<b class=\"hl\">What</b> happened to the booking? (wh- sujeto)",
+          "es": "¿Qué pasó con la reserva?"
+        },
+        {
+          "en": "<b class=\"hl\">Would</b> you like a wake-up call?",
+          "es": "¿Desea una llamada despertador?"
+        },
+        {
+          "en": "<b class=\"hl\">How</b> did you hear about us?",
+          "es": "¿Cómo se enteró de nosotros?"
+        },
+        {
+          "en": "<b class=\"hl\">Is</b> there anything else you need?",
+          "es": "¿Necesita algo más?"
+        },
+        {
+          "en": "<b class=\"hl\">Which</b> room did you prefer?",
+          "es": "¿Qué habitación prefirió?"
+        },
+        {
+          "en": "<b class=\"hl\">Does</b> the price include breakfast?",
+          "es": "¿El precio incluye el desayuno?"
+        },
+        {
+          "en": "<b class=\"hl\">When</b> will the manager be back?",
+          "es": "¿Cuándo volverá el gerente?"
+        },
+        {
+          "en": "<b class=\"hl\">Who</b> is dealing with this complaint? (wh- sujeto)",
+          "es": "¿Quién se ocupa de esta queja?"
+        },
+        {
+          "en": "<b class=\"hl\">Are</b> the rooms ready yet?",
+          "es": "¿Ya están listas las habitaciones?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s6q1",
+          "question": "1. ___ you have a booking? (sí/no, presente)",
+          "options": [
+            "Do",
+            "Are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s6q2",
+          "question": "2. Where ___ you work? (información)",
+          "options": [
+            "do",
+            "are"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s6q3",
+          "question": "3. ___ called? (wh- sujeto: sin auxiliar)",
+          "options": [
+            "Who did",
+            "Who"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s6q4",
+          "question": "4. ¿Cuál es correcta?",
+          "options": [
+            "Where you are from?",
+            "Where are you from?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s6q5",
+          "question": "5. ___ you enjoy the tour? (sí/no, pasado)",
+          "options": [
+            "Did",
+            "Do"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s6q6",
+          "question": "6. ¿Cuál es correcta? (con 'be')",
+          "options": [
+            "Are you ready?",
+            "Do you be ready?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s6q7",
+          "question": "7. What ___ to the reservation? (wh- sujeto)",
+          "options": [
+            "did happen",
+            "happened"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b05-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una pregunta de sí/no y una de información (wh-) que le harías a un huésped.",
+        "placeholder": "Ej: Do you have a reservation? What time would you like breakfast?"
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cuando el pronombre interrogativo es el <b>sujeto</b> (who, what, which), NO se usa 'do/did' ni hay inversión: 'Who <b>called</b>?' (no 'Who did call?'), 'What <b>happened</b>?'."
+        }
+      ]
+    },
+    {
+      "idx": "5.7",
+      "title": "Oraciones negativas",
+      "level": "A1",
+      "rule": "Para negar se añade <b>not</b> al auxiliar. Sin auxiliar propio, se usa <b>do/does/did + not</b> + verbo base (I <b>don't</b> know, She <b>doesn't</b> work, They <b>didn't</b> call). Con <b>be</b> y con modales, 'not' va directo (I'm <b>not</b> ready, You <b>can't</b> park here). En 3ª persona la -s va al auxiliar, no al verbo (doesn't <b>work</b>, no 'doesn't works'). Doble negación NO se usa: 'I don't know <b>anything</b>' (no 'I don't know nothing').",
+      "examples": [
+        {
+          "en": "I <b class=\"hl\">don't</b> have your reservation here.",
+          "es": "No tengo su reserva aquí."
+        },
+        {
+          "en": "She <b class=\"hl\">doesn't</b> work on Sundays.",
+          "es": "Ella no trabaja los domingos."
+        },
+        {
+          "en": "We <b class=\"hl\">didn't</b> receive your email.",
+          "es": "No recibimos su correo."
+        },
+        {
+          "en": "The room <b class=\"hl\">isn't</b> ready yet.",
+          "es": "La habitación aún no está lista."
+        },
+        {
+          "en": "You <b class=\"hl\">can't</b> check in before three.",
+          "es": "No puede registrarse antes de las tres."
+        },
+        {
+          "en": "I <b class=\"hl\">haven't</b> seen the manager today.",
+          "es": "No he visto al gerente hoy."
+        },
+        {
+          "en": "They <b class=\"hl\">won't</b> charge you for the change.",
+          "es": "No le cobrarán por el cambio."
+        },
+        {
+          "en": "He <b class=\"hl\">doesn't</b> like early flights.",
+          "es": "No le gustan los vuelos temprano."
+        },
+        {
+          "en": "We <b class=\"hl\">don't</b> offer refunds on this rate.",
+          "es": "No ofrecemos reembolsos en esta tarifa."
+        },
+        {
+          "en": "There <b class=\"hl\">isn't</b> any hot water.",
+          "es": "No hay agua caliente."
+        },
+        {
+          "en": "I <b class=\"hl\">didn't</b> know about the change. (verbo base tras didn't)",
+          "es": "No sabía lo del cambio."
+        },
+        {
+          "en": "She <b class=\"hl\">wasn't</b> at the desk this morning.",
+          "es": "No estaba en el mostrador esta mañana."
+        },
+        {
+          "en": "The wifi <b class=\"hl\">doesn't</b> reach the basement.",
+          "es": "El wifi no llega al sótano."
+        },
+        {
+          "en": "We <b class=\"hl\">haven't</b> confirmed the booking yet.",
+          "es": "Aún no hemos confirmado la reserva."
+        },
+        {
+          "en": "You <b class=\"hl\">shouldn't</b> leave valuables in the room.",
+          "es": "No debería dejar objetos de valor en la habitación."
+        },
+        {
+          "en": "It <b class=\"hl\">doesn't</b> include parking.",
+          "es": "No incluye aparcamiento."
+        },
+        {
+          "en": "They <b class=\"hl\">aren't</b> staying for dinner.",
+          "es": "No se quedan a cenar."
+        },
+        {
+          "en": "I <b class=\"hl\">can't</b> find your details in the system.",
+          "es": "No encuentro sus datos en el sistema."
+        },
+        {
+          "en": "We <b class=\"hl\">don't</b> know anything about that charge.",
+          "es": "No sabemos nada de ese cargo."
+        },
+        {
+          "en": "He <b class=\"hl\">hasn't</b> replied to my message.",
+          "es": "No ha respondido a mi mensaje."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s7q1",
+          "question": "1. She ___ work on Sundays. (3ª pers. negativa)",
+          "options": [
+            "don't",
+            "doesn't"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s7q2",
+          "question": "2. We ___ receive your email. (pasado negativo)",
+          "options": [
+            "didn't",
+            "don't"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s7q3",
+          "question": "3. He doesn't ___ early flights. (verbo base tras doesn't)",
+          "options": [
+            "likes",
+            "like"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s7q4",
+          "question": "4. The room ___ ready. (negativa con 'be')",
+          "options": [
+            "isn't",
+            "doesn't"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s7q5",
+          "question": "5. I don't know ___. (sin doble negación)",
+          "options": [
+            "nothing",
+            "anything"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s7q6",
+          "question": "6. You ___ park here. (prohibición, modal)",
+          "options": [
+            "can't",
+            "don't can"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s7q7",
+          "question": "7. I ___ seen the manager today. (presente perfecto neg.)",
+          "options": [
+            "didn't",
+            "haven't"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b05-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres negativas: una en presente, una en pasado y una con 'be' o un modal.",
+        "placeholder": "Ej: We don't offer refunds. She didn't call. It isn't ready."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras do/does/did + not, el verbo va en <b>base</b> (didn't <b>know</b>, no 'didn't knew'). Y en inglés NO hay doble negación: 'I don't want <b>anything</b>', nunca 'I don't want nothing'."
+        }
+      ]
+    },
+    {
+      "idx": "5.8",
+      "title": "Question tags (isn't it?, do you?)",
+      "level": "B1",
+      "rule": "Son coletillas breves al final de una afirmación para pedir confirmación ('¿verdad?', '¿no?'). Regla: si la frase es <b>afirmativa</b>, la coletilla es <b>negativa</b>, y viceversa. Se repite el <b>auxiliar</b> (o be) y el <b>pronombre</b> sujeto: 'You're new here, <b>aren't you</b>?', 'She didn't call, <b>did she</b>?'. Si no hay auxiliar, se usa do/does/did: 'You know him, <b>don't you</b>?'. La entonación baja pide confirmación; la que sube, es una pregunta real.",
+      "examples": [
+        {
+          "en": "You have a reservation, <b class=\"hl\">don't you</b>?",
+          "es": "Tiene una reserva, ¿verdad?"
+        },
+        {
+          "en": "The room is ready, <b class=\"hl\">isn't it</b>?",
+          "es": "La habitación está lista, ¿no?"
+        },
+        {
+          "en": "She didn't confirm, <b class=\"hl\">did she</b>?",
+          "es": "No confirmó, ¿verdad?"
+        },
+        {
+          "en": "They're staying two nights, <b class=\"hl\">aren't they</b>?",
+          "es": "Se quedan dos noches, ¿no?"
+        },
+        {
+          "en": "You can speak French, <b class=\"hl\">can't you</b>?",
+          "es": "Sabes hablar francés, ¿verdad?"
+        },
+        {
+          "en": "He hasn't paid yet, <b class=\"hl\">has he</b>?",
+          "es": "Todavía no ha pagado, ¿no?"
+        },
+        {
+          "en": "We'll see you tomorrow, <b class=\"hl\">won't we</b>?",
+          "es": "Nos vemos mañana, ¿verdad?"
+        },
+        {
+          "en": "It doesn't include breakfast, <b class=\"hl\">does it</b>?",
+          "es": "No incluye desayuno, ¿verdad?"
+        },
+        {
+          "en": "You've been here before, <b class=\"hl\">haven't you</b>?",
+          "es": "Ya ha estado aquí antes, ¿no?"
+        },
+        {
+          "en": "The tour was great, <b class=\"hl\">wasn't it</b>?",
+          "es": "El tour estuvo genial, ¿verdad?"
+        },
+        {
+          "en": "She works in sales, <b class=\"hl\">doesn't she</b>?",
+          "es": "Ella trabaja en ventas, ¿no?"
+        },
+        {
+          "en": "You didn't forget the keys, <b class=\"hl\">did you</b>?",
+          "es": "No olvidaste las llaves, ¿verdad?"
+        },
+        {
+          "en": "Let's have a coffee, <b class=\"hl\">shall we</b>? (excepción con Let's)",
+          "es": "Tomemos un café, ¿te parece?"
+        },
+        {
+          "en": "There's a problem, <b class=\"hl\">isn't there</b>?",
+          "es": "Hay un problema, ¿verdad?"
+        },
+        {
+          "en": "You couldn't help me, <b class=\"hl\">could you</b>?",
+          "es": "¿No podrías ayudarme?"
+        },
+        {
+          "en": "He's the manager, <b class=\"hl\">isn't he</b>?",
+          "es": "Él es el gerente, ¿no?"
+        },
+        {
+          "en": "They won't cancel, <b class=\"hl\">will they</b>?",
+          "es": "No cancelarán, ¿verdad?"
+        },
+        {
+          "en": "We should confirm now, <b class=\"hl\">shouldn't we</b>?",
+          "es": "Deberíamos confirmar ahora, ¿no?"
+        },
+        {
+          "en": "You like the suite, <b class=\"hl\">don't you</b>?",
+          "es": "Te gusta la suite, ¿verdad?"
+        },
+        {
+          "en": "It wasn't expensive, <b class=\"hl\">was it</b>?",
+          "es": "No fue caro, ¿verdad?"
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s8q1",
+          "question": "1. You have a booking, ___? (afirmativa → coletilla negativa)",
+          "options": [
+            "don't you",
+            "do you"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s8q2",
+          "question": "2. The room is ready, ___? (con 'be')",
+          "options": [
+            "is it",
+            "isn't it"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s8q3",
+          "question": "3. She didn't call, ___? (negativa → coletilla afirmativa)",
+          "options": [
+            "didn't she",
+            "did she"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s8q4",
+          "question": "4. You can drive, ___? (modal)",
+          "options": [
+            "can't you",
+            "don't you"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s8q5",
+          "question": "5. He hasn't paid, ___? (perfecto negativo)",
+          "options": [
+            "hasn't he",
+            "has he"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s8q6",
+          "question": "6. Let's start, ___? (excepción)",
+          "options": [
+            "shall we",
+            "don't we"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s8q7",
+          "question": "7. They're staying, ___? (afirmativa con 'be')",
+          "options": [
+            "aren't they",
+            "are they"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases con question tags: una a partir de una afirmación y otra a partir de una negación.",
+        "placeholder": "Ej: You're enjoying your stay, aren't you? It wasn't a problem, was it?"
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Afirmativa → coletilla negativa, y al revés. Excepciones: 'I am… , <b>aren't I</b>?' y 'Let's… , <b>shall we</b>?'. Con 'there is', la coletilla repite 'there' (there isn't, is there?)."
+        }
+      ]
+    },
+    {
+      "idx": "5.9",
+      "title": "Imperativo y sugerencias (Let's, Why don't we)",
+      "level": "A2",
+      "rule": "El <b>imperativo</b> da órdenes, instrucciones o invitaciones usando el verbo en <b>base</b>, sin sujeto (Sign here. Please wait.). En negativa: <b>Don't</b> + verbo (Don't worry). Para <b>sugerencias</b> y propuestas conjuntas: <b>Let's</b> + verbo (Let's start), <b>Why don't we/you…?</b>, <b>How about</b> + -ing?, <b>Shall we…?</b>, <b>Let me</b> + verbo (para ofrecerte a hacer algo). Añadir <b>please</b> suaviza el imperativo, clave en atención al cliente.",
+      "examples": [
+        {
+          "en": "<b class=\"hl\">Please sign</b> here to confirm.",
+          "es": "Por favor, firme aquí para confirmar."
+        },
+        {
+          "en": "<b class=\"hl\">Don't worry</b>, we'll sort it out.",
+          "es": "No se preocupe, lo resolveremos."
+        },
+        {
+          "en": "<b class=\"hl\">Let's</b> review the booking together.",
+          "es": "Revisemos la reserva juntos."
+        },
+        {
+          "en": "<b class=\"hl\">Why don't we</b> offer a late checkout?",
+          "es": "¿Por qué no ofrecemos una salida tardía?"
+        },
+        {
+          "en": "<b class=\"hl\">How about</b> upgrading to a suite?",
+          "es": "¿Qué tal si sube a una suite?"
+        },
+        {
+          "en": "<b class=\"hl\">Let me</b> check that for you.",
+          "es": "Permítame comprobarlo."
+        },
+        {
+          "en": "<b class=\"hl\">Take</b> the lift to the third floor.",
+          "es": "Tome el ascensor hasta la tercera planta."
+        },
+        {
+          "en": "<b class=\"hl\">Shall we</b> start the tour now?",
+          "es": "¿Empezamos el tour ahora?"
+        },
+        {
+          "en": "<b class=\"hl\">Don't hesitate</b> to call reception.",
+          "es": "No dude en llamar a recepción."
+        },
+        {
+          "en": "<b class=\"hl\">Let's</b> meet in the lobby at nine.",
+          "es": "Quedemos en el vestíbulo a las nueve."
+        },
+        {
+          "en": "<b class=\"hl\">Enjoy</b> your stay with us.",
+          "es": "Disfrute de su estancia con nosotros."
+        },
+        {
+          "en": "<b class=\"hl\">Why don't you</b> try the rooftop bar?",
+          "es": "¿Por qué no prueba el bar de la azotea?"
+        },
+        {
+          "en": "<b class=\"hl\">Please hold</b> while I transfer you.",
+          "es": "Por favor, espere mientras le paso la llamada."
+        },
+        {
+          "en": "<b class=\"hl\">Let me</b> carry that for you.",
+          "es": "Deje que se lo lleve yo."
+        },
+        {
+          "en": "<b class=\"hl\">How about</b> a table by the window?",
+          "es": "¿Qué le parece una mesa junto a la ventana?"
+        },
+        {
+          "en": "<b class=\"hl\">Don't forget</b> your key card.",
+          "es": "No olvide su tarjeta llave."
+        },
+        {
+          "en": "<b class=\"hl\">Let's</b> not rush the decision.",
+          "es": "No precipitemos la decisión."
+        },
+        {
+          "en": "<b class=\"hl\">Follow</b> me, please.",
+          "es": "Sígame, por favor."
+        },
+        {
+          "en": "<b class=\"hl\">Shall we</b> book the spa for you?",
+          "es": "¿Le reservamos el spa?"
+        },
+        {
+          "en": "<b class=\"hl\">Help yourself</b> to the welcome drinks.",
+          "es": "Sírvase de las bebidas de bienvenida."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s9q1",
+          "question": "1. ___ here to confirm. (imperativo cortés)",
+          "options": [
+            "You sign",
+            "Please sign"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s9q2",
+          "question": "2. ___ worry, it's fine. (imperativo negativo)",
+          "options": [
+            "Don't",
+            "Not"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s9q3",
+          "question": "3. ___ review it together. (propuesta conjunta)",
+          "options": [
+            "Let's",
+            "Let us to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s9q4",
+          "question": "4. ___ check that for you. (ofrecerse)",
+          "options": [
+            "Let me",
+            "Let me to"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s9q5",
+          "question": "5. How about ___ to a suite? (how about + -ing)",
+          "options": [
+            "upgrade",
+            "upgrading"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s9q6",
+          "question": "6. Why don't we ___ a discount? (why don't + base)",
+          "options": [
+            "offering",
+            "offer"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s9q7",
+          "question": "7. ___ we start now? (sugerencia formal)",
+          "options": [
+            "Shall",
+            "Do"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe un imperativo cortés (con please) y una sugerencia con <b>Let's</b> o <b>Why don't we</b>.",
+        "placeholder": "Ej: Please wait a moment. Why don't we upgrade your room?"
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Tras 'Why don't we/you' y 'Let's' va el verbo en <b>base</b> (Let's <b>go</b>); tras 'How about' va <b>-ing</b> (How about <b>going</b>?). 'Let me' se usa para ofrecerte tú a hacer algo."
+        }
+      ]
+    },
+    {
+      "idx": "5.10",
+      "title": "Orden con phrasal verbs separables (turn it off)",
+      "level": "B1",
+      "rule": "Muchos phrasal verbs son <b>separables</b>: el objeto puede ir entre el verbo y la partícula, o después (turn <b>off</b> the light = turn the light <b>off</b>). Pero si el objeto es un <b>pronombre</b>, va OBLIGATORIAMENTE en medio (turn <b>it</b> off, nunca 'turn off it'). Otros son <b>inseparables</b>: el objeto siempre va después (look after <b>the baby</b>, no 'look the baby after'). Es un error clásico colocar el pronombre al final con los separables.",
+      "examples": [
+        {
+          "en": "Please <b class=\"hl\">turn off</b> the lights when you leave.",
+          "es": "Por favor, apaga las luces al salir."
+        },
+        {
+          "en": "Please <b class=\"hl\">turn</b> them <b class=\"hl\">off</b>. (pronombre en medio)",
+          "es": "Por favor, apágalas."
+        },
+        {
+          "en": "Could you <b class=\"hl\">fill in</b> this form?",
+          "es": "¿Podría rellenar este formulario?"
+        },
+        {
+          "en": "Could you <b class=\"hl\">fill</b> it <b class=\"hl\">in</b>, please?",
+          "es": "¿Podría rellenarlo, por favor?"
+        },
+        {
+          "en": "We'll <b class=\"hl\">sort out</b> the problem right away.",
+          "es": "Resolveremos el problema enseguida."
+        },
+        {
+          "en": "We'll <b class=\"hl\">sort</b> it <b class=\"hl\">out</b> right away.",
+          "es": "Lo resolveremos enseguida."
+        },
+        {
+          "en": "The porter will <b class=\"hl\">bring up</b> your luggage.",
+          "es": "El mozo subirá su equipaje."
+        },
+        {
+          "en": "The porter will <b class=\"hl\">bring</b> it <b class=\"hl\">up</b>.",
+          "es": "El mozo lo subirá."
+        },
+        {
+          "en": "Please <b class=\"hl\">look after</b> your belongings. (inseparable)",
+          "es": "Por favor, cuide sus pertenencias."
+        },
+        {
+          "en": "I'll <b class=\"hl\">look into</b> the matter. (inseparable)",
+          "es": "Investigaré el asunto."
+        },
+        {
+          "en": "Can you <b class=\"hl\">write down</b> the address?",
+          "es": "¿Puedes apuntar la dirección?"
+        },
+        {
+          "en": "Can you <b class=\"hl\">write</b> it <b class=\"hl\">down</b>?",
+          "es": "¿Puedes apuntarla?"
+        },
+        {
+          "en": "We had to <b class=\"hl\">call off</b> the event.",
+          "es": "Tuvimos que cancelar el evento."
+        },
+        {
+          "en": "We had to <b class=\"hl\">call</b> it <b class=\"hl\">off</b>.",
+          "es": "Tuvimos que cancelarlo."
+        },
+        {
+          "en": "Reception will <b class=\"hl\">check</b> you <b class=\"hl\">in</b> quickly.",
+          "es": "Recepción le registrará rápido."
+        },
+        {
+          "en": "Don't forget to <b class=\"hl\">hand in</b> your key card.",
+          "es": "No olvide entregar su tarjeta llave."
+        },
+        {
+          "en": "Please <b class=\"hl\">hand</b> it <b class=\"hl\">in</b> at the desk.",
+          "es": "Entréguela en el mostrador."
+        },
+        {
+          "en": "She'll <b class=\"hl\">deal with</b> the complaint. (inseparable)",
+          "es": "Ella se encargará de la queja."
+        },
+        {
+          "en": "Could you <b class=\"hl\">put</b> me <b class=\"hl\">through</b> to housekeeping?",
+          "es": "¿Podría pasarme con el servicio de limpieza?"
+        },
+        {
+          "en": "We'll <b class=\"hl\">set up</b> the meeting room for you.",
+          "es": "Le prepararemos la sala de reuniones."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b05-s10q1",
+          "question": "1. ¿Cuál es correcta con pronombre? (apagarla)",
+          "options": [
+            "Turn off it",
+            "Turn it off"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s10q2",
+          "question": "2. Con sustantivo, ambas valen. ¿Cuál NO es válida?",
+          "options": [
+            "Fill in the form",
+            "Fill the form in — ambas valen"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s10q3",
+          "question": "3. We'll sort ___ out. (pronombre en medio)",
+          "options": [
+            "it",
+            "off it"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s10q4",
+          "question": "4. Please look after ___. (inseparable)",
+          "options": [
+            "your bags",
+            "your bags after"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s10q5",
+          "question": "5. Can you write ___ down? (pronombre en medio)",
+          "options": [
+            "down it",
+            "it"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b05-s10q6",
+          "question": "6. I'll look ___ the matter. (inseparable: investigar)",
+          "options": [
+            "into",
+            "the matter into"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b05-s10q7",
+          "question": "7. We had to call ___ off. (cancelarlo, pronombre)",
+          "options": [
+            "it",
+            "off it"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b05-s10",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con un phrasal separable y su versión con pronombre en medio (turn it off, fill it in...).",
+        "placeholder": "Ej: Please fill in the form. → Please fill it in."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Con phrasal verbs <b>separables</b>, el pronombre va SIEMPRE en medio: 'turn <b>it</b> off', nunca 'turn off it'. Los <b>inseparables</b> (look after, deal with, look into) no admiten separación: 'look after <b>it</b>'."
         }
       ]
     }

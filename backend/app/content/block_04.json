@@ -59,6 +59,66 @@
         {
           "en": "A <span class=\"r-adj\">stunning</span> <span class=\"r-adj\">round</span> <span class=\"r-adj\">white</span> marble table.",
           "es": "Una impresionante mesa redonda de mármol blanco."
+        },
+        {
+          "en": "We have a <span class=\"r-adj\">gorgeous</span> <span class=\"r-adj\">large</span> <span class=\"r-adj\">rooftop</span> pool.",
+          "es": "Tenemos una preciosa y amplia piscina en la azotea."
+        },
+        {
+          "en": "He drives a <span class=\"r-adj\">sleek</span> <span class=\"r-adj\">new</span> <span class=\"r-adj\">German</span> car.",
+          "es": "Conduce un elegante coche alemán nuevo."
+        },
+        {
+          "en": "It's a <span class=\"r-adj\">cosy</span> <span class=\"r-adj\">little</span> <span class=\"r-adj\">wooden</span> cabin.",
+          "es": "Es una acogedora cabañita de madera."
+        },
+        {
+          "en": "She wore an <span class=\"r-adj\">elegant</span> <span class=\"r-adj\">long</span> <span class=\"r-adj\">silk</span> dress.",
+          "es": "Llevaba un elegante y largo vestido de seda."
+        },
+        {
+          "en": "They serve a <span class=\"r-adj\">delicious</span> <span class=\"r-adj\">hot</span> <span class=\"r-adj\">Spanish</span> soup.",
+          "es": "Sirven una deliciosa sopa española caliente."
+        },
+        {
+          "en": "We offer <span class=\"r-adj\">spacious</span> <span class=\"r-adj\">modern</span> <span class=\"r-adj\">family</span> rooms.",
+          "es": "Ofrecemos amplias habitaciones familiares modernas."
+        },
+        {
+          "en": "It's a <span class=\"r-adj\">bright</span> <span class=\"r-adj\">square</span> <span class=\"r-adj\">glass</span> lobby.",
+          "es": "Es un vestíbulo luminoso, cuadrado y de cristal."
+        },
+        {
+          "en": "He bought a <span class=\"r-adj\">rare</span> <span class=\"r-adj\">antique</span> <span class=\"r-adj\">French</span> clock.",
+          "es": "Compró un raro reloj antiguo francés."
+        },
+        {
+          "en": "The suite has a <span class=\"r-adj\">huge</span> <span class=\"r-adj\">comfortable</span> <span class=\"r-adj\">leather</span> sofa.",
+          "es": "La suite tiene un enorme y cómodo sofá de cuero."
+        },
+        {
+          "en": "We recommend the <span class=\"r-adj\">lovely</span> <span class=\"r-adj\">quiet</span> <span class=\"r-adj\">garden</span> rooms.",
+          "es": "Recomendamos las encantadoras y tranquilas habitaciones con jardín."
+        },
+        {
+          "en": "It's a <span class=\"r-adj\">popular</span> <span class=\"r-adj\">small</span> <span class=\"r-adj\">coastal</span> town.",
+          "es": "Es un popular pueblecito costero."
+        },
+        {
+          "en": "She has a <span class=\"r-adj\">warm</span> <span class=\"r-adj\">friendly</span> <span class=\"r-adj\">professional</span> manner.",
+          "es": "Tiene un trato cálido, amable y profesional."
+        },
+        {
+          "en": "They stayed in a <span class=\"r-adj\">stunning</span> <span class=\"r-adj\">brand-new</span> <span class=\"r-adj\">beachfront</span> villa.",
+          "es": "Se alojaron en una impresionante villa nueva frente al mar."
+        },
+        {
+          "en": "We serve <span class=\"r-adj\">fresh</span> <span class=\"r-adj\">local</span> <span class=\"r-adj\">seasonal</span> produce.",
+          "es": "Servimos productos frescos, locales y de temporada."
+        },
+        {
+          "en": "It's an <span class=\"r-adj\">impressive</span> <span class=\"r-adj\">tall</span> <span class=\"r-adj\">stone</span> tower.",
+          "es": "Es una impresionante torre alta de piedra."
         }
       ],
       "tables": [],
@@ -87,6 +147,51 @@
           "options": [
             "old red French",
             "French old red"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s1q4",
+          "question": "4. It's a ___ table. (orden correcto)",
+          "options": [
+            "round small wooden",
+            "small round wooden"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s1q5",
+          "question": "5. She has ___ hair. (tamaño → color)",
+          "options": [
+            "long black",
+            "black long"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s1q6",
+          "question": "6. We booked a ___ villa. (opinión → tamaño → origen)",
+          "options": [
+            "lovely small Spanish",
+            "Spanish small lovely"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s1q7",
+          "question": "7. He wore an ___ suit. (opinión → edad → origen)",
+          "options": [
+            "Italian old elegant",
+            "elegant old Italian"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s1q8",
+          "question": "8. A ___ sofa. (tamaño → material)",
+          "options": [
+            "huge leather",
+            "leather huge"
           ],
           "correctIndex": 0
         }
@@ -148,6 +253,66 @@
         {
           "en": "Summer is <span class=\"r-adj\">busier</span> than winter.",
           "es": "El verano tiene más movimiento que el invierno."
+        },
+        {
+          "en": "The suite is <span class=\"r-adj\">more spacious</span> than the room.",
+          "es": "La suite es más amplia que la habitación."
+        },
+        {
+          "en": "This is <span class=\"r-adj\">the cheapest</span> rate available.",
+          "es": "Esta es la tarifa más barata disponible."
+        },
+        {
+          "en": "Today is <span class=\"r-adj\">busier</span> than yesterday.",
+          "es": "Hoy hay más ajetreo que ayer."
+        },
+        {
+          "en": "That's <span class=\"r-adj\">the most beautiful</span> view in the hotel.",
+          "es": "Esa es la vista más bonita del hotel."
+        },
+        {
+          "en": "Their service is <span class=\"r-adj\">worse</span> than ours.",
+          "es": "Su servicio es peor que el nuestro."
+        },
+        {
+          "en": "The new wing is <span class=\"r-adj\">quieter</span> than the old one.",
+          "es": "El ala nueva es más tranquila que la antigua."
+        },
+        {
+          "en": "This is <span class=\"r-adj\">the friendliest</span> team I've worked with.",
+          "es": "Este es el equipo más amable con el que he trabajado."
+        },
+        {
+          "en": "Breakfast here is <span class=\"r-adj\">better</span> than at most hotels.",
+          "es": "El desayuno aquí es mejor que en la mayoría de hoteles."
+        },
+        {
+          "en": "August is <span class=\"r-adj\">the hottest</span> month.",
+          "es": "Agosto es el mes más caluroso."
+        },
+        {
+          "en": "The premium plan is <span class=\"r-adj\">far more</span> flexible.",
+          "es": "El plan premium es mucho más flexible."
+        },
+        {
+          "en": "This room is <span class=\"r-adj\">slightly smaller</span> than that one.",
+          "es": "Esta habitación es ligeramente más pequeña que aquella."
+        },
+        {
+          "en": "It's <span class=\"r-adj\">the most convenient</span> location in town.",
+          "es": "Es la ubicación más conveniente de la ciudad."
+        },
+        {
+          "en": "Our rates are <span class=\"r-adj\">lower</span> than last year's.",
+          "es": "Nuestras tarifas son más bajas que las del año pasado."
+        },
+        {
+          "en": "She's <span class=\"r-adj\">the most experienced</span> guide we have.",
+          "es": "Es la guía con más experiencia que tenemos."
+        },
+        {
+          "en": "The sooner you book, <span class=\"r-adj\">the cheaper</span> it is.",
+          "es": "Cuanto antes reserves, más barato sale."
         }
       ],
       "tables": [],
@@ -176,6 +341,51 @@
           "options": [
             "as good",
             "so good"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s2q4",
+          "question": "4. This room is ___ than that one. (grande, corto)",
+          "options": [
+            "more big",
+            "bigger"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s2q5",
+          "question": "5. It's the ___ hotel in the city. (caro, largo)",
+          "options": [
+            "most expensive",
+            "expensivest"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s2q6",
+          "question": "6. Her English is ___ than mine. (bueno, irregular)",
+          "options": [
+            "gooder",
+            "better"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s2q7",
+          "question": "7. Summer is ___ than winter. (ajetreado, y→i+er)",
+          "options": [
+            "busier",
+            "more busy"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s2q8",
+          "question": "8. This plan is not ___ the premium one. (tan flexible como)",
+          "options": [
+            "as flexible as",
+            "so flexible than"
           ],
           "correctIndex": 0
         }
@@ -237,6 +447,66 @@
         {
           "en": "She closed the deal <span class=\"r-adv\">quickly</span> and <span class=\"r-adv\">professionally</span>.",
           "es": "Cerró el trato rápida y profesionalmente."
+        },
+        {
+          "en": "She greeted the guests <span class=\"r-adv\">warmly</span>.",
+          "es": "Saludó a los huéspedes con calidez."
+        },
+        {
+          "en": "He answered the questions <span class=\"r-adv\">honestly</span>.",
+          "es": "Respondió a las preguntas con honestidad."
+        },
+        {
+          "en": "The staff worked <span class=\"r-adv\">tirelessly</span> all night.",
+          "es": "El personal trabajó sin descanso toda la noche."
+        },
+        {
+          "en": "She handled the crisis <span class=\"r-adv\">brilliantly</span>.",
+          "es": "Gestionó la crisis de forma brillante."
+        },
+        {
+          "en": "He drives <span class=\"r-adv\">carefully</span> in the rain.",
+          "es": "Conduce con cuidado bajo la lluvia."
+        },
+        {
+          "en": "They welcomed us <span class=\"r-adv\">enthusiastically</span>.",
+          "es": "Nos recibieron con entusiasmo."
+        },
+        {
+          "en": "Please speak <span class=\"r-adv\">slowly</span> and clearly.",
+          "es": "Por favor, hable despacio y con claridad."
+        },
+        {
+          "en": "The waiter served the table <span class=\"r-adv\">discreetly</span>.",
+          "es": "El camarero atendió la mesa con discreción."
+        },
+        {
+          "en": "She smiled <span class=\"r-adv\">politely</span> at the complaint.",
+          "es": "Sonrió con educación ante la queja."
+        },
+        {
+          "en": "He runs the front desk <span class=\"r-adv\">smoothly</span>.",
+          "es": "Lleva la recepción sin sobresaltos."
+        },
+        {
+          "en": "They resolved it <span class=\"r-adv\">amicably</span>.",
+          "es": "Lo resolvieron de forma amistosa."
+        },
+        {
+          "en": "She types <span class=\"r-adv\">fast</span> and accurately. (irregular: fast)",
+          "es": "Escribe rápido y con precisión."
+        },
+        {
+          "en": "The manager listened <span class=\"r-adv\">patiently</span>.",
+          "es": "El gerente escuchó con paciencia."
+        },
+        {
+          "en": "He explained the bill <span class=\"r-adv\">thoroughly</span>.",
+          "es": "Explicó la factura a fondo."
+        },
+        {
+          "en": "They performed <span class=\"r-adv\">exceptionally</span> this quarter.",
+          "es": "Rindieron excepcionalmente este trimestre."
         }
       ],
       "tables": [],
@@ -265,6 +535,51 @@
           "options": [
             "quickly",
             "quick"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s3q4",
+          "question": "4. She handled it ___. (tranquilo → adverbio)",
+          "options": [
+            "calm",
+            "calmly"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s3q5",
+          "question": "5. He speaks English ___. (bien, irregular)",
+          "options": [
+            "well",
+            "goodly"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s3q6",
+          "question": "6. They responded ___ to the request. (rápido)",
+          "options": [
+            "quick",
+            "quickly"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s3q7",
+          "question": "7. She types very ___. (rápido, adverbio irregular)",
+          "options": [
+            "fastly",
+            "fast"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s3q8",
+          "question": "8. He reviewed the contract ___. (cuidadoso → adverbio)",
+          "options": [
+            "carefully",
+            "careful"
           ],
           "correctIndex": 0
         }
@@ -326,6 +641,66 @@
         {
           "en": "They <span class=\"r-adv\">usually</span> book the sea-view suite.",
           "es": "Normalmente reservan la suite con vistas al mar."
+        },
+        {
+          "en": "We <span class=\"r-adv\">always</span> double-check the invoice.",
+          "es": "Siempre revisamos la factura dos veces."
+        },
+        {
+          "en": "She <span class=\"r-adv\">sometimes</span> works the night shift.",
+          "es": "A veces hace el turno de noche."
+        },
+        {
+          "en": "Guests <span class=\"r-adv\">often</span> ask for late check-out.",
+          "es": "Los huéspedes suelen pedir salida tardía."
+        },
+        {
+          "en": "He is <span class=\"r-adv\">seldom</span> wrong about prices.",
+          "es": "Rara vez se equivoca con los precios."
+        },
+        {
+          "en": "We <span class=\"r-adv\">occasionally</span> offer free upgrades.",
+          "es": "De vez en cuando ofrecemos mejoras gratuitas."
+        },
+        {
+          "en": "The bar is <span class=\"r-adv\">usually</span> full on Fridays.",
+          "es": "El bar suele estar lleno los viernes."
+        },
+        {
+          "en": "I <span class=\"r-adv\">never</span> promise what I can't deliver.",
+          "es": "Nunca prometo lo que no puedo cumplir."
+        },
+        {
+          "en": "She's <span class=\"r-adv\">rarely</span> away from her desk.",
+          "es": "Rara vez se aleja de su puesto."
+        },
+        {
+          "en": "We <span class=\"r-adv\">frequently</span> update the room rates.",
+          "es": "Actualizamos las tarifas con frecuencia."
+        },
+        {
+          "en": "They <span class=\"r-adv\">hardly ever</span> complain.",
+          "es": "Casi nunca se quejan."
+        },
+        {
+          "en": "He <span class=\"r-adv\">always</span> remembers regular guests' names.",
+          "es": "Siempre recuerda los nombres de los clientes habituales."
+        },
+        {
+          "en": "We <span class=\"r-adv\">normally</span> confirm within an hour.",
+          "es": "Normalmente confirmamos en una hora."
+        },
+        {
+          "en": "The pool is <span class=\"r-adv\">generally</span> quiet in the morning.",
+          "es": "La piscina suele estar tranquila por la mañana."
+        },
+        {
+          "en": "She <span class=\"r-adv\">constantly</span> looks for ways to improve.",
+          "es": "Busca constantemente formas de mejorar."
+        },
+        {
+          "en": "I've <span class=\"r-adv\">never</span> missed a deadline.",
+          "es": "Nunca he incumplido un plazo."
         }
       ],
       "tables": [],
@@ -354,6 +729,51 @@
           "options": [
             "never",
             "ever"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s4q4",
+          "question": "4. She ___ arrives late. (rara vez, antes del verbo)",
+          "options": [
+            "rarely",
+            "rarely is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s4q5",
+          "question": "5. He is ___ on time. (siempre, tras 'be')",
+          "options": [
+            "always",
+            "always is"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s4q6",
+          "question": "6. We ___ get repeat guests. (a menudo)",
+          "options": [
+            "often",
+            "often the"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s4q7",
+          "question": "7. I have ___ seen it done so well. (nunca, entre auxiliar y participio)",
+          "options": [
+            "never",
+            "ever never"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s4q8",
+          "question": "8. They ___ complain. (casi nunca)",
+          "options": [
+            "hardly ever",
+            "ever hardly"
           ],
           "correctIndex": 0
         }
@@ -415,6 +835,66 @@
         {
           "en": "The beach is <span class=\"r-adv\">fairly</span> close to the hotel.",
           "es": "La playa está bastante cerca del hotel."
+        },
+        {
+          "en": "The suite is <span class=\"r-adv\">absolutely</span> stunning.",
+          "es": "La suite es absolutamente impresionante."
+        },
+        {
+          "en": "The wifi is <span class=\"r-adv\">a bit</span> slow today.",
+          "es": "El wifi va un poco lento hoy."
+        },
+        {
+          "en": "She was <span class=\"r-adv\">deeply</span> impressed by the service.",
+          "es": "Quedó profundamente impresionada por el servicio."
+        },
+        {
+          "en": "The room was <span class=\"r-adv\">rather</span> small for the price.",
+          "es": "La habitación era bastante pequeña para el precio."
+        },
+        {
+          "en": "It's <span class=\"r-adv\">incredibly</span> peaceful here.",
+          "es": "Aquí se está increíblemente tranquilo."
+        },
+        {
+          "en": "The meal was <span class=\"r-adv\">completely</span> free of charge.",
+          "es": "La comida fue completamente gratis."
+        },
+        {
+          "en": "He's <span class=\"r-adv\">fairly</span> new to the role.",
+          "es": "Es bastante nuevo en el puesto."
+        },
+        {
+          "en": "The offer is <span class=\"r-adv\">almost</span> too good to be true.",
+          "es": "La oferta es casi demasiado buena para ser cierta."
+        },
+        {
+          "en": "The lobby is <span class=\"r-adv\">quite</span> impressive.",
+          "es": "El vestíbulo es bastante impresionante."
+        },
+        {
+          "en": "The bill was <span class=\"r-adv\">slightly</span> higher than expected.",
+          "es": "La factura fue ligeramente más alta de lo esperado."
+        },
+        {
+          "en": "She's <span class=\"r-adv\">extremely</span> good with difficult guests.",
+          "es": "Es extremadamente buena con los huéspedes difíciles."
+        },
+        {
+          "en": "The pool is <span class=\"r-adv\">too</span> cold to swim in.",
+          "es": "La piscina está demasiado fría para bañarse."
+        },
+        {
+          "en": "The staff were <span class=\"r-adv\">remarkably</span> patient.",
+          "es": "El personal fue notablemente paciente."
+        },
+        {
+          "en": "It's <span class=\"r-adv\">pretty</span> busy for a Tuesday.",
+          "es": "Hay bastante movimiento para ser martes."
+        },
+        {
+          "en": "The view is <span class=\"r-adv\">truly</span> unforgettable.",
+          "es": "La vista es verdaderamente inolvidable."
         }
       ],
       "tables": [],
@@ -445,6 +925,51 @@
             "too"
           ],
           "correctIndex": 0
+        },
+        {
+          "id": "b04-s5q4",
+          "question": "4. The room is ___ expensive for them. (exceso negativo)",
+          "options": [
+            "very",
+            "too"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s5q5",
+          "question": "5. It's ___ good, but not perfect. (bastante, matiz medio)",
+          "options": [
+            "quite",
+            "extremely"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s5q6",
+          "question": "6. She was ___ impressed. (mucho, con adjetivo fuerte)",
+          "options": [
+            "deeply",
+            "a bit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s5q7",
+          "question": "7. The wifi is ___ slow today. (un poco)",
+          "options": [
+            "a bit",
+            "absolutely"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s5q8",
+          "question": "8. The suite is ___ stunning. (intensificador con adjetivo extremo)",
+          "options": [
+            "very",
+            "absolutely"
+          ],
+          "correctIndex": 1
         }
       ],
       "produce": {
@@ -456,6 +981,839 @@
         {
           "type": "exception",
           "text": "<b>too</b> = exceso negativo (too expensive = demasiado caro); <b>very</b> solo intensifica (very expensive = muy caro). No son intercambiables."
+        }
+      ]
+    },
+    {
+      "idx": "4.6",
+      "title": "Adjetivos -ed vs -ing (bored / boring)",
+      "level": "B1",
+      "rule": "Muchos adjetivos vienen de verbos de emoción y tienen dos formas que <b>no</b> significan lo mismo. La forma <b>-ed</b> describe cómo se <b>siente</b> alguien (I'm <b>bored</b> = estoy aburrido). La forma <b>-ing</b> describe cómo <b>es</b> lo que causa esa emoción (The film is <b>boring</b> = la película es aburrida). Error típico del hispanohablante: decir 'I'm boring' (=soy aburrido) cuando quieres decir 'I'm bored' (=estoy aburrido). Pares frecuentes: interested/interesting, tired/tiring, excited/exciting, surprised/surprising.",
+      "examples": [
+        {
+          "en": "The guests were <b class=\"hl\">delighted</b> with the upgrade.",
+          "es": "Los huéspedes quedaron encantados con la mejora."
+        },
+        {
+          "en": "The welcome gift was a <b class=\"hl\">delightful</b> touch.",
+          "es": "El regalo de bienvenida fue un detalle encantador."
+        },
+        {
+          "en": "I'm <b class=\"hl\">interested</b> in the premium package.",
+          "es": "Me interesa el paquete premium."
+        },
+        {
+          "en": "The offer sounds really <b class=\"hl\">interesting</b>.",
+          "es": "La oferta suena muy interesante."
+        },
+        {
+          "en": "She was <b class=\"hl\">exhausted</b> after the double shift.",
+          "es": "Estaba agotada tras el turno doble."
+        },
+        {
+          "en": "Peak season is <b class=\"hl\">exhausting</b> for the staff.",
+          "es": "La temporada alta es agotadora para el personal."
+        },
+        {
+          "en": "We were <b class=\"hl\">surprised</b> by the low price.",
+          "es": "Nos sorprendió el precio bajo."
+        },
+        {
+          "en": "The bill contained a <b class=\"hl\">surprising</b> error.",
+          "es": "La factura contenía un error sorprendente."
+        },
+        {
+          "en": "He felt <b class=\"hl\">confused</b> by the directions.",
+          "es": "Se sintió confundido por las indicaciones."
+        },
+        {
+          "en": "The map was <b class=\"hl\">confusing</b>.",
+          "es": "El mapa era confuso."
+        },
+        {
+          "en": "The team is <b class=\"hl\">excited</b> about the reopening.",
+          "es": "El equipo está ilusionado con la reapertura."
+        },
+        {
+          "en": "It's an <b class=\"hl\">exciting</b> time for the hotel.",
+          "es": "Es un momento emocionante para el hotel."
+        },
+        {
+          "en": "Guests were <b class=\"hl\">impressed</b> by the view.",
+          "es": "Los huéspedes quedaron impresionados por la vista."
+        },
+        {
+          "en": "The rooftop offers an <b class=\"hl\">impressive</b> view.",
+          "es": "La azotea ofrece una vista impresionante."
+        },
+        {
+          "en": "She was <b class=\"hl\">satisfied</b> with the outcome.",
+          "es": "Quedó satisfecha con el resultado."
+        },
+        {
+          "en": "The result was <b class=\"hl\">satisfying</b> for everyone.",
+          "es": "El resultado fue satisfactorio para todos."
+        },
+        {
+          "en": "I was <b class=\"hl\">tired</b> after the long flight.",
+          "es": "Estaba cansado tras el largo vuelo."
+        },
+        {
+          "en": "The commute is <b class=\"hl\">tiring</b>.",
+          "es": "El trayecto es cansado."
+        },
+        {
+          "en": "He seemed <b class=\"hl\">annoyed</b> by the delay.",
+          "es": "Parecía molesto por el retraso."
+        },
+        {
+          "en": "The delay was <b class=\"hl\">annoying</b>.",
+          "es": "El retraso fue molesto."
+        },
+        {
+          "en": "We were <b class=\"hl\">worried</b> about the storm.",
+          "es": "Estábamos preocupados por la tormenta."
+        },
+        {
+          "en": "The forecast was <b class=\"hl\">worrying</b>.",
+          "es": "El pronóstico era preocupante."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s6q1",
+          "question": "1. I'm ___ in the offer. (yo siento interés)",
+          "options": [
+            "interesting",
+            "interested"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s6q2",
+          "question": "2. The tour was ___. (causa la emoción)",
+          "options": [
+            "interesting",
+            "interested"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s6q3",
+          "question": "3. She's ___ after the shift. (ella siente cansancio)",
+          "options": [
+            "tiring",
+            "tired"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s6q4",
+          "question": "4. The job is ___. (causa cansancio)",
+          "options": [
+            "tired",
+            "tiring"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s6q5",
+          "question": "5. We were ___ by the price. (nosotros sentimos sorpresa)",
+          "options": [
+            "surprising",
+            "surprised"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s6q6",
+          "question": "6. It's an ___ time for us. (causa emoción)",
+          "options": [
+            "excited",
+            "exciting"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s6q7",
+          "question": "7. He was ___ by the map. (él siente confusión)",
+          "options": [
+            "confused",
+            "confusing"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases: una con <b>-ed</b> (cómo te sientes) y otra con <b>-ing</b> (qué lo causa).",
+        "placeholder": "Ej: I'm bored because the meeting is boring."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Error clásico: 'I am boring' significa 'soy aburrido' (aburro a los demás); para 'estoy aburrido' di 'I am <b>bored</b>'. La forma -ed = tú sientes; la -ing = tú causas."
+        }
+      ]
+    },
+    {
+      "idx": "4.7",
+      "title": "too / enough / so / such",
+      "level": "B1",
+      "rule": "Cuatro palabras que gradúan cantidad y consecuencia. <b>too</b> = 'demasiado' (exceso negativo), va antes del adjetivo (too expensive). <b>enough</b> = 'suficiente', va <b>después</b> del adjetivo (big enough) pero <b>antes</b> del sustantivo (enough rooms). <b>so</b> + adjetivo/adverbio (so nice), y <b>such</b> + (a/an) + adjetivo + sustantivo (such a nice room). 'so… that' y 'such… that' introducen consecuencia. No confundas: 'too' es negativo, 'very' es neutro.",
+      "examples": [
+        {
+          "en": "This suite is <b class=\"hl\">too</b> expensive for their budget.",
+          "es": "Esta suite es demasiado cara para su presupuesto."
+        },
+        {
+          "en": "The room isn't big <b class=\"hl\">enough</b> for four guests.",
+          "es": "La habitación no es lo bastante grande para cuatro huéspedes."
+        },
+        {
+          "en": "The view is <b class=\"hl\">so</b> beautiful.",
+          "es": "La vista es tan bonita."
+        },
+        {
+          "en": "It's <b class=\"hl\">such</b> a lovely hotel.",
+          "es": "Es un hotel tan encantador."
+        },
+        {
+          "en": "We don't have <b class=\"hl\">enough</b> staff this weekend.",
+          "es": "No tenemos suficiente personal este fin de semana."
+        },
+        {
+          "en": "The pool was <b class=\"hl\">too</b> cold to swim.",
+          "es": "La piscina estaba demasiado fría para nadar."
+        },
+        {
+          "en": "She was <b class=\"hl\">so</b> helpful that we left a great review.",
+          "es": "Fue tan servicial que dejamos una reseña estupenda."
+        },
+        {
+          "en": "It was <b class=\"hl\">such</b> a busy day that we skipped lunch.",
+          "es": "Fue un día tan ajetreado que nos saltamos la comida."
+        },
+        {
+          "en": "Is the bed comfortable <b class=\"hl\">enough</b>?",
+          "es": "¿Es la cama lo bastante cómoda?"
+        },
+        {
+          "en": "The bill was <b class=\"hl\">too</b> high, so we checked it.",
+          "es": "La factura era demasiado alta, así que la revisamos."
+        },
+        {
+          "en": "The staff are <b class=\"hl\">so</b> friendly here.",
+          "es": "El personal es tan amable aquí."
+        },
+        {
+          "en": "They have <b class=\"hl\">such</b> beautiful gardens.",
+          "es": "Tienen unos jardines tan bonitos."
+        },
+        {
+          "en": "There aren't <b class=\"hl\">enough</b> chairs for the event.",
+          "es": "No hay suficientes sillas para el evento."
+        },
+        {
+          "en": "It's <b class=\"hl\">too</b> late to change the booking.",
+          "es": "Es demasiado tarde para cambiar la reserva."
+        },
+        {
+          "en": "The service was <b class=\"hl\">so</b> good we came back.",
+          "es": "El servicio fue tan bueno que volvimos."
+        },
+        {
+          "en": "He's <b class=\"hl\">such</b> a professional receptionist.",
+          "es": "Es un recepcionista tan profesional."
+        },
+        {
+          "en": "Do we have <b class=\"hl\">enough</b> time before check-out?",
+          "es": "¿Tenemos tiempo suficiente antes del check-out?"
+        },
+        {
+          "en": "The wifi is <b class=\"hl\">too</b> slow for video calls.",
+          "es": "El wifi es demasiado lento para videollamadas."
+        },
+        {
+          "en": "The room was <b class=\"hl\">so</b> quiet that she slept for hours.",
+          "es": "La habitación estaba tan silenciosa que durmió horas."
+        },
+        {
+          "en": "It was <b class=\"hl\">such</b> an easy check-in.",
+          "es": "Fue un check-in tan fácil."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s7q1",
+          "question": "1. This plan is ___ expensive for us. (demasiado)",
+          "options": [
+            "too",
+            "enough"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s7q2",
+          "question": "2. The room isn't big ___. (suficiente, tras adjetivo)",
+          "options": [
+            "enough",
+            "too"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s7q3",
+          "question": "3. The view is ___ beautiful. (tan + adjetivo)",
+          "options": [
+            "such",
+            "so"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s7q4",
+          "question": "4. It's ___ a lovely hotel. (tan + a + adj + sustantivo)",
+          "options": [
+            "so",
+            "such"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s7q5",
+          "question": "5. We don't have ___ rooms. (suficientes, antes del sustantivo)",
+          "options": [
+            "enough",
+            "too"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s7q6",
+          "question": "6. She was ___ helpful that we tipped. (tan… que)",
+          "options": [
+            "such",
+            "so"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s7q7",
+          "question": "7. It was ___ a busy day. (tan… + sustantivo)",
+          "options": [
+            "such",
+            "so"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>too</b>, una con <b>enough</b> y una con <b>so… that</b> o <b>such… that</b>.",
+        "placeholder": "Ej: It's too small. It isn't big enough. It was such a good deal that we booked."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "<b>enough</b> va DESPUÉS del adjetivo (warm enough) pero ANTES del sustantivo (enough towels). <b>so</b> + adjetivo solo (so nice); <b>such</b> + (a) + adjetivo + sustantivo (such a nice room)."
+        }
+      ]
+    },
+    {
+      "idx": "4.8",
+      "title": "Comparaciones: as...as, the...the",
+      "level": "B1",
+      "rule": "Estructuras que van más allá del comparativo básico. <b>as + adjetivo + as</b> = igualdad ('tan… como': as big as); en negativa, 'not as… as' (no tan… como). Comparativos <b>progresivos</b>: 'bigger and bigger' (cada vez más grande), 'more and more expensive'. Estructura <b>the + comparativo…, the + comparativo</b> = 'cuanto más…, más…' (the sooner, the better). Sirven para matizar comparaciones con precisión.",
+      "examples": [
+        {
+          "en": "This room is <b class=\"hl\">as spacious as</b> the suite.",
+          "es": "Esta habitación es tan amplia como la suite."
+        },
+        {
+          "en": "Their prices aren't <b class=\"hl\">as low as</b> ours.",
+          "es": "Sus precios no son tan bajos como los nuestros."
+        },
+        {
+          "en": "The queue got <b class=\"hl\">longer and longer</b>.",
+          "es": "La cola se hacía cada vez más larga."
+        },
+        {
+          "en": "<b class=\"hl\">The sooner</b> you book, <b class=\"hl\">the cheaper</b> it is.",
+          "es": "Cuanto antes reserves, más barato sale."
+        },
+        {
+          "en": "Service here is <b class=\"hl\">as good as</b> it gets.",
+          "es": "El servicio aquí es todo lo bueno que puede ser."
+        },
+        {
+          "en": "It's becoming <b class=\"hl\">more and more</b> popular.",
+          "es": "Se está volviendo cada vez más popular."
+        },
+        {
+          "en": "<b class=\"hl\">The more</b> you spend, <b class=\"hl\">the more</b> points you earn.",
+          "es": "Cuanto más gastas, más puntos ganas."
+        },
+        {
+          "en": "This plan is <b class=\"hl\">not as flexible as</b> the premium one.",
+          "es": "Este plan no es tan flexible como el premium."
+        },
+        {
+          "en": "The nights are getting <b class=\"hl\">colder and colder</b>.",
+          "es": "Las noches son cada vez más frías."
+        },
+        {
+          "en": "<b class=\"hl\">The bigger</b> the group, <b class=\"hl\">the better</b> the rate.",
+          "es": "Cuanto más grande el grupo, mejor la tarifa."
+        },
+        {
+          "en": "Breakfast is <b class=\"hl\">as important as</b> the room itself.",
+          "es": "El desayuno es tan importante como la propia habitación."
+        },
+        {
+          "en": "The hotel is <b class=\"hl\">just as nice as</b> the photos.",
+          "es": "El hotel es igual de bonito que las fotos."
+        },
+        {
+          "en": "Demand is growing <b class=\"hl\">faster and faster</b>.",
+          "es": "La demanda crece cada vez más rápido."
+        },
+        {
+          "en": "<b class=\"hl\">The earlier</b> you arrive, <b class=\"hl\">the more</b> choice you have.",
+          "es": "Cuanto antes llegues, más opciones tienes."
+        },
+        {
+          "en": "Our staff are <b class=\"hl\">as professional as</b> any five-star team.",
+          "es": "Nuestro personal es tan profesional como cualquier equipo de cinco estrellas."
+        },
+        {
+          "en": "It's <b class=\"hl\">not nearly as</b> busy as last year.",
+          "es": "No hay ni de lejos tanto movimiento como el año pasado."
+        },
+        {
+          "en": "The rooms are <b class=\"hl\">twice as</b> big as the standard ones.",
+          "es": "Las habitaciones son el doble de grandes que las estándar."
+        },
+        {
+          "en": "The suite is getting <b class=\"hl\">more and more</b> requested.",
+          "es": "La suite es cada vez más solicitada."
+        },
+        {
+          "en": "<b class=\"hl\">The longer</b> you stay, <b class=\"hl\">the less</b> you pay per night.",
+          "es": "Cuanto más te quedas, menos pagas por noche."
+        },
+        {
+          "en": "This view is <b class=\"hl\">as breathtaking as</b> they say.",
+          "es": "Esta vista es tan impresionante como dicen."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s8q1",
+          "question": "1. This room is ___ the suite. (tan grande como)",
+          "options": [
+            "as big as",
+            "as big than"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s8q2",
+          "question": "2. Their prices aren't ___ ours. (no tan bajos como)",
+          "options": [
+            "as low as",
+            "so low that"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s8q3",
+          "question": "3. The queue got ___. (cada vez más larga)",
+          "options": [
+            "longer and longer",
+            "more long and long"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s8q4",
+          "question": "4. ___ you book, ___ it is. (cuanto antes, más barato)",
+          "options": [
+            "The sooner / the cheaper",
+            "Sooner / cheaper"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s8q5",
+          "question": "5. It's ___ popular. (cada vez más)",
+          "options": [
+            "more and more",
+            "the more the more"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s8q6",
+          "question": "6. The suite is ___ big as the standard. (el doble de)",
+          "options": [
+            "twice as",
+            "two times more"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s8q7",
+          "question": "7. ___ the group, ___ the rate. (cuanto más grande, mejor)",
+          "options": [
+            "The bigger / the better",
+            "Bigger / better"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una comparación de igualdad con <b>as...as</b> y una estructura <b>the...the</b>.",
+        "placeholder": "Ej: It's as nice as the photos. The sooner you book, the better."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Es 'as + adjetivo + <b>as</b>', nunca 'as… than'. En 'the…the' se usan comparativos en ambos lados (the more…, the better). 'twice/three times as big as' expresa múltiplos."
+        }
+      ]
+    },
+    {
+      "idx": "4.9",
+      "title": "Posición de los adverbios (lugar, tiempo, orden)",
+      "level": "B1",
+      "rule": "El orden por defecto de los complementos al final de la frase es <b>Modo → Lugar → Tiempo</b> (MPT): 'She worked <b>quietly</b> (modo) <b>at the desk</b> (lugar) <b>all morning</b> (tiempo)'. Los adverbios de tiempo también pueden abrir la frase para dar énfasis (Yesterday, we…). Regla de oro: nunca separes el <b>verbo</b> de su <b>objeto directo</b> con un adverbio ('I speak English well', no 'I speak well English'). Los de frecuencia van antes del verbo principal; los de modo, después.",
+      "examples": [
+        {
+          "en": "She greeted them <b class=\"hl\">warmly at the door this morning</b>.",
+          "es": "Los saludó cálidamente en la puerta esta mañana."
+        },
+        {
+          "en": "We'll meet the client <b class=\"hl\">here tomorrow</b>.",
+          "es": "Nos reuniremos con el cliente aquí mañana."
+        },
+        {
+          "en": "He works <b class=\"hl\">hard at the front desk every day</b>.",
+          "es": "Trabaja duro en la recepción todos los días."
+        },
+        {
+          "en": "<b class=\"hl\">Yesterday</b>, we welcomed a hundred guests.",
+          "es": "Ayer recibimos a cien huéspedes."
+        },
+        {
+          "en": "I speak English <b class=\"hl\">well</b>. (verbo + objeto + adverbio)",
+          "es": "Hablo bien inglés."
+        },
+        {
+          "en": "The team performed <b class=\"hl\">brilliantly last quarter</b>.",
+          "es": "El equipo rindió de maravilla el trimestre pasado."
+        },
+        {
+          "en": "Please leave your bags <b class=\"hl\">safely in the storage room</b>.",
+          "es": "Deje sus maletas de forma segura en el trastero."
+        },
+        {
+          "en": "She'll call you back <b class=\"hl\">soon</b>.",
+          "es": "Le devolverá la llamada pronto."
+        },
+        {
+          "en": "They danced <b class=\"hl\">happily on the terrace all night</b>.",
+          "es": "Bailaron felices en la terraza toda la noche."
+        },
+        {
+          "en": "We serve breakfast <b class=\"hl\">here from seven</b>.",
+          "es": "Servimos el desayuno aquí a partir de las siete."
+        },
+        {
+          "en": "<b class=\"hl\">Later</b>, the manager will review the report.",
+          "es": "Más tarde, el gerente revisará el informe."
+        },
+        {
+          "en": "He handled the complaint <b class=\"hl\">calmly and quickly</b>.",
+          "es": "Gestionó la queja con calma y rapidez."
+        },
+        {
+          "en": "The porter took the luggage <b class=\"hl\">upstairs immediately</b>.",
+          "es": "El mozo subió el equipaje de inmediato."
+        },
+        {
+          "en": "She reads the reviews <b class=\"hl\">carefully every evening</b>.",
+          "es": "Lee las reseñas con atención cada tarde."
+        },
+        {
+          "en": "We opened the new wing <b class=\"hl\">last month</b>.",
+          "es": "Abrimos el ala nueva el mes pasado."
+        },
+        {
+          "en": "Guests can relax <b class=\"hl\">comfortably by the pool</b>.",
+          "es": "Los huéspedes pueden relajarse cómodamente junto a la piscina."
+        },
+        {
+          "en": "<b class=\"hl\">Every summer</b>, occupancy hits 100%.",
+          "es": "Cada verano, la ocupación llega al 100%."
+        },
+        {
+          "en": "He answered the phone <b class=\"hl\">politely at reception</b>.",
+          "es": "Contestó el teléfono con educación en recepción."
+        },
+        {
+          "en": "The show starts <b class=\"hl\">here at nine</b>.",
+          "es": "El espectáculo empieza aquí a las nueve."
+        },
+        {
+          "en": "She organised the files <b class=\"hl\">neatly yesterday afternoon</b>.",
+          "es": "Organizó los archivos con orden ayer por la tarde."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s9q1",
+          "question": "1. Orden correcto (modo → lugar → tiempo):",
+          "options": [
+            "She worked at the desk quietly all morning",
+            "She worked quietly at the desk all morning"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s9q2",
+          "question": "2. ¿Cuál es correcta?",
+          "options": [
+            "I speak English well",
+            "I speak well English"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s9q3",
+          "question": "3. El adverbio de frecuencia va...",
+          "options": [
+            "antes del verbo principal (She often calls)",
+            "después del objeto (She calls clients often always)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s9q4",
+          "question": "4. ¿Cuál suena natural?",
+          "options": [
+            "We'll meet tomorrow here",
+            "We'll meet here tomorrow"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s9q5",
+          "question": "5. Para dar énfasis, el tiempo puede ir...",
+          "options": [
+            "al principio (Yesterday, we opened)",
+            "entre verbo y objeto (We opened yesterday the wing)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s9q6",
+          "question": "6. ¿Cuál es correcta?",
+          "options": [
+            "He handled calmly the complaint",
+            "He handled the complaint calmly"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s9q7",
+          "question": "7. Orden natural:",
+          "options": [
+            "They danced happily on the terrace all night",
+            "They danced on the terrace happily all night"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "produce": {
+        "id": "b04-s9",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con complementos de modo, lugar y tiempo en el orden correcto (M→L→T).",
+        "placeholder": "Ej: She worked quietly at reception all morning."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Nunca metas un adverbio entre el verbo y su objeto directo: 'I like <b>very much</b> this hotel' es incorrecto → 'I like this hotel <b>very much</b>'. El orden por defecto al final es Modo → Lugar → Tiempo."
+        }
+      ]
+    },
+    {
+      "idx": "4.10",
+      "title": "Adjetivos compuestos y participiales (five-star, well-known)",
+      "level": "B2",
+      "rule": "Son adjetivos formados por dos o más palabras unidas con <b>guion</b> cuando van delante del sustantivo: número + sustantivo en singular (a <b>five-star</b> hotel, no 'five-stars'), sustantivo + participio (<b>English-speaking</b> staff, <b>hand-made</b> soap), adverbio + participio (<b>well-known</b> brand, <b>highly-rated</b> resort). El guion los convierte en una sola unidad y el sustantivo interno no lleva plural (a <b>ten-minute</b> walk, a <b>three-day</b> stay). Dan precisión y suenan muy naturales en descripciones profesionales.",
+      "examples": [
+        {
+          "en": "It's a <b class=\"hl\">five-star</b> resort on the coast.",
+          "es": "Es un resort de cinco estrellas en la costa."
+        },
+        {
+          "en": "We have <b class=\"hl\">English-speaking</b> staff at all times.",
+          "es": "Tenemos personal angloparlante en todo momento."
+        },
+        {
+          "en": "The beach is a <b class=\"hl\">ten-minute</b> walk away.",
+          "es": "La playa está a diez minutos a pie."
+        },
+        {
+          "en": "She booked a <b class=\"hl\">three-night</b> stay.",
+          "es": "Reservó una estancia de tres noches."
+        },
+        {
+          "en": "It's a <b class=\"hl\">well-known</b> luxury brand.",
+          "es": "Es una conocida marca de lujo."
+        },
+        {
+          "en": "We offer <b class=\"hl\">hand-made</b> welcome gifts.",
+          "es": "Ofrecemos regalos de bienvenida hechos a mano."
+        },
+        {
+          "en": "This is a <b class=\"hl\">highly-rated</b> restaurant.",
+          "es": "Este es un restaurante muy bien valorado."
+        },
+        {
+          "en": "They provide a <b class=\"hl\">24-hour</b> reception service.",
+          "es": "Ofrecen servicio de recepción de 24 horas."
+        },
+        {
+          "en": "It's a <b class=\"hl\">family-run</b> guesthouse.",
+          "es": "Es una casa de huéspedes de gestión familiar."
+        },
+        {
+          "en": "We prepared a <b class=\"hl\">last-minute</b> upgrade.",
+          "es": "Preparamos una mejora de última hora."
+        },
+        {
+          "en": "The suite has a <b class=\"hl\">sea-facing</b> balcony.",
+          "es": "La suite tiene un balcón orientado al mar."
+        },
+        {
+          "en": "He's a <b class=\"hl\">well-dressed</b> concierge.",
+          "es": "Es un conserje bien vestido."
+        },
+        {
+          "en": "It was a <b class=\"hl\">two-hour</b> delay, unfortunately.",
+          "es": "Fue un retraso de dos horas, por desgracia."
+        },
+        {
+          "en": "We serve <b class=\"hl\">freshly-baked</b> bread each morning.",
+          "es": "Servimos pan recién horneado cada mañana."
+        },
+        {
+          "en": "This is our <b class=\"hl\">best-selling</b> package.",
+          "es": "Este es nuestro paquete más vendido."
+        },
+        {
+          "en": "They booked an <b class=\"hl\">all-inclusive</b> holiday.",
+          "es": "Reservaron unas vacaciones con todo incluido."
+        },
+        {
+          "en": "It's a <b class=\"hl\">world-famous</b> landmark.",
+          "es": "Es un monumento mundialmente famoso."
+        },
+        {
+          "en": "We have a <b class=\"hl\">state-of-the-art</b> gym.",
+          "es": "Tenemos un gimnasio de última generación."
+        },
+        {
+          "en": "She's a <b class=\"hl\">hard-working</b> team leader.",
+          "es": "Es una jefa de equipo muy trabajadora."
+        },
+        {
+          "en": "It's a <b class=\"hl\">child-friendly</b> hotel.",
+          "es": "Es un hotel apto para niños."
+        }
+      ],
+      "tables": [],
+      "quiz": [
+        {
+          "id": "b04-s10q1",
+          "question": "1. It's a ___ hotel. (5 estrellas)",
+          "options": [
+            "five-stars",
+            "five-star"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s10q2",
+          "question": "2. The beach is a ___ walk. (10 minutos)",
+          "options": [
+            "ten-minutes",
+            "ten-minute"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s10q3",
+          "question": "3. We have ___ staff. (que hablan inglés)",
+          "options": [
+            "English-speaking",
+            "English-spoken"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s10q4",
+          "question": "4. It's a ___ brand. (muy conocida)",
+          "options": [
+            "well-known",
+            "good-known"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s10q5",
+          "question": "5. She booked a ___ stay. (3 noches)",
+          "options": [
+            "three-nights",
+            "three-night"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "b04-s10q6",
+          "question": "6. It's a ___ guesthouse. (gestión familiar)",
+          "options": [
+            "family-run",
+            "family-running"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "b04-s10q7",
+          "question": "7. They offer a ___ service. (24 horas)",
+          "options": [
+            "24-hours",
+            "24-hour"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "produce": {
+        "id": "b04-s10",
+        "label": "<span class=\"badge\">tu turno</span>Describe tu hotel o empresa con dos adjetivos compuestos (con guion), por ejemplo de estrellas y de duración.",
+        "placeholder": "Ej: It's a four-star, family-run hotel with a five-minute walk to the beach."
+      },
+      "notes": [
+        {
+          "type": "exception",
+          "text": "Cuando van delante del sustantivo, el número lleva guion y el sustantivo va en <b>singular</b>: 'a three-<b>day</b> trip', no 'a three-days trip'. Pero fuera del adjetivo se pluraliza normal: 'The trip lasts three <b>days</b>'."
         }
       ]
     }
