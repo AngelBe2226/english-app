@@ -1,0 +1,367 @@
+{
+  "block": "19",
+  "title": "Ventas — Sales & closing",
+  "kicker": "Bloque 19 · Inglés temático · Ventas",
+  "intro": "Segunda <b class=\"hl\">unidad temática</b>: el inglés del <b class=\"hl\">ciclo de venta</b> completo, útil tanto en ventas de hotel/turismo como inmobiliarias. Cada epígrafe sigue una etapa (descubrir → presentar → upselling → objeciones → cierre → seguimiento) con vocabulario, un <b class=\"hl\">diálogo con role-play</b>, frases clave, quiz y una tarea de producción.",
+  "legend": [
+    { "label": "Comercial", "desc": "tu papel — practícalo en el role-play" },
+    { "label": "Cliente", "desc": "el cliente potencial al que vendes" }
+  ],
+  "sections": [
+    {
+      "idx": "19.1",
+      "title": "Descubrir necesidades",
+      "level": "B1",
+      "rule": "Vender empieza por <b>escuchar</b>, no por hablar. Usa <b class=\"hl\">preguntas abiertas</b> (empiezan por what, how, why, which) para que el cliente cuente sus necesidades: <b class=\"hl\">What are you looking for?</b>, <b class=\"hl\">How can we make this trip special?</b>, <b class=\"hl\">What's most important to you?</b>. Cualifica con tacto: presupuesto, fechas, para quién. Fórmulas corteses para preguntar: <b class=\"hl\">May I ask…?</b>, <b class=\"hl\">Could you tell me a little about…?</b>. Y demuestra escucha activa: <b class=\"hl\">So, if I understand correctly…</b>",
+      "dialogueTitle": "Cualificando a un cliente",
+      "dialogue": [
+        { "speaker": "Comercial", "en": "Thanks for coming in. <b class=\"hl\">What are you looking for</b> exactly?", "es": "Gracias por venir. ¿Qué está buscando exactamente?" },
+        { "speaker": "Cliente", "en": "Something special — it's our anniversary.", "es": "Algo especial: es nuestro aniversario." },
+        { "speaker": "Comercial", "en": "Congratulations! <b class=\"hl\">May I ask</b> what you enjoyed most on past trips?", "es": "¡Enhorabuena! ¿Le puedo preguntar qué disfrutaron más en viajes anteriores?" },
+        { "speaker": "Cliente", "en": "We love quiet places with a good view.", "es": "Nos encantan los sitios tranquilos con buenas vistas." },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">And what's most important to you</b> — location, comfort, or extras like the spa?", "es": "¿Y qué es lo más importante para usted: la ubicación, la comodidad o los extras como el spa?" },
+        { "speaker": "Cliente", "en": "Comfort, mainly. And a romantic feel.", "es": "La comodidad, sobre todo. Y un ambiente romántico." },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">So, if I understand correctly</b>, you'd like a quiet, comfortable room with a view and a romantic touch. <b class=\"hl\">Is that right?</b>", "es": "Entonces, si le entiendo bien, quieren una habitación tranquila y cómoda, con vistas y un toque romántico. ¿Es así?" },
+        { "speaker": "Cliente", "en": "Exactly.", "es": "Exactamente." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">What are you looking for</b> today?", "es": "¿Qué está buscando hoy?" },
+        { "en": "<b class=\"hl\">What's most important to you</b> — price or location?", "es": "¿Qué es lo más importante para usted: el precio o la ubicación?" },
+        { "en": "<b class=\"hl\">May I ask</b> what your budget is?", "es": "¿Le puedo preguntar cuál es su presupuesto?" },
+        { "en": "<b class=\"hl\">Could you tell me a little about</b> the occasion?", "es": "¿Me puede contar un poco sobre la ocasión?" },
+        { "en": "<b class=\"hl\">How many</b> people is it for?", "es": "¿Para cuántas personas es?" },
+        { "en": "<b class=\"hl\">When</b> were you thinking of travelling?", "es": "¿Para cuándo estaba pensando viajar?" },
+        { "en": "<b class=\"hl\">What would make this</b> the perfect stay for you?", "es": "¿Qué haría de esta la estancia perfecta para usted?" },
+        { "en": "<b class=\"hl\">So, if I understand correctly</b>, you need…", "es": "Entonces, si le entiendo bien, necesita…" },
+        { "en": "Just <b class=\"hl\">to make sure I've got this right</b>…", "es": "Solo para asegurarme de que lo he entendido bien…" },
+        { "en": "<b class=\"hl\">Tell me more about</b> what you have in mind.", "es": "Cuénteme más sobre lo que tiene en mente." }
+      ],
+      "tables": [
+        {
+          "headers": ["Objetivo", "Pregunta abierta"],
+          "rows": [
+            ["Necesidad general", "What are you looking for?"],
+            ["Prioridad", "What's most important to you?"],
+            ["Presupuesto (con tacto)", "May I ask what your budget is?"],
+            ["Contexto / ocasión", "Could you tell me about the occasion?"],
+            ["Número de personas", "How many people is it for?"],
+            ["Fechas", "When were you thinking of travelling?"],
+            ["Experiencias previas", "What did you enjoy most last time?"],
+            ["Confirmar (escucha activa)", "So, if I understand correctly, …?"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b19-s1q1", "question": "1. Una pregunta abierta (invita a explicarse) es:", "options": ["Do you want a room?", "What are you looking for?"], "correctIndex": 1 },
+        { "id": "b19-s1q2", "question": "2. Para preguntar el presupuesto con tacto:", "options": ["How much money do you have?", "May I ask what your budget is?"], "correctIndex": 1 },
+        { "id": "b19-s1q3", "question": "3. Para demostrar escucha activa antes de proponer:", "options": ["So, if I understand correctly…", "Anyway, let me talk."], "correctIndex": 0 },
+        { "id": "b19-s1q4", "question": "4. Las preguntas abiertas suelen empezar por:", "options": ["do / does / is", "what / how / why"], "correctIndex": 1 },
+        { "id": "b19-s1q5", "question": "5. '¿Qué es lo más importante para usted?'", "options": ["What's most important to you?", "What you want more?"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b19-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres preguntas abiertas para descubrir qué necesita un cliente que quiere reservar unas vacaciones (o comprar una vivienda).",
+        "placeholder": "Ej: What are you looking for exactly? What's most important to you? When were you thinking of travelling?"
+      },
+      "notes": [
+        { "type": "tip", "text": "Regla 80/20: en la fase de descubrimiento, el cliente habla el 80 % del tiempo. Cada pregunta abierta te da munición para presentar <b>justo lo que necesita</b>, no lo que tú quieres vender." }
+      ]
+    },
+    {
+      "idx": "19.2",
+      "title": "Presentar: características y beneficios",
+      "level": "B1–B2",
+      "rule": "No vendas características, vende <b>beneficios</b>: traduce cada dato en una ventaja para el cliente con <b class=\"hl\">which means…</b> o <b class=\"hl\">so you can…</b>. Ej.: 'The suite has a private terrace, <b>which means</b> you can enjoy breakfast with a sea view.' Usa <b class=\"hl\">superlativos</b> (the best, the most popular) y lenguaje sensorial para que se lo imagine. Conecta siempre con lo que descubriste: <b class=\"hl\">Based on what you told me…</b>",
+      "dialogueTitle": "Presentando una suite (o una vivienda)",
+      "dialogue": [
+        { "speaker": "Comercial", "en": "<b class=\"hl\">Based on what you told me</b>, I'd recommend our Marina Suite.", "es": "Por lo que me ha contado, le recomendaría nuestra Marina Suite." },
+        { "speaker": "Cliente", "en": "What makes it special?", "es": "¿Qué la hace especial?" },
+        { "speaker": "Comercial", "en": "It has a private terrace, <b class=\"hl\">which means</b> you can have breakfast overlooking the sea.", "es": "Tiene una terraza privada, lo que significa que pueden desayunar con vistas al mar." },
+        { "speaker": "Cliente", "en": "That sounds lovely.", "es": "Suena precioso." },
+        { "speaker": "Comercial", "en": "It's also our <b class=\"hl\">most requested</b> room for anniversaries, <b class=\"hl\">so you can</b> be sure the atmosphere is right.", "es": "Además, es nuestra habitación más solicitada para aniversarios, así que puede estar seguro de que el ambiente es el adecuado." },
+        { "speaker": "Cliente", "en": "And it's quiet?", "es": "¿Y es tranquila?" },
+        { "speaker": "Comercial", "en": "It's on the top floor, away from the pool — <b class=\"hl\">perfect for</b> the peace and quiet you're after.", "es": "Está en la última planta, lejos de la piscina: perfecta para la tranquilidad que buscan." },
+        { "speaker": "Cliente", "en": "I can already picture it.", "es": "Ya me lo imagino." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Based on what you told me</b>, I'd recommend…", "es": "Por lo que me ha contado, le recomendaría…" },
+        { "en": "It has a terrace, <b class=\"hl\">which means</b> you can enjoy the view.", "es": "Tiene terraza, lo que significa que puede disfrutar de las vistas." },
+        { "en": "It's soundproofed, <b class=\"hl\">so you can</b> sleep undisturbed.", "es": "Está insonorizada, así que puede dormir sin molestias." },
+        { "en": "This is our <b class=\"hl\">most popular</b> option.", "es": "Esta es nuestra opción más popular." },
+        { "en": "It's <b class=\"hl\">perfect for</b> couples.", "es": "Es perfecta para parejas." },
+        { "en": "The location is <b class=\"hl\">ideal for</b> exploring the old town.", "es": "La ubicación es ideal para explorar el casco antiguo." },
+        { "en": "Imagine <b class=\"hl\">waking up to</b> the sound of the sea.", "es": "Imagínese despertar con el sonido del mar." },
+        { "en": "It comes <b class=\"hl\">with</b> free access to the spa.", "es": "Incluye acceso gratuito al spa." },
+        { "en": "The property has <b class=\"hl\">plenty of natural light</b>, which makes it feel spacious.", "es": "La vivienda tiene mucha luz natural, lo que la hace parecer amplia." },
+        { "en": "You'll <b class=\"hl\">love</b> the rooftop terrace.", "es": "Le va a encantar la azotea." }
+      ],
+      "tables": [
+        {
+          "headers": ["Característica (feature)", "Beneficio (benefit) — 'which means / so you can'"],
+          "rows": [
+            ["private terrace", "…which means you can enjoy the view in private."],
+            ["top floor", "…so you can enjoy peace and quiet."],
+            ["soundproofing", "…which means a good night's sleep."],
+            ["central location", "…so you can walk everywhere."],
+            ["free spa access", "…which means you can relax at no extra cost."],
+            ["flexible rate", "…so you can change plans without penalty."],
+            ["24-hour reception", "…which means help is always at hand."],
+            ["natural light (property)", "…so the space feels bigger and warmer."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b19-s2q1", "question": "1. Para convertir una característica en beneficio se usa:", "options": ["which means / so you can", "and also / by the way"], "correctIndex": 0 },
+        { "id": "b19-s2q2", "question": "2. '…es nuestra opción más popular' (superlativo):", "options": ["the most popular", "the more popular"], "correctIndex": 0 },
+        { "id": "b19-s2q3", "question": "3. Para enlazar la propuesta con lo que descubriste:", "options": ["Based on what you told me…", "Anyway, look at this."], "correctIndex": 0 },
+        { "id": "b19-s2q4", "question": "4. 'Es perfecta ___ parejas.' (preposición)", "options": ["for", "to"], "correctIndex": 0 },
+        { "id": "b19-s2q5", "question": "5. Vender beneficios significa destacar:", "options": ["los datos técnicos", "la ventaja para el cliente"], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b19-s2",
+        "label": "<span class=\"badge\">tu turno</span>Elige una característica de tu producto (habitación, paquete o vivienda) y preséntala como beneficio usando <b>which means</b> o <b>so you can</b>.",
+        "placeholder": "Ej: The apartment has a large balcony, which means you can enjoy the sunset every evening."
+      },
+      "notes": [
+        { "type": "tip", "text": "Truco de oro: tras cada característica, di mentalmente <b>'…which means…'</b> y completa con lo que gana el cliente. Si no encuentras el beneficio, esa característica no vende." }
+      ]
+    },
+    {
+      "idx": "19.3",
+      "title": "Upselling y cross-selling",
+      "level": "B1–B2",
+      "rule": "<b>Upselling</b> = ofrecer una categoría superior; <b>cross-selling</b> = añadir productos complementarios. Ofrécelo como un valor, no como un gasto: <b class=\"hl\">For just €30 more, you could…</b>, <b class=\"hl\">Would you consider…?</b>, <b class=\"hl\">Many guests choose to add…</b>. Ancla en el beneficio y en la ocasión. Cierra la oferta con una pregunta suave: <b class=\"hl\">Shall I include that for you?</b>. Nunca presiones: si dicen que no, sigue igual de amable.",
+      "dialogueTitle": "Subiendo de categoría y añadiendo extras",
+      "dialogue": [
+        { "speaker": "Comercial", "en": "Since it's your anniversary, <b class=\"hl\">would you consider</b> the suite with the private terrace?", "es": "Ya que es su aniversario, ¿consideraría la suite con terraza privada?" },
+        { "speaker": "Cliente", "en": "How much more is it?", "es": "¿Cuánto más cuesta?" },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">For just €40 more per night</b>, you get the terrace and a bottle of cava on arrival.", "es": "Por solo 40 € más por noche, tiene la terraza y una botella de cava a la llegada." },
+        { "speaker": "Cliente", "en": "That's tempting.", "es": "Es tentador." },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">Many couples also add</b> a couples' spa session — it's very popular for special occasions.", "es": "Muchas parejas añaden además una sesión de spa en pareja: es muy popular para ocasiones especiales." },
+        { "speaker": "Cliente", "en": "Let's do the suite, but I'll think about the spa.", "es": "Cojamos la suite, pero me lo pienso lo del spa." },
+        { "speaker": "Comercial", "en": "Perfect. <b class=\"hl\">Shall I include</b> the suite and cava for you?", "es": "Perfecto. ¿Le incluyo la suite y el cava?" },
+        { "speaker": "Cliente", "en": "Yes, please.", "es": "Sí, por favor." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Would you consider</b> upgrading to a suite?", "es": "¿Consideraría subir a una suite?" },
+        { "en": "<b class=\"hl\">For just €40 more</b>, you get a sea view.", "es": "Por solo 40 € más, tiene vistas al mar." },
+        { "en": "<b class=\"hl\">Many guests choose to add</b> airport transfer.", "es": "Muchos huéspedes añaden el traslado del aeropuerto." },
+        { "en": "It's a <b class=\"hl\">small difference</b> for a much better experience.", "es": "Es una diferencia pequeña para una experiencia mucho mejor." },
+        { "en": "<b class=\"hl\">Would you like to add</b> breakfast for €12 a day?", "es": "¿Desea añadir el desayuno por 12 € al día?" },
+        { "en": "This upgrade is <b class=\"hl\">very popular for</b> special occasions.", "es": "Esta mejora es muy popular para ocasiones especiales." },
+        { "en": "<b class=\"hl\">Shall I include</b> that for you?", "es": "¿Se lo incluyo?" },
+        { "en": "<b class=\"hl\">It pays for itself</b> once you see the terrace.", "es": "Se amortiza en cuanto vea la terraza." },
+        { "en": "<b class=\"hl\">No problem at all</b> — the standard room is lovely too.", "es": "No hay ningún problema; la habitación estándar también es preciosa." },
+        { "en": "Would you be <b class=\"hl\">interested in</b> a late check-out package?", "es": "¿Le interesaría un paquete con salida tardía?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Técnica", "Frase"],
+          "rows": [
+            ["Proponer subida (soft)", "Would you consider upgrading to…?"],
+            ["Enmarcar el precio", "For just €X more, you get…"],
+            ["Prueba social", "Many guests choose to add…"],
+            ["Anclar en la ocasión", "It's very popular for special occasions."],
+            ["Cross-sell (complemento)", "Would you like to add breakfast/transfer/spa?"],
+            ["Cierre suave", "Shall I include that for you?"],
+            ["Aceptar el 'no'", "No problem at all — the standard is lovely too."],
+            ["Valor > coste", "It's a small difference for a much better stay."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b19-s3q1", "question": "1. 'Upselling' es:", "options": ["ofrecer una categoría superior", "bajar el precio"], "correctIndex": 0 },
+        { "id": "b19-s3q2", "question": "2. Para enmarcar el coste extra como pequeño:", "options": ["For just €40 more, you get…", "It's much more expensive."], "correctIndex": 0 },
+        { "id": "b19-s3q3", "question": "3. 'Cross-selling' significa:", "options": ["añadir productos complementarios", "vender más barato"], "correctIndex": 0 },
+        { "id": "b19-s3q4", "question": "4. Un cierre suave de la oferta es:", "options": ["Shall I include that for you?", "You have to take it."], "correctIndex": 0 },
+        { "id": "b19-s3q5", "question": "5. Si el cliente rechaza el extra, lo correcto es:", "options": ["insistir con presión", "aceptarlo con amabilidad"], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b19-s3",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Ofrece a un cliente una mejora (upsell) y un complemento (cross-sell), enmarcando el precio como pequeño y cerrando con una pregunta suave.",
+        "placeholder": "Ej: For just €40 more, you could have the suite with a terrace. Many couples also add a spa session. Shall I include the suite for you?"
+      },
+      "notes": [
+        { "type": "tip", "text": "El mejor momento para el upsell es <b>después</b> de que el cliente ya se ha ilusionado (fase de presentación) y <b>antes</b> del cierre. Ofrece una sola mejora clara: demasiadas opciones paralizan la decisión." }
+      ]
+    },
+    {
+      "idx": "19.4",
+      "title": "Manejar objeciones",
+      "level": "B2",
+      "rule": "Una objeción no es un 'no', es una petición de más información. No discutas: <b>reconoce y responde</b>. Técnica <b class=\"hl\">feel–felt–found</b>: 'I understand how you <b>feel</b>; other clients <b>felt</b> the same, but they <b>found</b> that…'. Fórmulas: <b class=\"hl\">I understand, and…</b> (mejor que 'but'), <b class=\"hl\">That's a fair point.</b>, <b class=\"hl\">Let me put it in perspective.</b>. Para el precio, reconduce a valor: <b class=\"hl\">It's an investment in…</b>",
+      "dialogueTitle": "Objeción de precio",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "Honestly, it's a bit more than I wanted to spend.", "es": "Sinceramente, es un poco más de lo que quería gastar." },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">I completely understand</b>, and it's an important decision.", "es": "Lo entiendo perfectamente, y es una decisión importante." },
+        { "speaker": "Cliente", "en": "So why is it worth it?", "es": "¿Y por qué merece la pena?" },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">Let me put it in perspective</b>: it's about €13 a day more, for a memory you'll keep for years.", "es": "Permítame ponerlo en perspectiva: son unos 13 € más al día, por un recuerdo que guardarán durante años." },
+        { "speaker": "Cliente", "en": "Hmm, I'm still not sure.", "es": "Mmm, sigo sin estar seguro." },
+        { "speaker": "Comercial", "en": "Many clients <b class=\"hl\">felt</b> the same at first, but they <b class=\"hl\">found</b> the terrace made the whole trip.", "es": "Muchos clientes sintieron lo mismo al principio, pero descubrieron que la terraza marcó todo el viaje." },
+        { "speaker": "Cliente", "en": "When you put it that way…", "es": "Visto así…" },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">And</b> remember, it includes the cava — <b class=\"hl\">would that work</b> for you?", "es": "Y recuerde que incluye el cava. ¿Le encajaría?" }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">I completely understand</b>, and it's a big decision.", "es": "Lo entiendo perfectamente, y es una decisión importante." },
+        { "en": "<b class=\"hl\">That's a fair point.</b>", "es": "Es un buen argumento." },
+        { "en": "<b class=\"hl\">Let me put it in perspective</b>…", "es": "Permítame ponerlo en perspectiva…" },
+        { "en": "It's really <b class=\"hl\">an investment in</b> your comfort.", "es": "En realidad es una inversión en su comodidad." },
+        { "en": "Other clients <b class=\"hl\">felt</b> the same, but they <b class=\"hl\">found</b> that…", "es": "Otros clientes sintieron lo mismo, pero descubrieron que…" },
+        { "en": "<b class=\"hl\">What if</b> we spread the payment over the stay?", "es": "¿Y si repartimos el pago durante la estancia?" },
+        { "en": "<b class=\"hl\">May I ask</b> what's holding you back?", "es": "¿Le puedo preguntar qué le frena?" },
+        { "en": "It's only <b class=\"hl\">about €13 a day</b> — less than a coffee each.", "es": "Son solo unos 13 € al día: menos que un café cada uno." },
+        { "en": "<b class=\"hl\">I hear you</b>, and here's what I can do.", "es": "Le entiendo, y esto es lo que puedo hacer." },
+        { "en": "Would it help if I <b class=\"hl\">threw in</b> free breakfast?", "es": "¿Le ayudaría si incluyo el desayuno gratis?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Objeción", "Respuesta modelo"],
+          "rows": [
+            ["Es caro", "I understand — let me put it in perspective: it's €13 a day for…"],
+            ["Me lo tengo que pensar", "Of course. May I ask what's holding you back?"],
+            ["Lo he visto más barato", "That's a fair point. Ours includes X, Y and Z."],
+            ["No estoy seguro", "Many clients felt the same, but they found that…"],
+            ["Es mucho dinero", "It's really an investment in a memory you'll keep."],
+            ["No sé si lo usaré", "What if we start with the basic and upgrade later?"],
+            ["Ganar tiempo", "I hear you — here's what I can do."],
+            ["Cerrar la duda", "Would that work for you?"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b19-s4q1", "question": "1. Ante una objeción, lo mejor es:", "options": ["discutir y llevar la contraria", "reconocer y responder"], "correctIndex": 1 },
+        { "id": "b19-s4q2", "question": "2. La técnica clásica de tres pasos es:", "options": ["feel – felt – found", "stop – wait – push"], "correctIndex": 0 },
+        { "id": "b19-s4q3", "question": "3. Suena mejor enlazar con:", "options": ["I understand, but…", "I understand, and…"], "correctIndex": 1 },
+        { "id": "b19-s4q4", "question": "4. Para reconducir el precio a valor:", "options": ["It's an investment in…", "It's just expensive."], "correctIndex": 0 },
+        { "id": "b19-s4q5", "question": "5. Para descubrir la duda real del cliente:", "options": ["May I ask what's holding you back?", "Just decide now."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b19-s4",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un cliente dice que es demasiado caro. Responde reconociendo la objeción y reconduciendo a valor (usa 'I understand, and…' o 'feel–felt–found').",
+        "placeholder": "Ej: I completely understand, and it's a big decision. Let me put it in perspective: it's about €13 a day for a trip you'll remember for years. Many clients felt the same, but they found it was worth it."
+      },
+      "notes": [
+        { "type": "exception", "text": "Evita 'yes, but…': el 'but' borra todo lo anterior y suena a discusión. Usa <b>'I understand, and…'</b>. Y nunca critiques a la competencia; habla de <b>tu</b> valor." }
+      ]
+    },
+    {
+      "idx": "19.5",
+      "title": "Negociar y cerrar",
+      "level": "B2",
+      "rule": "Cerrar es pedir la decisión con naturalidad. <b>Cierre de prueba</b> (mide temperatura): <b class=\"hl\">How does that sound so far?</b>. <b>Cierre asumido</b>: <b class=\"hl\">Shall we go ahead and book it?</b>. <b>Cierre de alternativa</b>: <b class=\"hl\">Would you prefer the June or the July dates?</b>. En negociación, toda concesión va condicionada: <b class=\"hl\">If you book today, I can include…</b> (nunca regales sin recibir). Y confirma por escrito lo acordado.",
+      "dialogueTitle": "El cierre",
+      "dialogue": [
+        { "speaker": "Comercial", "en": "<b class=\"hl\">How does that sound so far?</b>", "es": "¿Qué le parece hasta aquí?" },
+        { "speaker": "Cliente", "en": "Good, but could you do anything on the price?", "es": "Bien, pero ¿podría hacer algo con el precio?" },
+        { "speaker": "Comercial", "en": "<b class=\"hl\">If you book today</b>, I can include the cava and a late check-out at no extra cost.", "es": "Si reserva hoy, puedo incluir el cava y una salida tardía sin coste." },
+        { "speaker": "Cliente", "en": "That works for me.", "es": "Eso me vale." },
+        { "speaker": "Comercial", "en": "Great. <b class=\"hl\">Would you prefer</b> the June or the July dates?", "es": "Estupendo. ¿Prefiere las fechas de junio o las de julio?" },
+        { "speaker": "Cliente", "en": "June, the second weekend.", "es": "Junio, el segundo fin de semana." },
+        { "speaker": "Comercial", "en": "Perfect. <b class=\"hl\">Shall we go ahead and book it?</b>", "es": "Perfecto. ¿Seguimos adelante y lo reservamos?" },
+        { "speaker": "Cliente", "en": "Yes, let's do it.", "es": "Sí, hagámoslo." },
+        { "speaker": "Comercial", "en": "Excellent choice. <b class=\"hl\">I'll email you the confirmation</b> right away.", "es": "Excelente elección. Le envío la confirmación por email ahora mismo." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">How does that sound so far?</b>", "es": "¿Qué le parece hasta aquí?" },
+        { "en": "<b class=\"hl\">Shall we go ahead</b> and book it?", "es": "¿Seguimos adelante y lo reservamos?" },
+        { "en": "<b class=\"hl\">Would you prefer</b> June or July?", "es": "¿Prefiere junio o julio?" },
+        { "en": "<b class=\"hl\">If you book today</b>, I can include breakfast.", "es": "Si reserva hoy, puedo incluir el desayuno." },
+        { "en": "<b class=\"hl\">All I need</b> is a card to confirm.", "es": "Solo necesito una tarjeta para confirmar." },
+        { "en": "<b class=\"hl\">Let's get this booked</b> for you.", "es": "Vamos a dejárselo reservado." },
+        { "en": "<b class=\"hl\">What would it take</b> to close this today?", "es": "¿Qué haría falta para cerrarlo hoy?" },
+        { "en": "I can hold this rate <b class=\"hl\">until the end of the day</b>.", "es": "Puedo mantener esta tarifa hasta el final del día." },
+        { "en": "<b class=\"hl\">Once you confirm</b>, I'll send everything in writing.", "es": "En cuanto confirme, le envío todo por escrito." },
+        { "en": "<b class=\"hl\">Congratulations</b> — you've made a great choice.", "es": "Enhorabuena, ha tomado una gran decisión." }
+      ],
+      "tables": [
+        {
+          "headers": ["Tipo de cierre", "Frase"],
+          "rows": [
+            ["Cierre de prueba", "How does that sound so far?"],
+            ["Cierre asumido", "Shall we go ahead and book it?"],
+            ["Cierre de alternativa", "Would you prefer June or July?"],
+            ["Concesión condicionada", "If you book today, I can include…"],
+            ["Urgencia (honesta)", "I can hold this rate until the end of the day."],
+            ["Pedir la acción", "All I need is a card to confirm."],
+            ["Reforzar la decisión", "You've made a great choice."],
+            ["Confirmar por escrito", "I'll email you the confirmation right away."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b19-s5q1", "question": "1. Un 'cierre de prueba' para medir el interés es:", "options": ["How does that sound so far?", "Pay now."], "correctIndex": 0 },
+        { "id": "b19-s5q2", "question": "2. El 'cierre de alternativa' ofrece:", "options": ["dos opciones que ambas cierran la venta", "sí o no"], "correctIndex": 0 },
+        { "id": "b19-s5q3", "question": "3. En negociación, una concesión debe ir:", "options": ["condicionada ('if you…, I can…')", "regalada sin más"], "correctIndex": 0 },
+        { "id": "b19-s5q4", "question": "4. Cierre asumido:", "options": ["Shall we go ahead and book it?", "Do you maybe want it?"], "correctIndex": 0 },
+        { "id": "b19-s5q5", "question": "5. Tras cerrar, siempre conviene:", "options": ["confirmar por escrito", "no volver a contactar"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b19-s5",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Cierra una venta: haz un cierre de prueba, ofrece una concesión condicionada y remata con un cierre asumido o de alternativa.",
+        "placeholder": "Ej: How does that sound so far? If you book today, I can include breakfast. Would you prefer June or July? Shall we go ahead and book it?"
+      },
+      "notes": [
+        { "type": "exception", "text": "Regla de negociación: <b>nunca regales una concesión sin pedir algo a cambio</b> ('If you book today…'). Y tras un 'sí', deja de vender: confirma, agradece y cierra. Seguir hablando puede reabrir dudas." }
+      ]
+    },
+    {
+      "idx": "19.6",
+      "title": "Seguimiento y postventa",
+      "level": "B1–B2",
+      "rule": "La venta no acaba al cerrar: el <b>seguimiento</b> genera repetición y recomendaciones. Agradece, confirma por escrito y mantén el contacto: <b class=\"hl\">Thank you for choosing us.</b>, <b class=\"hl\">I'll be your point of contact.</b>, <b class=\"hl\">Do get in touch if…</b>. Tras la estancia/compra, pide feedback y una recomendación con tacto: <b class=\"hl\">We'd love your feedback.</b>, <b class=\"hl\">If you know anyone who…</b>. Registro de email: saludo, cuerpo claro, cierre formal.",
+      "dialogueTitle": "Llamada de seguimiento",
+      "dialogue": [
+        { "speaker": "Comercial", "en": "Hello Mr. Parker, I'm just <b class=\"hl\">following up</b> on your booking. <b class=\"hl\">Is everything clear?</b>", "es": "Hola, Sr. Parker, le llamo para hacer seguimiento de su reserva. ¿Está todo claro?" },
+        { "speaker": "Cliente", "en": "Yes, thanks. I got the confirmation email.", "es": "Sí, gracias. Recibí el email de confirmación." },
+        { "speaker": "Comercial", "en": "Great. <b class=\"hl\">I'll be your point of contact</b>, so do get in touch if anything changes.", "es": "Perfecto. Yo seré su persona de contacto, así que no dude en escribirme si algo cambia." },
+        { "speaker": "Cliente", "en": "That's very helpful, thank you.", "es": "Es de gran ayuda, gracias." },
+        { "speaker": "Comercial", "en": "After your stay, <b class=\"hl\">we'd love your feedback</b> — it really helps us.", "es": "Tras su estancia, nos encantaría conocer su opinión: nos ayuda mucho." },
+        { "speaker": "Cliente", "en": "Of course, happy to.", "es": "Claro, encantado." },
+        { "speaker": "Comercial", "en": "And <b class=\"hl\">if you know anyone</b> celebrating something special, we'd be glad to look after them too.", "es": "Y si conoce a alguien que celebre algo especial, estaremos encantados de atenderles también." },
+        { "speaker": "Cliente", "en": "I'll definitely recommend you.", "es": "Sin duda les recomendaré." }
+      ],
+      "examples": [
+        { "en": "I'm just <b class=\"hl\">following up</b> on your booking.", "es": "Le llamo para hacer seguimiento de su reserva." },
+        { "en": "<b class=\"hl\">Thank you for choosing</b> us.", "es": "Gracias por elegirnos." },
+        { "en": "<b class=\"hl\">I'll be your point of contact.</b>", "es": "Yo seré su persona de contacto." },
+        { "en": "<b class=\"hl\">Do get in touch</b> if anything changes.", "es": "No dude en escribirme si algo cambia." },
+        { "en": "<b class=\"hl\">We'd love your feedback</b> after your stay.", "es": "Nos encantaría conocer su opinión tras su estancia." },
+        { "en": "<b class=\"hl\">If you know anyone who</b> might be interested, let us know.", "es": "Si conoce a alguien que pueda estar interesado, díganoslo." },
+        { "en": "It was <b class=\"hl\">a pleasure doing business with you</b>.", "es": "Ha sido un placer hacer negocios con usted." },
+        { "en": "<b class=\"hl\">We look forward to</b> welcoming you back.", "es": "Esperamos darle la bienvenida de nuevo." },
+        { "en": "Please don't hesitate to <b class=\"hl\">reach out</b>.", "es": "No dude en ponerse en contacto." },
+        { "en": "<b class=\"hl\">As promised</b>, here are the details in writing.", "es": "Como le prometí, aquí tiene los detalles por escrito." }
+      ],
+      "tables": [
+        {
+          "headers": ["Momento", "Frase"],
+          "rows": [
+            ["Confirmar tras cerrar", "Thank you for choosing us — as promised, here are the details."],
+            ["Ofrecerse como contacto", "I'll be your point of contact."],
+            ["Invitar a escribir", "Do get in touch if anything changes."],
+            ["Pedir feedback", "We'd love your feedback after your stay."],
+            ["Pedir recomendación", "If you know anyone who…, let us know."],
+            ["Cierre cordial", "It was a pleasure doing business with you."],
+            ["Fidelizar", "We look forward to welcoming you back."],
+            ["Saludo/cierre email", "Dear Mr. Parker, … Kind regards, [name]"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b19-s6q1", "question": "1. 'Hacer seguimiento' de una venta es:", "options": ["follow up", "give up"], "correctIndex": 0 },
+        { "id": "b19-s6q2", "question": "2. Para ofrecerte como referencia del cliente:", "options": ["I'll be your point of contact.", "Don't call me."], "correctIndex": 0 },
+        { "id": "b19-s6q3", "question": "3. Para pedir una recomendación con tacto:", "options": ["If you know anyone who…", "Bring me clients."], "correctIndex": 0 },
+        { "id": "b19-s6q4", "question": "4. Cierre cordial de una operación:", "options": ["It was a pleasure doing business with you.", "Finally, it's over."], "correctIndex": 0 },
+        { "id": "b19-s6q5", "question": "5. Para pedir opinión tras la estancia:", "options": ["We'd love your feedback.", "Don't complain."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b19-s6",
+        "label": "<span class=\"badge\">tu turno · email</span>Escribe un email breve de seguimiento tras cerrar una venta: agradece, confírmate como contacto y pide (con tacto) una recomendación.",
+        "placeholder": "Dear Mr. Parker,\n\nThank you for choosing us for your anniversary. As promised, your suite and cava are confirmed. I'll be your point of contact, so do get in touch if anything changes.\n\nWe'd love your feedback after your stay — and if you know anyone celebrating something special, we'd be glad to look after them too.\n\nKind regards,\n[Your name], Sales Team"
+      },
+      "notes": [
+        { "type": "tip", "text": "El seguimiento convierte una venta en muchas: un cliente satisfecho que se siente cuidado <b>repite y recomienda</b>. Un email de agradecimiento en 24 h y una petición de feedback bien planteada valen oro." }
+      ]
+    }
+  ]
+}

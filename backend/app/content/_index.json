@@ -88,5 +88,10 @@
     "block": "18",
     "title": "Recepción — Front desk (check-in)",
     "sectionCount": 5
+  },
+  {
+    "block": "19",
+    "title": "Ventas — Sales & closing",
+    "sectionCount": 6
   }
 ]
