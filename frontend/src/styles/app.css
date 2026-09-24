@@ -1057,3 +1057,104 @@ b.hl,
   color: var(--ink);
   font-style: italic;
 }
+
+/* ---- Diálogo / role-play (unidades temáticas) ---- */
+.dialogue {
+  margin: 0 0 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+  padding: 0.85rem 1rem 1rem;
+}
+.dialogue-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+.dialogue-tag {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--iris);
+  background: var(--iris-soft);
+  padding: 0.12rem 0.45rem;
+  border-radius: 5px;
+}
+.dialogue-title {
+  font-weight: 600;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+}
+.roleplay-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+}
+.rp-label {
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+  margin-right: 0.15rem;
+}
+.rp-btn {
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  padding: 0.18rem 0.6rem;
+  border-radius: 999px;
+  transition: all 0.12s;
+}
+.rp-btn:hover { border-color: var(--iris); color: var(--iris); }
+.rp-btn.active { background: var(--iris); border-color: var(--iris); color: #fff; }
+.rp-btn.rp-off { border-style: dashed; color: var(--ink-faint); }
+.dlg-turns {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.dlg-turn {
+  display: grid;
+  grid-template-columns: minmax(6.5rem, auto) 1fr;
+  gap: 0.1rem 0.85rem;
+  align-items: baseline;
+}
+.dlg-speaker {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  text-align: right;
+  padding-top: 0.1rem;
+  white-space: nowrap;
+}
+.dlg-turn.dlg-mine .dlg-speaker { color: var(--iris); font-weight: 600; }
+.dlg-body { min-width: 0; }
+.dlg-en { display: block; font-weight: 500; }
+.dlg-es {
+  display: block;
+  color: var(--ink-faint);
+  font-size: 0.88rem;
+  margin-top: 0.1rem;
+}
+.dlg-reveal {
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  border: 1px dashed var(--iris);
+  background: var(--iris-soft);
+  color: var(--iris);
+  padding: 0.35rem 0.7rem;
+  border-radius: 8px;
+}
+.dlg-reveal:hover { background: var(--surface); }

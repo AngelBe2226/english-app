@@ -1,0 +1,314 @@
+{
+  "block": "18",
+  "title": "Recepción — Front desk (check-in)",
+  "kicker": "Bloque 18 · Inglés temático · Recepción",
+  "intro": "Primera <b class=\"hl\">unidad temática</b>: inglés real de recepción, situación a situación. Cada epígrafe trae vocabulario, un <b class=\"hl\">diálogo con role-play</b> (elige tu papel y practica tus frases antes de verlas), frases clave, quiz y una tarea de producción. Pensado para el día a día del front desk.",
+  "legend": [
+    { "label": "Recepcionista", "desc": "tu papel — practícalo en el role-play" },
+    { "label": "Huésped", "desc": "el cliente al que atiendes" }
+  ],
+  "sections": [
+    {
+      "idx": "18.1",
+      "title": "Bienvenida y saludo",
+      "level": "A2",
+      "rule": "La bienvenida marca el tono de toda la estancia. Fórmulas clave: <b class=\"hl\">Welcome to…</b>, <b class=\"hl\">Good morning/afternoon/evening</b>, <b class=\"hl\">How may I help you?</b> (más formal que 'How can I help you?'). Para iniciar el trámite: <b class=\"hl\">Do you have a reservation?</b> y <b class=\"hl\">Under what name, please?</b> El registro es siempre cortés y con <b>please</b>/<b>thank you</b>; se trata al huésped de usted (en inglés, con tono y fórmulas, ya que no hay 'usted').",
+      "dialogueTitle": "Llegada de un huésped",
+      "dialogue": [
+        { "speaker": "Recepcionista", "en": "Good afternoon, and <b class=\"hl\">welcome to</b> the Grand Marina. <b class=\"hl\">How may I help you?</b>", "es": "Buenas tardes y bienvenido al Grand Marina. ¿En qué puedo ayudarle?" },
+        { "speaker": "Huésped", "en": "Hello, I have a reservation for tonight.", "es": "Hola, tengo una reserva para esta noche." },
+        { "speaker": "Recepcionista", "en": "Wonderful. <b class=\"hl\">Under what name, please?</b>", "es": "Estupendo. ¿A nombre de quién, por favor?" },
+        { "speaker": "Huésped", "en": "It's under Parker, David Parker.", "es": "A nombre de Parker, David Parker." },
+        { "speaker": "Recepcionista", "en": "Thank you, Mr. Parker. <b class=\"hl\">Let me just find your booking.</b> One moment, please.", "es": "Gracias, Sr. Parker. Permítame localizar su reserva. Un momento, por favor." },
+        { "speaker": "Huésped", "en": "Of course, take your time.", "es": "Claro, tómese su tiempo." },
+        { "speaker": "Recepcionista", "en": "Here it is — a double room for two nights. <b class=\"hl\">Is that correct?</b>", "es": "Aquí está: una habitación doble para dos noches. ¿Es correcto?" }
+      ],
+      "examples": [
+        { "en": "Good morning, <b class=\"hl\">welcome to</b> the Grand Marina.", "es": "Buenos días, bienvenido al Grand Marina." },
+        { "en": "<b class=\"hl\">How may I help you</b> today?", "es": "¿En qué puedo ayudarle hoy?" },
+        { "en": "<b class=\"hl\">Do you have a reservation</b> with us?", "es": "¿Tiene una reserva con nosotros?" },
+        { "en": "<b class=\"hl\">Under what name</b> is the booking?", "es": "¿A nombre de quién está la reserva?" },
+        { "en": "<b class=\"hl\">Let me just find</b> your reservation.", "es": "Permítame localizar su reserva." },
+        { "en": "<b class=\"hl\">One moment, please.</b>", "es": "Un momento, por favor." },
+        { "en": "It's a pleasure to <b class=\"hl\">have you with us</b>.", "es": "Es un placer tenerle con nosotros." },
+        { "en": "<b class=\"hl\">Is that correct?</b>", "es": "¿Es correcto?" },
+        { "en": "How was your <b class=\"hl\">journey</b>?", "es": "¿Qué tal el viaje?" },
+        { "en": "Please <b class=\"hl\">take a seat</b> while I check.", "es": "Por favor, tome asiento mientras compruebo." }
+      ],
+      "tables": [
+        {
+          "headers": ["Función", "Frase útil"],
+          "rows": [
+            ["Saludar", "Good morning / afternoon / evening"],
+            ["Dar la bienvenida", "Welcome to [hotel]."],
+            ["Ofrecer ayuda (formal)", "How may I help you?"],
+            ["Preguntar por la reserva", "Do you have a reservation?"],
+            ["Pedir el nombre", "Under what name, please?"],
+            ["Pedir que espere", "One moment, please. / Bear with me."],
+            ["Confirmar datos", "Is that correct? / Let me confirm…"],
+            ["Cortesía de cierre", "It's a pleasure to have you with us."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b18-s1q1", "question": "1. La forma más formal de ofrecer ayuda es:", "options": ["How may I help you?", "What do you want?"], "correctIndex": 0 },
+        { "id": "b18-s1q2", "question": "2. Para preguntar a nombre de quién está la reserva:", "options": ["Who are you?", "Under what name, please?"], "correctIndex": 1 },
+        { "id": "b18-s1q3", "question": "3. 'Welcome ___ the Grand Marina.' (preposición)", "options": ["to", "at"], "correctIndex": 0 },
+        { "id": "b18-s1q4", "question": "4. Para pedir cortésmente que el huésped espere:", "options": ["Wait.", "One moment, please."], "correctIndex": 1 },
+        { "id": "b18-s1q5", "question": "5. '¿Tiene una reserva?' se dice:", "options": ["Do you have a reservation?", "Have you a reserve?"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b18-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe cómo darías la bienvenida a un huésped que acaba de llegar y pedirle el nombre de su reserva (2–3 frases).",
+        "placeholder": "Ej: Good evening, welcome to the Grand Marina. How may I help you? Do you have a reservation? Under what name, please?"
+      },
+      "notes": [
+        { "type": "tip", "text": "<b>How may I help you?</b> suena más profesional que 'How can I help you?'. Y usa el <b>apellido con Mr./Ms.</b> en cuanto lo sepas: personaliza el trato sin ser invasivo." }
+      ]
+    },
+    {
+      "idx": "18.2",
+      "title": "El check-in paso a paso",
+      "level": "A2–B1",
+      "rule": "El check-in sigue una secuencia fija que conviene dominar: 1) confirmar la reserva, 2) pedir <b class=\"hl\">documento de identidad/pasaporte</b>, 3) tomar los datos de la <b class=\"hl\">tarjeta de crédito</b> (depósito/garantía), 4) explicar los <b class=\"hl\">detalles de la habitación</b> (planta, desayuno, wifi), 5) entregar la <b class=\"hl\">tarjeta llave</b> y 6) dar indicaciones. Frases pivote: <b class=\"hl\">May I see your ID/passport, please?</b>, <b class=\"hl\">Could I take a card for the deposit?</b>, <b class=\"hl\">Here's your key card.</b>",
+      "dialogueTitle": "Check-in completo",
+      "dialogue": [
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">May I see your passport</b>, please?", "es": "¿Me permite su pasaporte, por favor?" },
+        { "speaker": "Huésped", "en": "Sure, here you are.", "es": "Claro, aquí tiene." },
+        { "speaker": "Recepcionista", "en": "Thank you. <b class=\"hl\">Could I take a card</b> for the security deposit?", "es": "Gracias. ¿Me facilita una tarjeta para el depósito de garantía?" },
+        { "speaker": "Huésped", "en": "Is the deposit refundable?", "es": "¿El depósito es reembolsable?" },
+        { "speaker": "Recepcionista", "en": "Yes, it's <b class=\"hl\">released at check-out</b> if there are no charges. You're <b class=\"hl\">in room 402, on the fourth floor</b>.", "es": "Sí, se libera al hacer el check-out si no hay cargos. Está en la habitación 402, en la cuarta planta." },
+        { "speaker": "Huésped", "en": "Great. What time is breakfast?", "es": "Genial. ¿A qué hora es el desayuno?" },
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">Breakfast is served</b> from seven to ten in the main restaurant. Here's your <b class=\"hl\">key card</b> — the wifi password is on the back.", "es": "El desayuno se sirve de siete a diez en el restaurante principal. Aquí tiene su tarjeta llave; la contraseña del wifi está detrás." },
+        { "speaker": "Huésped", "en": "Perfect, thank you so much.", "es": "Perfecto, muchísimas gracias." },
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">Enjoy your stay</b>. The lifts are just to your left.", "es": "Que disfrute su estancia. Los ascensores están a su izquierda." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">May I see your ID</b>, please?", "es": "¿Me permite su documento de identidad, por favor?" },
+        { "en": "<b class=\"hl\">Could I take a card</b> for the deposit?", "es": "¿Me facilita una tarjeta para el depósito?" },
+        { "en": "The deposit is <b class=\"hl\">released at check-out</b>.", "es": "El depósito se libera al hacer el check-out." },
+        { "en": "You're in <b class=\"hl\">room 402, on the fourth floor</b>.", "es": "Está en la habitación 402, en la cuarta planta." },
+        { "en": "<b class=\"hl\">Breakfast is served</b> from 7 to 10.", "es": "El desayuno se sirve de 7 a 10." },
+        { "en": "Here's your <b class=\"hl\">key card</b>.", "es": "Aquí tiene su tarjeta llave." },
+        { "en": "<b class=\"hl\">Check-out is at</b> noon.", "es": "El check-out es al mediodía." },
+        { "en": "Could you <b class=\"hl\">fill in</b> this form, please?", "es": "¿Podría rellenar este formulario, por favor?" },
+        { "en": "The lifts are <b class=\"hl\">just to your left</b>.", "es": "Los ascensores están justo a su izquierda." },
+        { "en": "<b class=\"hl\">Enjoy your stay</b> with us.", "es": "Que disfrute su estancia con nosotros." }
+      ],
+      "tables": [
+        {
+          "headers": ["Término", "Significado"],
+          "rows": [
+            ["reservation / booking", "reserva"],
+            ["ID / passport", "documento de identidad / pasaporte"],
+            ["security deposit", "depósito de garantía"],
+            ["key card", "tarjeta llave"],
+            ["floor", "planta"],
+            ["check-out", "salida / registro de salida"],
+            ["registration form", "ficha de registro"],
+            ["luggage", "equipaje"],
+            ["lift (GB) / elevator (US)", "ascensor"],
+            ["amenities", "servicios / comodidades"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b18-s2q1", "question": "1. Para pedir el pasaporte cortésmente:", "options": ["Give me your passport.", "May I see your passport, please?"], "correctIndex": 1 },
+        { "id": "b18-s2q2", "question": "2. 'Está en la habitación 402, en la cuarta ___.'", "options": ["floor", "ground"], "correctIndex": 0 },
+        { "id": "b18-s2q3", "question": "3. La tarjeta para abrir la habitación es la:", "options": ["credit card", "key card"], "correctIndex": 1 },
+        { "id": "b18-s2q4", "question": "4. 'El desayuno ___ de 7 a 10.' (pasiva)", "options": ["is served", "serves"], "correctIndex": 0 },
+        { "id": "b18-s2q5", "question": "5. '¿Podría rellenar el formulario?' (phrasal verb)", "options": ["fill in", "fill up"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b18-s2",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Escribe tus frases de recepcionista para un check-in completo: pedir el pasaporte, tomar la tarjeta, dar el número de habitación y explicar el desayuno.",
+        "placeholder": "Ej: May I see your passport, please? Could I take a card for the deposit? You're in room 402 on the fourth floor. Breakfast is served from 7 to 10. Here's your key card — enjoy your stay."
+      },
+      "notes": [
+        { "type": "tip", "text": "Da la información en <b>bloques cortos</b> y confirma sobre la marcha: número de habitación → planta → desayuno → wifi → llave. Termina siempre con <b>Enjoy your stay</b> y una indicación (dónde están los ascensores)." }
+      ]
+    },
+    {
+      "idx": "18.3",
+      "title": "Peticiones, servicios y la habitación",
+      "level": "B1",
+      "rule": "El huésped pedirá cosas y tú ofrecerás servicios. Para <b>ofrecer</b>: <b class=\"hl\">Would you like…?</b>, <b class=\"hl\">Shall I…?</b>, <b class=\"hl\">Let me…</b>. Para <b>responder a una petición</b>: <b class=\"hl\">Certainly.</b>, <b class=\"hl\">Of course.</b>, <b class=\"hl\">I'll arrange that right away.</b>. Cuando algo no es posible, suaviza: <b class=\"hl\">I'm afraid…</b> + alternativa. Vocabulario de servicios: late check-out, wake-up call, extra bed, room service, luggage assistance.",
+      "dialogueTitle": "El huésped pide servicios",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "Could we have a <b class=\"hl\">late check-out</b> tomorrow?", "es": "¿Podríamos tener una salida tardía mañana?" },
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">Certainly.</b> I can offer check-out until 2 p.m. <b class=\"hl\">Would that work</b> for you?", "es": "Por supuesto. Puedo ofrecerle la salida hasta las 2 de la tarde. ¿Le vendría bien?" },
+        { "speaker": "Huésped", "en": "That's perfect. Also, is there room service?", "es": "Perfecto. Además, ¿hay servicio de habitaciones?" },
+        { "speaker": "Recepcionista", "en": "Yes, <b class=\"hl\">room service is available</b> 24 hours. The menu is in your room.", "es": "Sí, el servicio de habitaciones está disponible 24 horas. La carta está en su habitación." },
+        { "speaker": "Huésped", "en": "Great. Could I also get a wake-up call at six?", "es": "Genial. ¿Me podrían dar también una llamada despertador a las seis?" },
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">Of course.</b> I'll set a wake-up call for 6 a.m. <b class=\"hl\">Is there anything else</b> I can help you with?", "es": "Por supuesto. Le programo la llamada para las 6. ¿Hay algo más en lo que pueda ayudarle?" },
+        { "speaker": "Huésped", "en": "No, that's everything. Thank you.", "es": "No, eso es todo. Gracias." },
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">My pleasure.</b> Just dial zero if you need anything.", "es": "Es un placer. Marque el cero si necesita cualquier cosa." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Would you like</b> help with your luggage?", "es": "¿Le ayudo con el equipaje?" },
+        { "en": "<b class=\"hl\">Shall I</b> book a taxi for you?", "es": "¿Le reservo un taxi?" },
+        { "en": "<b class=\"hl\">Certainly</b>, I'll arrange that right away.", "es": "Por supuesto, lo organizo enseguida." },
+        { "en": "<b class=\"hl\">Room service is available</b> 24 hours.", "es": "El servicio de habitaciones está disponible 24 horas." },
+        { "en": "I'll set a <b class=\"hl\">wake-up call</b> for six.", "es": "Le programo una llamada despertador a las seis." },
+        { "en": "<b class=\"hl\">I'm afraid</b> the pool is closed, but the spa is open.", "es": "Me temo que la piscina está cerrada, pero el spa está abierto." },
+        { "en": "Would you like an <b class=\"hl\">extra bed</b> in the room?", "es": "¿Desea una cama supletoria en la habitación?" },
+        { "en": "<b class=\"hl\">Is there anything else</b> I can help you with?", "es": "¿Hay algo más en lo que pueda ayudarle?" },
+        { "en": "Just <b class=\"hl\">dial zero</b> to reach reception.", "es": "Marque el cero para contactar con recepción." },
+        { "en": "<b class=\"hl\">My pleasure.</b>", "es": "Es un placer." }
+      ],
+      "tables": [
+        {
+          "headers": ["Servicio / petición", "Inglés"],
+          "rows": [
+            ["salida tardía", "late check-out"],
+            ["llamada despertador", "wake-up call"],
+            ["cama supletoria", "extra bed"],
+            ["servicio de habitaciones", "room service"],
+            ["ayuda con el equipaje", "luggage assistance"],
+            ["caja fuerte", "safe / safety deposit box"],
+            ["objetos perdidos", "lost and found"],
+            ["cambio de habitación", "room change"],
+            ["reservar un taxi", "book a taxi"],
+            ["recogida en el aeropuerto", "airport pickup / transfer"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b18-s3q1", "question": "1. Para ofrecerte a llevar el equipaje:", "options": ["Would you like help with your luggage?", "You carry your luggage."], "correctIndex": 0 },
+        { "id": "b18-s3q2", "question": "2. 'Salida tardía' es:", "options": ["late check-out", "slow exit"], "correctIndex": 0 },
+        { "id": "b18-s3q3", "question": "3. Para suavizar una mala noticia empiezas con:", "options": ["I'm afraid…", "You must know…"], "correctIndex": 0 },
+        { "id": "b18-s3q4", "question": "4. Respuesta cortés y afirmativa a una petición:", "options": ["Certainly.", "Maybe not."], "correctIndex": 0 },
+        { "id": "b18-s3q5", "question": "5. 'Marque el cero' se dice:", "options": ["Press nothing.", "Dial zero."], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b18-s3",
+        "label": "<span class=\"badge\">tu turno</span>Un huésped pide late check-out y una llamada despertador. Escribe tus respuestas como recepcionista, ofreciendo un servicio extra.",
+        "placeholder": "Ej: Certainly, I can offer check-out until 2 p.m. I'll set a wake-up call for six. Would you like help with your luggage in the morning?"
+      },
+      "notes": [
+        { "type": "tip", "text": "Cuando no puedas conceder algo, no digas solo 'no': usa <b>I'm afraid…</b> + una <b>alternativa</b> ('I'm afraid the gym is closed, but the pool is open until ten'). Deja siempre una puerta abierta." }
+      ]
+    },
+    {
+      "idx": "18.4",
+      "title": "Incidencias y quejas en el check-in",
+      "level": "B1–B2",
+      "rule": "Gestionar una queja con calma fideliza al huésped. La secuencia LAST: <b class=\"hl\">Listen</b> (escuchar), <b class=\"hl\">Apologise</b> (disculparse), <b class=\"hl\">Solve</b> (resolver) y <b class=\"hl\">Thank</b> (agradecer). Frases clave: <b class=\"hl\">I'm terribly sorry about that.</b>, <b class=\"hl\">Let me sort that out for you.</b>, <b class=\"hl\">I'll send someone up right away.</b>. Nunca eches la culpa; asume la responsabilidad en nombre del hotel: <b class=\"hl\">Please accept our apologies.</b>",
+      "dialogueTitle": "Un problema con la habitación",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "Excuse me, there's <b class=\"hl\">no hot water</b> in my room.", "es": "Disculpe, no hay agua caliente en mi habitación." },
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">I'm terribly sorry about that.</b> That's not the experience we want for you.", "es": "Lo siento muchísimo. No es la experiencia que queremos ofrecerle." },
+        { "speaker": "Huésped", "en": "I've been waiting twenty minutes.", "es": "Llevo veinte minutos esperando." },
+        { "speaker": "Recepcionista", "en": "I completely understand. <b class=\"hl\">Let me sort that out</b> for you right now. <b class=\"hl\">I'll send someone up</b> to check it within five minutes.", "es": "Lo entiendo perfectamente. Permítame resolverlo ahora mismo. Enviaré a alguien a revisarlo en cinco minutos." },
+        { "speaker": "Huésped", "en": "And if it can't be fixed tonight?", "es": "¿Y si no puede arreglarse esta noche?" },
+        { "speaker": "Recepcionista", "en": "In that case, <b class=\"hl\">I'll move you</b> to an equivalent room at no charge. <b class=\"hl\">Please accept our apologies.</b>", "es": "En ese caso, le cambiaré a una habitación equivalente sin coste. Le pedimos disculpas." },
+        { "speaker": "Huésped", "en": "Thank you, I appreciate that.", "es": "Gracias, se lo agradezco." },
+        { "speaker": "Recepcionista", "en": "<b class=\"hl\">Thank you for your patience</b>, Mr. Parker. I'll follow up personally.", "es": "Gracias por su paciencia, Sr. Parker. Haré el seguimiento personalmente." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">I'm terribly sorry</b> about that.", "es": "Lo siento muchísimo." },
+        { "en": "<b class=\"hl\">I completely understand</b> your frustration.", "es": "Entiendo perfectamente su frustración." },
+        { "en": "<b class=\"hl\">Let me sort that out</b> for you.", "es": "Permítame resolverlo." },
+        { "en": "<b class=\"hl\">I'll send someone up</b> right away.", "es": "Enviaré a alguien enseguida." },
+        { "en": "<b class=\"hl\">I'll move you</b> to another room at no charge.", "es": "Le cambiaré a otra habitación sin coste." },
+        { "en": "<b class=\"hl\">Please accept our apologies.</b>", "es": "Le pedimos disculpas." },
+        { "en": "As a gesture, <b class=\"hl\">breakfast is on us</b> tomorrow.", "es": "Como detalle, el desayuno de mañana corre por nuestra cuenta." },
+        { "en": "<b class=\"hl\">Thank you for your patience.</b>", "es": "Gracias por su paciencia." },
+        { "en": "I'll <b class=\"hl\">follow up</b> personally.", "es": "Haré el seguimiento personalmente." },
+        { "en": "<b class=\"hl\">Is everything to your satisfaction</b> now?", "es": "¿Está todo a su gusto ahora?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Paso (LAST)", "Frase modelo"],
+          "rows": [
+            ["Listen — escuchar", "I completely understand. / I see."],
+            ["Apologise — disculparse", "I'm terribly sorry about that."],
+            ["Solve — resolver", "Let me sort that out for you right away."],
+            ["Thank — agradecer", "Thank you for your patience."],
+            ["Asumir la culpa", "Please accept our apologies."],
+            ["Compensar", "Breakfast is on us. / Let me upgrade you."],
+            ["Actuar rápido", "I'll send someone up within five minutes."],
+            ["Cerrar el círculo", "I'll follow up personally."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b18-s4q1", "question": "1. La secuencia recomendada para una queja (LAST) es:", "options": ["Listen, Apologise, Solve, Thank", "Laugh, Argue, Stop, Talk"], "correctIndex": 0 },
+        { "id": "b18-s4q2", "question": "2. Para disculparte con sinceridad:", "options": ["It's not my fault.", "I'm terribly sorry about that."], "correctIndex": 1 },
+        { "id": "b18-s4q3", "question": "3. 'Permítame resolverlo' se dice:", "options": ["Let me sort that out for you.", "It's your problem."], "correctIndex": 0 },
+        { "id": "b18-s4q4", "question": "4. 'El desayuno corre por nuestra cuenta':", "options": ["Breakfast is on us.", "Breakfast is on you."], "correctIndex": 0 },
+        { "id": "b18-s4q5", "question": "5. Para cerrar una queja bien gestionada:", "options": ["Thank you for your patience.", "Please leave now."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b18-s4",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped se queja de que su habitación está sucia. Escribe tu respuesta siguiendo LAST: escucha, disculpa, solución y agradecimiento.",
+        "placeholder": "Ej: I'm terribly sorry about that — I completely understand. Let me sort that out for you right away. I'll send housekeeping up within five minutes, and I'll move you if needed. Thank you for your patience."
+      },
+      "notes": [
+        { "type": "exception", "text": "Nunca culpes al huésped ni a un compañero delante del cliente ('housekeeping forgot'). Asume la responsabilidad <b>en nombre del hotel</b>: 'Please accept <b>our</b> apologies'. Y ofrece una <b>solución concreta con plazo</b>, no un simple 'sorry'." }
+      ]
+    },
+    {
+      "idx": "18.5",
+      "title": "Al teléfono y por email",
+      "level": "B1",
+      "rule": "Mucho contacto de recepción es por teléfono y correo. Al teléfono: <b class=\"hl\">Good morning, reception, how may I help you?</b>, <b class=\"hl\">Could you hold the line, please?</b>, <b class=\"hl\">I'll put you through.</b>, <b class=\"hl\">Can I take a message?</b>. Deletrea nombres con el alfabeto fonético o 'as in' (M as in Mike). En email, registro formal: saludo (<b class=\"hl\">Dear Mr. Parker,</b>), cuerpo claro y cierre (<b class=\"hl\">Kind regards,</b>). Confirma siempre fechas y datos por escrito.",
+      "dialogueTitle": "Reserva por teléfono",
+      "dialogue": [
+        { "speaker": "Recepcionista", "en": "Good morning, reception. <b class=\"hl\">How may I help you?</b>", "es": "Buenos días, recepción. ¿En qué puedo ayudarle?" },
+        { "speaker": "Huésped", "en": "Hi, I'd like to book a room for next weekend.", "es": "Hola, quisiera reservar una habitación para el próximo fin de semana." },
+        { "speaker": "Recepcionista", "en": "Of course. <b class=\"hl\">May I take your name</b>, please?", "es": "Por supuesto. ¿Me da su nombre, por favor?" },
+        { "speaker": "Huésped", "en": "It's Hughes — H-U-G-H-E-S.", "es": "Es Hughes: H-U-G-H-E-S." },
+        { "speaker": "Recepcionista", "en": "Thank you. <b class=\"hl\">Let me just check availability.</b> Could you hold the line, please?", "es": "Gracias. Permítame comprobar la disponibilidad. ¿Puede esperar en línea, por favor?" },
+        { "speaker": "Huésped", "en": "Sure.", "es": "Claro." },
+        { "speaker": "Recepcionista", "en": "We have a double available. <b class=\"hl\">I'll email you a confirmation</b> with the details. What's your email address?", "es": "Tenemos una doble disponible. Le enviaré la confirmación por email con los detalles. ¿Cuál es su correo?" },
+        { "speaker": "Huésped", "en": "It's j.hughes@email.com.", "es": "Es j.hughes@email.com." },
+        { "speaker": "Recepcionista", "en": "Perfect. You'll receive it shortly. <b class=\"hl\">Is there anything else?</b>", "es": "Perfecto. Lo recibirá en breve. ¿Algo más?" }
+      ],
+      "examples": [
+        { "en": "Good morning, reception, <b class=\"hl\">how may I help you?</b>", "es": "Buenos días, recepción, ¿en qué puedo ayudarle?" },
+        { "en": "<b class=\"hl\">Could you hold the line</b>, please?", "es": "¿Puede esperar en línea, por favor?" },
+        { "en": "<b class=\"hl\">I'll put you through</b> to housekeeping.", "es": "Le paso con el servicio de limpieza." },
+        { "en": "<b class=\"hl\">Can I take a message?</b>", "es": "¿Quiere dejar un mensaje?" },
+        { "en": "Could you <b class=\"hl\">spell that</b> for me? M as in Mike?", "es": "¿Me lo deletrea? ¿M de Mike?" },
+        { "en": "<b class=\"hl\">Let me just check availability.</b>", "es": "Permítame comprobar la disponibilidad." },
+        { "en": "<b class=\"hl\">I'll email you a confirmation</b> shortly.", "es": "Le enviaré la confirmación por email en breve." },
+        { "en": "<b class=\"hl\">Dear Mr. Parker,</b> thank you for your reservation.", "es": "Estimado Sr. Parker, gracias por su reserva." },
+        { "en": "Please <b class=\"hl\">let us know</b> if you have any questions.", "es": "No dude en decirnos si tiene alguna pregunta." },
+        { "en": "<b class=\"hl\">Kind regards,</b> The Front Desk Team.", "es": "Un cordial saludo, el equipo de recepción." }
+      ],
+      "tables": [
+        {
+          "headers": ["Situación", "Frase"],
+          "rows": [
+            ["Contestar la llamada", "Good morning, reception. How may I help you?"],
+            ["Pedir que esperen", "Could you hold the line, please?"],
+            ["Transferir la llamada", "I'll put you through to…"],
+            ["Tomar un mensaje", "Can I take a message?"],
+            ["Deletrear", "Could you spell that? — B as in Bravo…"],
+            ["Saludo de email", "Dear Mr./Ms. [name],"],
+            ["Cuerpo — confirmar", "I'm writing to confirm your reservation for…"],
+            ["Ofrecer ayuda", "Please let us know if you have any questions."],
+            ["Cierre formal", "Kind regards, / Best regards,"],
+            ["Firma", "The Front Desk Team, Grand Marina"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b18-s5q1", "question": "1. Para pedir que esperen al teléfono:", "options": ["Could you hold the line, please?", "Stay there."], "correctIndex": 0 },
+        { "id": "b18-s5q2", "question": "2. 'Le paso con…' se dice:", "options": ["I'll put you through to…", "I'll give you to…"], "correctIndex": 0 },
+        { "id": "b18-s5q3", "question": "3. Saludo formal de un email a un cliente:", "options": ["Hey!", "Dear Mr. Parker,"], "correctIndex": 1 },
+        { "id": "b18-s5q4", "question": "4. Cierre formal de email:", "options": ["Kind regards,", "See ya,"], "correctIndex": 0 },
+        { "id": "b18-s5q5", "question": "5. Para deletrear la letra M al teléfono:", "options": ["M as in Mike", "M like moon maybe"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b18-s5",
+        "label": "<span class=\"badge\">tu turno · email</span>Escribe un email breve confirmando la reserva del Sr. Parker: una habitación doble, dos noches, con desayuno. Usa saludo formal, cuerpo claro y cierre.",
+        "placeholder": "Dear Mr. Parker,\n\nThank you for your reservation. I'm writing to confirm your booking: a double room for two nights, including breakfast, arriving on Friday.\n\nPlease let us know if you have any questions.\n\nKind regards,\nThe Front Desk Team, Grand Marina"
+      },
+      "notes": [
+        { "type": "tip", "text": "Al teléfono, <b>repite y confirma</b> los datos clave (nombre deletreado, fechas, email) antes de colgar: evita errores caros. Y envía siempre una <b>confirmación por escrito</b>: 'I'll email you a confirmation'." }
+      ]
+    }
+  ]
+}

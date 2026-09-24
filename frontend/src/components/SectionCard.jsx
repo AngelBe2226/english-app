@@ -2,6 +2,7 @@ import RichText from "./RichText";
 import Table from "./Table";
 import Quiz from "./Quiz";
 import ProduceBox from "./ProduceBox";
+import Dialogue from "./Dialogue";
 import HighlightButton from "./HighlightButton";
 import { useProgress } from "../progress";
 
@@ -83,6 +84,14 @@ export default function SectionCard({ section }) {
             </li>
           ))}
         </ul>
+      )}
+
+      {section.dialogue?.length > 0 && (
+        <Dialogue
+          dialogue={section.dialogue}
+          title={section.dialogueTitle}
+          hlId={`hl:${section.idx}-dialogue`}
+        />
       )}
 
       {section.tables?.map((t, i) => (
