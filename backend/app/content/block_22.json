@@ -1,0 +1,419 @@
+{
+  "block": "22",
+  "title": "Funciones comunicativas — Can-do por nivel",
+  "kicker": "Bloque 22 · Eje funcional · A2–C1",
+  "intro": "El eje que faltaba: el inglés organizado por <b class=\"hl\">para qué</b> (funciones comunicativas), no por gramática. Cada epígrafe es una función (pedir, sugerir, opinar, disculparse…) con sus <b class=\"hl\">exponentes graduados por nivel</b>: la misma intención, del A2 al C1. Aprende a decir lo mismo con el registro adecuado a cada situación.",
+  "legend": [
+    { "label": "A2", "desc": "básico, directo" },
+    { "label": "B1", "desc": "cortés, cotidiano" },
+    { "label": "B2", "desc": "matizado, profesional" },
+    { "label": "C1", "desc": "sofisticado, indirecto" }
+  ],
+  "sections": [
+    {
+      "idx": "22.1",
+      "title": "Saludar, presentarse y despedirse",
+      "level": "A2–B1",
+      "rule": "La función más frecuente y la primera impresión. El <b>registro</b> sube con la formalidad de la situación: de <b class=\"hl\">Hi, I'm…</b> (informal) a <b class=\"hl\">Good morning, my name is… — it's a pleasure to meet you.</b> (formal). Al despedirse, de <b class=\"hl\">Bye!</b> a <b class=\"hl\">It was a pleasure. I look forward to seeing you again.</b>. Elige el nivel según con quién hablas: un compañero, un huésped o un directivo.",
+      "examples": [
+        { "en": "<b class=\"hl\">Hi, I'm Ana. Nice to meet you.</b> (A2, informal)", "es": "Hola, soy Ana. Encantada." },
+        { "en": "<b class=\"hl\">Hello, I'm Ana from reception. Pleased to meet you.</b> (B1)", "es": "Hola, soy Ana, de recepción. Encantada de conocerle." },
+        { "en": "<b class=\"hl\">Good morning, my name is Ana. It's a pleasure to meet you.</b> (B2, formal)", "es": "Buenos días, me llamo Ana. Es un placer conocerle." },
+        { "en": "<b class=\"hl\">Allow me to introduce myself — I'm Ana, the duty manager.</b> (C1)", "es": "Permítame que me presente: soy Ana, la gerente de turno." },
+        { "en": "<b class=\"hl\">This is my colleague, Tom.</b> (presentar a otro)", "es": "Le presento a mi compañero, Tom." },
+        { "en": "<b class=\"hl\">How do you do?</b> (muy formal, primer encuentro)", "es": "¿Cómo está usted? (muy formal)" },
+        { "en": "<b class=\"hl\">Bye! See you!</b> (A2)", "es": "¡Adiós! ¡Hasta luego!" },
+        { "en": "<b class=\"hl\">Have a good day, see you soon.</b> (B1)", "es": "Que tenga un buen día, hasta pronto." },
+        { "en": "<b class=\"hl\">It was a pleasure. I hope to see you again.</b> (B2)", "es": "Ha sido un placer. Espero volver a verle." },
+        { "en": "<b class=\"hl\">It's been a real pleasure. Do keep in touch.</b> (C1)", "es": "Ha sido un verdadero placer. No pierda el contacto." }
+      ],
+      "tables": [
+        {
+          "headers": ["Nivel", "Presentarse", "Despedirse"],
+          "rows": [
+            ["A2", "Hi, I'm… / Nice to meet you.", "Bye! See you!"],
+            ["B1", "Hello, I'm… Pleased to meet you.", "Have a good day, see you soon."],
+            ["B2", "Good morning, my name is… It's a pleasure.", "It was a pleasure. I hope to see you again."],
+            ["C1", "Allow me to introduce myself…", "It's been a real pleasure. Do keep in touch."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s1q1", "question": "1. Presentación más formal (a un directivo):", "options": ["Hi, I'm Ana.", "Allow me to introduce myself — I'm Ana."], "correctIndex": 1 },
+        { "id": "b22-s1q2", "question": "2. 'How do you do?' es un saludo:", "options": ["muy formal, en un primer encuentro", "informal entre amigos"], "correctIndex": 0 },
+        { "id": "b22-s1q3", "question": "3. Para presentar a un compañero:", "options": ["This is my colleague, Tom.", "He is Tom, me."], "correctIndex": 0 },
+        { "id": "b22-s1q4", "question": "4. Despedida profesional cálida:", "options": ["Bye!", "It was a pleasure. I hope to see you again."], "correctIndex": 1 },
+        { "id": "b22-s1q5", "question": "5. El registro debe elegirse según:", "options": ["con quién hablas y la situación", "siempre el más informal"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b22-s1",
+        "label": "<span class=\"badge\">tu turno</span>Preséntate a un huésped importante en registro formal (B2–C1) y despídete de forma cálida y profesional.",
+        "placeholder": "Ej: Good evening, my name is Ana, the duty manager. It's a pleasure to have you with us. … It's been a real pleasure — do let us know if you need anything.",
+        "rubric": [
+          "¿Usas un saludo <b>formal</b> acorde a la situación?",
+          "¿Das tu <b>nombre y función</b> con claridad?",
+          "¿Incluyes una fórmula de cortesía (It's a pleasure…)?",
+          "¿Cierras con una <b>despedida</b> cálida y adecuada al nivel?"
+        ],
+        "model": "Good evening, my name is Ana, the duty manager here at the Grand Marina. It's a real pleasure to have you with us. Please don't hesitate to ask if there's anything at all I can do to make your stay more comfortable.\n\nIt's been a pleasure meeting you — do let us know if you need anything, and we look forward to welcoming you back."
+      },
+      "notes": [
+        { "type": "tip", "text": "No mezcles registros: 'Good morning, sir. Hi, what's up?' choca. Elige un nivel y mantenlo. Con clientes internacionales, tira a formal por defecto; ellos marcan si quieren bajar el tono." }
+      ]
+    },
+    {
+      "idx": "22.2",
+      "title": "Pedir y ofrecer (requests & offers)",
+      "level": "A2–C1",
+      "rule": "Pedir algo sube en cortesía cuanto más indirecto: <b class=\"hl\">Can you…?</b> (A2) → <b class=\"hl\">Could you…?</b> (B1) → <b class=\"hl\">Would you mind…?</b> (B2) → <b class=\"hl\">I was wondering if you might…</b> (C1). Ofrecer también: <b class=\"hl\">Do you want…?</b> → <b class=\"hl\">Would you like…?</b> → <b class=\"hl\">Shall I…?</b> → <b class=\"hl\">Would you care for…?</b>. Cuanto mayor la petición o más formal la persona, más indirecta la fórmula.",
+      "examples": [
+        { "en": "<b class=\"hl\">Can you help me?</b> (A2, directo)", "es": "¿Me puedes ayudar?" },
+        { "en": "<b class=\"hl\">Could you send me the details?</b> (B1, cortés)", "es": "¿Podrías enviarme los detalles?" },
+        { "en": "<b class=\"hl\">Would you mind sending the details?</b> (B2)", "es": "¿Le importaría enviar los detalles?" },
+        { "en": "<b class=\"hl\">I was wondering if you could possibly send the details.</b> (C1)", "es": "Me preguntaba si le sería posible enviar los detalles." },
+        { "en": "<b class=\"hl\">Do you want a coffee?</b> (A2)", "es": "¿Quieres un café?" },
+        { "en": "<b class=\"hl\">Would you like a coffee?</b> (B1)", "es": "¿Le apetece un café?" },
+        { "en": "<b class=\"hl\">Shall I get you a coffee?</b> (B1–B2, ofrecerse)", "es": "¿Le traigo un café?" },
+        { "en": "<b class=\"hl\">Would you care for a coffee?</b> (C1, muy formal)", "es": "¿Le apetecería un café?" },
+        { "en": "<b class=\"hl\">Would it be possible to</b> get a late check-out? (B2)", "es": "¿Sería posible un check-out tardío?" },
+        { "en": "<b class=\"hl\">If it's not too much trouble</b>, could you…? (C1, suavizador)", "es": "Si no es mucha molestia, ¿podría…?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Nivel", "Pedir", "Ofrecer"],
+          "rows": [
+            ["A2", "Can you…?", "Do you want…?"],
+            ["B1", "Could you…?", "Would you like…? / Shall I…?"],
+            ["B2", "Would you mind + -ing? / Would it be possible to…?", "Can I get you…?"],
+            ["C1", "I was wondering if you might…", "Would you care for…?"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s2q1", "question": "1. Petición más indirecta/cortés (C1):", "options": ["Can you do it?", "I was wondering if you might do it."], "correctIndex": 1 },
+        { "id": "b22-s2q2", "question": "2. 'Would you mind…' va seguido de:", "options": ["+ -ing (sending)", "+ infinitivo (to send)"], "correctIndex": 0 },
+        { "id": "b22-s2q3", "question": "3. Ofrecerte a hacer algo tú:", "options": ["Shall I get you a coffee?", "You get a coffee?"], "correctIndex": 0 },
+        { "id": "b22-s2q4", "question": "4. Ofrecimiento formal (C1):", "options": ["Would you care for…?", "Ya want it?"], "correctIndex": 0 },
+        { "id": "b22-s2q5", "question": "5. Cuanto más grande la petición o formal la persona…", "options": ["más indirecta la fórmula", "más directa"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b22-s2",
+        "label": "<span class=\"badge\">tu turno</span>Haz la misma petición ('mover una reserva') en tres niveles: directo (A2), cortés (B1) e indirecto/formal (C1).",
+        "placeholder": "Ej: Can you move my booking? / Could you move my booking, please? / I was wondering if you might be able to move my booking.",
+        "rubric": [
+          "¿La versión A2 es directa y correcta (Can/Could)?",
+          "¿La B1 añade cortesía (Could you… please)?",
+          "¿La C1 es <b>indirecta</b> (I was wondering if… / Would it be possible…)?",
+          "¿El registro sube de forma coherente en cada nivel?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "La indirección = cortesía en inglés. Para peticiones grandes o a alguien de rango, envuelve: 'I was wondering if you might possibly…'. Para algo trivial entre iguales, 'Could you…?' basta." }
+      ]
+    },
+    {
+      "idx": "22.3",
+      "title": "Sugerir y aconsejar",
+      "level": "A2–C1",
+      "rule": "Para proponer ideas o dar consejo: <b class=\"hl\">Let's…</b> / <b class=\"hl\">Why don't we…?</b> (A2–B1) → <b class=\"hl\">How about…?</b> / <b class=\"hl\">We could…</b> (B1) → <b class=\"hl\">It might be worth + -ing</b> / <b class=\"hl\">I'd suggest…</b> (B2) → <b class=\"hl\">You may want to consider…</b> / <b class=\"hl\">If I were you, I'd…</b> (C1). El consejo directo ('You should') se suaviza en registro alto para no sonar impositivo.",
+      "examples": [
+        { "en": "<b class=\"hl\">Let's book early.</b> (A2)", "es": "Reservemos pronto." },
+        { "en": "<b class=\"hl\">Why don't we</b> offer a discount? (A2–B1)", "es": "¿Por qué no ofrecemos un descuento?" },
+        { "en": "<b class=\"hl\">How about</b> upgrading the suite? (B1)", "es": "¿Qué tal si subimos de categoría la suite?" },
+        { "en": "<b class=\"hl\">We could</b> add breakfast to the package. (B1)", "es": "Podríamos añadir el desayuno al paquete." },
+        { "en": "<b class=\"hl\">You should</b> book in advance. (B1, consejo directo)", "es": "Deberías reservar con antelación." },
+        { "en": "<b class=\"hl\">It might be worth</b> checking availability first. (B2)", "es": "Quizá merezca la pena comprobar la disponibilidad primero." },
+        { "en": "<b class=\"hl\">I'd suggest</b> confirming by email. (B2)", "es": "Yo sugeriría confirmar por email." },
+        { "en": "<b class=\"hl\">If I were you, I'd</b> take the flexible rate. (B2–C1)", "es": "Yo que tú cogería la tarifa flexible." },
+        { "en": "<b class=\"hl\">You may want to consider</b> the sea-view room. (C1)", "es": "Quizá quiera considerar la habitación con vistas al mar." },
+        { "en": "<b class=\"hl\">Have you thought about</b> a private tour? (C1, indirecto)", "es": "¿Ha pensado en un tour privado?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Nivel", "Sugerir / aconsejar"],
+          "rows": [
+            ["A2", "Let's… / Why don't we…?"],
+            ["B1", "How about + -ing? / We could… / You should…"],
+            ["B2", "It might be worth + -ing / I'd suggest…"],
+            ["C1", "You may want to consider… / If I were you, I'd… / Have you thought about…?"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s3q1", "question": "1. 'How about' va seguido de:", "options": ["+ -ing (upgrading)", "+ infinitivo (to upgrade)"], "correctIndex": 0 },
+        { "id": "b22-s3q2", "question": "2. Consejo suave/indirecto (C1):", "options": ["You must do it.", "You may want to consider…"], "correctIndex": 1 },
+        { "id": "b22-s3q3", "question": "3. Sugerencia conjunta básica (A2):", "options": ["Let's book early.", "One books early."], "correctIndex": 0 },
+        { "id": "b22-s3q4", "question": "4. 'If I were you, I'd…' introduce:", "options": ["un consejo personal", "una orden"], "correctIndex": 0 },
+        { "id": "b22-s3q5", "question": "5. 'It might be worth' + …", "options": ["-ing (checking)", "to check"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b22-s3",
+        "label": "<span class=\"badge\">tu turno</span>Aconseja a un huésped indeciso, primero de forma directa (You should…) y luego suavizado (If I were you… / You may want to consider…).",
+        "placeholder": "Ej: You should book the tour early. → If I were you, I'd book it today, as it fills up. You may want to consider the morning slot.",
+        "rubric": [
+          "¿La versión directa usa 'should' correctamente?",
+          "¿La suavizada evita sonar impositiva?",
+          "¿Usas al menos una fórmula indirecta (If I were you / You may want to)?",
+          "¿El consejo es concreto y útil?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "'You should' es útil pero puede sonar directivo con un cliente. En atención al cliente, suaviza: 'You may want to…', 'It might be worth…', 'If I were you, I'd…' — aconsejas sin imponer." }
+      ]
+    },
+    {
+      "idx": "22.4",
+      "title": "Acuerdo y desacuerdo",
+      "level": "A2–C1",
+      "rule": "Mostrar acuerdo: <b class=\"hl\">I agree.</b> → <b class=\"hl\">Absolutely / Exactly.</b> → <b class=\"hl\">That's a good point.</b> → <b class=\"hl\">I couldn't agree more.</b>. Discrepar con educación (clave en negocios): nunca <b class=\"hl\">No, you're wrong</b>; mejor <b class=\"hl\">I see your point, but…</b>, <b class=\"hl\">I'm not sure I agree.</b>, <b class=\"hl\">I take your point, however…</b>. Siempre reconoce antes de rebatir: reconocer + 'but/however' + tu posición.",
+      "examples": [
+        { "en": "<b class=\"hl\">I agree.</b> (A2)", "es": "Estoy de acuerdo." },
+        { "en": "<b class=\"hl\">Absolutely.</b> / <b class=\"hl\">Exactly.</b> (B1)", "es": "Totalmente. / Exacto." },
+        { "en": "<b class=\"hl\">That's a good point.</b> (B1–B2)", "es": "Es un buen argumento." },
+        { "en": "<b class=\"hl\">I couldn't agree more.</b> (B2, énfasis)", "es": "No podría estar más de acuerdo." },
+        { "en": "<b class=\"hl\">I'm not sure I agree.</b> (B1, desacuerdo suave)", "es": "No estoy seguro de estar de acuerdo." },
+        { "en": "<b class=\"hl\">I see your point, but</b> the price is high. (B2)", "es": "Entiendo su punto, pero el precio es alto." },
+        { "en": "<b class=\"hl\">I take your point; however,</b> we can't refund. (B2–C1)", "es": "Comprendo su argumento; no obstante, no podemos reembolsar." },
+        { "en": "<b class=\"hl\">I'm afraid I have to disagree.</b> (C1, formal)", "es": "Me temo que tengo que discrepar." },
+        { "en": "<b class=\"hl\">With respect, I see it differently.</b> (C1)", "es": "Con todo el respeto, yo lo veo de otra manera." },
+        { "en": "<b class=\"hl\">That's true up to a point, but…</b> (C1, matizar)", "es": "Eso es cierto hasta cierto punto, pero…" }
+      ],
+      "tables": [
+        {
+          "headers": ["Nivel", "Acuerdo", "Desacuerdo (cortés)"],
+          "rows": [
+            ["A2", "I agree. / Me too.", "I don't agree."],
+            ["B1", "Absolutely. / Exactly.", "I'm not sure I agree."],
+            ["B2", "I couldn't agree more.", "I see your point, but… / I take your point; however,"],
+            ["C1", "That's a fair point.", "With respect, I see it differently. / That's true up to a point, but…"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s4q1", "question": "1. Discrepar con educación (profesional):", "options": ["No, you're wrong.", "I see your point, but…"], "correctIndex": 1 },
+        { "id": "b22-s4q2", "question": "2. Acuerdo enfático:", "options": ["I couldn't agree more.", "Maybe, I don't know."], "correctIndex": 0 },
+        { "id": "b22-s4q3", "question": "3. La estructura para rebatir con tacto es:", "options": ["reconocer + but/however + tu posición", "negar directamente"], "correctIndex": 0 },
+        { "id": "b22-s4q4", "question": "4. Desacuerdo formal (C1):", "options": ["With respect, I see it differently.", "That's stupid."], "correctIndex": 0 },
+        { "id": "b22-s4q5", "question": "5. 'That's a good point' sirve para:", "options": ["reconocer antes de matizar", "cerrar la conversación"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b22-s4",
+        "label": "<span class=\"badge\">tu turno</span>Un compañero propone subir todos los precios. Muestra desacuerdo con educación: reconoce su punto y expón tu posición.",
+        "placeholder": "Ej: I see your point, and revenue matters — however, I'm not sure raising all prices is wise in low season. It might be worth targeting only peak dates.",
+        "rubric": [
+          "¿<b>Reconoces</b> el punto del otro antes de rebatir?",
+          "¿Usas un enlace de contraste (but / however)?",
+          "¿Evitas frases directas del tipo 'you're wrong'?",
+          "¿Propones una <b>alternativa</b> o matiz?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "En inglés profesional, discrepar de golpe ('No, that's wrong') suena agresivo. Reconoce siempre primero ('I see your point, and…') y usa <b>and/however</b> en vez de un 'but' seco. El desacuerdo se envuelve." }
+      ]
+    },
+    {
+      "idx": "22.5",
+      "title": "Pedir permiso y expresar obligación",
+      "level": "A2–B2",
+      "rule": "Pedir permiso: <b class=\"hl\">Can I…?</b> (A2) → <b class=\"hl\">Could I…?</b> / <b class=\"hl\">Is it OK if I…?</b> (B1) → <b class=\"hl\">Would it be all right if I…?</b> / <b class=\"hl\">Do you mind if I…?</b> (B2). Conceder o denegar: <b class=\"hl\">Sure, go ahead.</b> / <b class=\"hl\">I'm afraid you can't.</b>. Obligación: <b class=\"hl\">have to / must</b> (obligación), <b class=\"hl\">don't have to</b> (no hace falta), <b class=\"hl\">mustn't</b> (prohibido) — ver bloque 10.8.",
+      "examples": [
+        { "en": "<b class=\"hl\">Can I use the wifi?</b> (A2)", "es": "¿Puedo usar el wifi?" },
+        { "en": "<b class=\"hl\">Could I leave my bags here?</b> (B1)", "es": "¿Podría dejar mis maletas aquí?" },
+        { "en": "<b class=\"hl\">Is it OK if I check in early?</b> (B1)", "es": "¿Está bien si hago el check-in antes?" },
+        { "en": "<b class=\"hl\">Do you mind if I open the window?</b> (B2)", "es": "¿Le importa si abro la ventana?" },
+        { "en": "<b class=\"hl\">Would it be all right if I paid tomorrow?</b> (B2)", "es": "¿Estaría bien si pago mañana?" },
+        { "en": "<b class=\"hl\">Sure, go ahead.</b> (conceder)", "es": "Claro, adelante." },
+        { "en": "<b class=\"hl\">Of course, no problem.</b> (conceder)", "es": "Por supuesto, sin problema." },
+        { "en": "<b class=\"hl\">I'm afraid that's not possible.</b> (denegar con tacto)", "es": "Me temo que eso no es posible." },
+        { "en": "Guests <b class=\"hl\">have to</b> show ID. (obligación)", "es": "Los huéspedes tienen que mostrar el DNI." },
+        { "en": "You <b class=\"hl\">don't have to</b> tip; it's included. (sin obligación)", "es": "No tiene que dejar propina; está incluida." }
+      ],
+      "tables": [
+        {
+          "headers": ["Nivel", "Pedir permiso", "Respuesta"],
+          "rows": [
+            ["A2", "Can I…?", "Sure. / No, sorry."],
+            ["B1", "Could I…? / Is it OK if I…?", "Of course, go ahead."],
+            ["B2", "Do you mind if I…? / Would it be all right if I…?", "Not at all. / I'm afraid that's not possible."],
+            ["Obligación", "have to / must (sí) · mustn't (prohibido)", "don't have to (no hace falta)"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s5q1", "question": "1. Pedir permiso de forma más formal:", "options": ["Can I sit here?", "Would it be all right if I sat here?"], "correctIndex": 1 },
+        { "id": "b22-s5q2", "question": "2. 'Do you mind if I…?' — conceder es:", "options": ["Not at all. (adelante)", "Yes, I mind a lot but ok"], "correctIndex": 0 },
+        { "id": "b22-s5q3", "question": "3. Denegar con tacto:", "options": ["No.", "I'm afraid that's not possible."], "correctIndex": 1 },
+        { "id": "b22-s5q4", "question": "4. 'No hace falta' (obligación):", "options": ["you don't have to", "you mustn't"], "correctIndex": 0 },
+        { "id": "b22-s5q5", "question": "5. 'Prohibido':", "options": ["don't have to", "mustn't"], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b22-s5",
+        "label": "<span class=\"badge\">tu turno</span>Pide permiso para algo (dejar el equipaje, pagar más tarde) en nivel B2, y luego escribe cómo lo concederías con cortesía.",
+        "placeholder": "Ej: Would it be all right if I left my bags here until this evening? — Of course, no problem at all. I'll keep them safe for you.",
+        "rubric": [
+          "¿La petición de permiso es cortés/indirecta (B2)?",
+          "¿La concesión es cálida (Of course / Not at all)?",
+          "¿Distingues 'don't have to' de 'mustn't' si aparecen?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "Cuidado con 'Do you mind if I…?': un 'No' significa que <b>NO le importa</b> (adelante). Para conceder di 'No, not at all' o 'Please do', no 'Yes'." }
+      ]
+    },
+    {
+      "idx": "22.6",
+      "title": "Opinar y argumentar",
+      "level": "B1–C1",
+      "rule": "Dar tu opinión: <b class=\"hl\">I think…</b> (B1) → <b class=\"hl\">In my opinion / I'd say…</b> (B1–B2) → <b class=\"hl\">As far as I'm concerned / From my point of view…</b> (B2) → <b class=\"hl\">It seems to me that / I would argue that…</b> (C1). Estructura un argumento: opinión + razón (<b class=\"hl\">because / the reason is…</b>) + ejemplo (<b class=\"hl\">for instance</b>) + conclusión. Distingue hecho de opinión y matiza (ver 22.8, hedging).",
+      "examples": [
+        { "en": "<b class=\"hl\">I think</b> the service is excellent. (B1)", "es": "Creo que el servicio es excelente." },
+        { "en": "<b class=\"hl\">In my opinion</b>, we should invest more. (B1–B2)", "es": "En mi opinión, deberíamos invertir más." },
+        { "en": "<b class=\"hl\">I'd say</b> the location is the main draw. (B2)", "es": "Yo diría que la ubicación es el mayor atractivo." },
+        { "en": "<b class=\"hl\">As far as I'm concerned</b>, quality comes first. (B2)", "es": "En lo que a mí respecta, la calidad es lo primero." },
+        { "en": "<b class=\"hl\">From my point of view</b>, the rate is fair. (B2)", "es": "Desde mi punto de vista, la tarifa es justa." },
+        { "en": "<b class=\"hl\">It seems to me that</b> guests value experiences. (C1)", "es": "Me parece que los huéspedes valoran las experiencias." },
+        { "en": "<b class=\"hl\">I would argue that</b> loyalty beats discounts. (C1)", "es": "Yo defendería que la fidelidad supera a los descuentos." },
+        { "en": "The main reason is <b class=\"hl\">that</b> costs have risen. (razón)", "es": "La razón principal es que los costes han subido." },
+        { "en": "<b class=\"hl\">For instance</b>, our repeat rate is up 20%. (ejemplo)", "es": "Por ejemplo, la tasa de repetición subió un 20%." },
+        { "en": "<b class=\"hl\">All things considered</b>, it's the best option. (C1, conclusión)", "es": "Considerándolo todo, es la mejor opción." }
+      ],
+      "tables": [
+        {
+          "headers": ["Nivel", "Dar opinión"],
+          "rows": [
+            ["B1", "I think… / I believe…"],
+            ["B1–B2", "In my opinion… / I'd say…"],
+            ["B2", "As far as I'm concerned… / From my point of view…"],
+            ["C1", "It seems to me that… / I would argue that…"],
+            ["Estructura", "opinión + because (razón) + for instance (ejemplo) + all things considered (conclusión)"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s6q1", "question": "1. Opinión más sofisticada (C1):", "options": ["I think it's good.", "I would argue that it's the best option."], "correctIndex": 1 },
+        { "id": "b22-s6q2", "question": "2. Para dar una razón en tu argumento:", "options": ["because / the reason is that…", "for instance"], "correctIndex": 0 },
+        { "id": "b22-s6q3", "question": "3. Para introducir un ejemplo:", "options": ["for instance", "in conclusion"], "correctIndex": 0 },
+        { "id": "b22-s6q4", "question": "4. 'As far as I'm concerned' significa:", "options": ["en lo que a mí respecta", "no me importa"], "correctIndex": 0 },
+        { "id": "b22-s6q5", "question": "5. Un buen argumento distingue:", "options": ["hecho de opinión", "solo opiniones"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b22-s6",
+        "label": "<span class=\"badge\">tu turno</span>Da tu opinión sobre si el hotel debería invertir en el spa, estructurada: opinión + razón + ejemplo + conclusión (nivel B2–C1).",
+        "placeholder": "Ej: In my opinion, we should invest in the spa. The main reason is that guests increasingly value wellness. For instance, spa bookings rose 30% last year. All things considered, it would pay off.",
+        "rubric": [
+          "¿Empiezas con una fórmula de opinión clara?",
+          "¿Das una <b>razón</b> (because / the reason is…)?",
+          "¿Incluyes un <b>ejemplo</b> (for instance)?",
+          "¿Cierras con una <b>conclusión</b> (All things considered…)?"
+        ],
+        "model": "From my point of view, we should invest in the spa. The main reason is that guests increasingly value wellness and experiences over price alone. For instance, our spa bookings rose by 30% last year, and reviews mentioning the spa doubled. Of course, the upfront cost is significant; however, the return in repeat bookings would likely justify it. All things considered, I'd argue it's a sound investment."
+      },
+      "notes": [
+        { "type": "tip", "text": "Un argumento convincente = <b>opinión + razón + ejemplo + conclusión</b>. Y matiza (ver 22.8): reconocer una pega ('Of course, the cost is high; however…') te hace sonar equilibrado y creíble, no dogmático." }
+      ]
+    },
+    {
+      "idx": "22.7",
+      "title": "Disculparse y responder a quejas",
+      "level": "A2–C1",
+      "rule": "Disculparse sube en formalidad y responsabilidad: <b class=\"hl\">Sorry.</b> (A2) → <b class=\"hl\">I'm sorry about that.</b> (B1) → <b class=\"hl\">I'm terribly sorry for the inconvenience.</b> (B2) → <b class=\"hl\">Please accept our sincere apologies.</b> (C1). Ante una queja, aplica LAST (Listen–Apologise–Solve–Thank, ver bloques 18.4 y 20.5): reconoce, discúlpate, ofrece solución con plazo y agradece. Asume la responsabilidad en nombre de la empresa.",
+      "examples": [
+        { "en": "<b class=\"hl\">Sorry about that.</b> (A2)", "es": "Perdón por eso." },
+        { "en": "<b class=\"hl\">I'm sorry for the wait.</b> (B1)", "es": "Siento la espera." },
+        { "en": "<b class=\"hl\">I do apologise for the inconvenience.</b> (B2)", "es": "Le pido disculpas por las molestias." },
+        { "en": "<b class=\"hl\">Please accept our sincere apologies.</b> (C1)", "es": "Le rogamos que acepte nuestras más sinceras disculpas." },
+        { "en": "<b class=\"hl\">That should never have happened.</b> (asumir)", "es": "Eso no debería haber ocurrido nunca." },
+        { "en": "<b class=\"hl\">Let me make it right.</b> (solución)", "es": "Permítame arreglarlo." },
+        { "en": "<b class=\"hl\">I'll sort it out immediately.</b> (solución con urgencia)", "es": "Lo resolveré de inmediato." },
+        { "en": "As a gesture, <b class=\"hl\">this is on us.</b> (compensar)", "es": "Como detalle, invita la casa." },
+        { "en": "<b class=\"hl\">Thank you for bringing this to our attention.</b> (C1)", "es": "Gracias por hacérnoslo saber." },
+        { "en": "<b class=\"hl\">We truly value your feedback.</b> (cierre)", "es": "Valoramos de verdad su comentario." }
+      ],
+      "tables": [
+        {
+          "headers": ["Nivel", "Disculpa"],
+          "rows": [
+            ["A2", "Sorry. / Sorry about that."],
+            ["B1", "I'm sorry for the wait / delay."],
+            ["B2", "I'm terribly sorry for the inconvenience. / I do apologise."],
+            ["C1", "Please accept our sincere apologies."],
+            ["Método", "LAST: Listen · Apologise · Solve · Thank"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s7q1", "question": "1. Disculpa formal (C1):", "options": ["Sorry.", "Please accept our sincere apologies."], "correctIndex": 1 },
+        { "id": "b22-s7q2", "question": "2. El método para gestionar una queja es:", "options": ["LAST (Listen, Apologise, Solve, Thank)", "ignorar y seguir"], "correctIndex": 0 },
+        { "id": "b22-s7q3", "question": "3. Tras disculparte, lo esencial es:", "options": ["ofrecer una solución con plazo", "repetir 'sorry' cinco veces"], "correctIndex": 0 },
+        { "id": "b22-s7q4", "question": "4. 'Thank you for bringing this to our attention' sirve para:", "options": ["agradecer que avisen (cierre)", "culpar al cliente"], "correctIndex": 0 },
+        { "id": "b22-s7q5", "question": "5. Debes asumir la responsabilidad:", "options": ["en nombre de la empresa", "culpando a un compañero"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b22-s7",
+        "label": "<span class=\"badge\">tu turno · email</span>Un cliente se queja por email de un cobro erróneo. Responde en registro formal aplicando LAST: reconoce, discúlpate, soluciona y agradece.",
+        "placeholder": "Escribe tu respuesta formal aquí…",
+        "rubric": [
+          "¿Reconoces el problema y muestras que lo entiendes?",
+          "¿Te disculpas en <b>registro formal</b> (I do apologise / Please accept…)?",
+          "¿Ofreces una <b>solución concreta</b> (reembolso, corrección) con plazo?",
+          "¿Agradeces que lo hayan comunicado y cierras formal?"
+        ],
+        "model": "Dear Ms. Reed,\n\nThank you for bringing this to our attention, and please accept our sincere apologies for the incorrect charge — that should not have happened.\n\nI have reviewed your account and can confirm that the amount of €45 will be refunded to your card within three to five working days. I will personally follow up to ensure it is processed.\n\nWe truly value your feedback and hope to welcome you back soon.\n\nKind regards,\nAna, Guest Relations, Grand Marina"
+      },
+      "notes": [
+        { "type": "exception", "text": "Una disculpa sin solución no vale. LAST exige el paso <b>Solve</b>: qué harás y cuándo. Y asume la culpa en nombre de la empresa ('our apologies', 'that should never have happened'), nunca eches balones fuera." }
+      ]
+    },
+    {
+      "idx": "22.8",
+      "title": "Suavizar (hedging) y expresar probabilidad",
+      "level": "B2–C1",
+      "rule": "El <b>hedging</b> es suavizar afirmaciones para sonar diplomático, cauto y profesional — clave en C1. Recursos: modales (<b class=\"hl\">might, may, could, would</b>), adverbios (<b class=\"hl\">perhaps, possibly, apparently, arguably</b>), verbos (<b class=\"hl\">seem, tend to, appear</b>) y atenuadores (<b class=\"hl\">a little, somewhat, in a way, to some extent</b>). Compara: 'This is wrong' → '<b class=\"hl\">This might not be quite right.</b>'. Para probabilidad: from <b class=\"hl\">definitely</b> → <b class=\"hl\">probably</b> → <b class=\"hl\">possibly</b> → <b class=\"hl\">unlikely</b>.",
+      "examples": [
+        { "en": "'It's a problem' → '<b class=\"hl\">There may be a slight issue.</b>' (suavizado)", "es": "'Es un problema' → 'Puede que haya un pequeño inconveniente.'" },
+        { "en": "'You're wrong' → '<b class=\"hl\">I'm not sure that's quite right.</b>'", "es": "'Estás equivocado' → 'No estoy seguro de que eso sea del todo correcto.'" },
+        { "en": "It <b class=\"hl\">tends to</b> get busy in August. (generalizar con cautela)", "es": "Suele llenarse en agosto." },
+        { "en": "It <b class=\"hl\">seems</b> the payment didn't go through. (no afirmar tajante)", "es": "Parece que el pago no se procesó." },
+        { "en": "<b class=\"hl\">Perhaps</b> we could look at alternatives. (proponer suave)", "es": "Quizá podríamos ver alternativas." },
+        { "en": "That's <b class=\"hl\">arguably</b> our best suite. (opinión matizada)", "es": "Esa es, se podría decir, nuestra mejor suite." },
+        { "en": "It's <b class=\"hl\">somewhat</b> more expensive. (atenuar)", "es": "Es algo más caro." },
+        { "en": "We'll <b class=\"hl\">probably</b> be fully booked. (probabilidad alta)", "es": "Probablemente estaremos completos." },
+        { "en": "It's <b class=\"hl\">possible</b>, but <b class=\"hl\">unlikely</b>. (probabilidad baja)", "es": "Es posible, pero poco probable." },
+        { "en": "<b class=\"hl\">To some extent</b>, I agree. (acuerdo parcial)", "es": "Hasta cierto punto, estoy de acuerdo." }
+      ],
+      "tables": [
+        {
+          "headers": ["Recurso", "Ejemplos", "Efecto"],
+          "rows": [
+            ["Modales", "might, may, could, would", "menos tajante"],
+            ["Adverbios", "perhaps, possibly, arguably, apparently", "cautela / matiz"],
+            ["Verbos", "seem, appear, tend to", "no afirmar como hecho"],
+            ["Atenuadores", "a little, somewhat, to some extent, in a way", "rebajar la fuerza"],
+            ["Probabilidad ↑→↓", "definitely > probably > possibly > unlikely", "graduar certeza"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b22-s8q1", "question": "1. Versión suavizada (hedged) de 'This is wrong':", "options": ["This is totally wrong.", "This might not be quite right."], "correctIndex": 1 },
+        { "id": "b22-s8q2", "question": "2. 'It tends to get busy' expresa:", "options": ["una generalización con cautela", "una certeza absoluta"], "correctIndex": 0 },
+        { "id": "b22-s8q3", "question": "3. Ordena de más a menos probable:", "options": ["definitely > probably > possibly", "possibly > definitely > probably"], "correctIndex": 0 },
+        { "id": "b22-s8q4", "question": "4. 'To some extent' significa:", "options": ["hasta cierto punto (acuerdo parcial)", "totalmente"], "correctIndex": 0 },
+        { "id": "b22-s8q5", "question": "5. El hedging sirve para sonar:", "options": ["diplomático y cauto", "agresivo y tajante"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b22-s8",
+        "label": "<span class=\"badge\">tu turno</span>Reescribe estas frases tajantes suavizándolas (hedging): 'The room is dirty.' · 'You made a mistake.' · 'We'll be full.'",
+        "placeholder": "Ej: There seems to be an issue with the room's cleanliness. There may have been a small mix-up on our side. We'll probably be fully booked.",
+        "rubric": [
+          "¿Usas modales o adverbios de cautela (might, seem, perhaps)?",
+          "¿Evitas culpar directamente al interlocutor?",
+          "¿Graduas la probabilidad de forma realista?",
+          "¿El resultado suena diplomático, no dogmático?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "El hedging es la marca del C1 en contextos profesionales: no es 'inseguridad', es <b>diplomacia</b>. 'There may have been a mix-up' asume el problema sin acusar; 'It tends to…' generaliza sin exagerar." }
+      ]
+    }
+  ]
+}
