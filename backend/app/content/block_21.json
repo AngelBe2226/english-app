@@ -1,0 +1,375 @@
+{
+  "block": "21",
+  "title": "Turismo — Concierge & tourist info",
+  "kicker": "Bloque 21 · Inglés temático · Turismo",
+  "intro": "Cuarta <b class=\"hl\">unidad temática</b>: el inglés del <b class=\"hl\">conserje y la información turística</b> — recomendar, orientar y resolver para que el huésped viva la ciudad. Cada epígrafe cubre una situación (recomendar → direcciones → transporte → reservas → emergencias → consejos) con vocabulario, un <b class=\"hl\">diálogo con role-play</b>, frases clave, quiz y una tarea de producción.",
+  "legend": [
+    { "label": "Conserje", "desc": "tu papel — practícalo en el role-play" },
+    { "label": "Huésped", "desc": "el turista al que orientas" }
+  ],
+  "sections": [
+    {
+      "idx": "21.1",
+      "title": "Recomendar qué ver y hacer",
+      "level": "A2–B1",
+      "rule": "Recomendar bien fideliza y llena excursiones. Fórmulas: <b class=\"hl\">I'd definitely recommend…</b>, <b class=\"hl\">If you have time, you should…</b>, <b class=\"hl\">A must-see is…</b>, <b class=\"hl\">It's well worth a visit.</b>. Personaliza según el huésped: <b class=\"hl\">Are you more into history, food or nature?</b>. Da un dato práctico con cada recomendación (horario, precio, cuánto se tarda): <b class=\"hl\">It's about a 10-minute walk.</b>",
+      "dialogueTitle": "Un huésped pide recomendaciones",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "We have a free day tomorrow. What do you recommend?", "es": "Tenemos un día libre mañana. ¿Qué recomienda?" },
+        { "speaker": "Conserje", "en": "Happy to help! <b class=\"hl\">Are you more into</b> history, food or the beach?", "es": "¡Encantado de ayudar! ¿Les va más la historia, la gastronomía o la playa?" },
+        { "speaker": "Huésped", "en": "History, mainly.", "es": "La historia, sobre todo." },
+        { "speaker": "Conserje", "en": "Then <b class=\"hl\">a must-see is</b> the old cathedral, and the castle is <b class=\"hl\">well worth a visit</b>.", "es": "Entonces, algo imprescindible es la catedral antigua, y el castillo bien merece una visita." },
+        { "speaker": "Huésped", "en": "Are they far?", "es": "¿Están lejos?" },
+        { "speaker": "Conserje", "en": "Not at all — the cathedral is <b class=\"hl\">about a 10-minute walk</b>, and the castle is a short bus ride.", "es": "En absoluto: la catedral está a unos 10 minutos a pie, y el castillo, a un corto trayecto en autobús." },
+        { "speaker": "Huésped", "en": "Perfect. Anything for the evening?", "es": "Perfecto. ¿Algo para la tarde-noche?" },
+        { "speaker": "Conserje", "en": "<b class=\"hl\">If you have time</b>, you should watch the sunset from the harbour — it's stunning.", "es": "Si les da tiempo, deberían ver la puesta de sol desde el puerto: es espectacular." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">I'd definitely recommend</b> the old town.", "es": "Le recomendaría sin duda el casco antiguo." },
+        { "en": "<b class=\"hl\">A must-see is</b> the cathedral.", "es": "Algo imprescindible es la catedral." },
+        { "en": "The castle is <b class=\"hl\">well worth a visit</b>.", "es": "El castillo bien merece una visita." },
+        { "en": "<b class=\"hl\">If you have time</b>, you should see the harbour.", "es": "Si tienen tiempo, deberían ver el puerto." },
+        { "en": "<b class=\"hl\">Are you more into</b> history or nature?", "es": "¿Les va más la historia o la naturaleza?" },
+        { "en": "It's <b class=\"hl\">about a 10-minute walk</b> from here.", "es": "Está a unos 10 minutos a pie de aquí." },
+        { "en": "It's <b class=\"hl\">free to enter</b> on Sundays.", "es": "La entrada es gratis los domingos." },
+        { "en": "It gets busy, so <b class=\"hl\">go early</b>.", "es": "Se llena, así que vayan temprano." },
+        { "en": "The views from the top are <b class=\"hl\">breathtaking</b>.", "es": "Las vistas desde arriba son impresionantes." },
+        { "en": "It's a bit <b class=\"hl\">off the beaten track</b>, but worth it.", "es": "Está un poco fuera de las rutas habituales, pero merece la pena." }
+      ],
+      "tables": [
+        {
+          "headers": ["Función", "Frase"],
+          "rows": [
+            ["Recomendar con fuerza", "I'd definitely recommend…"],
+            ["Imprescindible", "A must-see is… / It's a must."],
+            ["Merece la pena", "It's well worth a visit."],
+            ["Sugerir suave", "If you have time, you should…"],
+            ["Personalizar", "Are you more into history or food?"],
+            ["Dato práctico", "It's about a 10-minute walk."],
+            ["Consejo de horario", "Go early — it gets busy."],
+            ["Elogiar vistas", "The views are breathtaking."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b21-s1q1", "question": "1. 'Algo imprescindible que ver' es:", "options": ["a must-see", "a maybe-see"], "correctIndex": 0 },
+        { "id": "b21-s1q2", "question": "2. 'Bien merece una visita':", "options": ["It's well worth a visit.", "It's worth nothing."], "correctIndex": 0 },
+        { "id": "b21-s1q3", "question": "3. Para personalizar la recomendación:", "options": ["Are you more into history or food?", "You must like everything."], "correctIndex": 0 },
+        { "id": "b21-s1q4", "question": "4. 'A unos 10 minutos a pie':", "options": ["about a 10-minute walk", "10 minutes by feet maybe"], "correctIndex": 0 },
+        { "id": "b21-s1q5", "question": "5. 'Las vistas son impresionantes':", "options": ["The views are breathtaking.", "The views are boring."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b21-s1",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped tiene una tarde libre. Recomiéndale dos sitios, personalizando según sus gustos y dando un dato práctico de cada uno.",
+        "placeholder": "Ej: Are you more into history or nature? A must-see is the cathedral — about a 10-minute walk. If you have time, the castle is well worth a visit."
+      },
+      "notes": [
+        { "type": "tip", "text": "Cada recomendación gana con un <b>dato práctico</b> (distancia, precio, horario, mejor momento). Personaliza siempre con una pregunta previa: no es lo mismo un huésped con niños que una pareja o un grupo de senderistas." }
+      ]
+    },
+    {
+      "idx": "21.2",
+      "title": "Direcciones y cómo llegar",
+      "level": "A2–B1",
+      "rule": "Dar direcciones claras es una habilidad clave. Verbos: <b class=\"hl\">go straight on, turn left/right, take the first turning, cross the square, go past…</b>. Puntos de referencia: <b class=\"hl\">on your left, opposite the bank, next to the church, at the end of the street</b>. Da distancia y tiempo: <b class=\"hl\">it's a five-minute walk</b>. Ofrece un mapa y confirma: <b class=\"hl\">Would you like me to mark it on a map?</b>",
+      "dialogueTitle": "Cómo llegar al museo",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "Excuse me, how do we get to the museum?", "es": "Disculpe, ¿cómo llegamos al museo?" },
+        { "speaker": "Conserje", "en": "Of course. <b class=\"hl\">Go straight on</b> until you reach the square.", "es": "Por supuesto. Sigan todo recto hasta llegar a la plaza." },
+        { "speaker": "Huésped", "en": "Okay, and then?", "es": "Vale, ¿y luego?" },
+        { "speaker": "Conserje", "en": "<b class=\"hl\">Cross the square</b> and <b class=\"hl\">turn left</b>. The museum is <b class=\"hl\">on your right</b>, opposite the theatre.", "es": "Crucen la plaza y giren a la izquierda. El museo está a su derecha, enfrente del teatro." },
+        { "speaker": "Huésped", "en": "Is it far?", "es": "¿Está lejos?" },
+        { "speaker": "Conserje", "en": "No, it's <b class=\"hl\">about a five-minute walk</b>. <b class=\"hl\">You can't miss it</b> — it's a big glass building.", "es": "No, está a unos cinco minutos a pie. No tiene pérdida: es un edificio grande de cristal." },
+        { "speaker": "Huésped", "en": "Great, thank you.", "es": "Genial, gracias." },
+        { "speaker": "Conserje", "en": "<b class=\"hl\">Would you like me to mark it on a map</b> for you?", "es": "¿Quiere que se lo marque en un mapa?" }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Go straight on</b> to the end of the street.", "es": "Sigan todo recto hasta el final de la calle." },
+        { "en": "<b class=\"hl\">Turn left</b> at the traffic lights.", "es": "Giren a la izquierda en el semáforo." },
+        { "en": "<b class=\"hl\">Take the first turning</b> on your right.", "es": "Tomen la primera a la derecha." },
+        { "en": "<b class=\"hl\">Cross the square</b> and keep going.", "es": "Crucen la plaza y sigan." },
+        { "en": "It's <b class=\"hl\">opposite the bank</b>.", "es": "Está enfrente del banco." },
+        { "en": "It's <b class=\"hl\">next to the church</b>.", "es": "Está al lado de la iglesia." },
+        { "en": "It's <b class=\"hl\">at the end of the street</b>, on your left.", "es": "Está al final de la calle, a su izquierda." },
+        { "en": "<b class=\"hl\">You can't miss it.</b>", "es": "No tiene pérdida." },
+        { "en": "It's <b class=\"hl\">a five-minute walk</b>.", "es": "Está a cinco minutos a pie." },
+        { "en": "<b class=\"hl\">Would you like me to mark it on a map?</b>", "es": "¿Quiere que se lo marque en un mapa?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Español", "Inglés"],
+          "rows": [
+            ["sigue todo recto", "go straight on"],
+            ["gira a la izquierda / derecha", "turn left / right"],
+            ["toma la primera / segunda", "take the first / second turning"],
+            ["cruza la plaza / calle", "cross the square / street"],
+            ["pasa por delante de", "go past…"],
+            ["enfrente de", "opposite…"],
+            ["al lado de", "next to…"],
+            ["a la vuelta de la esquina", "around the corner"],
+            ["al final de la calle", "at the end of the street"],
+            ["no tiene pérdida", "you can't miss it"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b21-s2q1", "question": "1. 'Sigue todo recto' es:", "options": ["go straight on", "go back now"], "correctIndex": 0 },
+        { "id": "b21-s2q2", "question": "2. 'Gira a la izquierda':", "options": ["turn left", "left turning back"], "correctIndex": 0 },
+        { "id": "b21-s2q3", "question": "3. 'Enfrente del banco':", "options": ["opposite the bank", "in front to bank"], "correctIndex": 0 },
+        { "id": "b21-s2q4", "question": "4. 'No tiene pérdida':", "options": ["You can't miss it.", "You will lose it."], "correctIndex": 0 },
+        { "id": "b21-s2q5", "question": "5. 'A la vuelta de la esquina':", "options": ["around the corner", "in the corner turn"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b21-s2",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped te pregunta cómo llegar a la playa. Dale direcciones claras con al menos dos giros, un punto de referencia y el tiempo a pie.",
+        "placeholder": "Ej: Go straight on to the square, turn right and go past the church. The beach is at the end of the street — about a ten-minute walk. You can't miss it."
+      },
+      "notes": [
+        { "type": "tip", "text": "Da las direcciones <b>paso a paso</b> y ancla cada tramo en un <b>punto de referencia</b> visible (opposite the bank, next to the church). Y ofrece siempre marcarlo en un mapa: reduce dudas y errores." }
+      ]
+    },
+    {
+      "idx": "21.3",
+      "title": "Transporte: taxi, bus, metro y traslados",
+      "level": "B1",
+      "rule": "Ayudar con el transporte evita problemas y quejas. Frases: <b class=\"hl\">Shall I call you a taxi?</b>, <b class=\"hl\">The bus stop is just outside.</b>, <b class=\"hl\">You'll need to change at…</b>, <b class=\"hl\">It runs every 20 minutes.</b>. Para traslados del hotel: <b class=\"hl\">We offer a shuttle to the airport.</b>. Informa de precio y duración: <b class=\"hl\">It takes about half an hour and costs around €25.</b>",
+      "dialogueTitle": "Cómo ir al aeropuerto",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "What's the best way to get to the airport?", "es": "¿Cuál es la mejor forma de ir al aeropuerto?" },
+        { "speaker": "Conserje", "en": "You have a few options. <b class=\"hl\">We offer a shuttle</b>, or I can <b class=\"hl\">call you a taxi</b>.", "es": "Tiene varias opciones. Ofrecemos un servicio de traslado, o puedo llamarle un taxi." },
+        { "speaker": "Huésped", "en": "How much is the taxi?", "es": "¿Cuánto cuesta el taxi?" },
+        { "speaker": "Conserje", "en": "<b class=\"hl\">It takes about half an hour</b> and <b class=\"hl\">costs around €25</b>.", "es": "Se tarda una media hora y cuesta unos 25 €." },
+        { "speaker": "Huésped", "en": "And the shuttle?", "es": "¿Y el traslado del hotel?" },
+        { "speaker": "Conserje", "en": "The shuttle is €10 per person and <b class=\"hl\">it runs every hour</b>. The next one leaves at ten.", "es": "El traslado son 10 € por persona y sale cada hora. El próximo sale a las diez." },
+        { "speaker": "Huésped", "en": "We'll take the shuttle, then.", "es": "Cogeremos el traslado, entonces." },
+        { "speaker": "Conserje", "en": "Perfect. <b class=\"hl\">I'll book two seats</b> for you. Please be in the lobby by 9:45.", "es": "Perfecto. Les reservo dos plazas. Por favor, estén en el vestíbulo a las 9:45." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Shall I call you a taxi?</b>", "es": "¿Le llamo un taxi?" },
+        { "en": "The bus stop is <b class=\"hl\">just outside</b>.", "es": "La parada de autobús está justo fuera." },
+        { "en": "<b class=\"hl\">You'll need to change</b> at Central Station.", "es": "Tendrá que hacer transbordo en la Estación Central." },
+        { "en": "<b class=\"hl\">It runs every 20 minutes</b>.", "es": "Pasa cada 20 minutos." },
+        { "en": "<b class=\"hl\">We offer a shuttle</b> to the airport.", "es": "Ofrecemos un traslado al aeropuerto." },
+        { "en": "<b class=\"hl\">It takes about</b> half an hour.", "es": "Se tarda una media hora." },
+        { "en": "It <b class=\"hl\">costs around</b> €25.", "es": "Cuesta unos 25 €." },
+        { "en": "The metro is <b class=\"hl\">the quickest way</b>.", "es": "El metro es la forma más rápida." },
+        { "en": "You can buy tickets <b class=\"hl\">at the machine</b>.", "es": "Puede comprar los billetes en la máquina." },
+        { "en": "<b class=\"hl\">I'll book</b> two seats for you.", "es": "Le reservo dos plazas." }
+      ],
+      "tables": [
+        {
+          "headers": ["Término", "Significado"],
+          "rows": [
+            ["shuttle", "servicio de traslado (lanzadera)"],
+            ["taxi rank", "parada de taxis"],
+            ["bus stop", "parada de autobús"],
+            ["to change (lines)", "hacer transbordo"],
+            ["single / return ticket", "billete de ida / ida y vuelta"],
+            ["it runs every…", "pasa cada…"],
+            ["fare", "tarifa / importe del trayecto"],
+            ["departure / arrival", "salida / llegada"],
+            ["one-way", "de sentido único / solo ida"],
+            ["timetable", "horario"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b21-s3q1", "question": "1. Para ofrecerte a llamar un taxi:", "options": ["Shall I call you a taxi?", "You call taxi alone."], "correctIndex": 0 },
+        { "id": "b21-s3q2", "question": "2. 'Hacer transbordo' es:", "options": ["to change", "to lose the line"], "correctIndex": 0 },
+        { "id": "b21-s3q3", "question": "3. 'Pasa cada 20 minutos':", "options": ["It runs every 20 minutes.", "It comes sometimes."], "correctIndex": 0 },
+        { "id": "b21-s3q4", "question": "4. 'Billete de ida y vuelta':", "options": ["return ticket", "double single"], "correctIndex": 0 },
+        { "id": "b21-s3q5", "question": "5. Un 'shuttle' es:", "options": ["un servicio de traslado", "un tren de mercancías"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b21-s3",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped quiere ir al centro. Ofrécele dos opciones de transporte con su tiempo y precio aproximados, y ofrécete a reservar o llamar.",
+        "placeholder": "Ej: You could take the bus — it runs every 20 minutes — or I can call you a taxi. The taxi takes about 15 minutes and costs around €12. Shall I book it for you?"
+      },
+      "notes": [
+        { "type": "tip", "text": "Da siempre <b>tiempo + precio aproximados</b> ('about half an hour, around €25'): el huésped decide con la información completa. Y ofrece hacer la gestión tú ('I'll book / I'll call'): es lo que diferencia a un buen conserje." }
+      ]
+    },
+    {
+      "idx": "21.4",
+      "title": "Reservar excursiones, entradas y mesa",
+      "level": "B1",
+      "rule": "El conserje gestiona reservas de todo tipo. Ofrece y confirma: <b class=\"hl\">Would you like me to book that for you?</b>, <b class=\"hl\">I can arrange a guided tour.</b>, <b class=\"hl\">Let me check availability.</b>. Confirma detalles (fecha, hora, número de personas) y da la logística: <b class=\"hl\">The tour leaves at nine from the lobby.</b>. Cierra por escrito: <b class=\"hl\">I'll print the confirmation for you.</b>",
+      "dialogueTitle": "Reservando una excursión",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "We'd love to do a boat trip. Can you help?", "es": "Nos encantaría hacer una excursión en barco. ¿Puede ayudarnos?" },
+        { "speaker": "Conserje", "en": "Absolutely. <b class=\"hl\">I can arrange</b> a half-day boat tour. <b class=\"hl\">For how many people?</b>", "es": "Por supuesto. Puedo organizar una excursión en barco de medio día. ¿Para cuántas personas?" },
+        { "speaker": "Huésped", "en": "Two, for tomorrow if possible.", "es": "Dos, para mañana si es posible." },
+        { "speaker": "Conserje", "en": "<b class=\"hl\">Let me check availability.</b> … Yes, there are places on the morning tour.", "es": "Permítame comprobar la disponibilidad. … Sí, hay plazas en la excursión de la mañana." },
+        { "speaker": "Huésped", "en": "How much is it?", "es": "¿Cuánto cuesta?" },
+        { "speaker": "Conserje", "en": "It's €40 per person, including lunch. <b class=\"hl\">Would you like me to book it?</b>", "es": "Son 40 € por persona, con la comida incluida. ¿Quiere que la reserve?" },
+        { "speaker": "Huésped", "en": "Yes, please.", "es": "Sí, por favor." },
+        { "speaker": "Conserje", "en": "Done. <b class=\"hl\">The tour leaves at nine from the lobby</b> — I'll <b class=\"hl\">print the confirmation</b> for you.", "es": "Hecho. La excursión sale a las nueve desde el vestíbulo; le imprimo la confirmación." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Would you like me to book that</b> for you?", "es": "¿Quiere que se lo reserve?" },
+        { "en": "<b class=\"hl\">I can arrange</b> a guided tour.", "es": "Puedo organizar una visita guiada." },
+        { "en": "<b class=\"hl\">Let me check availability.</b>", "es": "Permítame comprobar la disponibilidad." },
+        { "en": "<b class=\"hl\">For how many people?</b>", "es": "¿Para cuántas personas?" },
+        { "en": "It's <b class=\"hl\">fully booked</b>, but I can suggest an alternative.", "es": "Está completo, pero puedo sugerir una alternativa." },
+        { "en": "<b class=\"hl\">The tour leaves at nine</b> from the lobby.", "es": "La excursión sale a las nueve desde el vestíbulo." },
+        { "en": "I can <b class=\"hl\">book you a table</b> for two at eight.", "es": "Puedo reservarle mesa para dos a las ocho." },
+        { "en": "Would you like <b class=\"hl\">tickets in advance</b>?", "es": "¿Quiere las entradas por adelantado?" },
+        { "en": "<b class=\"hl\">I'll print the confirmation</b> for you.", "es": "Le imprimo la confirmación." },
+        { "en": "It <b class=\"hl\">includes</b> hotel pickup.", "es": "Incluye recogida en el hotel." }
+      ],
+      "tables": [
+        {
+          "headers": ["Español", "Inglés"],
+          "rows": [
+            ["excursión / visita guiada", "tour / guided tour"],
+            ["entradas", "tickets"],
+            ["disponibilidad", "availability"],
+            ["completo / agotado", "fully booked / sold out"],
+            ["recogida en el hotel", "hotel pickup"],
+            ["reservar mesa", "book a table"],
+            ["medio día / día completo", "half-day / full-day"],
+            ["confirmación", "confirmation"],
+            ["punto de encuentro", "meeting point"],
+            ["incluye", "it includes…"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b21-s4q1", "question": "1. Para ofrecerte a reservar:", "options": ["Would you like me to book that for you?", "You must book alone."], "correctIndex": 0 },
+        { "id": "b21-s4q2", "question": "2. 'Comprobar la disponibilidad':", "options": ["check availability", "check the money"], "correctIndex": 0 },
+        { "id": "b21-s4q3", "question": "3. 'Está completo/agotado':", "options": ["It's fully booked.", "It's very empty."], "correctIndex": 0 },
+        { "id": "b21-s4q4", "question": "4. 'Recogida en el hotel':", "options": ["hotel pickup", "hotel pick"], "correctIndex": 0 },
+        { "id": "b21-s4q5", "question": "5. Buena práctica al cerrar una reserva:", "options": ["imprimir/enviar la confirmación", "no dar nada por escrito"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b21-s4",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped quiere entradas para un museo mañana. Comprueba disponibilidad, confirma número de personas y precio, y cierra dando la logística.",
+        "placeholder": "Ej: I can arrange that. For how many people? Let me check availability. It's €15 each and includes the guided tour at 11. Would you like me to book it? I'll print the confirmation."
+      },
+      "notes": [
+        { "type": "tip", "text": "Confirma siempre <b>fecha, hora y número de personas</b> antes de reservar, y cierra dando la <b>logística</b> (punto y hora de encuentro) + una confirmación por escrito. Si algo está lleno, ofrece <b>una alternativa</b>, nunca un simple 'no'." }
+      ]
+    },
+    {
+      "idx": "21.5",
+      "title": "Emergencias y situaciones difíciles",
+      "level": "B1–B2",
+      "rule": "Cuando algo va mal (pasaporte perdido, robo, problema médico), tu calma es lo primero. Frases: <b class=\"hl\">Try not to worry — we'll help you.</b>, <b class=\"hl\">Let me call…</b>, <b class=\"hl\">I'll contact the police / a doctor right away.</b>. Recaba datos con claridad: <b class=\"hl\">When did you last have it?</b>, <b class=\"hl\">Are you hurt?</b>. Conoce los recursos: emergencias (112 en Europa), hospital, embajada, farmacia de guardia.",
+      "dialogueTitle": "Un huésped pierde el pasaporte",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "I think I've lost my passport. I'm really worried.", "es": "Creo que he perdido el pasaporte. Estoy muy preocupado." },
+        { "speaker": "Conserje", "en": "<b class=\"hl\">Try not to worry</b> — we'll help you sort this out. <b class=\"hl\">When did you last have it?</b>", "es": "Intente no preocuparse; le ayudaremos a resolverlo. ¿Cuándo lo tuvo por última vez?" },
+        { "speaker": "Huésped", "en": "This morning, at breakfast.", "es": "Esta mañana, en el desayuno." },
+        { "speaker": "Conserje", "en": "Let me <b class=\"hl\">check with the restaurant and lost property</b> first. <b class=\"hl\">In the meantime</b>, I'll note your details.", "es": "Déjeme comprobar primero con el restaurante y con objetos perdidos. Mientras tanto, anoto sus datos." },
+        { "speaker": "Huésped", "en": "And if it doesn't turn up?", "es": "¿Y si no aparece?" },
+        { "speaker": "Conserje", "en": "Then <b class=\"hl\">I'll contact your embassy</b> and help you report it to the police. <b class=\"hl\">You're in good hands.</b>", "es": "Entonces contactaré con su embajada y le ayudaré a denunciarlo a la policía. Está en buenas manos." },
+        { "speaker": "Huésped", "en": "Thank you, that's a relief.", "es": "Gracias, es un alivio." },
+        { "speaker": "Conserje", "en": "Of course. <b class=\"hl\">Leave it with me</b> and I'll keep you updated.", "es": "Faltaría más. Déjelo en mis manos y le iré informando." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Try not to worry</b> — we'll help you.", "es": "Intente no preocuparse; le ayudaremos." },
+        { "en": "<b class=\"hl\">Are you hurt?</b>", "es": "¿Está herido?" },
+        { "en": "<b class=\"hl\">When did you last have it?</b>", "es": "¿Cuándo lo tuvo por última vez?" },
+        { "en": "<b class=\"hl\">I'll call an ambulance</b> right away.", "es": "Llamaré una ambulancia enseguida." },
+        { "en": "<b class=\"hl\">I'll contact the police</b> for you.", "es": "Contactaré con la policía por usted." },
+        { "en": "There's a <b class=\"hl\">24-hour pharmacy</b> nearby.", "es": "Hay una farmacia de guardia cerca." },
+        { "en": "The <b class=\"hl\">emergency number</b> here is 112.", "es": "El número de emergencias aquí es el 112." },
+        { "en": "<b class=\"hl\">Leave it with me</b>, I'll handle it.", "es": "Déjelo en mis manos, yo me encargo." },
+        { "en": "<b class=\"hl\">You're in good hands.</b>", "es": "Está en buenas manos." },
+        { "en": "I'll <b class=\"hl\">keep you updated</b>.", "es": "Le iré informando." }
+      ],
+      "tables": [
+        {
+          "headers": ["Situación", "Recurso / frase"],
+          "rows": [
+            ["emergencia general (UE)", "the emergency number is 112"],
+            ["problema médico", "I'll call a doctor / an ambulance"],
+            ["farmacia de guardia", "there's a 24-hour pharmacy nearby"],
+            ["objeto perdido", "lost property / lost and found"],
+            ["robo", "I'll help you report it to the police"],
+            ["pasaporte perdido", "I'll contact your embassy"],
+            ["tranquilizar", "Try not to worry — you're in good hands."],
+            ["recabar datos", "When did you last have it?"],
+            ["hacerse cargo", "Leave it with me."],
+            ["seguimiento", "I'll keep you updated."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b21-s5q1", "question": "1. Para tranquilizar a un huésped angustiado:", "options": ["Try not to worry — we'll help you.", "That's your problem."], "correctIndex": 0 },
+        { "id": "b21-s5q2", "question": "2. El número de emergencias en la UE es:", "options": ["112", "911"], "correctIndex": 0 },
+        { "id": "b21-s5q3", "question": "3. Si pierde el pasaporte, contactas con:", "options": ["your embassy", "the airline only"], "correctIndex": 0 },
+        { "id": "b21-s5q4", "question": "4. 'Farmacia de guardia (24h)':", "options": ["24-hour pharmacy", "night shop"], "correctIndex": 0 },
+        { "id": "b21-s5q5", "question": "5. 'Déjelo en mis manos':", "options": ["Leave it with me.", "Do it yourself."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b21-s5",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped te dice que le han robado el móvil. Tranquilízalo, recaba datos y explícale los pasos que vas a dar.",
+        "placeholder": "Ej: Try not to worry — you're in good hands. When did you last have it? I'll help you report it to the police, and I'll check lost property. Leave it with me and I'll keep you updated."
+      },
+      "notes": [
+        { "type": "exception", "text": "En una emergencia, primero <b>tranquiliza y asume el control</b> ('Leave it with me'), luego actúa. Si hay riesgo para la salud o un delito, no improvises: llama a los servicios oficiales (112, médico, policía, embajada) e informa a tu responsable." }
+      ]
+    },
+    {
+      "idx": "21.6",
+      "title": "Clima, consejos prácticos y despedida",
+      "level": "A2–B1",
+      "rule": "Los pequeños consejos marcan la diferencia. Clima: <b class=\"hl\">It's going to be sunny, so take sun cream.</b>, <b class=\"hl\">You might want an umbrella — it may rain later.</b>. Consejos prácticos: <b class=\"hl\">Shops close for lunch.</b>, <b class=\"hl\">Tap water is safe to drink.</b>, <b class=\"hl\">Keep your valuables safe.</b>. Y despide con calidez: <b class=\"hl\">Have a wonderful day.</b>, <b class=\"hl\">Enjoy the rest of your stay.</b>",
+      "dialogueTitle": "Últimos consejos antes de salir",
+      "dialogue": [
+        { "speaker": "Huésped", "en": "We're heading out now. Anything we should know?", "es": "Salimos ya. ¿Algo que debamos saber?" },
+        { "speaker": "Conserje", "en": "It's <b class=\"hl\">going to be hot today</b>, so <b class=\"hl\">take some sun cream</b> and water.", "es": "Hoy va a hacer calor, así que lleven crema solar y agua." },
+        { "speaker": "Huésped", "en": "Good idea. Do shops stay open all day?", "es": "Buena idea. ¿Las tiendas abren todo el día?" },
+        { "speaker": "Conserje", "en": "Most <b class=\"hl\">close for lunch</b> between two and five, so plan around that.", "es": "La mayoría cierran a mediodía, entre las dos y las cinco, así que organícense teniéndolo en cuenta." },
+        { "speaker": "Huésped", "en": "Is the tap water okay?", "es": "¿El agua del grifo es potable?" },
+        { "speaker": "Conserje", "en": "Yes, <b class=\"hl\">tap water is safe to drink</b>. And <b class=\"hl\">keep your valuables safe</b> in busy areas.", "es": "Sí, el agua del grifo es potable. Y cuiden sus objetos de valor en las zonas concurridas." },
+        { "speaker": "Huésped", "en": "Thanks for all your help.", "es": "Gracias por toda su ayuda." },
+        { "speaker": "Conserje", "en": "My pleasure. <b class=\"hl\">Have a wonderful day</b>, and enjoy the rest of your stay!", "es": "Es un placer. ¡Que tengan un día estupendo y disfruten del resto de su estancia!" }
+      ],
+      "examples": [
+        { "en": "It's <b class=\"hl\">going to be sunny</b>, so take sun cream.", "es": "Va a hacer sol, así que lleven crema." },
+        { "en": "You <b class=\"hl\">might want an umbrella</b> — it may rain later.", "es": "Quizá quieran un paraguas: puede llover más tarde." },
+        { "en": "Shops <b class=\"hl\">close for lunch</b>.", "es": "Las tiendas cierran a mediodía." },
+        { "en": "<b class=\"hl\">Tap water is safe to drink.</b>", "es": "El agua del grifo es potable." },
+        { "en": "<b class=\"hl\">Keep your valuables safe</b> in crowds.", "es": "Cuiden sus objetos de valor entre la gente." },
+        { "en": "It's <b class=\"hl\">worth booking ahead</b> for dinner.", "es": "Conviene reservar para cenar." },
+        { "en": "<b class=\"hl\">Wear comfortable shoes</b> — it's cobbled.", "es": "Lleven calzado cómodo: es empedrado." },
+        { "en": "<b class=\"hl\">Have a wonderful day.</b>", "es": "Que tengan un día estupendo." },
+        { "en": "<b class=\"hl\">Enjoy the rest of your stay.</b>", "es": "Disfruten del resto de su estancia." },
+        { "en": "<b class=\"hl\">Do let us know</b> if you need anything.", "es": "No duden en decirnos si necesitan algo." }
+      ],
+      "tables": [
+        {
+          "headers": ["Tema", "Frase de consejo"],
+          "rows": [
+            ["calor / sol", "It's going to be hot — take sun cream and water."],
+            ["lluvia", "It may rain later — take an umbrella."],
+            ["horario de tiendas", "Shops close for lunch (2–5)."],
+            ["agua", "Tap water is safe to drink."],
+            ["seguridad", "Keep your valuables safe in busy areas."],
+            ["reservar", "It's worth booking ahead for dinner."],
+            ["calzado", "Wear comfortable shoes — it's cobbled."],
+            ["despedida", "Have a wonderful day."],
+            ["fidelizar", "Enjoy the rest of your stay."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b21-s6q1", "question": "1. 'El agua del grifo es potable':", "options": ["Tap water is safe to drink.", "Water from tap is danger."], "correctIndex": 0 },
+        { "id": "b21-s6q2", "question": "2. Para avisar de posible lluvia:", "options": ["It may rain later — take an umbrella.", "No rain forever."], "correctIndex": 0 },
+        { "id": "b21-s6q3", "question": "3. 'Cuiden sus objetos de valor':", "options": ["Keep your valuables safe.", "Lose your things."], "correctIndex": 0 },
+        { "id": "b21-s6q4", "question": "4. Una buena despedida:", "options": ["Enjoy the rest of your stay.", "Ok, go now."], "correctIndex": 0 },
+        { "id": "b21-s6q5", "question": "5. 'Conviene reservar con antelación':", "options": ["It's worth booking ahead.", "Booking is useless."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b21-s6",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Unos huéspedes salen a pasar el día. Dales dos consejos prácticos (clima, horarios o seguridad) y despídelos con calidez.",
+        "placeholder": "Ej: It's going to be sunny, so take sun cream. Shops close for lunch, so plan around that. Have a wonderful day and enjoy the rest of your stay!"
+      },
+      "notes": [
+        { "type": "tip", "text": "Un consejo práctico a tiempo (clima, horarios, seguridad, agua) evita problemas y transmite cercanía. Cierra siempre con un deseo cálido y personalizado: es lo que el huésped recuerda y menciona en las reseñas." }
+      ]
+    }
+  ]
+}
