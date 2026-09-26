@@ -242,7 +242,15 @@
       "produce": {
         "id": "b18-s4",
         "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped se queja de que su habitación está sucia. Escribe tu respuesta siguiendo LAST: escucha, disculpa, solución y agradecimiento.",
-        "placeholder": "Ej: I'm terribly sorry about that — I completely understand. Let me sort that out for you right away. I'll send housekeeping up within five minutes, and I'll move you if needed. Thank you for your patience."
+        "placeholder": "Escribe tu respuesta a la queja aquí…",
+        "rubric": [
+          "<b>Listen</b> — ¿reconoces y validas (I completely understand / You're right)?",
+          "<b>Apologise</b> — ¿te disculpas con sinceridad (I'm terribly sorry)?",
+          "<b>Solve</b> — ¿ofreces una <b>solución concreta con plazo</b>?",
+          "<b>Thank</b> — ¿agradeces la paciencia al final?",
+          "¿Asumes la culpa en nombre del hotel, sin culpar a nadie?"
+        ],
+        "model": "I'm terribly sorry about that, and I completely understand — that's not the standard we want for you. Let me sort it out right away: I'll send housekeeping up within five minutes to clean the room thoroughly, and if you'd prefer, I can move you to another room straight away. Please accept our apologies, and thank you for your patience."
       },
       "notes": [
         { "type": "exception", "text": "Nunca culpes al huésped ni a un compañero delante del cliente ('housekeeping forgot'). Asume la responsabilidad <b>en nombre del hotel</b>: 'Please accept <b>our</b> apologies'. Y ofrece una <b>solución concreta con plazo</b>, no un simple 'sorry'." }
@@ -304,7 +312,14 @@
       "produce": {
         "id": "b18-s5",
         "label": "<span class=\"badge\">tu turno · email</span>Escribe un email breve confirmando la reserva del Sr. Parker: una habitación doble, dos noches, con desayuno. Usa saludo formal, cuerpo claro y cierre.",
-        "placeholder": "Dear Mr. Parker,\n\nThank you for your reservation. I'm writing to confirm your booking: a double room for two nights, including breakfast, arriving on Friday.\n\nPlease let us know if you have any questions.\n\nKind regards,\nThe Front Desk Team, Grand Marina"
+        "placeholder": "Escribe tu email aquí… (empieza por 'Dear Mr. Parker,')",
+        "rubric": [
+          "¿Empiezas con un <b>saludo formal</b> (Dear Mr./Ms. …,)?",
+          "¿Confirmas los <b>datos clave</b> (habitación, nº de noches, fechas, desayuno)?",
+          "¿Ofreces ayuda (<i>Please let us know if…</i>)?",
+          "¿Cierras con <b>fórmula formal</b> (Kind regards,) y firma?"
+        ],
+        "model": "Dear Mr. Parker,\n\nThank you for choosing the Grand Marina. I'm writing to confirm your reservation: a double room for two nights, including breakfast, arriving this Friday.\n\nCheck-in is from 3 p.m. and check-out is at noon. Please let us know if you have any special requests or questions.\n\nWe look forward to welcoming you.\n\nKind regards,\nThe Front Desk Team, Grand Marina"
       },
       "notes": [
         { "type": "tip", "text": "Al teléfono, <b>repite y confirma</b> los datos clave (nombre deletreado, fechas, email) antes de colgar: evita errores caros. Y envía siempre una <b>confirmación por escrito</b>: 'I'll email you a confirmation'." }

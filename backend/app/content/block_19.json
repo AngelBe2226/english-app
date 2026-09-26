@@ -357,7 +357,15 @@
       "produce": {
         "id": "b19-s6",
         "label": "<span class=\"badge\">tu turno · email</span>Escribe un email breve de seguimiento tras cerrar una venta: agradece, confírmate como contacto y pide (con tacto) una recomendación.",
-        "placeholder": "Dear Mr. Parker,\n\nThank you for choosing us for your anniversary. As promised, your suite and cava are confirmed. I'll be your point of contact, so do get in touch if anything changes.\n\nWe'd love your feedback after your stay — and if you know anyone celebrating something special, we'd be glad to look after them too.\n\nKind regards,\n[Your name], Sales Team"
+        "placeholder": "Escribe tu email de seguimiento aquí…",
+        "rubric": [
+          "¿<b>Agradeces</b> la confianza (Thank you for choosing…)?",
+          "¿<b>Confirmas por escrito</b> lo acordado?",
+          "¿Te ofreces como <b>contacto</b> (I'll be your point of contact)?",
+          "¿Pides <b>feedback o recomendación</b> con tacto, sin presionar?",
+          "¿Cierras formal (Kind regards,) con tu nombre?"
+        ],
+        "model": "Dear Mr. Parker,\n\nThank you for choosing us for your anniversary — it's a pleasure to help make it special. As promised, your suite and welcome cava are confirmed.\n\nI'll be your point of contact throughout, so do get in touch if anything changes. After your stay, we'd love your feedback — it really helps us improve. And if you know anyone celebrating something special, we'd be glad to look after them too.\n\nKind regards,\nAna, Sales Team, Grand Marina"
       },
       "notes": [
         { "type": "tip", "text": "El seguimiento convierte una venta en muchas: un cliente satisfecho que se siente cuidado <b>repite y recomienda</b>. Un email de agradecimiento en 24 h y una petición de feedback bien planteada valen oro." }

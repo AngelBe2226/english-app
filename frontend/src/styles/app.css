@@ -1158,3 +1158,66 @@ b.hl,
   border-radius: 8px;
 }
 .dlg-reveal:hover { background: var(--surface); }
+
+/* ---- Writing guiado: rúbrica de autoevaluación + ejemplo modelo ---- */
+.produce .model-btn {
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  padding: 0.3rem 0.7rem;
+  border-radius: 8px;
+  margin-left: 0.5rem;
+}
+.produce .model-btn:hover { border-color: var(--iris); color: var(--iris); }
+.produce-rubric {
+  margin-top: 0.85rem;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--ok);
+  border-radius: 8px;
+  background: var(--ok-bg);
+  padding: 0.7rem 0.9rem;
+}
+.produce-rubric .rubric-tag {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ok);
+  display: block;
+  margin-bottom: 0.45rem;
+}
+.produce-rubric ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.35rem; }
+.produce-rubric label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.produce-rubric input { margin-top: 0.2rem; accent-color: var(--ok); }
+.produce-model {
+  margin-top: 0.75rem;
+  border: 1px dashed var(--iris);
+  border-radius: 8px;
+  background: var(--iris-soft);
+  padding: 0.7rem 0.9rem;
+}
+.produce-model .model-tag {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--iris);
+  display: block;
+  margin-bottom: 0.4rem;
+}
+.produce-model .model-body {
+  font-size: 0.92rem;
+  color: var(--ink);
+  white-space: pre-line;
+  line-height: 1.5;
+}

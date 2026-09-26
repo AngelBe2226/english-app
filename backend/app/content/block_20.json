@@ -184,7 +184,14 @@
       "produce": {
         "id": "b20-s3",
         "label": "<span class=\"badge\">tu turno</span>Describe un plato de tu carta con apetito (cocción + ingredientes + guarnición + un adjetivo sensorial) y sugiere un maridaje.",
-        "placeholder": "Ej: It's a slow-cooked lamb, tender and rich, served with roasted potatoes. It pairs beautifully with a full-bodied red — I'd suggest a glass of Rioja."
+        "placeholder": "Describe tu plato aquí…",
+        "rubric": [
+          "¿Mencionas el <b>método de cocción</b> (grilled, roasted, slow-cooked…)?",
+          "¿Nombras <b>ingredientes principales</b> y con qué se sirve (served with…)?",
+          "¿Usas al menos un <b>adjetivo sensorial</b> (tender, creamy, crispy, rich…)?",
+          "¿Sugieres un <b>maridaje</b> (It pairs well with… / I'd suggest a glass of…)?"
+        ],
+        "model": "It's a slow-cooked lamb shoulder, wonderfully tender and rich, served on a bed of creamy mashed potatoes with roasted seasonal vegetables. The meat falls off the bone and has a deep, savoury flavour. It pairs beautifully with a full-bodied red — I'd suggest a glass of Rioja Reserva."
       },
       "notes": [
         { "type": "tip", "text": "Un plato descrito con <b>método de cocción + adjetivo sensorial + maridaje</b> se vende solo. Evita 'it's good/nice'; usa palabras concretas: <b>tender, crispy, delicate, rich</b>." }
