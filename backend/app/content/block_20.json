@@ -1,0 +1,375 @@
+{
+  "block": "20",
+  "title": "Gastronomía y F&B — Restaurant service",
+  "kicker": "Bloque 20 · Inglés temático · Gastronomía / F&B",
+  "intro": "Tercera <b class=\"hl\">unidad temática</b>: el inglés del <b class=\"hl\">servicio de restaurante</b> de principio a fin, para camareros, maîtres y personal de sala. Cada epígrafe cubre una fase (recibir → comanda → describir → alergias → quejas → cuenta) con vocabulario, un <b class=\"hl\">diálogo con role-play</b>, frases clave, quiz y una tarea de producción.",
+  "legend": [
+    { "label": "Camarero", "desc": "tu papel — practícalo en el role-play" },
+    { "label": "Cliente", "desc": "el comensal al que atiendes" }
+  ],
+  "sections": [
+    {
+      "idx": "20.1",
+      "title": "Recibir y sentar al comensal",
+      "level": "A2",
+      "rule": "La acogida marca la experiencia. Fórmulas clave: <b class=\"hl\">Good evening, do you have a reservation?</b>, <b class=\"hl\">A table for how many?</b>, <b class=\"hl\">Follow me, please.</b>, <b class=\"hl\">Would this table be all right?</b>. Ofrece opciones (dentro/fuera, terraza) y anticipa necesidades: <b class=\"hl\">Can I take your coats?</b>. Registro cortés, con <b>please</b> y <b>sir/madam</b> cuando encaje. Entrega la carta con <b class=\"hl\">Here are the menus. I'll be right back to take your order.</b>",
+      "dialogueTitle": "Llegada al restaurante",
+      "dialogue": [
+        { "speaker": "Camarero", "en": "Good evening, and welcome. <b class=\"hl\">Do you have a reservation?</b>", "es": "Buenas noches y bienvenidos. ¿Tienen reserva?" },
+        { "speaker": "Cliente", "en": "Yes, under Marsh, a table for two.", "es": "Sí, a nombre de Marsh, una mesa para dos." },
+        { "speaker": "Camarero", "en": "Of course, Mr. Marsh. <b class=\"hl\">Would you prefer</b> a table inside or on the terrace?", "es": "Por supuesto, Sr. Marsh. ¿Prefieren mesa dentro o en la terraza?" },
+        { "speaker": "Cliente", "en": "The terrace, please.", "es": "En la terraza, por favor." },
+        { "speaker": "Camarero", "en": "Excellent choice. <b class=\"hl\">Follow me, please.</b>", "es": "Excelente elección. Síganme, por favor." },
+        { "speaker": "Cliente", "en": "Thank you.", "es": "Gracias." },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Here are the menus.</b> Can I get you anything to drink while you decide?", "es": "Aquí tienen las cartas. ¿Les traigo algo de beber mientras deciden?" },
+        { "speaker": "Cliente", "en": "Just some water for now, thanks.", "es": "Solo agua de momento, gracias." },
+        { "speaker": "Camarero", "en": "Still or sparkling?", "es": "¿Sin gas o con gas?" }
+      ],
+      "examples": [
+        { "en": "Good evening, <b class=\"hl\">do you have a reservation?</b>", "es": "Buenas noches, ¿tienen reserva?" },
+        { "en": "<b class=\"hl\">A table for how many?</b>", "es": "¿Mesa para cuántos?" },
+        { "en": "<b class=\"hl\">Follow me, please.</b>", "es": "Síganme, por favor." },
+        { "en": "<b class=\"hl\">Would this table be all right?</b>", "es": "¿Les parece bien esta mesa?" },
+        { "en": "Can I <b class=\"hl\">take your coats?</b>", "es": "¿Me permiten sus abrigos?" },
+        { "en": "<b class=\"hl\">Here are the menus.</b>", "es": "Aquí tienen las cartas." },
+        { "en": "<b class=\"hl\">Can I get you anything to drink</b> to start?", "es": "¿Les traigo algo de beber para empezar?" },
+        { "en": "<b class=\"hl\">Still or sparkling</b> water?", "es": "¿Agua sin gas o con gas?" },
+        { "en": "I'll be <b class=\"hl\">right back</b> to take your order.", "es": "Vuelvo enseguida a tomarles nota." },
+        { "en": "Please <b class=\"hl\">take your time.</b>", "es": "Tómense su tiempo." }
+      ],
+      "tables": [
+        {
+          "headers": ["Función", "Frase"],
+          "rows": [
+            ["Preguntar por la reserva", "Do you have a reservation?"],
+            ["Número de comensales", "A table for how many?"],
+            ["Ofrecer ubicación", "Inside or on the terrace?"],
+            ["Acompañar a la mesa", "Follow me, please."],
+            ["Ofrecer recoger abrigos", "Can I take your coats?"],
+            ["Entregar la carta", "Here are the menus."],
+            ["Ofrecer bebida", "Can I get you anything to drink?"],
+            ["Agua", "Still or sparkling?"],
+            ["Dar tiempo", "Take your time."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b20-s1q1", "question": "1. Para preguntar cuántos comensales son:", "options": ["A table for how many?", "How many you are?"], "correctIndex": 0 },
+        { "id": "b20-s1q2", "question": "2. 'Síganme, por favor' se dice:", "options": ["Come with you.", "Follow me, please."], "correctIndex": 1 },
+        { "id": "b20-s1q3", "question": "3. Agua 'con gas' es:", "options": ["sparkling", "still"], "correctIndex": 0 },
+        { "id": "b20-s1q4", "question": "4. Para ofrecerte a recoger los abrigos:", "options": ["Can I take your coats?", "Give me coats."], "correctIndex": 0 },
+        { "id": "b20-s1q5", "question": "5. Al entregar la carta:", "options": ["Here are the menus.", "This is food list."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b20-s1",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Recibe a unos comensales: pregunta por la reserva, ofréceles ubicación, acompáñalos y ofréceles algo de beber.",
+        "placeholder": "Ej: Good evening, do you have a reservation? Would you prefer a table on the terrace? Follow me, please. Can I get you anything to drink to start?"
+      },
+      "notes": [
+        { "type": "tip", "text": "Anticípate: ofrece <b>agua (still/sparkling)</b> y algo de beber nada más sentar, mientras el cliente lee la carta. Y usa el <b>apellido</b> en cuanto lo sepas — personaliza sin ser invasivo." }
+      ]
+    },
+    {
+      "idx": "20.2",
+      "title": "Tomar la comanda",
+      "level": "A2–B1",
+      "rule": "Para tomar nota: <b class=\"hl\">Are you ready to order?</b>, <b class=\"hl\">What would you like to start with?</b>, <b class=\"hl\">And for your main course?</b>. Recomienda con seguridad: <b class=\"hl\">I'd recommend…</b>, <b class=\"hl\">Our specialty is…</b>, <b class=\"hl\">Today's special is…</b>. Confirma y precisa: <b class=\"hl\">How would you like your steak?</b> (rare / medium / well done). Cierra repitiendo la comanda: <b class=\"hl\">So that's…</b> para evitar errores.",
+      "dialogueTitle": "Tomando nota",
+      "dialogue": [
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Are you ready to order</b>, or would you like a few more minutes?", "es": "¿Están listos para pedir o quieren unos minutos más?" },
+        { "speaker": "Cliente", "en": "We're ready. What do you recommend?", "es": "Estamos listos. ¿Qué recomienda?" },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Our specialty is</b> the grilled sea bass, and <b class=\"hl\">today's special is</b> wild mushroom risotto.", "es": "Nuestra especialidad es la lubina a la parrilla, y el plato del día es el risotto de setas silvestres." },
+        { "speaker": "Cliente", "en": "I'll have the sea bass. And to start, the soup.", "es": "Yo tomaré la lubina. Y para empezar, la sopa." },
+        { "speaker": "Camarero", "en": "Excellent. <b class=\"hl\">And for you</b>, sir?", "es": "Excelente. ¿Y para usted, señor?" },
+        { "speaker": "Cliente", "en": "The steak, please.", "es": "El filete, por favor." },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">How would you like it</b> — rare, medium or well done?", "es": "¿Cómo lo desea: poco hecho, al punto o muy hecho?" },
+        { "speaker": "Cliente", "en": "Medium, thanks.", "es": "Al punto, gracias." },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">So that's</b> one soup, the sea bass, and a medium steak. <b class=\"hl\">Anything to drink with that?</b>", "es": "Entonces: una sopa, la lubina y un filete al punto. ¿Algo de beber con eso?" }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Are you ready to order?</b>", "es": "¿Están listos para pedir?" },
+        { "en": "<b class=\"hl\">What would you like to start with?</b>", "es": "¿Qué desean para empezar?" },
+        { "en": "<b class=\"hl\">And for your main course?</b>", "es": "¿Y de plato principal?" },
+        { "en": "<b class=\"hl\">I'd recommend</b> the sea bass.", "es": "Le recomendaría la lubina." },
+        { "en": "<b class=\"hl\">Today's special is</b> mushroom risotto.", "es": "El plato del día es el risotto de setas." },
+        { "en": "<b class=\"hl\">How would you like your steak?</b>", "es": "¿Cómo desea el filete?" },
+        { "en": "Would you like <b class=\"hl\">any sides</b> with that?", "es": "¿Desea alguna guarnición?" },
+        { "en": "<b class=\"hl\">Anything to drink</b> with your meal?", "es": "¿Algo de beber con la comida?" },
+        { "en": "<b class=\"hl\">So that's</b> two mains and a starter.", "es": "Entonces son dos principales y un entrante." },
+        { "en": "<b class=\"hl\">I'll put that order through</b> right away.", "es": "Paso la comanda enseguida." }
+      ],
+      "tables": [
+        {
+          "headers": ["Término / plato", "Significado"],
+          "rows": [
+            ["starter / appetizer", "entrante"],
+            ["main course", "plato principal"],
+            ["side (dish)", "guarnición"],
+            ["dessert", "postre"],
+            ["today's special", "plato del día"],
+            ["specialty", "especialidad de la casa"],
+            ["rare / medium / well done", "poco hecho / al punto / muy hecho"],
+            ["starter to share", "entrante para compartir"],
+            ["set menu", "menú del día / cerrado"],
+            ["à la carte", "a la carta"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b20-s2q1", "question": "1. 'Plato principal' es:", "options": ["main course", "first plate"], "correctIndex": 0 },
+        { "id": "b20-s2q2", "question": "2. Para preguntar el punto del filete:", "options": ["How would you like your steak?", "How is your steak?"], "correctIndex": 0 },
+        { "id": "b20-s2q3", "question": "3. 'Al punto' es:", "options": ["rare", "medium"], "correctIndex": 1 },
+        { "id": "b20-s2q4", "question": "4. Para recomendar con seguridad:", "options": ["I'd recommend the sea bass.", "Maybe the fish, I don't know."], "correctIndex": 0 },
+        { "id": "b20-s2q5", "question": "5. 'Guarnición' es:", "options": ["side", "starter"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b20-s2",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Toma una comanda: pregunta si están listos, recomienda un plato, pregunta el punto del filete y repite la comanda para confirmar.",
+        "placeholder": "Ej: Are you ready to order? I'd recommend the sea bass — today's special is the risotto. How would you like your steak? So that's one soup and a medium steak."
+      },
+      "notes": [
+        { "type": "tip", "text": "Cierra siempre <b>repitiendo la comanda</b> ('So that's…'): evita errores en cocina y transmite profesionalidad. Y ofrece guarnición y bebida <b>antes</b> de irte, para no volver dos veces." }
+      ]
+    },
+    {
+      "idx": "20.3",
+      "title": "Describir platos y maridaje",
+      "level": "B1–B2",
+      "rule": "Vender un plato es describirlo con apetito. Estructura: <b class=\"hl\">It's [tipo de plato] made with [ingredientes], served with [guarnición].</b> Usa adjetivos sensoriales: <b class=\"hl\">rich, tender, creamy, crispy, fresh, delicate</b>. Para el maridaje: <b class=\"hl\">It pairs beautifully with…</b>, <b class=\"hl\">I'd suggest a glass of…</b>. Y explica métodos de cocción: grilled, roasted, steamed, pan-fried, slow-cooked.",
+      "dialogueTitle": "Describiendo un plato y su vino",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "What's the sea bass like?", "es": "¿Cómo es la lubina?" },
+        { "speaker": "Camarero", "en": "It's <b class=\"hl\">grilled</b> and <b class=\"hl\">served with</b> roasted vegetables and a lemon butter sauce. Very fresh and delicate.", "es": "Es a la parrilla y se sirve con verduras asadas y una salsa de mantequilla al limón. Muy fresca y delicada." },
+        { "speaker": "Cliente", "en": "That sounds good. And the risotto?", "es": "Suena bien. ¿Y el risotto?" },
+        { "speaker": "Camarero", "en": "It's <b class=\"hl\">rich and creamy</b>, made with wild mushrooms and parmesan. A guest favourite.", "es": "Es cremoso y sabroso, hecho con setas silvestres y parmesano. Uno de los favoritos." },
+        { "speaker": "Cliente", "en": "Which wine would go well with the fish?", "es": "¿Qué vino iría bien con el pescado?" },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">It pairs beautifully with</b> a crisp white — <b class=\"hl\">I'd suggest a glass of</b> Albariño.", "es": "Marida de maravilla con un blanco fresco; le sugeriría una copa de Albariño." },
+        { "speaker": "Cliente", "en": "Perfect, we'll have that.", "es": "Perfecto, tomaremos eso." },
+        { "speaker": "Camarero", "en": "Great choice. <b class=\"hl\">I'm sure you'll enjoy it.</b>", "es": "Gran elección. Seguro que le encanta." }
+      ],
+      "examples": [
+        { "en": "It's <b class=\"hl\">served with</b> roasted vegetables.", "es": "Se sirve con verduras asadas." },
+        { "en": "It's <b class=\"hl\">rich and creamy</b>.", "es": "Es sabroso y cremoso." },
+        { "en": "The chicken is <b class=\"hl\">tender</b> and <b class=\"hl\">juicy</b>.", "es": "El pollo es tierno y jugoso." },
+        { "en": "The batter is light and <b class=\"hl\">crispy</b>.", "es": "El rebozado es ligero y crujiente." },
+        { "en": "It's <b class=\"hl\">slow-cooked</b> for eight hours.", "es": "Está cocinado a fuego lento durante ocho horas." },
+        { "en": "<b class=\"hl\">It pairs beautifully with</b> a red wine.", "es": "Marida de maravilla con un tinto." },
+        { "en": "<b class=\"hl\">I'd suggest</b> a glass of Rioja.", "es": "Le sugeriría una copa de Rioja." },
+        { "en": "It has a <b class=\"hl\">delicate</b> lemon flavour.", "es": "Tiene un delicado sabor a limón." },
+        { "en": "It's one of our <b class=\"hl\">most popular dishes</b>.", "es": "Es uno de nuestros platos más populares." },
+        { "en": "<b class=\"hl\">I'm sure you'll enjoy it.</b>", "es": "Seguro que le encanta." }
+      ],
+      "tables": [
+        {
+          "headers": ["Categoría", "Vocabulario"],
+          "rows": [
+            ["Cocción", "grilled, roasted, steamed, pan-fried, slow-cooked, baked"],
+            ["Textura", "tender, juicy, crispy, creamy, crunchy"],
+            ["Sabor", "rich, delicate, fresh, tangy, savoury, mild, spicy"],
+            ["Servir con", "served with… / on a bed of… / topped with…"],
+            ["Maridaje", "It pairs well with… / I'd suggest a glass of…"],
+            ["Vino blanco", "a crisp / dry white"],
+            ["Vino tinto", "a full-bodied / smooth red"],
+            ["Recomendar", "a guest favourite / our specialty"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b20-s3q1", "question": "1. 'A la parrilla' es:", "options": ["grilled", "boiled"], "correctIndex": 0 },
+        { "id": "b20-s3q2", "question": "2. Para el maridaje de un plato:", "options": ["It pairs well with…", "It fights with…"], "correctIndex": 0 },
+        { "id": "b20-s3q3", "question": "3. 'Crujiente' es:", "options": ["crispy", "creamy"], "correctIndex": 0 },
+        { "id": "b20-s3q4", "question": "4. Estructura para describir: 'It's grilled and ___ roasted vegetables.'", "options": ["served with", "made for"], "correctIndex": 0 },
+        { "id": "b20-s3q5", "question": "5. Un plato 'rich and creamy' es:", "options": ["sabroso y cremoso", "seco e insípido"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b20-s3",
+        "label": "<span class=\"badge\">tu turno</span>Describe un plato de tu carta con apetito (cocción + ingredientes + guarnición + un adjetivo sensorial) y sugiere un maridaje.",
+        "placeholder": "Ej: It's a slow-cooked lamb, tender and rich, served with roasted potatoes. It pairs beautifully with a full-bodied red — I'd suggest a glass of Rioja."
+      },
+      "notes": [
+        { "type": "tip", "text": "Un plato descrito con <b>método de cocción + adjetivo sensorial + maridaje</b> se vende solo. Evita 'it's good/nice'; usa palabras concretas: <b>tender, crispy, delicate, rich</b>." }
+      ]
+    },
+    {
+      "idx": "20.4",
+      "title": "Alergias y dietas",
+      "level": "B1",
+      "rule": "La seguridad alimentaria es crítica: aquí no se improvisa. Pregunta siempre: <b class=\"hl\">Do you have any allergies or dietary requirements?</b>. Si el cliente avisa, confirma con precisión y verifica en cocina: <b class=\"hl\">Let me check with the kitchen.</b>. Nunca digas 'creo que no lleva…': confirma. Vocabulario clave: allergy, gluten-free, dairy-free, nut-free, vegetarian, vegan, contains traces of…",
+      "dialogueTitle": "Un cliente con alergia",
+      "dialogue": [
+        { "speaker": "Camarero", "en": "Before you order — <b class=\"hl\">do you have any allergies or dietary requirements?</b>", "es": "Antes de pedir, ¿tienen alguna alergia o requisito dietético?" },
+        { "speaker": "Cliente", "en": "Yes, I'm allergic to nuts.", "es": "Sí, soy alérgico a los frutos secos." },
+        { "speaker": "Camarero", "en": "Thank you for letting me know. <b class=\"hl\">I'll make a note of that</b> and flag it to the kitchen.", "es": "Gracias por avisar. Lo anoto y se lo indico a la cocina." },
+        { "speaker": "Cliente", "en": "Does the risotto contain nuts?", "es": "¿El risotto lleva frutos secos?" },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Let me check with the kitchen</b> to be completely sure.", "es": "Permítame confirmarlo con la cocina para estar completamente seguro." },
+        { "speaker": "Cliente", "en": "Thank you, I'd appreciate that.", "es": "Gracias, se lo agradezco." },
+        { "speaker": "Camarero", "en": "The chef confirms it's <b class=\"hl\">nut-free</b>, and it can be made <b class=\"hl\">gluten-free</b> too if you'd like.", "es": "El chef confirma que no lleva frutos secos, y también puede hacerse sin gluten si lo desea." },
+        { "speaker": "Cliente", "en": "That's perfect, thank you.", "es": "Perfecto, gracias." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Do you have any allergies?</b>", "es": "¿Tiene alguna alergia?" },
+        { "en": "Any <b class=\"hl\">dietary requirements</b> I should know about?", "es": "¿Algún requisito dietético que deba saber?" },
+        { "en": "<b class=\"hl\">I'll make a note of that.</b>", "es": "Lo anoto." },
+        { "en": "<b class=\"hl\">Let me check with the kitchen.</b>", "es": "Permítame confirmarlo con la cocina." },
+        { "en": "This dish is <b class=\"hl\">gluten-free</b>.", "es": "Este plato es sin gluten." },
+        { "en": "We can make it <b class=\"hl\">without dairy</b>.", "es": "Podemos hacerlo sin lácteos." },
+        { "en": "It may <b class=\"hl\">contain traces of</b> nuts.", "es": "Puede contener trazas de frutos secos." },
+        { "en": "We have several <b class=\"hl\">vegan options</b>.", "es": "Tenemos varias opciones veganas." },
+        { "en": "The chef can <b class=\"hl\">adapt the dish</b> for you.", "es": "El chef puede adaptar el plato para usted." },
+        { "en": "<b class=\"hl\">Your safety comes first</b> — I'll double-check.", "es": "Su seguridad es lo primero; lo verifico." }
+      ],
+      "tables": [
+        {
+          "headers": ["Español", "Inglés"],
+          "rows": [
+            ["alergia", "allergy"],
+            ["alérgeno", "allergen"],
+            ["sin gluten", "gluten-free"],
+            ["sin lácteos", "dairy-free"],
+            ["sin frutos secos", "nut-free"],
+            ["vegetariano", "vegetarian"],
+            ["vegano", "vegan"],
+            ["intolerancia", "intolerance"],
+            ["puede contener trazas de", "may contain traces of"],
+            ["requisito dietético", "dietary requirement"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b20-s4q1", "question": "1. Para preguntar por alergias:", "options": ["Do you have any allergies?", "You eat everything?"], "correctIndex": 0 },
+        { "id": "b20-s4q2", "question": "2. 'Sin gluten' es:", "options": ["gluten-free", "no-gluten yes"], "correctIndex": 0 },
+        { "id": "b20-s4q3", "question": "3. Si no estás seguro de si un plato lleva un alérgeno:", "options": ["Let me check with the kitchen.", "I think it's fine, probably."], "correctIndex": 0 },
+        { "id": "b20-s4q4", "question": "4. 'Puede contener trazas de' es:", "options": ["may contain traces of", "maybe has a little"], "correctIndex": 0 },
+        { "id": "b20-s4q5", "question": "5. Ante una alergia, lo primero es:", "options": ["confirmar con cocina, nunca improvisar", "servir rápido"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b20-s4",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un cliente te dice que es alérgico al marisco. Responde con seguridad: agradece el aviso, anótalo y ofrécete a confirmar con la cocina.",
+        "placeholder": "Ej: Thank you for letting me know — I'll make a note of that. Let me check with the kitchen to be completely sure. Your safety comes first."
+      },
+      "notes": [
+        { "type": "exception", "text": "Con alergias, <b>nunca improvises ni adivines</b> ('I think it's fine'). Confirma siempre con cocina y avisa del alérgeno. Un error aquí puede ser grave: la frase clave es <b>'Let me check with the kitchen.'</b>" }
+      ]
+    },
+    {
+      "idx": "20.5",
+      "title": "Quejas en la mesa",
+      "level": "B1–B2",
+      "rule": "Una queja bien resuelta salva la velada. Igual que en recepción, aplica <b>LAST</b>: <b class=\"hl\">Listen, Apologise, Solve, Thank</b>. Frases: <b class=\"hl\">I'm so sorry about that.</b>, <b class=\"hl\">Let me take that back to the kitchen.</b>, <b class=\"hl\">I'll bring you a fresh one right away.</b>. Nunca discutas ni culpes al cliente. Compensa cuando proceda: <b class=\"hl\">This will be off your bill.</b>, <b class=\"hl\">Dessert is on the house.</b>",
+      "dialogueTitle": "Un plato mal preparado",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "Excuse me, my steak is overcooked. I asked for medium.", "es": "Disculpe, mi filete está demasiado hecho. Lo pedí al punto." },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">I'm so sorry about that.</b> You're absolutely right — that's not what you ordered.", "es": "Lo siento muchísimo. Tiene toda la razón, no es lo que pidió." },
+        { "speaker": "Cliente", "en": "It's quite dry.", "es": "Está bastante seco." },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Let me take that back</b> to the kitchen and <b class=\"hl\">I'll bring you a fresh one</b>, cooked medium, right away.", "es": "Permítame llevármelo a la cocina y le traigo uno nuevo, al punto, enseguida." },
+        { "speaker": "Cliente", "en": "Thank you. My wife has almost finished, though.", "es": "Gracias. Aunque mi mujer casi ha terminado." },
+        { "speaker": "Camarero", "en": "I completely understand. <b class=\"hl\">The steak will be off your bill</b>, and please have a dessert <b class=\"hl\">on the house</b>.", "es": "Lo entiendo perfectamente. El filete no se lo cobramos, y por favor tomen un postre por cuenta de la casa." },
+        { "speaker": "Cliente", "en": "That's very kind, thank you.", "es": "Es muy amable, gracias." },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Thank you for your patience.</b> I'll be right back.", "es": "Gracias por su paciencia. Vuelvo enseguida." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">I'm so sorry about that.</b>", "es": "Lo siento muchísimo." },
+        { "en": "<b class=\"hl\">You're absolutely right.</b>", "es": "Tiene toda la razón." },
+        { "en": "<b class=\"hl\">Let me take that back</b> to the kitchen.", "es": "Permítame llevármelo a la cocina." },
+        { "en": "<b class=\"hl\">I'll bring you a fresh one</b> right away.", "es": "Le traigo uno nuevo enseguida." },
+        { "en": "This will be <b class=\"hl\">off your bill</b>.", "es": "Esto no se lo cobramos." },
+        { "en": "Dessert is <b class=\"hl\">on the house</b>.", "es": "El postre corre por cuenta de la casa." },
+        { "en": "<b class=\"hl\">How can I make this right?</b>", "es": "¿Cómo puedo arreglarlo?" },
+        { "en": "I'll <b class=\"hl\">speak to the chef</b> personally.", "es": "Hablaré con el chef en persona." },
+        { "en": "<b class=\"hl\">Thank you for your patience.</b>", "es": "Gracias por su paciencia." },
+        { "en": "<b class=\"hl\">Is everything to your liking</b> now?", "es": "¿Está todo a su gusto ahora?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Paso (LAST)", "Frase en la mesa"],
+          "rows": [
+            ["Listen", "You're absolutely right — I see."],
+            ["Apologise", "I'm so sorry about that."],
+            ["Solve", "Let me take that back — I'll bring a fresh one."],
+            ["Thank", "Thank you for your patience."],
+            ["Compensar (cuenta)", "This will be off your bill."],
+            ["Compensar (detalle)", "Dessert is on the house."],
+            ["Escalar", "I'll speak to the chef personally."],
+            ["Confirmar", "Is everything to your liking now?"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b20-s5q1", "question": "1. Ante un plato mal hecho, primero:", "options": ["discutir con el cliente", "disculparse y ofrecer solución"], "correctIndex": 1 },
+        { "id": "b20-s5q2", "question": "2. 'Le traigo uno nuevo enseguida':", "options": ["I'll bring you a fresh one right away.", "Wait for other food."], "correctIndex": 0 },
+        { "id": "b20-s5q3", "question": "3. 'Por cuenta de la casa' es:", "options": ["on the house", "on the table"], "correctIndex": 0 },
+        { "id": "b20-s5q4", "question": "4. 'No se lo cobramos' (el plato):", "options": ["It's off your bill.", "It's your bill."], "correctIndex": 0 },
+        { "id": "b20-s5q5", "question": "5. La secuencia recomendada es:", "options": ["Listen, Apologise, Solve, Thank", "Ignore, Argue, Charge, Leave"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b20-s5",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un cliente dice que su sopa está fría. Responde siguiendo LAST y ofrece una compensación adecuada.",
+        "placeholder": "Ej: I'm so sorry about that — you're absolutely right. Let me take it back and bring you a fresh, hot one right away. The soup will be off your bill. Thank you for your patience."
+      },
+      "notes": [
+        { "type": "exception", "text": "Nunca digas 'pero usted pidió…' ni culpes a cocina delante del cliente. Asume el problema, <b>resuélvelo rápido</b> y compensa con proporción: un plato fallado = fuera de la cuenta o un detalle, no un discurso." }
+      ]
+    },
+    {
+      "idx": "20.6",
+      "title": "La cuenta y la despedida",
+      "level": "A2–B1",
+      "rule": "El final deja la última impresión. Ofrece postre y café antes de la cuenta: <b class=\"hl\">Would you like to see the dessert menu?</b>, <b class=\"hl\">Can I get you any coffee?</b>. Para la cuenta: <b class=\"hl\">Would you like the bill?</b>, <b class=\"hl\">How would you like to pay?</b> (card / cash), <b class=\"hl\">Together or separately?</b>. Despide con calidez: <b class=\"hl\">Thank you, do come again.</b>. Sobre la propina, en muchos sitios ya va incluida: <b class=\"hl\">Service is included.</b>",
+      "dialogueTitle": "Cerrando la mesa",
+      "dialogue": [
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Would you like to see the dessert menu</b>, or just coffee?", "es": "¿Desean ver la carta de postres, o solo café?" },
+        { "speaker": "Cliente", "en": "Just the bill, please.", "es": "Solo la cuenta, por favor." },
+        { "speaker": "Camarero", "en": "Of course. <b class=\"hl\">Together or separately?</b>", "es": "Por supuesto. ¿Junta o por separado?" },
+        { "speaker": "Cliente", "en": "Together, thanks. Is service included?", "es": "Junta, gracias. ¿El servicio está incluido?" },
+        { "speaker": "Camarero", "en": "Yes, <b class=\"hl\">service is included.</b> <b class=\"hl\">How would you like to pay</b> — card or cash?", "es": "Sí, el servicio está incluido. ¿Cómo desea pagar: tarjeta o efectivo?" },
+        { "speaker": "Cliente", "en": "By card, please.", "es": "Con tarjeta, por favor." },
+        { "speaker": "Camarero", "en": "Perfect. <b class=\"hl\">I'll bring the card machine</b> right over.", "es": "Perfecto. Le traigo el datáfono ahora mismo." },
+        { "speaker": "Cliente", "en": "Thank you, it was lovely.", "es": "Gracias, ha estado estupendo." },
+        { "speaker": "Camarero", "en": "<b class=\"hl\">Thank you, and do come again.</b> Have a lovely evening.", "es": "Gracias, y vuelvan cuando quieran. Que pasen una buena noche." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Would you like to see the dessert menu?</b>", "es": "¿Desean ver la carta de postres?" },
+        { "en": "Can I get you <b class=\"hl\">any coffee</b> or tea?", "es": "¿Les traigo café o té?" },
+        { "en": "<b class=\"hl\">Would you like the bill?</b>", "es": "¿Desean la cuenta?" },
+        { "en": "<b class=\"hl\">Together or separately?</b>", "es": "¿Junta o por separado?" },
+        { "en": "<b class=\"hl\">How would you like to pay?</b>", "es": "¿Cómo desean pagar?" },
+        { "en": "<b class=\"hl\">Service is included.</b>", "es": "El servicio está incluido." },
+        { "en": "I'll <b class=\"hl\">bring the card machine</b> over.", "es": "Le traigo el datáfono." },
+        { "en": "<b class=\"hl\">Keep the change.</b> — That's very kind, thank you.", "es": "Quédese con el cambio. — Muy amable, gracias." },
+        { "en": "<b class=\"hl\">Thank you, do come again.</b>", "es": "Gracias, vuelvan cuando quieran." },
+        { "en": "<b class=\"hl\">Have a lovely evening.</b>", "es": "Que pasen una buena noche." }
+      ],
+      "tables": [
+        {
+          "headers": ["Función", "Frase"],
+          "rows": [
+            ["Ofrecer postre", "Would you like to see the dessert menu?"],
+            ["Ofrecer café", "Can I get you any coffee?"],
+            ["Ofrecer la cuenta", "Would you like the bill?"],
+            ["Dividir la cuenta", "Together or separately?"],
+            ["Forma de pago", "How would you like to pay? Card or cash?"],
+            ["Propina/servicio", "Service is included."],
+            ["Traer el datáfono", "I'll bring the card machine over."],
+            ["Despedir", "Thank you, do come again."],
+            ["Buenos deseos", "Have a lovely evening."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b20-s6q1", "question": "1. Para preguntar si la cuenta va junta o separada:", "options": ["Together or separately?", "One or two money?"], "correctIndex": 0 },
+        { "id": "b20-s6q2", "question": "2. 'El servicio está incluido' es:", "options": ["Service is included.", "Service is free maybe."], "correctIndex": 0 },
+        { "id": "b20-s6q3", "question": "3. Para preguntar la forma de pago:", "options": ["How would you like to pay?", "Give me money how?"], "correctIndex": 0 },
+        { "id": "b20-s6q4", "question": "4. 'El datáfono / la máquina de tarjeta' es:", "options": ["card machine", "money box"], "correctIndex": 0 },
+        { "id": "b20-s6q5", "question": "5. Una buena despedida es:", "options": ["Thank you, do come again.", "Ok bye, leave."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b20-s6",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Cierra la mesa: ofrece postre o café, pregunta si la cuenta va junta y la forma de pago, y despide con calidez.",
+        "placeholder": "Ej: Would you like to see the dessert menu, or just coffee? Would you like the bill? Together or separately? How would you like to pay — card or cash? Thank you, do come again!"
+      },
+      "notes": [
+        { "type": "tip", "text": "El cierre es tu última oportunidad de fidelizar: ofrece postre/café (más ticket) sin presionar, agiliza el pago y despide por su nombre. Un <b>'Thank you, do come again'</b> sincero vale más que cualquier descuento." }
+      ]
+    }
+  ]
+}
