@@ -1,0 +1,385 @@
+{
+  "block": "23",
+  "title": "Gramática avanzada y matices (C1–C2)",
+  "kicker": "Bloque 23 · Refinamiento · B2–C2",
+  "intro": "Los últimos huecos hacia el <b class=\"hl\">C2</b>: los detalles que separan un inglés correcto de uno preciso y natural — partitivos, patrones verbales, pasado irreal, subjuntivo, nominalización, registro y connotación. Misma ruta: <b class=\"hl\">regla → ejemplos → tabla → quiz → tu turno</b>.",
+  "legend": [
+    { "label": "forma", "desc": "la estructura exacta" },
+    { "label": "matiz", "desc": "el efecto o registro que aporta" }
+  ],
+  "sections": [
+    {
+      "idx": "23.1",
+      "title": "Partitivos e incontables",
+      "level": "B2",
+      "rule": "Los <b>incontables</b> (advice, information, bread, money, furniture) no llevan <b>a/an</b> ni plural. Para contar una porción se usa un <b class=\"hl\">partitivo</b>: <b class=\"hl\">a piece of</b> advice/information/furniture, <b class=\"hl\">a slice of</b> bread/cake, <b class=\"hl\">a bit of</b> luck, <b class=\"hl\">a loaf of</b> bread, <b class=\"hl\">a bar of</b> chocolate, <b class=\"hl\">a drop of</b> water. Para cantidades grandes formales: <b class=\"hl\">a great deal of</b> money/time. Error típico del hispanohablante: 'an advice', 'informations', 'a furniture'.",
+      "examples": [
+        { "en": "Let me give you <b class=\"hl\">a piece of advice</b>. (no 'an advice')", "es": "Déjame darte un consejo." },
+        { "en": "I need <b class=\"hl\">a piece of information</b>. (no 'an information')", "es": "Necesito un dato / una información." },
+        { "en": "Would you like <b class=\"hl\">a slice of cake</b>?", "es": "¿Quieres un trozo de tarta?" },
+        { "en": "We bought <b class=\"hl\">a loaf of bread</b> and <b class=\"hl\">a bar of chocolate</b>.", "es": "Compramos una barra de pan y una tableta de chocolate." },
+        { "en": "There's not <b class=\"hl\">a drop of</b> milk left.", "es": "No queda ni una gota de leche." },
+        { "en": "It took <b class=\"hl\">a great deal of</b> time and money.", "es": "Costó muchísimo tiempo y dinero." },
+        { "en": "We need <b class=\"hl\">a few pieces of furniture</b> for the suite.", "es": "Necesitamos algunos muebles para la suite." },
+        { "en": "That's <b class=\"hl\">a bit of</b> good news!", "es": "¡Eso es una buena noticia!" },
+        { "en": "Can I have <b class=\"hl\">a glass of water</b> and <b class=\"hl\">two cups of coffee</b>?", "es": "¿Me pone un vaso de agua y dos cafés?" },
+        { "en": "He gave me <b class=\"hl\">several items of clothing</b> for the laundry.", "es": "Me dio varias prendas para la lavandería." }
+      ],
+      "tables": [
+        {
+          "headers": ["Partitivo", "Va con (incontables)", "Ejemplo"],
+          "rows": [
+            ["a piece of", "advice, information, news, furniture, luggage", "a piece of advice"],
+            ["a slice of", "bread, cake, cheese, ham", "a slice of cake"],
+            ["a bit of", "luck, help, fun, news (informal)", "a bit of luck"],
+            ["a loaf of", "bread", "a loaf of bread"],
+            ["a bar of", "chocolate, soap", "a bar of chocolate"],
+            ["a drop of", "water, oil, rain", "a drop of water"],
+            ["a great deal of", "money, time, effort (formal)", "a great deal of money"],
+            ["an item of", "clothing, news, furniture", "an item of clothing"],
+            ["a glass / cup of", "water, wine / coffee, tea", "a cup of coffee"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b23-s1q1", "question": "1. 'Un consejo' se dice:", "options": ["an advice", "a piece of advice"], "correctIndex": 1 },
+        { "id": "b23-s1q2", "question": "2. 'Information' es incontable, así que:", "options": ["two informations", "two pieces of information"], "correctIndex": 1 },
+        { "id": "b23-s1q3", "question": "3. 'Un trozo de tarta':", "options": ["a slice of cake", "a cake piece"], "correctIndex": 0 },
+        { "id": "b23-s1q4", "question": "4. 'Furniture' (muebles) es:", "options": ["contable (a furniture)", "incontable (a piece of furniture)"], "correctIndex": 1 },
+        { "id": "b23-s1q5", "question": "5. Cantidad grande, formal:", "options": ["a great deal of time", "a big of time"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b23-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres frases con partitivos usando incontables distintos (advice, bread, news, money, furniture…).",
+        "placeholder": "Ej: Let me give you a piece of advice. We ordered a loaf of bread. It cost a great deal of money.",
+        "rubric": [
+          "¿Usas un <b>partitivo</b> correcto para cada incontable?",
+          "¿Evitas 'a/an' y el plural con incontables (no 'an advice', 'informations')?",
+          "¿Los tres incontables son distintos?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Ojo a los incontables que en español son contables: <b>advice, information, news, furniture, luggage, homework, progress, research, equipment</b>. Nunca 'an advice' ni 'furnitures'; usa un partitivo o reformula." }
+      ]
+    },
+    {
+      "idx": "23.2",
+      "title": "Patrones verbales avanzados",
+      "level": "B2–C1",
+      "rule": "Dos patrones muy productivos. <b>it + adjetivo + to-infinitivo</b>: el sujeto vacío 'it' evita empezar con un infinitivo largo — <b class=\"hl\">It's easy to book online.</b> (no 'To book online is easy' en habla normal). Con persona: <b class=\"hl\">It was kind of you to help.</b>. <b>verbo + objeto + to-infinitivo</b>: want, expect, ask, tell, advise, allow, encourage, persuade, would like — <b class=\"hl\">I want you to confirm.</b>, <b class=\"hl\">We advised them to book early.</b>. (Recuerda: make/let/see/hear van sin 'to' — bloque 11.8.)",
+      "examples": [
+        { "en": "<b class=\"hl\">It's important to</b> confirm in writing.", "es": "Es importante confirmar por escrito." },
+        { "en": "<b class=\"hl\">It's difficult to</b> find a room in August.", "es": "Es difícil encontrar habitación en agosto." },
+        { "en": "<b class=\"hl\">It was very kind of you to</b> wait.", "es": "Fue muy amable de su parte esperar." },
+        { "en": "<b class=\"hl\">It's worth</b> booking early. (worth + -ing)", "es": "Vale la pena reservar pronto." },
+        { "en": "I <b class=\"hl\">want you to</b> handle this personally.", "es": "Quiero que te encargues de esto personalmente." },
+        { "en": "We <b class=\"hl\">expect the guests to</b> arrive by six.", "es": "Esperamos que los huéspedes lleguen para las seis." },
+        { "en": "She <b class=\"hl\">asked me to</b> send the invoice.", "es": "Me pidió que enviara la factura." },
+        { "en": "The manager <b class=\"hl\">advised us to</b> upsell suites.", "es": "El gerente nos aconsejó vender más suites." },
+        { "en": "We <b class=\"hl\">don't allow guests to</b> smoke indoors.", "es": "No permitimos que los huéspedes fumen dentro." },
+        { "en": "I'd <b class=\"hl\">encourage you to</b> try the spa.", "es": "Le animaría a probar el spa." }
+      ],
+      "tables": [
+        {
+          "headers": ["Patrón", "Ejemplo", "Matiz"],
+          "rows": [
+            ["it + adj + to-inf", "It's easy to book.", "evita infinitivo inicial largo"],
+            ["it + adj + of + persona + to-inf", "It was kind of you to help.", "juicio sobre la persona"],
+            ["it + worth + -ing", "It's worth booking early.", "'vale la pena' (¡-ing!)"],
+            ["want/expect/would like + obj + to-inf", "I want you to confirm.", "quién hace la acción"],
+            ["ask/tell/advise/persuade + obj + to-inf", "She asked me to wait.", "reportar peticiones/órdenes"],
+            ["allow/encourage/enable + obj + to-inf", "We don't allow guests to smoke.", "permiso / estímulo"],
+            ["make/let/see/hear + obj + BARE inf", "We let guests check in early.", "sin 'to' (bloque 11.8)"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b23-s2q1", "question": "1. ¿Cuál es natural?", "options": ["To find a room in August is hard.", "It's hard to find a room in August."], "correctIndex": 1 },
+        { "id": "b23-s2q2", "question": "2. 'Quiero que confirmes':", "options": ["I want that you confirm.", "I want you to confirm."], "correctIndex": 1 },
+        { "id": "b23-s2q3", "question": "3. 'It's worth ___ early.'", "options": ["booking", "to book"], "correctIndex": 0 },
+        { "id": "b23-s2q4", "question": "4. 'Fue amable de tu parte esperar':", "options": ["It was kind of you to wait.", "It was kind that you wait."], "correctIndex": 0 },
+        { "id": "b23-s2q5", "question": "5. 'She asked me ___ the invoice.'", "options": ["to send", "sending"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b23-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>it + adjetivo + to</b> y otra con <b>verbo + objeto + to-infinitivo</b> (want/ask/advise…).",
+        "placeholder": "Ej: It's essential to confirm the booking. I'd advise you to book early.",
+        "rubric": [
+          "¿La primera empieza por 'It' y lleva adjetivo + to-infinitivo?",
+          "¿La segunda usa objeto + <b>to</b>-infinitivo (no 'that + subjuntivo')?",
+          "¿Evitas empezar una frase hablada con un infinitivo largo?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "'I want that you come' es un calco del español: incorrecto. En inglés → <b>I want you to come</b>. Y no confundas 'worth + -ing' (worth booking) con 'want + to' (want to book)." }
+      ]
+    },
+    {
+      "idx": "23.3",
+      "title": "Pasado irreal: would rather, had better, it's time",
+      "level": "B2–C1",
+      "rule": "Tres estructuras muy útiles. <b class=\"hl\">would rather</b> + infinitivo sin 'to' = preferencia propia (I'd rather stay); + <b>sujeto + pasado</b> = preferencia sobre otro (I'd rather you <b>stayed</b>). <b class=\"hl\">had better</b> ('d better) + infinitivo sin 'to' = consejo o advertencia fuerte (You'd better book now, o te quedas sin sitio). <b class=\"hl\">it's (high) time</b> + <b>sujeto + pasado</b> = ya va siendo hora (It's time we <b>left</b>). En estas dos últimas el 'pasado' es <b>irreal</b>: se refiere al presente/futuro.",
+      "examples": [
+        { "en": "I'<b class=\"hl\">d rather stay</b> in tonight. (preferencia propia)", "es": "Prefiero quedarme en casa esta noche." },
+        { "en": "I'<b class=\"hl\">d rather you didn't</b> smoke here. (sobre otro → pasado)", "es": "Preferiría que no fumaras aquí." },
+        { "en": "We'<b class=\"hl\">d rather they came</b> tomorrow. (sobre otros)", "es": "Preferiríamos que vinieran mañana." },
+        { "en": "You'<b class=\"hl\">d better book</b> now — it's filling up. (advertencia)", "es": "Más vale que reserves ya, se está llenando." },
+        { "en": "We'<b class=\"hl\">d better not</b> be late for the check-in. (negativo)", "es": "Más vale que no lleguemos tarde al check-in." },
+        { "en": "<b class=\"hl\">It's time we left.</b> (ya va siendo hora)", "es": "Ya va siendo hora de que nos vayamos." },
+        { "en": "<b class=\"hl\">It's high time</b> the lift <b class=\"hl\">was fixed</b>.", "es": "Ya iba siendo hora de que arreglaran el ascensor." },
+        { "en": "<b class=\"hl\">It's about time</b> you took a break.", "es": "Ya es hora de que te tomes un descanso." },
+        { "en": "Would you rather <b class=\"hl\">pay now or</b> at check-out?", "es": "¿Prefiere pagar ahora o al hacer el check-out?" },
+        { "en": "He'<b class=\"hl\">d better apologise</b> to the guest.", "es": "Más le vale disculparse con el huésped." }
+      ],
+      "tables": [
+        {
+          "headers": ["Estructura", "Forma", "Ejemplo"],
+          "rows": [
+            ["would rather (yo)", "'d rather + infinitivo sin to", "I'd rather stay."],
+            ["would rather (otro)", "'d rather + sujeto + PASADO", "I'd rather you stayed."],
+            ["had better", "'d better + infinitivo sin to", "You'd better book now."],
+            ["had better (neg.)", "'d better not + infinitivo", "We'd better not be late."],
+            ["it's time", "it's (high/about) time + sujeto + PASADO", "It's time we left."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b23-s3q1", "question": "1. 'Preferiría que no fumaras aquí':", "options": ["I'd rather you don't smoke here.", "I'd rather you didn't smoke here."], "correctIndex": 1 },
+        { "id": "b23-s3q2", "question": "2. 'had better' va seguido de:", "options": ["infinitivo sin 'to' (book)", "to + infinitivo (to book)"], "correctIndex": 0 },
+        { "id": "b23-s3q3", "question": "3. 'Ya va siendo hora de que nos vayamos':", "options": ["It's time we leave.", "It's time we left."], "correctIndex": 1 },
+        { "id": "b23-s3q4", "question": "4. Preferencia propia: 'I'd rather ___ in.'", "options": ["stay", "to stay"], "correctIndex": 0 },
+        { "id": "b23-s3q5", "question": "5. En 'It's time you left', el pasado es:", "options": ["real (ocurrió)", "irreal (se refiere a ahora)"], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b23-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una preferencia sobre otra persona con <b>would rather + pasado</b>, una advertencia con <b>had better</b> y un <b>it's time + pasado</b>.",
+        "placeholder": "Ej: I'd rather you confirmed today. You'd better hurry. It's time we updated the prices.",
+        "rubric": [
+          "¿'would rather + otra persona' lleva el verbo en <b>pasado</b>?",
+          "¿'had better' va con infinitivo <b>sin 'to'</b>?",
+          "¿'it's time' lleva sujeto + verbo en <b>pasado</b> (irreal)?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "El 'pasado' aquí es <b>irreal</b>, no habla del pasado: 'I'd rather you <b>came</b> tomorrow' = mañana. Y 'had better' NO es un pasado: es consejo presente/futuro con matiz de advertencia ('o si no…')." }
+      ]
+    },
+    {
+      "idx": "23.4",
+      "title": "El subjuntivo (mandative & fixed)",
+      "level": "C1",
+      "rule": "Tras verbos y adjetivos de <b>petición, recomendación o necesidad</b>, el inglés formal usa el <b>subjuntivo</b>: <b>that + sujeto + infinitivo base</b> (sin -s, sin to), igual para todas las personas. Verbos: <b class=\"hl\">suggest, recommend, insist, demand, request, propose, require</b>. Adjetivos: <b class=\"hl\">it's essential/important/vital/crucial that…</b>. Ej.: <b class=\"hl\">We recommend that she arrive early.</b> (no 'arrives'). En negativo, solo 'not' + base (that he <b>not be</b> late). En registro informal se usa 'should' en su lugar.",
+      "examples": [
+        { "en": "We recommend that every guest <b class=\"hl\">be</b> greeted by name.", "es": "Recomendamos que se salude a cada huésped por su nombre." },
+        { "en": "The manager insists that the report <b class=\"hl\">be</b> ready by Friday.", "es": "El gerente insiste en que el informe esté listo para el viernes." },
+        { "en": "It's essential that everyone <b class=\"hl\">arrive</b> on time. (no 'arrives')", "es": "Es esencial que todos lleguen a tiempo." },
+        { "en": "I suggest that he <b class=\"hl\">speak</b> to the owner directly.", "es": "Sugiero que hable con el propietario directamente." },
+        { "en": "They demanded that the charge <b class=\"hl\">be</b> refunded.", "es": "Exigieron que se reembolsara el cargo." },
+        { "en": "We request that guests <b class=\"hl\">not smoke</b> in the rooms. (negativo)", "es": "Rogamos que los huéspedes no fumen en las habitaciones." },
+        { "en": "It's vital that she <b class=\"hl\">be</b> informed immediately.", "es": "Es vital que se le informe de inmediato." },
+        { "en": "The policy requires that each form <b class=\"hl\">be</b> signed.", "es": "La política exige que cada formulario esté firmado." },
+        { "en": "(Informal) We recommend that she <b class=\"hl\">should arrive</b> early.", "es": "Recomendamos que llegue temprano. (con 'should', informal)" },
+        { "en": "<b class=\"hl\">Be that as it may</b>, the rule stands. (subjuntivo fijo)", "es": "Sea como sea, la norma se mantiene." }
+      ],
+      "tables": [
+        {
+          "headers": ["Disparador", "Estructura", "Ejemplo"],
+          "rows": [
+            ["suggest / recommend", "that + sujeto + base", "We suggest that he be present."],
+            ["insist / demand", "that + sujeto + base", "She insisted that it be done."],
+            ["request / propose / require", "that + sujeto + base", "We request that guests be quiet."],
+            ["it's essential / vital / important", "that + sujeto + base", "It's vital that she arrive."],
+            ["negativo", "that + sujeto + not + base", "…that he not be late."],
+            ["informal (alternativa)", "that + sujeto + should + base", "…that he should be present."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b23-s4q1", "question": "1. 'It's essential that everyone ___ on time.'", "options": ["arrives", "arrive"], "correctIndex": 1 },
+        { "id": "b23-s4q2", "question": "2. 'We recommend that she ___ present.'", "options": ["be", "is"], "correctIndex": 0 },
+        { "id": "b23-s4q3", "question": "3. El subjuntivo mandativo usa el verbo:", "options": ["en base (sin -s, sin to)", "en tercera persona con -s"], "correctIndex": 0 },
+        { "id": "b23-s4q4", "question": "4. Negativo: 'We ask that he ___ late.'", "options": ["not be", "isn't"], "correctIndex": 0 },
+        { "id": "b23-s4q5", "question": "5. Alternativa informal al subjuntivo:", "options": ["that he should be present", "that he was present"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b23-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases formales con subjuntivo: una con <b>recommend/suggest that…</b> y otra con <b>it's essential that…</b> (verbo en base).",
+        "placeholder": "Ej: We recommend that every guest be welcomed personally. It's essential that the deposit be paid in advance.",
+        "rubric": [
+          "¿El verbo tras 'that + sujeto' va en <b>base</b> (be, arrive, pay), sin -s?",
+          "¿Usas un disparador válido (suggest, recommend, insist, essential…)?",
+          "¿El registro es formal y coherente?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "El subjuntivo es invariable: 'that he <b>be</b>', 'that she <b>arrive</b>', 'that they <b>pay</b>' — nunca 'arrives/pays'. Es americano y formal; el británico informal prefiere 'should + base'. No lo confundas con 'suggest + -ing' (I suggest waiting)." }
+      ]
+    },
+    {
+      "idx": "23.5",
+      "title": "Nominalización (estilo formal)",
+      "level": "C1–C2",
+      "rule": "La <b>nominalización</b> convierte verbos y adjetivos en <b>sustantivos</b> para condensar y elevar el registro, típico del inglés académico y de informes. 'They decided to close' → '<b class=\"hl\">Their decision to close</b>…'; 'The prices rose sharply' → '<b class=\"hl\">The sharp rise in prices</b>…'; 'We failed' → '<b class=\"hl\">our failure</b>'. Permite empaquetar información y enlazar ideas, pero en exceso suena impersonal: úsala con criterio.",
+      "examples": [
+        { "en": "'They decided to expand' → <b class=\"hl\">Their decision to expand</b> paid off.", "es": "Su decisión de expandirse dio frutos." },
+        { "en": "'Prices rose sharply' → <b class=\"hl\">The sharp rise in prices</b> worried guests.", "es": "La fuerte subida de precios preocupó a los huéspedes." },
+        { "en": "'We arrived late' → <b class=\"hl\">Our late arrival</b> caused delays.", "es": "Nuestra llegada tardía causó retrasos." },
+        { "en": "'The staff performed well' → <b class=\"hl\">The staff's strong performance</b> boosted reviews.", "es": "El buen rendimiento del personal mejoró las reseñas." },
+        { "en": "'They refused to pay' → <b class=\"hl\">Their refusal to pay</b> was a problem.", "es": "Su negativa a pagar fue un problema." },
+        { "en": "'Demand grew' → <b class=\"hl\">The growth in demand</b> justified the investment.", "es": "El crecimiento de la demanda justificó la inversión." },
+        { "en": "'We analysed the data' → <b class=\"hl\">Our analysis of the data</b> revealed a trend.", "es": "Nuestro análisis de los datos reveló una tendencia." },
+        { "en": "'The hotel was renovated' → <b class=\"hl\">The renovation of the hotel</b> took six months.", "es": "La renovación del hotel duró seis meses." },
+        { "en": "'Guests complained' → <b class=\"hl\">A rise in complaints</b> prompted a review.", "es": "Un aumento de las quejas motivó una revisión." },
+        { "en": "'We need to reduce costs' → <b class=\"hl\">The reduction of costs</b> is a priority.", "es": "La reducción de costes es una prioridad." }
+      ],
+      "tables": [
+        {
+          "headers": ["Verbo / adjetivo", "Sustantivo (nominalización)", "Ejemplo"],
+          "rows": [
+            ["decide", "decision", "the decision to expand"],
+            ["rise / increase", "rise / increase", "the rise in prices"],
+            ["arrive", "arrival", "our late arrival"],
+            ["perform", "performance", "the team's performance"],
+            ["refuse", "refusal", "their refusal to pay"],
+            ["grow", "growth", "the growth in demand"],
+            ["analyse", "analysis", "our analysis of the data"],
+            ["renovate", "renovation", "the renovation of the lobby"],
+            ["reduce", "reduction", "the reduction of costs"],
+            ["fail", "failure", "the failure of the plan"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b23-s5q1", "question": "1. El sustantivo de 'decide' es:", "options": ["decision", "deciding only"], "correctIndex": 0 },
+        { "id": "b23-s5q2", "question": "2. Nominaliza 'Prices rose sharply':", "options": ["The sharp rise in prices", "Prices are sharp"], "correctIndex": 0 },
+        { "id": "b23-s5q3", "question": "3. El sustantivo de 'refuse' (negarse) es:", "options": ["refusal", "refusion"], "correctIndex": 0 },
+        { "id": "b23-s5q4", "question": "4. La nominalización sirve para:", "options": ["condensar y elevar el registro", "hacerlo más coloquial"], "correctIndex": 0 },
+        { "id": "b23-s5q5", "question": "5. El sustantivo de 'analyse' es:", "options": ["analysis", "analyzation"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b23-s5",
+        "label": "<span class=\"badge\">tu turno</span>Reescribe estas frases nominalizándolas: 'They decided to invest.' · 'Demand grew fast.' · 'The staff performed well.'",
+        "placeholder": "Ej: Their decision to invest paid off. The rapid growth in demand justified it. The staff's strong performance impressed the inspector.",
+        "rubric": [
+          "¿Conviertes el verbo/adjetivo en <b>sustantivo</b> (decision, growth, performance)?",
+          "¿La frase resultante es formal y correcta gramaticalmente?",
+          "¿Mantienes el significado original?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "La nominalización es potente en informes y textos académicos, pero <b>en exceso</b> suena frío y burocrático. Alterna con verbos: úsala para enlazar ('The decision led to…') o resumir, no en cada frase." }
+      ]
+    },
+    {
+      "idx": "23.6",
+      "title": "Registro: formal vs. informal",
+      "level": "B2–C1",
+      "rule": "El <b>registro</b> es adecuar el lenguaje a la situación. El formal prefiere: verbos <b>latinos</b> sobre phrasal verbs (<b class=\"hl\">obtain</b> vs get, <b class=\"hl\">postpone</b> vs put off, <b class=\"hl\">investigate</b> vs look into), sin contracciones (<b class=\"hl\">do not</b> vs don't), vocabulario preciso (<b class=\"hl\">require</b> vs need, <b class=\"hl\">purchase</b> vs buy, <b class=\"hl\">assist</b> vs help) y fórmulas corteses. El informal usa phrasal verbs, contracciones y vocabulario cotidiano. Un email a un cliente = formal; un mensaje a un compañero = informal.",
+      "examples": [
+        { "en": "Formal: We <b class=\"hl\">require</b> a deposit. · Informal: We <b class=\"hl\">need</b> a deposit.", "es": "Requerimos / Necesitamos un depósito." },
+        { "en": "Formal: Please <b class=\"hl\">contact</b> us. · Informal: <b class=\"hl\">Get in touch</b>.", "es": "Contáctenos. / Escríbenos." },
+        { "en": "Formal: The meeting has been <b class=\"hl\">postponed</b>. · Informal: <b class=\"hl\">put off</b>.", "es": "La reunión se ha pospuesto / aplazado." },
+        { "en": "Formal: We will <b class=\"hl\">investigate</b> the matter. · Informal: <b class=\"hl\">look into</b> it.", "es": "Investigaremos el asunto / Lo miraremos." },
+        { "en": "Formal: I <b class=\"hl\">apologise</b> for the delay. · Informal: <b class=\"hl\">Sorry</b> about the delay.", "es": "Le pido disculpas / Perdón por el retraso." },
+        { "en": "Formal: You may <b class=\"hl\">purchase</b> tickets online. · Informal: <b class=\"hl\">buy</b>.", "es": "Puede adquirir / comprar entradas online." },
+        { "en": "Formal: We would be <b class=\"hl\">grateful if you could</b>… · Informal: <b class=\"hl\">Can you…?</b>", "es": "Le agradeceríamos que… / ¿Puedes…?" },
+        { "en": "Formal: <b class=\"hl\">Do not</b> hesitate to ask. · Informal: <b class=\"hl\">Don't</b> be shy.", "es": "No dude en preguntar. / No te cortes." },
+        { "en": "Formal: Should you <b class=\"hl\">require assistance</b>… · Informal: If you <b class=\"hl\">need help</b>…", "es": "Si necesitara ayuda…" },
+        { "en": "Formal: <b class=\"hl\">Kind regards</b>. · Informal: <b class=\"hl\">Cheers / Thanks</b>.", "es": "Un cordial saludo. / Gracias, un saludo." }
+      ],
+      "tables": [
+        {
+          "headers": ["Informal", "Formal", "Contexto formal"],
+          "rows": [
+            ["get / receive", "obtain / receive", "email a cliente"],
+            ["need", "require", "normas, contratos"],
+            ["buy", "purchase", "web, factura"],
+            ["help", "assist", "atención al cliente"],
+            ["put off", "postpone", "comunicados"],
+            ["look into", "investigate", "quejas formales"],
+            ["sorry", "I apologise", "disculpa oficial"],
+            ["ask for", "request", "peticiones formales"],
+            ["don't / can't", "do not / cannot", "documentos"],
+            ["Thanks / Cheers", "Kind regards", "cierre de email"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b23-s6q1", "question": "1. Versión formal de 'buy':", "options": ["purchase", "grab"], "correctIndex": 0 },
+        { "id": "b23-s6q2", "question": "2. En un email formal, 'look into' se prefiere como:", "options": ["investigate", "check out"], "correctIndex": 0 },
+        { "id": "b23-s6q3", "question": "3. El registro formal evita:", "options": ["las contracciones (don't → do not)", "el vocabulario preciso"], "correctIndex": 0 },
+        { "id": "b23-s6q4", "question": "4. Cierre formal de email:", "options": ["Cheers", "Kind regards"], "correctIndex": 1 },
+        { "id": "b23-s6q5", "question": "5. 'Le agradeceríamos que pudiera…' es:", "options": ["We would be grateful if you could…", "Can you just…?"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b23-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una misma petición dos veces: informal (a un compañero) y formal (a un cliente por email).",
+        "placeholder": "Ej: Informal: Can you look into the double charge? / Formal: We would be grateful if you could investigate the duplicate charge. Kind regards.",
+        "rubric": [
+          "¿La formal usa vocabulario latino/preciso (require, investigate, purchase)?",
+          "¿La formal evita contracciones y usa fórmulas corteses?",
+          "¿La informal usa phrasal verbs y tono cercano?",
+          "¿Ambas transmiten la misma petición?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "No hay un registro 'mejor': el error es la <b>incoherencia</b> (mezclar 'Dear Sir' con 'wanna') o pasarse de formal con un compañero. Ajusta al destinatario: cliente/dirección → formal; equipo → neutro-informal." }
+      ]
+    },
+    {
+      "idx": "23.7",
+      "title": "Connotación y matiz",
+      "level": "C1–C2",
+      "rule": "Palabras con el mismo <b>significado literal</b> (denotación) pueden tener <b>carga emocional</b> distinta (connotación): positiva, neutra o negativa. 'Slim' (positivo) / 'thin' (neutro) / 'skinny' (negativo) describen lo mismo. Elegir bien evita ofender y afina el mensaje: llamar a un cliente <b class=\"hl\">assertive</b> (positivo) no es lo mismo que <b class=\"hl\">bossy</b> (negativo). En ventas y atención al cliente, la connotación lo es todo.",
+      "examples": [
+        { "en": "<b class=\"hl\">slim</b> (+) / thin (=) / <b class=\"hl\">skinny</b> (−) — delgado", "es": "esbelto / delgado / flaco" },
+        { "en": "<b class=\"hl\">confident</b> (+) / assertive (=) / <b class=\"hl\">arrogant</b> (−)", "es": "seguro / firme / arrogante" },
+        { "en": "<b class=\"hl\">thrifty</b> (+) / careful with money (=) / <b class=\"hl\">stingy</b> (−)", "es": "ahorrador / cuidadoso / tacaño" },
+        { "en": "<b class=\"hl\">curious</b> (+) / inquisitive (=) / <b class=\"hl\">nosy</b> (−)", "es": "curioso / indagador / entrometido" },
+        { "en": "<b class=\"hl\">determined</b> (+) / firm (=) / <b class=\"hl\">stubborn</b> (−)", "es": "decidido / firme / cabezota" },
+        { "en": "<b class=\"hl\">cosy</b> (+) / small (=) / <b class=\"hl\">cramped</b> (−) — una habitación", "es": "acogedora / pequeña / apretada" },
+        { "en": "<b class=\"hl\">good value</b> (+) / cheap (=) / <b class=\"hl\">cut-price</b> (−)", "es": "buena relación calidad-precio / barato / de saldo" },
+        { "en": "<b class=\"hl\">famous</b> (+) vs <b class=\"hl\">notorious</b> (−) — conocido", "es": "famoso vs. tristemente célebre" },
+        { "en": "<b class=\"hl\">childlike</b> (+) vs <b class=\"hl\">childish</b> (−)", "es": "ingenuo/puro vs. infantil (negativo)" },
+        { "en": "We call it '<b class=\"hl\">pre-owned</b>', not 'used' or 'second-hand'. (eufemismo de ventas)", "es": "Lo llamamos 'de segunda mano premium', no 'usado'." }
+      ],
+      "tables": [
+        {
+          "headers": ["Positivo (+)", "Neutro (=)", "Negativo (−)"],
+          "rows": [
+            ["slim", "thin", "skinny"],
+            ["confident", "assertive", "arrogant / bossy"],
+            ["thrifty", "careful with money", "stingy / mean"],
+            ["curious", "inquisitive", "nosy"],
+            ["determined", "firm", "stubborn"],
+            ["cosy", "small", "cramped / poky"],
+            ["good value", "inexpensive", "cheap / cut-price"],
+            ["relaxed", "easy-going", "lazy"],
+            ["childlike", "youthful", "childish"],
+            ["famous", "well-known", "notorious"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b23-s7q1", "question": "1. Para un cliente, describir una habitación pequeña en positivo:", "options": ["cramped", "cosy"], "correctIndex": 1 },
+        { "id": "b23-s7q2", "question": "2. 'Notorious' significa famoso…", "options": ["en sentido negativo", "en sentido positivo"], "correctIndex": 0 },
+        { "id": "b23-s7q3", "question": "3. Elogiar a alguien seguro de sí mismo (positivo):", "options": ["arrogant", "confident"], "correctIndex": 1 },
+        { "id": "b23-s7q4", "question": "4. 'Stingy' frente a 'thrifty':", "options": ["stingy es negativo (tacaño)", "son iguales"], "correctIndex": 0 },
+        { "id": "b23-s7q5", "question": "5. 'Childish' vs 'childlike':", "options": ["childish es negativo (infantil)", "ambos son positivos"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b23-s7",
+        "label": "<span class=\"badge\">tu turno</span>Describe una habitación pequeña y algo económica de forma <b>positiva</b> para un cliente, eligiendo palabras con buena connotación.",
+        "placeholder": "Ej: It's a cosy, well-priced room — great value for the location. (en vez de 'a cramped, cheap room')",
+        "rubric": [
+          "¿Eliges palabras con connotación <b>positiva</b> (cosy, good value)?",
+          "¿Evitas términos negativos (cramped, cheap)?",
+          "¿El resultado suena atractivo y honesto, sin engañar?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "En ventas y hostelería, la connotación vende: 'cosy' en vez de 'small', 'good value' en vez de 'cheap', 'pre-owned' en vez de 'used'. No es mentir: es elegir el matiz honesto más favorable." }
+      ]
+    }
+  ]
+}
