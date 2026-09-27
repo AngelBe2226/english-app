@@ -1,0 +1,436 @@
+{
+  "block": "24",
+  "title": "Errores típicos del hispanohablante",
+  "kicker": "Bloque 24 · Anti-errores · A2–C1",
+  "intro": "Un hilo transversal con los fallos que más cometemos los hispanohablantes por calcar el español. Cada epígrafe muestra el error y su arreglo: <b class=\"hl\">✗ incorrecto → ✓ correcto</b>. Detectarlos y corregirlos es el atajo más rápido para sonar natural.",
+  "legend": [
+    { "label": "✗", "desc": "el error (calco del español)" },
+    { "label": "✓", "desc": "la forma correcta en inglés" }
+  ],
+  "sections": [
+    {
+      "idx": "24.1",
+      "title": "Falsos amigos que cambian el sentido",
+      "level": "B1",
+      "rule": "Palabras que se parecen al español pero significan otra cosa. Los más peligrosos: <b class=\"hl\">actually</b> = en realidad (no 'actualmente' → currently); <b class=\"hl\">sensible</b> = sensato (no 'sensible' → sensitive); <b class=\"hl\">assist</b> = ayudar/asistir a; <b class=\"hl\">embarrassed</b> = avergonzado (no 'embarazada' → pregnant); <b class=\"hl\">realize</b> = darse cuenta. Un falso amigo puede cambiar por completo el mensaje.",
+      "examples": [
+        { "en": "✗ I'm reading a book actually. → ✓ I'm <b class=\"hl\">currently</b> reading a book. (actualmente)", "es": "Estoy leyendo un libro actualmente." },
+        { "en": "✗ She's very sensible to criticism. → ✓ She's very <b class=\"hl\">sensitive</b> to criticism. (sensible)", "es": "Es muy sensible a las críticas." },
+        { "en": "✗ I'm embarrassed, I'm expecting a baby. → ✓ I'm <b class=\"hl\">pregnant</b>. (embarazada)", "es": "Estoy embarazada." },
+        { "en": "✗ I assisted to the meeting. → ✓ I <b class=\"hl\">attended</b> the meeting. (asistir a)", "es": "Asistí a la reunión." },
+        { "en": "✗ Go to the library to buy a book. → ✓ Go to the <b class=\"hl\">bookshop</b>. (librería)", "es": "Ve a la librería a comprar un libro." },
+        { "en": "✗ The exit was a success. → ✓ The <b class=\"hl\">event</b> was a <b class=\"hl\">success</b>. (éxito)", "es": "El evento fue un éxito." },
+        { "en": "✗ I have to record to call him. → ✓ I have to <b class=\"hl\">remember</b> to call him. (recordar)", "es": "Tengo que acordarme de llamarlo." },
+        { "en": "✗ He's a sympathetic person. → ✓ He's a <b class=\"hl\">nice / friendly</b> person. (simpático)", "es": "Es una persona simpática." },
+        { "en": "✗ Actually I live in Madrid. → ✓ <b class=\"hl\">Currently / At the moment</b> I live in Madrid.", "es": "Actualmente vivo en Madrid." },
+        { "en": "✓ <b class=\"hl\">Actually</b>, the price includes breakfast. (=en realidad, corrige)", "es": "En realidad, el precio incluye el desayuno." }
+      ],
+      "tables": [
+        {
+          "headers": ["Inglés", "Significa", "El falso amigo español es"],
+          "rows": [
+            ["actually", "en realidad", "actualmente → currently"],
+            ["sensible", "sensato", "sensible → sensitive"],
+            ["assist (at/in)", "ayudar", "asistir a → attend"],
+            ["library", "biblioteca", "librería → bookshop"],
+            ["exit", "salida", "éxito → success"],
+            ["embarrassed", "avergonzado", "embarazada → pregnant"],
+            ["record", "grabar / registro", "recordar → remember"],
+            ["sympathetic", "comprensivo", "simpático → nice/friendly"],
+            ["realize", "darse cuenta", "realizar → carry out"],
+            ["carpet", "alfombra", "carpeta → folder"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s1q1", "question": "1. 'Actualmente vivo aquí' se dice:", "options": ["Actually I live here.", "Currently I live here."], "correctIndex": 1 },
+        { "id": "b24-s1q2", "question": "2. 'Asistí a la reunión':", "options": ["I attended the meeting.", "I assisted to the meeting."], "correctIndex": 0 },
+        { "id": "b24-s1q3", "question": "3. 'Sensible' (que se ofende fácil) en inglés:", "options": ["sensible", "sensitive"], "correctIndex": 1 },
+        { "id": "b24-s1q4", "question": "4. 'Éxito' es:", "options": ["exit", "success"], "correctIndex": 1 },
+        { "id": "b24-s1q5", "question": "5. 'Actually' significa:", "options": ["en realidad", "actualmente"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b24-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase correcta con <b>actually</b> (=en realidad) y otra con <b>currently</b> (=actualmente), para fijar la diferencia.",
+        "placeholder": "Ej: Actually, breakfast is included. I'm currently working on the report.",
+        "rubric": [
+          "¿Usas 'actually' con el sentido de 'en realidad / de hecho'?",
+          "¿Usas 'currently' para 'actualmente / ahora mismo'?",
+          "¿Las frases son correctas y naturales?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "El más traicionero: <b>actually ≠ actualmente</b>. Actually = 'en realidad' (corrige o matiza); 'actualmente' = <b>currently / at present</b>. Y 'embarrassed' (avergonzado) ≠ 'pregnant' (embarazada): este error da lugar a situaciones cómicas." }
+      ]
+    },
+    {
+      "idx": "24.2",
+      "title": "Orden de palabras",
+      "level": "A2–B1",
+      "rule": "El inglés es rígido con el orden. Reglas que rompemos por calcar el español: (1) el <b>adjetivo va ANTES</b> del sustantivo (a <b class=\"hl\">red car</b>, no 'a car red'); (2) no se separa <b>verbo y objeto</b> con un adverbio (I speak English <b class=\"hl\">well</b>, no 'I speak well English'); (3) en preguntas se <b>invierte</b> con auxiliar (Where <b class=\"hl\">do you</b> live?, no 'Where you live?'); (4) sujeto explícito siempre (<b class=\"hl\">It's</b> raining, no 'Is raining').",
+      "examples": [
+        { "en": "✗ a car red → ✓ a <b class=\"hl\">red car</b>", "es": "un coche rojo" },
+        { "en": "✗ I speak well English. → ✓ I <b class=\"hl\">speak English well</b>.", "es": "Hablo bien inglés." },
+        { "en": "✗ I like very much this hotel. → ✓ I <b class=\"hl\">like this hotel very much</b>.", "es": "Me gusta mucho este hotel." },
+        { "en": "✗ Where you work? → ✓ Where <b class=\"hl\">do you</b> work?", "es": "¿Dónde trabajas?" },
+        { "en": "✗ Is raining. → ✓ <b class=\"hl\">It's</b> raining. (sujeto obligatorio)", "es": "Está lloviendo." },
+        { "en": "✗ Always I confirm by email. → ✓ I <b class=\"hl\">always confirm</b> by email.", "es": "Siempre confirmo por email." },
+        { "en": "✗ a big beautiful house → ✓ a <b class=\"hl\">beautiful big</b> house (opinión antes que tamaño)", "es": "una casa grande y bonita" },
+        { "en": "✗ She has a hair long. → ✓ She has <b class=\"hl\">long hair</b>.", "es": "Tiene el pelo largo." },
+        { "en": "✗ Who did call? → ✓ <b class=\"hl\">Who called?</b> (wh- sujeto, sin 'did')", "es": "¿Quién llamó?" },
+        { "en": "✗ I have 30 years. → ✓ I <b class=\"hl\">am 30 years old</b>.", "es": "Tengo 30 años." }
+      ],
+      "tables": [
+        {
+          "headers": ["Regla", "✗ Calco", "✓ Correcto"],
+          "rows": [
+            ["adjetivo antes", "a car red", "a red car"],
+            ["no separar verbo+objeto", "I speak well English", "I speak English well"],
+            ["'very much' al final", "I like very much it", "I like it very much"],
+            ["preguntas con auxiliar", "Where you live?", "Where do you live?"],
+            ["sujeto explícito", "Is difficult", "It's difficult"],
+            ["frecuencia antes del verbo", "Always I go", "I always go"],
+            ["edad con 'be'", "I have 30 years", "I'm 30 (years old)"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s2q1", "question": "1. ¿Cuál es correcta?", "options": ["a car red", "a red car"], "correctIndex": 1 },
+        { "id": "b24-s2q2", "question": "2. 'Hablo bien inglés':", "options": ["I speak well English.", "I speak English well."], "correctIndex": 1 },
+        { "id": "b24-s2q3", "question": "3. 'Tengo 25 años':", "options": ["I have 25 years.", "I'm 25 years old."], "correctIndex": 1 },
+        { "id": "b24-s2q4", "question": "4. '¿Dónde trabajas?':", "options": ["Where you work?", "Where do you work?"], "correctIndex": 1 },
+        { "id": "b24-s2q5", "question": "5. 'Está lloviendo':", "options": ["Is raining.", "It's raining."], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b24-s2",
+        "label": "<span class=\"badge\">tu turno</span>Corrige mentalmente y escribe bien: tu edad, algo que se te da bien, y una pregunta con 'where' o 'when'.",
+        "placeholder": "Ej: I'm 28 years old. I speak English quite well. Where do you usually stay?",
+        "rubric": [
+          "¿Usas 'be' para la edad (I'm X, no 'I have X years')?",
+          "¿Colocas el adverbio sin separar verbo y objeto?",
+          "¿La pregunta lleva auxiliar (do/does) o inversión correcta?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Dos calcos fatales: <b>'I have X years'</b> (edad) → 'I'm X'; y omitir el <b>sujeto</b> ('Is raining') → el inglés casi nunca lo omite: 'It's raining', 'There is…', 'It's difficult'." }
+      ]
+    },
+    {
+      "idx": "24.3",
+      "title": "Doble negación y negativos",
+      "level": "A2–B1",
+      "rule": "En español encadenamos negativos ('no vi a nadie'); en inglés <b>solo puede haber un negativo</b>. Con un verbo negativo se usa <b class=\"hl\">any-</b>, no 'no-': I <b class=\"hl\">didn't see anyone</b> (no 'didn't see nobody'). Con <b>nobody/nothing/never</b> (ya negativos), el verbo va en <b>afirmativo</b>: <b class=\"hl\">Nobody came</b> (no 'nobody didn't come'). Y cuidado: 'nunca' = never (sin otro 'not').",
+      "examples": [
+        { "en": "✗ I don't know nothing. → ✓ I <b class=\"hl\">don't know anything</b>. / I <b class=\"hl\">know nothing</b>.", "es": "No sé nada." },
+        { "en": "✗ I didn't see nobody. → ✓ I <b class=\"hl\">didn't see anybody</b>.", "es": "No vi a nadie." },
+        { "en": "✗ Nobody didn't come. → ✓ <b class=\"hl\">Nobody came</b>. (verbo afirmativo)", "es": "No vino nadie." },
+        { "en": "✗ I don't never lie. → ✓ I <b class=\"hl\">never lie</b>.", "es": "Nunca miento." },
+        { "en": "✗ We don't have nothing available. → ✓ We <b class=\"hl\">have nothing</b> available. / We <b class=\"hl\">don't have anything</b>.", "es": "No tenemos nada disponible." },
+        { "en": "✗ There isn't nobody at the desk. → ✓ There's <b class=\"hl\">nobody</b> at the desk. / There <b class=\"hl\">isn't anybody</b>.", "es": "No hay nadie en el mostrador." },
+        { "en": "✗ She never says nothing. → ✓ She <b class=\"hl\">never says anything</b>.", "es": "Nunca dice nada." },
+        { "en": "✗ I don't want neither. → ✓ I don't want <b class=\"hl\">either</b>. / I want <b class=\"hl\">neither</b>.", "es": "No quiero ninguno." },
+        { "en": "✓ <b class=\"hl\">None</b> of the rooms are ready. (un solo negativo)", "es": "Ninguna habitación está lista." },
+        { "en": "✓ I <b class=\"hl\">hardly ever</b> complain. (hardly ya es casi-negativo)", "es": "Casi nunca me quejo." }
+      ],
+      "tables": [
+        {
+          "headers": ["Con verbo negativo → any-", "Con palabra negativa → verbo afirmativo"],
+          "rows": [
+            ["I don't know anything.", "I know nothing."],
+            ["I didn't see anybody.", "I saw nobody. / Nobody came."],
+            ["We don't have anywhere.", "We have nowhere."],
+            ["I don't want either.", "I want neither."],
+            ["She doesn't ever lie.", "She never lies."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s3q1", "question": "1. 'No sé nada':", "options": ["I don't know nothing.", "I don't know anything."], "correctIndex": 1 },
+        { "id": "b24-s3q2", "question": "2. 'No vino nadie':", "options": ["Nobody didn't come.", "Nobody came."], "correctIndex": 1 },
+        { "id": "b24-s3q3", "question": "3. 'Nunca miento':", "options": ["I don't never lie.", "I never lie."], "correctIndex": 1 },
+        { "id": "b24-s3q4", "question": "4. Con 'nobody/nothing/never' el verbo va:", "options": ["en afirmativo", "en negativo también"], "correctIndex": 0 },
+        { "id": "b24-s3q5", "question": "5. Con un verbo negativo (didn't) se usa:", "options": ["any- (anything, anybody)", "no- (nothing, nobody)"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b24-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe 'no hay nada disponible' de las dos formas correctas (una con 'don't…any', otra con 'nothing').",
+        "placeholder": "Ej: We don't have anything available. / We have nothing available.",
+        "rubric": [
+          "¿Una versión usa 'don't/doesn't + anything'?",
+          "¿La otra usa 'nothing' con verbo <b>afirmativo</b>?",
+          "¿Evitas la doble negación?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Regla de oro: <b>un solo negativo por oración</b>. O niegas el verbo y usas 'any-' (don't know anything), o usas la palabra negativa con verbo afirmativo (know nothing). Nunca los dos ('don't know nothing')." }
+      ]
+    },
+    {
+      "idx": "24.4",
+      "title": "do vs make · say vs tell",
+      "level": "A2–B1",
+      "rule": "Dos pares que el español funde. <b class=\"hl\">make</b> = crear/producir un resultado (make a decision, a mistake, a reservation, money, dinner); <b class=\"hl\">do</b> = tareas y actividades (do your job, homework, the shopping, business, a favour). <b class=\"hl\">say</b> = decir algo (say something, sin destinatario directo: 'say that…'); <b class=\"hl\">tell</b> = decir A ALGUIEN (tell someone, +objeto: tell me the truth). Se dice 'tell a story/lie/joke' pero 'say a word'.",
+      "examples": [
+        { "en": "✗ do a decision → ✓ <b class=\"hl\">make a decision</b>", "es": "tomar una decisión" },
+        { "en": "✗ make my homework → ✓ <b class=\"hl\">do my homework</b>", "es": "hacer los deberes" },
+        { "en": "✗ do a mistake → ✓ <b class=\"hl\">make a mistake</b>", "es": "cometer un error" },
+        { "en": "✗ do a reservation → ✓ <b class=\"hl\">make a reservation</b>", "es": "hacer una reserva" },
+        { "en": "✗ make business → ✓ <b class=\"hl\">do business</b>", "es": "hacer negocios" },
+        { "en": "✗ Can you do me a favour? → ✓ <b class=\"hl\">do me a favour</b> (correcto)", "es": "hacerme un favor" },
+        { "en": "✗ He said me that... → ✓ He <b class=\"hl\">told me</b> that... / He <b class=\"hl\">said</b> that...", "es": "Me dijo que..." },
+        { "en": "✗ Tell 'hello' to her. → ✓ <b class=\"hl\">Say</b> hello to her.", "es": "Dile hola de mi parte." },
+        { "en": "✗ Can you say me the time? → ✓ Can you <b class=\"hl\">tell me</b> the time?", "es": "¿Me puedes decir la hora?" },
+        { "en": "✓ Don't <b class=\"hl\">tell</b> lies. She always <b class=\"hl\">tells</b> the truth.", "es": "No digas mentiras. Ella siempre dice la verdad." }
+      ],
+      "tables": [
+        {
+          "headers": ["make (crear/resultado)", "do (tarea/actividad)"],
+          "rows": [
+            ["make a decision / a mistake", "do your job / homework"],
+            ["make a reservation / an offer", "do the shopping / the dishes"],
+            ["make money / a profit", "do business / a course"],
+            ["make dinner / a cake", "do a favour / your best"],
+            ["make an effort / a plan", "do research / exercise"]
+          ]
+        },
+        {
+          "headers": ["say (decir algo)", "tell (decir a alguien)"],
+          "rows": [
+            ["say something / a word", "tell someone / me / him"],
+            ["say that… / say hello", "tell a story / a lie / a joke"],
+            ["say sorry / say yes", "tell the truth / the time"],
+            ["He said (that) he was tired.", "He told me (that) he was tired."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s4q1", "question": "1. 'Tomar una decisión':", "options": ["do a decision", "make a decision"], "correctIndex": 1 },
+        { "id": "b24-s4q2", "question": "2. 'Hacer los deberes':", "options": ["do your homework", "make your homework"], "correctIndex": 0 },
+        { "id": "b24-s4q3", "question": "3. 'Me dijo la verdad':", "options": ["He said me the truth.", "He told me the truth."], "correctIndex": 1 },
+        { "id": "b24-s4q4", "question": "4. '¿Me puedes decir la hora?':", "options": ["Can you say me the time?", "Can you tell me the time?"], "correctIndex": 1 },
+        { "id": "b24-s4q5", "question": "5. 'Dile hola de mi parte':", "options": ["Tell hello to her.", "Say hello to her."], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b24-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>make</b> y otra con <b>do</b>, y una con <b>tell</b> (a alguien) y otra con <b>say</b>.",
+        "placeholder": "Ej: We made a reservation. I did a favour for a guest. She told me the news. He said it was fine.",
+        "rubric": [
+          "¿'make' se usa para crear/resultado y 'do' para tareas?",
+          "¿'tell' lleva un destinatario (tell me/someone)?",
+          "¿'say' se usa sin destinatario directo (o con 'to')?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Truco: <b>tell</b> casi siempre lleva a quién (tell <b>me/him</b>); <b>say</b> no ('say that…', o 'say <b>to</b> me' con preposición). Y memoriza los bloques fijos de make/do: no hay lógica, es de memoria." }
+      ]
+    },
+    {
+      "idx": "24.5",
+      "title": "for / since / during / ago",
+      "level": "A2–B1",
+      "rule": "El grupo temporal que más confundimos. <b class=\"hl\">for</b> + duración (for two hours, for years). <b class=\"hl\">since</b> + punto de inicio (since 2020, since Monday), con presente perfecto. <b class=\"hl\">during</b> + sustantivo, cuándo (during the meeting) — no expresa duración. <b class=\"hl\">ago</b> + tiempo, con pasado simple, va al FINAL (two years ago). Error típico: 'since two hours' (→ for two hours), 'during two hours' (→ for two hours).",
+      "examples": [
+        { "en": "✗ I've worked here since two years. → ✓ I've worked here <b class=\"hl\">for two years</b>.", "es": "Llevo dos años trabajando aquí." },
+        { "en": "✓ I've worked here <b class=\"hl\">since 2022</b>. (punto de inicio)", "es": "Trabajo aquí desde 2022." },
+        { "en": "✗ I studied during three hours. → ✓ I studied <b class=\"hl\">for three hours</b>.", "es": "Estudié durante tres horas." },
+        { "en": "✓ Don't call <b class=\"hl\">during the meeting</b>. (cuándo, + sustantivo)", "es": "No llames durante la reunión." },
+        { "en": "✗ I arrived here since Monday. → ✓ I arrived <b class=\"hl\">on Monday</b>. / I've been here <b class=\"hl\">since Monday</b>.", "es": "Llegué el lunes / Estoy aquí desde el lunes." },
+        { "en": "✗ I met him before two years. → ✓ I met him two years <b class=\"hl\">ago</b>.", "es": "Lo conocí hace dos años." },
+        { "en": "✗ Ago two days I called. → ✓ I called <b class=\"hl\">two days ago</b>. (ago va al final)", "es": "Llamé hace dos días." },
+        { "en": "✓ We've been waiting <b class=\"hl\">for</b> an hour. (duración + perfecto continuo)", "es": "Llevamos una hora esperando." },
+        { "en": "✓ She's been off <b class=\"hl\">since</b> the accident. (desde un punto)", "es": "Está de baja desde el accidente." },
+        { "en": "✓ It rained <b class=\"hl\">during</b> the night but stopped hours <b class=\"hl\">ago</b>.", "es": "Llovió durante la noche pero paró hace horas." }
+      ],
+      "tables": [
+        {
+          "headers": ["Palabra", "Uso", "Ejemplo"],
+          "rows": [
+            ["for", "duración (cuánto tiempo)", "for two hours / for years"],
+            ["since", "punto de inicio (+ perfecto)", "since 2020 / since Monday"],
+            ["during", "cuándo (+ sustantivo)", "during the meeting"],
+            ["ago", "'hace' (+ pasado, al final)", "two years ago"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s5q1", "question": "1. 'Llevo dos años aquí':", "options": ["I've been here since two years.", "I've been here for two years."], "correctIndex": 1 },
+        { "id": "b24-s5q2", "question": "2. 'Estudié durante tres horas':", "options": ["I studied during three hours.", "I studied for three hours."], "correctIndex": 1 },
+        { "id": "b24-s5q3", "question": "3. 'Lo conocí hace dos años':", "options": ["I met him before two years.", "I met him two years ago."], "correctIndex": 1 },
+        { "id": "b24-s5q4", "question": "4. 'No llames durante la reunión':", "options": ["during the meeting", "for the meeting"], "correctIndex": 0 },
+        { "id": "b24-s5q5", "question": "5. 'since' se usa con:", "options": ["un punto de inicio (since Monday)", "una duración (since 2 hours)"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b24-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe cuánto tiempo llevas en algo con <b>for</b> y <b>since</b>, y algo que hiciste con <b>ago</b>.",
+        "placeholder": "Ej: I've worked here for three years. I've lived in Madrid since 2021. I started this job two years ago.",
+        "rubric": [
+          "¿'for' va con duración y 'since' con punto de inicio?",
+          "¿'ago' va al final con pasado simple?",
+          "¿Evitas 'since + duración' y 'during + duración'?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Los tres fallos estrella: <b>'since two hours'</b> (→ for), <b>'during two hours'</b> (→ for), y <b>'before two years'</b> para 'hace' (→ two years ago). 'during' nunca expresa cuánto, solo cuándo." }
+      ]
+    },
+    {
+      "idx": "24.6",
+      "title": "Preposiciones que no se traducen igual",
+      "level": "B1–B2",
+      "rule": "Muchas preposiciones no coinciden con el español y hay que memorizarlas con el verbo/adjetivo: <b class=\"hl\">depend on</b> (de), <b class=\"hl\">married to</b> (con), <b class=\"hl\">listen to</b> (—), <b class=\"hl\">arrive at/in</b> (a), <b class=\"hl\">think of/about</b> (en), <b class=\"hl\">dream of</b> (con), <b class=\"hl\">good at</b> (en), <b class=\"hl\">interested in</b> (en). Ver también los bloques 02.5–02.9. Error típico: calcar la preposición española ('depend of', 'married with').",
+      "examples": [
+        { "en": "✗ It depends of you. → ✓ It <b class=\"hl\">depends on</b> you.", "es": "Depende de ti." },
+        { "en": "✗ She's married with a doctor. → ✓ She's <b class=\"hl\">married to</b> a doctor.", "es": "Está casada con un médico." },
+        { "en": "✗ Listen the music. → ✓ <b class=\"hl\">Listen to</b> the music.", "es": "Escucha la música." },
+        { "en": "✗ We arrived to the hotel. → ✓ We <b class=\"hl\">arrived at</b> the hotel. / <b class=\"hl\">arrived in</b> Madrid.", "es": "Llegamos al hotel / a Madrid." },
+        { "en": "✗ I'm thinking in you. → ✓ I'm <b class=\"hl\">thinking of/about</b> you.", "es": "Estoy pensando en ti." },
+        { "en": "✗ I dream with travelling. → ✓ I <b class=\"hl\">dream of</b> travelling.", "es": "Sueño con viajar." },
+        { "en": "✗ He's good in maths. → ✓ He's <b class=\"hl\">good at</b> maths.", "es": "Se le dan bien las mates." },
+        { "en": "✗ I'm interested on the offer. → ✓ I'm <b class=\"hl\">interested in</b> the offer.", "es": "Me interesa la oferta." },
+        { "en": "✗ Wait me here. → ✓ <b class=\"hl\">Wait for</b> me here.", "es": "Espérame aquí." },
+        { "en": "✗ Look the photo. → ✓ <b class=\"hl\">Look at</b> the photo.", "es": "Mira la foto." }
+      ],
+      "tables": [
+        {
+          "headers": ["Español", "✗ Calco", "✓ Correcto"],
+          "rows": [
+            ["depender de", "depend of", "depend on"],
+            ["casado con", "married with", "married to"],
+            ["escuchar", "listen —", "listen to"],
+            ["llegar a", "arrive to", "arrive at / in"],
+            ["pensar en", "think in", "think of / about"],
+            ["soñar con", "dream with", "dream of / about"],
+            ["bueno en", "good in", "good at"],
+            ["interesado en", "interested on", "interested in"],
+            ["esperar a", "wait —", "wait for"],
+            ["mirar", "look —", "look at"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s6q1", "question": "1. 'Depende de ti':", "options": ["It depends of you.", "It depends on you."], "correctIndex": 1 },
+        { "id": "b24-s6q2", "question": "2. 'Casada con un médico':", "options": ["married with a doctor", "married to a doctor"], "correctIndex": 1 },
+        { "id": "b24-s6q3", "question": "3. 'Llegamos al hotel':", "options": ["arrived to the hotel", "arrived at the hotel"], "correctIndex": 1 },
+        { "id": "b24-s6q4", "question": "4. 'Se le dan bien las mates':", "options": ["good in maths", "good at maths"], "correctIndex": 1 },
+        { "id": "b24-s6q5", "question": "5. 'Espérame aquí':", "options": ["Wait me here.", "Wait for me here."], "correctIndex": 1 }
+      ],
+      "produce": {
+        "id": "b24-s6",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres frases con <b>depend on</b>, <b>think of/about</b> y <b>good at</b>, cuidando la preposición.",
+        "placeholder": "Ej: It depends on availability. I'm thinking about the offer. She's very good at sales.",
+        "rubric": [
+          "¿Usas la preposición inglesa correcta (no el calco español)?",
+          "¿Aparecen 'depend on', 'think of/about' y 'good at'?",
+          "¿Las frases son naturales?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "No traduzcas la preposición: memoriza el bloque verbo/adjetivo + preposición. Los más repetidos: <b>depend on</b> (no 'of'), <b>married to</b> (no 'with'), <b>arrive at/in</b> (no 'to'), <b>listen to</b> y <b>wait for</b> (que en español no llevan nada)." }
+      ]
+    },
+    {
+      "idx": "24.7",
+      "title": "La -s, plurales e incontables",
+      "level": "A2–B1",
+      "rule": "Tres descuidos frecuentes: (1) la <b>-s de la 3ª persona</b> en presente (he <b class=\"hl\">works</b>, she <b class=\"hl\">has</b>) — se nos olvida; (2) incontables que en español son plurales: <b class=\"hl\">information, advice, news, furniture, money, homework</b> son SINGULARES incontables (the news <b>is</b>…, no 'are'); (3) 'people' ya es plural (people <b class=\"hl\">are</b>, no 'people is'). Concordancia sujeto-verbo cuidada.",
+      "examples": [
+        { "en": "✗ He work here. → ✓ He <b class=\"hl\">works</b> here.", "es": "Él trabaja aquí." },
+        { "en": "✗ She have two rooms. → ✓ She <b class=\"hl\">has</b> two rooms.", "es": "Ella tiene dos habitaciones." },
+        { "en": "✗ The news are good. → ✓ The <b class=\"hl\">news is</b> good.", "es": "Las noticias son buenas." },
+        { "en": "✗ The informations are useful. → ✓ The <b class=\"hl\">information is</b> useful.", "es": "La información es útil." },
+        { "en": "✗ I need some advices. → ✓ I need some <b class=\"hl\">advice</b>. / a piece of advice.", "es": "Necesito algún consejo." },
+        { "en": "✗ People is waiting. → ✓ <b class=\"hl\">People are</b> waiting.", "es": "La gente está esperando." },
+        { "en": "✗ The money are on the table. → ✓ The <b class=\"hl\">money is</b> on the table.", "es": "El dinero está en la mesa." },
+        { "en": "✗ Everybody have arrived. → ✓ <b class=\"hl\">Everybody has</b> arrived. (everybody = singular)", "es": "Todos han llegado." },
+        { "en": "✗ My hairs are wet. → ✓ My <b class=\"hl\">hair is</b> wet.", "es": "Tengo el pelo mojado." },
+        { "en": "✓ Two <b class=\"hl\">pieces of luggage</b>, three <b class=\"hl\">items of furniture</b>.", "es": "Dos maletas, tres muebles." }
+      ],
+      "tables": [
+        {
+          "headers": ["Descuido", "✗", "✓"],
+          "rows": [
+            ["3ª persona -s", "He work / She have", "He works / She has"],
+            ["news (singular)", "The news are good", "The news is good"],
+            ["information (incontable)", "informations", "information / pieces of information"],
+            ["advice (incontable)", "advices", "advice / a piece of advice"],
+            ["people (plural)", "People is here", "People are here"],
+            ["money (incontable)", "money are", "money is"],
+            ["everybody (singular)", "Everybody have", "Everybody has"],
+            ["hair (incontable)", "my hairs", "my hair"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s7q1", "question": "1. 'Él trabaja aquí':", "options": ["He work here.", "He works here."], "correctIndex": 1 },
+        { "id": "b24-s7q2", "question": "2. 'Las noticias son buenas':", "options": ["The news are good.", "The news is good."], "correctIndex": 1 },
+        { "id": "b24-s7q3", "question": "3. 'La gente está esperando':", "options": ["People is waiting.", "People are waiting."], "correctIndex": 1 },
+        { "id": "b24-s7q4", "question": "4. 'Necesito algún consejo':", "options": ["I need some advices.", "I need some advice."], "correctIndex": 1 },
+        { "id": "b24-s7q5", "question": "5. 'Everybody' concuerda con:", "options": ["verbo singular (has)", "verbo plural (have)"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b24-s7",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres frases correctas: una en 3ª persona (con -s), una con 'people are' y una con un incontable (news/advice/information + is).",
+        "placeholder": "Ej: She works at reception. People are waiting in the lobby. The information is on the website.",
+        "rubric": [
+          "¿Pones la -s en la 3ª persona del presente?",
+          "¿'people' concuerda con verbo plural (are)?",
+          "¿Los incontables (news/advice/information) van en singular (is)?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Incontables singulares clave: <b>news, information, advice, furniture, money, homework, progress</b> → 'is', sin plural. Pero <b>people</b> es plural → 'are'. Y no olvides la -s de he/she/it en presente: es el error más frecuente al hablar rápido." }
+      ]
+    },
+    {
+      "idx": "24.8",
+      "title": "Artículos: cuándo 'the' y cuándo nada",
+      "level": "B1",
+      "rule": "El uso de <b>the</b> difiere del español. NO se usa 'the' con: sustantivos en <b>sentido general</b> (I love <b class=\"hl\">Ø music</b>, no 'the music'), la mayoría de <b>nombres propios/países</b> (<b class=\"hl\">Ø Spain</b>), comidas (<b class=\"hl\">Ø breakfast</b>), y con <b>last/next</b> (<b class=\"hl\">Ø last week</b>). SÍ se usa 'the' para algo <b>específico/único</b> ya conocido (the manager, the sun). Error típico: 'the' de más por calcar el 'el/la' español.",
+      "examples": [
+        { "en": "✗ I love the music. → ✓ I love <b class=\"hl\">music</b>. (en general)", "es": "Me encanta la música." },
+        { "en": "✗ The dogs are loyal. → ✓ <b class=\"hl\">Dogs are</b> loyal. (los perros en general)", "es": "Los perros son leales." },
+        { "en": "✗ I live in the Spain. → ✓ I live in <b class=\"hl\">Spain</b>.", "es": "Vivo en España." },
+        { "en": "✗ We had the breakfast at 8. → ✓ We had <b class=\"hl\">breakfast</b> at 8.", "es": "Desayunamos a las 8." },
+        { "en": "✗ I saw her the last week. → ✓ I saw her <b class=\"hl\">last week</b>.", "es": "La vi la semana pasada." },
+        { "en": "✗ She goes to the work by car. → ✓ She goes to <b class=\"hl\">work</b> by car.", "es": "Va al trabajo en coche." },
+        { "en": "✓ <b class=\"hl\">The</b> manager will see you now. (específico, conocido)", "es": "El gerente le atenderá ahora." },
+        { "en": "✓ Please close <b class=\"hl\">the</b> door. (concreta, la de aquí)", "es": "Cierra la puerta, por favor." },
+        { "en": "✗ Life is beautiful in the nature. → ✓ …in <b class=\"hl\">nature</b>.", "es": "…en la naturaleza." },
+        { "en": "✓ I play <b class=\"hl\">the</b> piano but I don't like Ø football. (instrumentos: the; deportes: Ø)", "es": "Toco el piano pero no me gusta el fútbol." }
+      ],
+      "tables": [
+        {
+          "headers": ["Sin 'the' (Ø)", "Con 'the'"],
+          "rows": [
+            ["general: I love Ø music", "específico: the music at the party"],
+            ["países: Ø Spain, Ø France", "excepciones: the UK, the USA"],
+            ["comidas: Ø breakfast/lunch", "the dinner we had last night"],
+            ["last/next: Ø last week", "the week before the event"],
+            ["work/home/school (rutina): go to Ø work", "the school near my house"],
+            ["deportes: play Ø football", "instrumentos: play the piano"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b24-s8q1", "question": "1. 'Me encanta la música' (en general):", "options": ["I love the music.", "I love music."], "correctIndex": 1 },
+        { "id": "b24-s8q2", "question": "2. 'Vivo en España':", "options": ["I live in the Spain.", "I live in Spain."], "correctIndex": 1 },
+        { "id": "b24-s8q3", "question": "3. 'La semana pasada':", "options": ["the last week", "last week"], "correctIndex": 1 },
+        { "id": "b24-s8q4", "question": "4. 'Desayunamos a las 8':", "options": ["We had the breakfast at 8.", "We had breakfast at 8."], "correctIndex": 1 },
+        { "id": "b24-s8q5", "question": "5. ¿Cuándo SÍ se usa 'the'?", "options": ["para algo específico/conocido (the manager)", "siempre que en español haya el/la"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b24-s8",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase general SIN 'the' (una afición, un país) y otra específica CON 'the' (algo concreto y conocido).",
+        "placeholder": "Ej: I love travelling and I live in Spain. The manager confirmed the booking.",
+        "rubric": [
+          "¿Omites 'the' con lo general (music, Spain, breakfast)?",
+          "¿Usas 'the' solo con lo específico/conocido?",
+          "¿Evitas el 'the' de más por calcar el español?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "El error más común es <b>poner 'the' de más</b> por calcar 'el/la': 'I love THE music' → 'I love music'. Regla rápida: sentido general = sin 'the'; algo concreto que ambos ya identificamos = con 'the'." }
+      ]
+    }
+  ]
+}
