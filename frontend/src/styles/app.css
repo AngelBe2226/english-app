@@ -114,12 +114,14 @@ body {
 /* Toggle de tema (sol/luna) */
 .theme-toggle {
   margin-top: auto;
+  position: sticky;
+  bottom: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
   width: 100%;
-  padding: 0.55rem 0.7rem;
+  padding: 0.6rem 0.7rem;
   border: 1px solid var(--line);
   border-radius: var(--r-md);
   background: var(--surface-2);
@@ -129,6 +131,8 @@ body {
   font-size: 0.85rem;
   font-weight: 500;
   transition: all 0.18s var(--ease);
+  /* halo para separarlo del contenido que scrollea por detrás */
+  box-shadow: 0 -14px 16px -8px var(--surface-glass), var(--shadow-xs);
 }
 .theme-toggle:hover {
   color: var(--iris);
