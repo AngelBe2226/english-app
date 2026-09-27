@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { api } from "./api";
 import { useProgress } from "./progress";
 import Sidebar from "./components/Sidebar";
+import ThemeToggle from "./components/ThemeToggle";
 import BlockPage from "./components/BlockPage";
 import Block15Page from "./panels/Block15Page";
 import HighlightsPanel from "./panels/HighlightsPanel";
@@ -77,6 +78,7 @@ export default function App() {
           onSelectBlock={setCurrent}
           onGoToSection={goToSection}
         />
+        <ThemeToggle />
       </aside>
 
       <main className="content">
