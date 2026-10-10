@@ -1363,15 +1363,36 @@ b.hl,
    (overrides intencionados; van al final para ganar en cascada)
    ============================================================ */
 
-/* Contenido con un pelín más de aire + entrada suave al cambiar de bloque */
+/* Contenido con un pelín más de aire + fade suave al cambiar de bloque */
 .content {
   padding: 2.8rem 3.2rem 6rem;
-  animation: content-in 0.4s var(--ease-out) both;
+  animation: content-in 0.32s var(--ease-out) backwards;
 }
 @keyframes content-in {
-  from { opacity: 0; transform: translateY(8px); }
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Entrada escalonada de las tarjetas (stagger) al cargar un bloque.
+   fill-mode backwards (no both): mantiene el estado inicial durante el delay
+   pero NO fija el final, así el :hover lift de la tarjeta sigue aplicando. */
+.sections .section-card {
+  animation: card-in 0.5s var(--ease-out) backwards;
+}
+@keyframes card-in {
+  from { opacity: 0; transform: translateY(14px); }
   to   { opacity: 1; transform: translateY(0); }
 }
+.sections .section-card:nth-child(1)  { animation-delay: 0.04s; }
+.sections .section-card:nth-child(2)  { animation-delay: 0.09s; }
+.sections .section-card:nth-child(3)  { animation-delay: 0.14s; }
+.sections .section-card:nth-child(4)  { animation-delay: 0.19s; }
+.sections .section-card:nth-child(5)  { animation-delay: 0.24s; }
+.sections .section-card:nth-child(6)  { animation-delay: 0.29s; }
+.sections .section-card:nth-child(7)  { animation-delay: 0.34s; }
+.sections .section-card:nth-child(8)  { animation-delay: 0.39s; }
+.sections .section-card:nth-child(9)  { animation-delay: 0.44s; }
+.sections .section-card:nth-child(n+10) { animation-delay: 0.48s; }
 
 /* Regla: acento en gradiente */
 .rule-box {
