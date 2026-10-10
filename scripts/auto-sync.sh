@@ -22,6 +22,23 @@ FRONT_MARKER="$FRONT_DIR/.dist-src-hash"   # huella del fuente ya construido (lo
 
 log() { echo "$(date '+%F %T') [auto-sync] $1"; }
 
+# --- Lock: impide ejecuciones concurrentes (el ciclo con build puede pasar de
+# 60s y solaparse con el siguiente; dos 'git pull' a la vez corrompen FETCH_HEAD
+# y dan "Cannot rebase onto multiple branches"). mkdir es atómico. ---
+LOCK="$REPO_DIR/.git/english-app-sync.lock"
+if ! mkdir "$LOCK" 2>/dev/null; then
+    pid="$(cat "$LOCK/pid" 2>/dev/null || true)"
+    if [ -n "$pid" ] && kill -0 "$pid" 2>/dev/null; then
+        log "Otro sync en curso (pid $pid) — salto este ciclo."
+        exit 0
+    fi
+    # Lock huérfano (proceso muerto): recupéralo.
+    rm -rf "$LOCK"
+    mkdir "$LOCK" 2>/dev/null || { log "No pude tomar el lock — salto."; exit 0; }
+fi
+echo $$ > "$LOCK/pid"
+trap 'rm -rf "$LOCK"' EXIT
+
 # Asegura que npm y node son invocables; si el PATH mínimo no los trae, prueba
 # Homebrew, /usr/local y por último la última versión instalada por nvm. Así
 # funciona igual en máquinas con node de sistema o con node vía nvm.
