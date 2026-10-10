@@ -9,6 +9,8 @@ async function json(res) {
 export const api = {
   listBlocks: () => fetch("/api/blocks").then(json),
 
+  searchIndex: () => fetch("/api/search-index").then(json),
+
   getBlock: (block) => fetch(`/api/blocks/${block}`).then(json),
 
   getProgress: () => fetch("/api/progress").then(json),
