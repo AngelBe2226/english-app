@@ -1,7 +1,9 @@
 import { useEffect, useState } from "react";
 
-// Devuelve el tema efectivo: el guardado por el usuario, o el del sistema.
-function readEffective() {
+// Tema efectivo actual: el elegido por el usuario (atributo/localStorage) o el del sistema.
+function currentEffective() {
+  const attr = document.documentElement.getAttribute("data-theme");
+  if (attr === "light" || attr === "dark") return attr;
   try {
     const saved = localStorage.getItem("theme");
     if (saved === "light" || saved === "dark") return saved;
@@ -12,7 +14,19 @@ function readEffective() {
 }
 
 export default function ThemeToggle() {
-  const [theme, setTheme] = useState(readEffective);
+  const [theme, setTheme] = useState(currentEffective);
+
+  function apply(next) {
+    document.documentElement.setAttribute("data-theme", next);
+    try {
+      localStorage.setItem("theme", next);
+    } catch {}
+    setTheme(next);
+  }
+
+  function toggle() {
+    apply(currentEffective() === "dark" ? "light" : "dark");
+  }
 
   // Si el usuario no ha elegido tema, seguir en vivo la preferencia del sistema.
   useEffect(() => {
@@ -29,22 +43,33 @@ export default function ThemeToggle() {
     return () => mql.removeEventListener?.("change", onChange);
   }, []);
 
-  function toggle() {
-    const next = theme === "dark" ? "light" : "dark";
-    document.documentElement.setAttribute("data-theme", next);
-    try {
-      localStorage.setItem("theme", next);
-    } catch {}
-    setTheme(next);
-  }
+  // Atajo de teclado: ⇧D para alternar tema (ignorado si escribes en un campo).
+  useEffect(() => {
+    const onKey = (e) => {
+      if (e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey) return;
+      if (!e.shiftKey || e.key.toLowerCase() !== "d") return;
+      const t = e.target;
+      if (
+        t &&
+        (t.tagName === "INPUT" ||
+          t.tagName === "TEXTAREA" ||
+          t.isContentEditable)
+      )
+        return;
+      e.preventDefault();
+      toggle();
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
 
   const isDark = theme === "dark";
   return (
     <button
       className="theme-toggle"
       onClick={toggle}
-      aria-label={isDark ? "Cambiar a modo claro" : "Cambiar a modo oscuro"}
-      title={isDark ? "Modo claro" : "Modo oscuro"}
+      aria-label={isDark ? "Cambiar a modo claro (Shift+D)" : "Cambiar a modo oscuro (Shift+D)"}
+      title={isDark ? "Modo claro · ⇧D" : "Modo oscuro · ⇧D"}
     >
       {isDark ? (
         // Sol

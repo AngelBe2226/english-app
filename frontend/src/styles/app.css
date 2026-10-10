@@ -1028,51 +1028,53 @@ b.hl,
   gap: 0.9rem;
 }
 .hl-card {
-  --hl-color: #c99b1f;
-  --hl-bg: var(--surface);
-  --hl-tag-bg: rgba(201, 155, 31, 0.12);
+  --hl-color: var(--star);
+  --hl-bg: color-mix(in srgb, var(--star) 7%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--star) 18%, var(--surface));
   background: var(--hl-bg);
   border: 1px solid var(--line);
   border-left: 4px solid var(--hl-color);
-  border-radius: 10px;
+  border-radius: var(--r-md);
   padding: 0.85rem 1rem;
+  box-shadow: var(--shadow-xs);
 }
-/* Un color por categoría (compartido por tarjetas y chips de filtro),
-   para poder contrastarlas de un vistazo. */
+/* Un color por categoría (compartido por tarjetas y chips de filtro). Se derivan
+   con color-mix sobre --surface y el color temático, así se adaptan solos a
+   claro/oscuro (los colores base ya tienen variante oscura en tokens.css). */
 .cat-regla {
   --hl-color: var(--iris);
-  --hl-bg: var(--iris-soft);
-  --hl-tag-bg: rgba(59, 62, 140, 0.14);
+  --hl-bg: color-mix(in srgb, var(--iris) 11%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--iris) 22%, var(--surface));
 }
 .cat-ejemplo {
   --hl-color: var(--a2);
-  --hl-bg: rgba(46, 145, 135, 0.08);
-  --hl-tag-bg: rgba(46, 145, 135, 0.16);
+  --hl-bg: color-mix(in srgb, var(--a2) 11%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--a2) 22%, var(--surface));
 }
 .cat-nota {
   --hl-color: var(--b2);
-  --hl-bg: rgba(91, 75, 156, 0.08);
-  --hl-tag-bg: rgba(91, 75, 156, 0.16);
+  --hl-bg: color-mix(in srgb, var(--b2) 11%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--b2) 22%, var(--surface));
 }
 .cat-nota.note-exception {
   --hl-color: var(--no);
-  --hl-bg: var(--no-bg);
-  --hl-tag-bg: rgba(178, 58, 58, 0.14);
+  --hl-bg: color-mix(in srgb, var(--no) 11%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--no) 22%, var(--surface));
 }
 .cat-nota.note-tip {
   --hl-color: var(--ok);
-  --hl-bg: var(--ok-bg);
-  --hl-tag-bg: rgba(44, 122, 75, 0.14);
+  --hl-bg: color-mix(in srgb, var(--ok) 11%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--ok) 22%, var(--surface));
 }
 .cat-quiz {
   --hl-color: var(--c1);
-  --hl-bg: rgba(166, 63, 132, 0.08);
-  --hl-tag-bg: rgba(166, 63, 132, 0.16);
+  --hl-bg: color-mix(in srgb, var(--c1) 11%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--c1) 22%, var(--surface));
 }
 .cat-oracion {
   --hl-color: var(--b1);
-  --hl-bg: rgba(44, 111, 166, 0.08);
-  --hl-tag-bg: rgba(44, 111, 166, 0.16);
+  --hl-bg: color-mix(in srgb, var(--b1) 11%, var(--surface));
+  --hl-tag-bg: color-mix(in srgb, var(--b1) 22%, var(--surface));
 }
 .hl-card-meta {
   display: flex;
