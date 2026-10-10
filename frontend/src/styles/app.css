@@ -1488,4 +1488,11 @@ b.hl,
 @media (max-width: 820px) {
   .content { padding: 1.6rem 1.25rem 4rem; }
   .sidebar { -webkit-backdrop-filter: none; backdrop-filter: none; background: var(--surface); }
+  /* En móvil la sidebar es una franja corta (max 45vh) con scroll: el toggle
+     sticky flotaría sobre la lista. Lo devolvemos al flujo, al final del nav. */
+  .theme-toggle {
+    position: static;
+    margin-top: 0.7rem;
+    box-shadow: var(--shadow-xs);
+  }
 }
