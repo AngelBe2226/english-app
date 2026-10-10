@@ -11,6 +11,12 @@ def list_blocks():
     return content.get_index()
 
 
+@router.get("/search-index")
+def search_index():
+    """Flat index (every block + its section headings) for the sidebar search."""
+    return content.get_search_index()
+
+
 @router.get("/blocks/{block}")
 def get_block(block: str):
     """Full content for one block (block is zero-padded, e.g. '01')."""

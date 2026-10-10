@@ -32,3 +32,30 @@ def get_block(block: str) -> dict | None:
     if not path.exists():
         return None
     return _load(path)
+
+
+def get_search_index() -> list[dict]:
+    """Lightweight index for the sidebar search: every block plus its section
+    headings (idx + title + level). One request covers the whole app, so the
+    frontend can filter blocks and sections client-side."""
+    out: list[dict] = []
+    for item in get_index():
+        block = item["block"]
+        data = get_block(block)
+        if not data:
+            continue
+        out.append(
+            {
+                "block": block,
+                "title": item.get("title", ""),
+                "sections": [
+                    {
+                        "idx": s.get("idx"),
+                        "title": s.get("title"),
+                        "level": s.get("level"),
+                    }
+                    for s in data.get("sections", [])
+                ],
+            }
+        )
+    return out
