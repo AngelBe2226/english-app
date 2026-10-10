@@ -12,6 +12,7 @@ backend/data/*.db-shm
 # Node / Vite
 frontend/node_modules/
 frontend/dist/
+frontend/.dist-src-hash
 
 # OS / editor
 .DS_Store
