@@ -1643,3 +1643,92 @@ b.hl,
   font-size: 0.85rem;
   padding: 0.6rem;
 }
+
+/* ============================================================
+   Export / Import de progreso (copia de seguridad)
+   ============================================================ */
+.data-transfer {
+  margin-top: 1.2rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-xl);
+  box-shadow: var(--shadow-sm);
+  padding: 1.1rem 1.25rem;
+}
+.dt-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+.dt-tag {
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  color: var(--iris);
+  background: var(--iris-soft);
+  padding: 0.14rem 0.55rem;
+  border-radius: var(--r-full);
+}
+.dt-count {
+  font-family: var(--mono);
+  font-size: 0.76rem;
+  color: var(--ink-faint);
+}
+.dt-desc {
+  margin: 0 0 0.9rem;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+.dt-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.dt-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  border: 1px solid var(--line-strong);
+  background: var(--surface-2);
+  color: var(--ink);
+  border-radius: var(--r-sm);
+  padding: 0.5rem 0.95rem;
+  font-family: var(--body);
+  font-size: 0.88rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: transform 0.14s var(--ease), border-color 0.14s var(--ease),
+    background 0.14s var(--ease), box-shadow 0.14s var(--ease);
+}
+.dt-btn:hover:not(:disabled) {
+  border-color: var(--iris);
+  color: var(--iris);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+.dt-btn:active:not(:disabled) { transform: translateY(0); }
+.dt-btn:disabled { opacity: 0.5; cursor: default; }
+.dt-btn.primary {
+  border-color: transparent;
+  background: var(--grad-iris);
+  color: #fff;
+  box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+.dt-btn.primary:hover:not(:disabled) {
+  color: #fff;
+  box-shadow: var(--shadow-iris), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  filter: brightness(1.05);
+}
+.dt-btn svg { flex-shrink: 0; }
+.dt-msg {
+  margin: 0.8rem 0 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+.dt-msg.ok { color: var(--ok); }
+.dt-msg.no { color: var(--no); }

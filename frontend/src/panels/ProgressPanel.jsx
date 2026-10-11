@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { api } from "../api";
 import { useProgress } from "../progress";
+import ProgressTransfer from "./ProgressTransfer";
 
 // Aggregate progress across blocks 01–14. It loads every block's content
 // (to know each quiz's correct answer) and compares against saved answers.
@@ -72,6 +73,8 @@ export default function ProgressPanel({ index }) {
           );
         })}
       </div>
+
+      <ProgressTransfer />
     </div>
   );
 }

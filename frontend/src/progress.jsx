@@ -61,8 +61,16 @@ export function ProgressProvider({ children }) {
     return api.resetPrefix(prefix).catch(() => {});
   }, []);
 
+  // Importa un lote de claves (upsert en backend + fusión en memoria).
+  const importAll = useCallback((items) => {
+    setProgress((prev) => ({ ...prev, ...items }));
+    return api.importProgress(items);
+  }, []);
+
   return (
-    <ProgressCtx.Provider value={{ progress, loaded, getVal, setVal, delVal, delMany, resetPrefix }}>
+    <ProgressCtx.Provider
+      value={{ progress, loaded, getVal, setVal, delVal, delMany, resetPrefix, importAll }}
+    >
       {children}
     </ProgressCtx.Provider>
   );
