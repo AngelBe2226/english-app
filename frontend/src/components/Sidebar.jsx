@@ -23,6 +23,33 @@ const norm = (s) =>
     .replace(/[̀-ͯ]/g, "")
     .toLowerCase();
 
+// Pliega carácter a carácter manteniendo la longitud (1 carácter → 1 carácter),
+// para poder mapear el índice de la coincidencia de vuelta al texto original
+// aunque tenga acentos.
+function foldKeepLen(text) {
+  let out = "";
+  for (const ch of text) {
+    const f = ch.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+    out += f.length ? f[0] : ch.toLowerCase();
+  }
+  return out;
+}
+
+// Resalta la coincidencia de `nq` (ya normalizada) dentro de `text`.
+function highlight(text, nq) {
+  if (!nq) return text;
+  const folded = foldKeepLen(text);
+  const i = folded.indexOf(nq);
+  if (i < 0) return text;
+  return (
+    <>
+      {text.slice(0, i)}
+      <mark className="sr-hl">{text.slice(i, i + nq.length)}</mark>
+      {text.slice(i + nq.length)}
+    </>
+  );
+}
+
 // Sidebar en cascada: cada capítulo (bloque) tiene un chevrón para desplegar
 // sus epígrafes. Acordeón: al abrir uno se cierra el que estuviera abierto.
 // Arriba, un buscador que filtra bloques y secciones de toda la app.
