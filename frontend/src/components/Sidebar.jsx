@@ -134,6 +134,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
   }
 
   const searching = q.length > 0;
+  const nq = norm(q);
 
   return (
     <>
@@ -191,7 +192,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
                   onClick={() => selectResult(r)}
                 >
                   <span className="sr-num">{r.type === "block" ? r.block : r.idx}</span>
-                  <span className="sr-title">{r.title}</span>
+                  <span className="sr-title">{highlight(r.title, nq)}</span>
                   {r.type === "block" && <span className="sr-kind">bloque</span>}
                 </button>
               ))}

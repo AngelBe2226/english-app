@@ -1732,3 +1732,12 @@ b.hl,
 }
 .dt-msg.ok { color: var(--ok); }
 .dt-msg.no { color: var(--no); }
+
+/* Resaltado del término buscado en los resultados */
+.sr-hl {
+  background: color-mix(in srgb, var(--iris) 24%, transparent);
+  color: inherit;
+  border-radius: 3px;
+  padding: 0 1px;
+  font-weight: 700;
+}
