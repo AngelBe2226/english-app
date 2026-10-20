@@ -16,3 +16,4 @@ frontend/.dist-src-hash
 
 # OS / editor
 .DS_Store
+frontend/public/content/
