@@ -1,0 +1,52 @@
+name: Deploy PWA to GitHub Pages
+
+# Construye el frontend como PWA con base=/english-app/ (la subruta de Pages del
+# repo) y lo publica en https://angelbe2226.github.io/english-app/ en cada push a
+# main. No afecta a los Macs: ellos siguen sirviendo su propio build con base "/".
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un solo despliegue a la vez; no cancela el que esté en curso.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+      - name: Instalar dependencias
+        working-directory: frontend
+        run: npm ci
+      - name: Build PWA (base=/english-app/)
+        working-directory: frontend
+        run: npm run build
+        env:
+          PWA_BASE: /english-app/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
