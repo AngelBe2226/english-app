@@ -4,6 +4,7 @@ import Quiz from "./Quiz";
 import ProduceBox from "./ProduceBox";
 import Dialogue from "./Dialogue";
 import Translate from "./Translate";
+import Reading from "./Reading";
 import HighlightButton from "./HighlightButton";
 import { useProgress } from "../progress";
 
@@ -74,6 +75,10 @@ export default function SectionCard({ section }) {
       {notesBefore.map((n) => (
         <Note key={`nb-${n._i}`} note={n} hlId={`hl:${section.idx}-note${n._i}`} />
       ))}
+
+      {section.reading && (
+        <Reading reading={section.reading} hlId={`hl:${section.idx}-reading-text`} />
+      )}
 
       {section.examples?.length > 0 && (
         <ul className="examples">

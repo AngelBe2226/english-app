@@ -1358,6 +1358,86 @@ b.hl,
 }
 .tr-reveal:hover { background: var(--surface); }
 
+/* ---- Lectura graduada (reading) ---- */
+.reading {
+  margin: 0 0 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+  padding: 0.85rem 1.1rem 1rem;
+}
+.reading-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+.reading-tag {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--iris);
+  background: var(--iris-soft);
+  padding: 0.12rem 0.45rem;
+  border-radius: 5px;
+}
+.reading-title { font-weight: 600; color: var(--ink-soft); font-size: 0.92rem; }
+.reading-meta {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  color: var(--ink-faint);
+}
+.reading-strategy {
+  margin: 0 0 0.7rem;
+  font-size: 0.86rem;
+  color: var(--ink-faint);
+  line-height: 1.5;
+}
+.reading-strategy-tag {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-faint);
+  border: 1px solid var(--line-strong);
+  padding: 0.08rem 0.4rem;
+  border-radius: 5px;
+  margin-right: 0.45rem;
+}
+.reading-text {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  color: var(--ink);
+}
+.reading-text p { margin: 0 0 0.85rem; }
+.reading-text p:last-child { margin-bottom: 0; }
+.reading-gloss { margin-top: 0.85rem; border-top: 1px solid var(--line); padding-top: 0.7rem; }
+.reading-gloss-btn {
+  font: inherit;
+  font-size: 0.82rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: var(--iris);
+  padding: 0;
+}
+.reading-gloss-list { margin: 0.6rem 0 0; display: flex; flex-direction: column; gap: 0.35rem; }
+.reading-gloss-row {
+  display: grid;
+  grid-template-columns: minmax(8rem, 14rem) 1fr;
+  gap: 0.2rem 0.9rem;
+  align-items: baseline;
+}
+.reading-gloss-row dt { margin: 0; font-weight: 600; color: var(--ink-soft); }
+.reading-gloss-row dd { margin: 0; color: var(--ink-faint); font-size: 0.9rem; }
+@media (max-width: 560px) {
+  .reading-gloss-row { grid-template-columns: 1fr; gap: 0; }
+}
+
 /* ---- Writing guiado: rúbrica de autoevaluación + ejemplo modelo ---- */
 .produce .model-btn {
   font: inherit;

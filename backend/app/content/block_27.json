@@ -1,0 +1,248 @@
+{
+  "block": "27",
+  "title": "Lecturas graduadas — Reading",
+  "kicker": "Bloque 27 · Comprensión lectora · A2–C1",
+  "intro": "Textos reales graduados por nivel (A2 → C1) del mundo de la hostelería, el turismo y las ventas. Cada lectura trae una <b class=\"hl\">estrategia previa</b>, un <b class=\"hl\">glosario desplegable</b>, preguntas de comprensión (algunas de inferencia) y una tarea de escritura para responder al texto. Lee primero de corrido, luego responde; usa el glosario solo si te atascas.",
+  "legend": [
+    { "label": "lectura", "desc": "el texto graduado — léelo entero antes de responder" },
+    { "label": "glosario", "desc": "vocabulario de apoyo, desplegable" }
+  ],
+  "sections": [
+    {
+      "idx": "27.1",
+      "title": "Una nota de bienvenida (A2)",
+      "level": "A2",
+      "rule": "<b class=\"hl\">Estrategia:</b> en textos cortos y prácticos (notas, carteles, emails), busca primero la <b>acción</b> que te piden y los <b>datos clave</b> (horas, lugares, teléfonos). No necesitas entender cada palabra.",
+      "reading": {
+        "title": "Welcome note in the room",
+        "words": 95,
+        "strategy": "Vas a leer la nota que un hotel deja en la habitación. Antes de leer, pregúntate: ¿qué horarios y servicios menciona?",
+        "text": "<p>Dear Guest,</p><p>Welcome to Hotel Sol! We are <b class=\"hl\">delighted</b> to have you with us.</p><p>Breakfast is served in the ground-floor restaurant from <b class=\"hl\">7:00 to 10:30</b> every morning. If you prefer, you can order <b class=\"hl\">room service</b> by dialling 9 from your phone.</p><p>The swimming pool and gym are open until 10 p.m. Please remember that <b class=\"hl\">check-out</b> is at 12:00 noon. If you need a <b class=\"hl\">late check-out</b>, just let reception know and we will do our best to help.</p><p>Should you need anything at all, we are here 24 hours a day. Enjoy your stay!</p><p>The Hotel Sol Team</p>",
+        "glossary": [
+          { "en": "delighted", "es": "encantados" },
+          { "en": "is served", "es": "se sirve" },
+          { "en": "room service", "es": "servicio de habitaciones" },
+          { "en": "to dial", "es": "marcar (un número)" },
+          { "en": "check-out", "es": "salida / dejar la habitación" },
+          { "en": "late check-out", "es": "salida tardía" },
+          { "en": "do our best", "es": "hacer lo posible" }
+        ]
+      },
+      "quiz": [
+        { "id": "b27-s1q1", "question": "1. Breakfast is served…", "options": ["from 7:00 to 10:30", "all day"], "correctIndex": 0 },
+        { "id": "b27-s1q2", "question": "2. To order room service, you…", "options": ["dial 9 from your phone", "go to reception"], "correctIndex": 0 },
+        { "id": "b27-s1q3", "question": "3. Normal check-out is at…", "options": ["10 p.m.", "12:00 noon"], "correctIndex": 1 },
+        { "id": "b27-s1q4", "question": "4. For a late check-out, you should…", "options": ["let reception know", "pay online first"], "correctIndex": 0 },
+        { "id": "b27-s1q5", "question": "5. The hotel's help is available…", "options": ["24 hours a day", "only in the morning"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b27-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una nota de bienvenida breve (3–4 frases) para la habitación de tu hotel: saluda, da el horario del desayuno y ofrece ayuda.",
+        "placeholder": "Ej: Dear Guest, welcome to… Breakfast is served from… If you need anything, we are here 24 hours a day. Enjoy your stay!",
+        "rubric": [
+          "¿Saludas y das la bienvenida?",
+          "¿Incluyes al menos un dato práctico (horario/servicio)?",
+          "¿Cierras ofreciendo ayuda?"
+        ]
+      }
+    },
+    {
+      "idx": "27.2",
+      "title": "Una reseña de un huésped (A2–B1)",
+      "level": "A2–B1",
+      "rule": "<b class=\"hl\">Estrategia:</b> en una reseña, distingue los <b>puntos positivos</b> de los <b>negativos</b> y fíjate en la <b>valoración global</b> (¿recomendaría volver?). Palabras como <i>but</i>, <i>however</i> o <i>although</i> marcan el cambio de tono.",
+      "reading": {
+        "title": "Online review — ★★★★☆",
+        "words": 120,
+        "strategy": "Una huésped deja una reseña del hotel. Busca: ¿qué le gustó?, ¿qué no?, ¿volvería?",
+        "text": "<p>We spent three nights here and had a <b class=\"hl\">wonderful</b> time overall.</p><p>The staff were the <b class=\"hl\">highlight</b> of our stay — always friendly and quick to help. The receptionist even booked us a table at a lovely local restaurant. The room was spacious and spotless, and the bed was very comfortable.</p><p><b class=\"hl\">However</b>, the breakfast was a little disappointing: the coffee was cold and there wasn't much choice for vegetarians. The Wi-Fi was also quite slow in the evenings.</p><p>Despite these small issues, we would <b class=\"hl\">definitely</b> come back. The location is unbeatable and the value for money is excellent. Highly recommended for a city break.</p>",
+        "glossary": [
+          { "en": "overall", "es": "en general" },
+          { "en": "highlight", "es": "lo mejor / punto fuerte" },
+          { "en": "spotless", "es": "impecable, limpísimo" },
+          { "en": "however", "es": "sin embargo" },
+          { "en": "disappointing", "es": "decepcionante" },
+          { "en": "despite", "es": "a pesar de" },
+          { "en": "value for money", "es": "relación calidad-precio" },
+          { "en": "city break", "es": "escapada urbana" }
+        ]
+      },
+      "quiz": [
+        { "id": "b27-s2q1", "question": "1. What did the guest like most?", "options": ["The staff", "The breakfast"], "correctIndex": 0 },
+        { "id": "b27-s2q2", "question": "2. Which was a negative point?", "options": ["The cold coffee", "The comfortable bed"], "correctIndex": 0 },
+        { "id": "b27-s2q3", "question": "3. The word 'however' signals…", "options": ["a change to a negative point", "another positive point"], "correctIndex": 0 },
+        { "id": "b27-s2q4", "question": "4. Would the guest return?", "options": ["Yes, definitely", "No, never"], "correctIndex": 0 },
+        { "id": "b27-s2q5", "question": "5. 'Value for money is excellent' means…", "options": ["it's worth the price", "it's too expensive"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b27-s2",
+        "label": "<span class=\"badge\">tu turno</span>Responde a esta reseña como el hotel: agradece, reconoce el problema del desayuno y promete mejorar. 3–4 frases.",
+        "placeholder": "Ej: Thank you so much for your kind review and for highlighting our team. We're sorry the breakfast fell short — we'll address the coffee and add more vegetarian options. We'd love to welcome you back!",
+        "rubric": [
+          "¿Agradeces y mencionas algo positivo de la reseña?",
+          "¿Reconoces el punto negativo sin ponerte a la defensiva?",
+          "¿Invitas a volver?"
+        ]
+      }
+    },
+    {
+      "idx": "27.3",
+      "title": "Un anuncio inmobiliario (B1)",
+      "level": "B1",
+      "rule": "<b class=\"hl\">Estrategia:</b> los anuncios usan lenguaje <b>persuasivo</b> y abreviado. Separa los <b>hechos</b> (tamaño, planta, precio) de los <b>adjetivos de venta</b> (stunning, cosy). Lee también lo que <i>no</i> dicen.",
+      "reading": {
+        "title": "Property listing — for sale",
+        "words": 130,
+        "strategy": "Un anuncio de una vivienda en venta. Identifica: tipo, tamaño, estado y a quién va dirigido.",
+        "text": "<p><b class=\"hl\">Stunning two-bedroom apartment</b> in the heart of the old town — a rare opportunity.</p><p>This bright, south-facing flat (85 m²) has been <b class=\"hl\">recently refurbished</b> to a high standard. It features an open-plan living area, a fully fitted kitchen, and a master bedroom with an <b class=\"hl\">en-suite</b> bathroom. Both bedrooms have built-in wardrobes.</p><p>The property benefits from a private balcony with <b class=\"hl\">views over the square</b>, as well as access to a communal garden. A parking space can be purchased separately.</p><p>Offered <b class=\"hl\">chain-free</b> and move-in ready, this home would suit a professional couple or an investor seeking a strong rental return. Early viewing is <b class=\"hl\">strongly advised</b>.</p><p>Asking price: €295,000.</p>",
+        "glossary": [
+          { "en": "stunning", "es": "espectacular, precioso" },
+          { "en": "recently refurbished", "es": "reformado hace poco" },
+          { "en": "en-suite", "es": "baño en suite (dentro del dormitorio)" },
+          { "en": "to benefit from", "es": "contar con / disfrutar de" },
+          { "en": "chain-free", "es": "sin cadena de ventas (venta directa, sin esperar)" },
+          { "en": "move-in ready", "es": "listo para entrar a vivir" },
+          { "en": "rental return", "es": "rentabilidad del alquiler" },
+          { "en": "strongly advised", "es": "muy recomendable" }
+        ]
+      },
+      "quiz": [
+        { "id": "b27-s3q1", "question": "1. How big is the flat?", "options": ["85 m²", "95 m²"], "correctIndex": 0 },
+        { "id": "b27-s3q2", "question": "2. 'Move-in ready' means the flat…", "options": ["needs no work before living in it", "needs renovation"], "correctIndex": 0 },
+        { "id": "b27-s3q3", "question": "3. The parking space is…", "options": ["purchased separately", "included in the price"], "correctIndex": 0 },
+        { "id": "b27-s3q4", "question": "4. Who is the ad aimed at?", "options": ["a professional couple or an investor", "a large family with children"], "correctIndex": 0 },
+        { "id": "b27-s3q5", "question": "5. 'Early viewing is strongly advised' suggests…", "options": ["it may sell quickly", "the flat has problems"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b27-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe un anuncio corto (4–5 frases) para una propiedad: tipo y tamaño, dos puntos fuertes, estado y una llamada a la acción.",
+        "placeholder": "Ej: Bright one-bedroom flat (60 m²) in a quiet, central street. Recently refurbished and move-in ready, with a fitted kitchen and a sunny balcony. Ideal for a first-time buyer. Viewing strongly advised.",
+        "rubric": [
+          "¿Das hechos (tipo, tamaño) y dos puntos fuertes?",
+          "¿Usas vocabulario del sector (refurbished, move-in ready…)?",
+          "¿Terminas con una llamada a la acción?"
+        ]
+      }
+    },
+    {
+      "idx": "27.4",
+      "title": "Un email de reclamación (B1–B2)",
+      "level": "B1–B2",
+      "rule": "<b class=\"hl\">Estrategia:</b> en una queja formal, localiza (1) <b>qué pasó</b>, (2) <b>cómo se siente</b> el cliente y (3) <b>qué pide</b>. El tono suele ser cortés pero firme; aprende a leer la molestia 'entre líneas'.",
+      "reading": {
+        "title": "Email — subject: Disappointing stay (Booking #4471)",
+        "words": 150,
+        "strategy": "Un cliente escribe tras su estancia. Pregúntate: ¿cuál es el problema principal y qué solución espera?",
+        "text": "<p>Dear Sir or Madam,</p><p>I am writing to express my <b class=\"hl\">dissatisfaction</b> with a recent stay at your hotel (booking reference 4471).</p><p>Although the room itself was pleasant, we were <b class=\"hl\">kept awake</b> for most of the night by building work that, we were later told, had been scheduled for weeks. At no point were we <b class=\"hl\">warned</b> about this when we checked in, nor were we offered an alternative room.</p><p>When I raised the matter the following morning, the receptionist was polite but said there was 'nothing she could do'. I find this <b class=\"hl\">hard to accept</b>, given that we had paid a premium rate for a quiet room.</p><p>I would <b class=\"hl\">appreciate</b> a partial refund as a gesture of goodwill. I look forward to your prompt reply.</p><p>Yours faithfully,<br>A. Morgan</p>",
+        "glossary": [
+          { "en": "dissatisfaction", "es": "insatisfacción, descontento" },
+          { "en": "kept awake", "es": "mantenidos despiertos (sin poder dormir)" },
+          { "en": "to warn", "es": "avisar, advertir" },
+          { "en": "to raise a matter", "es": "plantear un asunto" },
+          { "en": "hard to accept", "es": "difícil de aceptar" },
+          { "en": "premium rate", "es": "tarifa superior" },
+          { "en": "a gesture of goodwill", "es": "un gesto de buena voluntad" },
+          { "en": "I look forward to", "es": "quedo a la espera de" }
+        ]
+      },
+      "quiz": [
+        { "id": "b27-s4q1", "question": "1. What was the main problem?", "options": ["Noise from building work at night", "A dirty room"], "correctIndex": 0 },
+        { "id": "b27-s4q2", "question": "2. Were the guests warned at check-in?", "options": ["No, they weren't", "Yes, they were"], "correctIndex": 0 },
+        { "id": "b27-s4q3", "question": "3. Why is the guest especially annoyed?", "options": ["They paid a premium for a quiet room", "They lost their booking"], "correctIndex": 0 },
+        { "id": "b27-s4q4", "question": "4. What does the guest want?", "options": ["A partial refund", "A free upgrade for next time"], "correctIndex": 0 },
+        { "id": "b27-s4q5", "question": "5. The tone of the email is best described as…", "options": ["polite but firm", "rude and aggressive"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b27-s4",
+        "label": "<span class=\"badge\">tu turno</span>Responde al email como el hotel: discúlpate, explica brevemente y ofrece una solución concreta (p. ej. el reembolso parcial). Tono formal.",
+        "placeholder": "Ej: Dear Mr/Ms Morgan, thank you for taking the time to write, and please accept our sincere apologies… We should have warned you and offered an alternative room. As a gesture of goodwill, we would be happy to refund… ",
+        "rubric": [
+          "¿Te disculpas con sinceridad y reconoces el fallo?",
+          "¿Ofreces una solución concreta (reembolso/compensación)?",
+          "¿Mantienes un registro formal (Dear…, Yours sincerely)?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "Fíjate en el cierre: <b>Yours faithfully</b> se usa cuando empiezas con 'Dear Sir or Madam' (sin nombre); <b>Yours sincerely</b> cuando conoces el nombre (Dear Mr Morgan). Es un detalle que marca nivel en cartas formales." }
+      ]
+    },
+    {
+      "idx": "27.5",
+      "title": "Tendencias en el turismo (B2)",
+      "level": "B2",
+      "rule": "<b class=\"hl\">Estrategia:</b> en un texto informativo, identifica la <b>idea principal</b> de cada párrafo y cómo se <b>conectan</b>. No te pierdas en los datos: busca la tesis y los ejemplos que la apoyan.",
+      "reading": {
+        "title": "Article — The rise of 'slow travel'",
+        "words": 165,
+        "strategy": "Un breve artículo sobre una tendencia turística. Busca: ¿qué es 'slow travel', por qué crece y qué implica para los hoteles?",
+        "text": "<p>For decades, tourism was sold on <b class=\"hl\">quantity</b>: as many cities, sights and photos as a week would allow. Increasingly, however, travellers are embracing the opposite — a movement known as <b class=\"hl\">'slow travel'</b>.</p><p>Rather than rushing between landmarks, slow travellers stay longer in one place, favour local businesses and seek <b class=\"hl\">authentic</b> experiences over tick-box sightseeing. A growing awareness of the <b class=\"hl\">environmental footprint</b> of frequent flights has only accelerated the trend.</p><p>For the hospitality industry, this shift brings both challenges and opportunities. Hotels that once competed on price now find that guests will <b class=\"hl\">pay a premium</b> for a sense of place: locally sourced food, partnerships with nearby artisans, and staff who can share genuine recommendations.</p><p>In short, the destination is no longer just a backdrop. For a new generation of guests, <b class=\"hl\">how</b> they travel matters as much as <b class=\"hl\">where</b>.</p>",
+        "glossary": [
+          { "en": "to embrace", "es": "adoptar, abrazar (una idea)" },
+          { "en": "authentic", "es": "auténtico" },
+          { "en": "tick-box sightseeing", "es": "turismo de 'tachar de la lista'" },
+          { "en": "environmental footprint", "es": "huella medioambiental" },
+          { "en": "to accelerate", "es": "acelerar" },
+          { "en": "to pay a premium", "es": "pagar más (un sobreprecio)" },
+          { "en": "locally sourced", "es": "de origen local" },
+          { "en": "backdrop", "es": "telón de fondo" }
+        ]
+      },
+      "quiz": [
+        { "id": "b27-s5q1", "question": "1. 'Slow travel' means…", "options": ["staying longer and going deeper in fewer places", "visiting as many places as possible"], "correctIndex": 0 },
+        { "id": "b27-s5q2", "question": "2. What has accelerated the trend?", "options": ["Awareness of flights' environmental footprint", "Cheaper airline tickets"], "correctIndex": 0 },
+        { "id": "b27-s5q3", "question": "3. According to the text, guests now…", "options": ["will pay more for a 'sense of place'", "only care about the lowest price"], "correctIndex": 0 },
+        { "id": "b27-s5q4", "question": "4. 'The destination is no longer just a backdrop' means…", "options": ["the experience matters, not only the place", "destinations are unimportant"], "correctIndex": 0 },
+        { "id": "b27-s5q5", "question": "5. The writer's overall attitude to slow travel is…", "options": ["positive — an opportunity for hotels", "dismissive — a passing fad"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b27-s5",
+        "label": "<span class=\"badge\">tu turno</span>Resume el artículo en 2–3 frases con tus palabras y añade tu opinión: ¿cómo podría tu hotel atraer a un 'slow traveller'?",
+        "placeholder": "Ej: The article argues that travellers increasingly value depth over quantity… To attract slow travellers, we could partner with local producers and train staff to give authentic recommendations.",
+        "rubric": [
+          "¿Captas la idea principal con tus propias palabras (sin copiar)?",
+          "¿Añades una opinión o propuesta concreta?",
+          "¿Usas 1–2 términos del texto correctamente?"
+        ]
+      }
+    },
+    {
+      "idx": "27.6",
+      "title": "El arte de la hospitalidad (B2–C1)",
+      "level": "B2–C1",
+      "rule": "<b class=\"hl\">Estrategia:</b> en un texto de opinión, separa el <b>hecho</b> de la <b>valoración</b> del autor, y detecta el <b>tono</b> (irónico, admirativo, crítico). Las ideas clave suelen ir al principio y al final de cada párrafo.",
+      "reading": {
+        "title": "Opinion — What hospitality really means",
+        "words": 180,
+        "strategy": "Un columnista reflexiona sobre la hospitalidad. Pregúntate: ¿cuál es su tesis y con qué contrasta la 'buena' de la 'gran' hospitalidad?",
+        "text": "<p>Anyone can follow a script. The difference between good service and genuine hospitality lies precisely in what the script cannot <b class=\"hl\">anticipate</b>.</p><p>Good service is <b class=\"hl\">transactional</b>: the guest asks, the staff deliver, the box is ticked. It is necessary, but it is also <b class=\"hl\">forgettable</b>. Great hospitality, by contrast, is <b class=\"hl\">anticipatory</b>. It notices the guest shivering in the lobby and brings a blanket before being asked; it remembers that a returning couple celebrated their anniversary last year.</p><p>This cannot be <b class=\"hl\">mandated</b> from above. No policy manual, however thick, can legislate warmth. What it requires is a culture in which staff feel <b class=\"hl\">trusted</b> to use their judgement — and, crucially, are not punished for the occasional misstep that such initiative inevitably brings.</p><p>The <b class=\"hl\">paradox</b>, then, is this: the most memorable moments of a stay are often the ones no manager could ever have planned. The best hotels do not script hospitality; they <b class=\"hl\">hire for it</b> and then get out of the way.</p>",
+        "glossary": [
+          { "en": "to anticipate", "es": "anticiparse a, prever" },
+          { "en": "transactional", "es": "transaccional (de puro intercambio)" },
+          { "en": "forgettable", "es": "olvidable, poco memorable" },
+          { "en": "anticipatory", "es": "anticipatorio (que se adelanta)" },
+          { "en": "to mandate", "es": "imponer, ordenar desde arriba" },
+          { "en": "to legislate warmth", "es": "'legislar' la calidez (imponerla por norma)" },
+          { "en": "misstep", "es": "paso en falso, error" },
+          { "en": "paradox", "es": "paradoja" }
+        ]
+      },
+      "quiz": [
+        { "id": "b27-s6q1", "question": "1. The writer's main thesis is that genuine hospitality…", "options": ["anticipates needs beyond any script", "means following the manual exactly"], "correctIndex": 0 },
+        { "id": "b27-s6q2", "question": "2. Good service is described as…", "options": ["transactional and forgettable", "always memorable"], "correctIndex": 0 },
+        { "id": "b27-s6q3", "question": "3. What does great hospitality require, according to the author?", "options": ["a culture that trusts staff to use their judgement", "a thicker policy manual"], "correctIndex": 0 },
+        { "id": "b27-s6q4", "question": "4. 'No policy manual can legislate warmth' means…", "options": ["warmth can't be imposed by rules", "manuals should be longer"], "correctIndex": 0 },
+        { "id": "b27-s6q5", "question": "5. 'Hire for it and then get out of the way' implies managers should…", "options": ["choose the right people and let them act", "supervise every interaction closely"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b27-s6",
+        "label": "<span class=\"badge\">tu turno · C1</span>¿Estás de acuerdo con el autor? Escribe un párrafo (5–6 frases) a favor o en contra, con un ejemplo propio de 'hospitalidad anticipatoria'.",
+        "placeholder": "Ej: I largely agree with the writer. In my experience, the moments guests remember are rarely in any manual… For instance, once I noticed a guest… That kind of initiative only happens when staff feel trusted rather than policed.",
+        "rubric": [
+          "¿Tomas una postura clara (a favor / en contra / matizada)?",
+          "¿Apoyas tu opinión con un ejemplo concreto?",
+          "¿Usas conectores de nivel (by contrast, crucially, in short) y 2–3 términos del texto?"
+        ]
+      }
+    }
+  ]
+}
