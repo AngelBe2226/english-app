@@ -1,0 +1,202 @@
+{
+  "block": "28",
+  "title": "Análisis sintáctico — Sentence analysis",
+  "kicker": "Bloque 28 · Sintaxis · B1–C1",
+  "intro": "Aprende a <b class=\"hl\">analizar la oración</b> en inglés: identificar el sujeto, el verbo y los complementos (CD, CI, CC, atributo) y ver cómo se combinan. Cada epígrafe trae frases para <b class=\"hl\">analizar interactivamente</b> — intenta marcarlas mentalmente y pulsa <i>analizar</i> para comprobar, con cada función en su color. Entender la estructura te ayuda a construir frases más largas y correctas.",
+  "legend": [
+    { "label": "analizar", "desc": "revela la función de cada parte con color y etiqueta" },
+    { "label": "colores", "desc": "cada función sintáctica tiene su color" }
+  ],
+  "sections": [
+    {
+      "idx": "28.1",
+      "title": "Sujeto y predicado",
+      "level": "B1",
+      "rule": "Toda oración tiene <b class=\"hl\">sujeto</b> (quién realiza o de quién se dice algo) y <b class=\"hl\">predicado</b> (lo que se dice, con el verbo como núcleo). El sujeto puede ser una sola palabra o un <b>grupo largo</b> (The guests in room 12). En inglés el sujeto es <b>casi siempre obligatorio</b>: incluso cuando no significa nada se pone <b class=\"hl\">it</b> o <b class=\"hl\">there</b> (It's raining; There is a problem).",
+      "analysis": {
+        "title": "Encuentra el sujeto",
+        "items": [
+          { "parts": [ { "t": "The receptionist", "fn": "subj" }, { "t": "greets", "fn": "verb" }, { "t": "every guest", "fn": "cd" }, { "t": ".", "fn": "" } ] },
+          { "parts": [ { "t": "It", "fn": "subj" }, { "t": "is raining", "fn": "verb" }, { "t": ".", "fn": "" } ], "note": "'It' es sujeto gramatical: obligatorio aunque no tenga significado propio." },
+          { "parts": [ { "t": "The guests in room 12", "fn": "subj" }, { "t": "have", "fn": "verb" }, { "t": "an early flight", "fn": "cd" }, { "t": ".", "fn": "" } ], "note": "El sujeto puede ser un grupo largo: todo 'The guests in room 12'." },
+          { "parts": [ { "t": "My colleague and I", "fn": "subj" }, { "t": "handle", "fn": "verb" }, { "t": "the VIP accounts", "fn": "cd" }, { "t": ".", "fn": "" } ] }
+        ]
+      },
+      "quiz": [
+        { "id": "b28-s1q1", "question": "1. In 'The receptionist greets every guest', the subject is…", "options": ["The receptionist", "every guest"], "correctIndex": 0 },
+        { "id": "b28-s1q2", "question": "2. In 'It is raining', 'It' is…", "options": ["the grammatical subject", "a direct object"], "correctIndex": 0 },
+        { "id": "b28-s1q3", "question": "3. The subject…", "options": ["can be a long noun phrase", "is always a single word"], "correctIndex": 0 },
+        { "id": "b28-s1q4", "question": "4. In English, the subject is…", "options": ["almost always obligatory", "usually omitted"], "correctIndex": 0 },
+        { "id": "b28-s1q5", "question": "5. The núcleo (core) of the predicate is…", "options": ["the verb", "the object"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b28-s1",
+        "label": "<span class=\"badge\">tu turno</span>Escribe dos frases y subraya mentalmente el sujeto: una con sujeto de una palabra y otra con sujeto largo (varias palabras).",
+        "placeholder": "Ej: She works here. · The couple in the suite upstairs requested a late check-out.",
+        "rubric": [
+          "¿Ambas frases tienen sujeto y verbo claros?",
+          "¿Una tiene un sujeto largo (grupo nominal)?",
+          "¿Pones sujeto explícito (no lo omites como en español)?"
+        ]
+      }
+    },
+    {
+      "idx": "28.2",
+      "title": "El verbo y sus objetos: CD y CI",
+      "level": "B1–B2",
+      "rule": "Muchos verbos llevan objetos. El <b class=\"hl\">CD</b> (objeto directo) recibe la acción (<i>¿qué?</i>): brought <b>the luggage</b>. El <b class=\"hl\">CI</b> (objeto indirecto) es el destinatario (<i>¿a quién?</i>): brought <b>the guests</b> their luggage. Orden: sin 'to', el <b>CI va antes</b> del CD (gave <b>the guest</b> a map); con 'to', el <b>CD va primero</b> (gave a map <b>to the guest</b>).",
+      "analysis": {
+        "title": "Distingue CD y CI",
+        "items": [
+          { "parts": [ { "t": "The porter", "fn": "subj" }, { "t": "brought", "fn": "verb" }, { "t": "the guests", "fn": "ci" }, { "t": "their luggage", "fn": "cd" }, { "t": ".", "fn": "" } ], "note": "Sin 'to': CI (a quién) antes del CD (qué)." },
+          { "parts": [ { "t": "I", "fn": "subj" }, { "t": "sent", "fn": "verb" }, { "t": "the invoice", "fn": "cd" }, { "t": "to the company", "fn": "ci" }, { "t": ".", "fn": "" } ], "note": "Con 'to': el CD va primero y el CI detrás." },
+          { "parts": [ { "t": "She", "fn": "subj" }, { "t": "gave", "fn": "verb" }, { "t": "the guest", "fn": "ci" }, { "t": "a map", "fn": "cd" }, { "t": ".", "fn": "" } ] },
+          { "parts": [ { "t": "We", "fn": "subj" }, { "t": "offered", "fn": "verb" }, { "t": "them", "fn": "ci" }, { "t": "a discount", "fn": "cd" }, { "t": ".", "fn": "" } ] }
+        ]
+      },
+      "quiz": [
+        { "id": "b28-s2q1", "question": "1. In 'She gave the guest a map', 'a map' is the…", "options": ["direct object (CD)", "indirect object (CI)"], "correctIndex": 0 },
+        { "id": "b28-s2q2", "question": "2. In 'She gave the guest a map', 'the guest' is the…", "options": ["indirect object (CI)", "direct object (CD)"], "correctIndex": 0 },
+        { "id": "b28-s2q3", "question": "3. Without 'to', the usual order is…", "options": ["CI + CD (gave the guest a map)", "CD + CI (gave a map the guest)"], "correctIndex": 0 },
+        { "id": "b28-s2q4", "question": "4. 'I sent the invoice to the company' — 'to the company' is…", "options": ["the indirect object", "the subject"], "correctIndex": 0 },
+        { "id": "b28-s2q5", "question": "5. The CD answers the question…", "options": ["what? (¿qué?)", "where? (¿dónde?)"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b28-s2",
+        "label": "<span class=\"badge\">tu turno</span>Escribe la misma idea de dos formas: una con CI antes del CD (sin 'to') y otra con 'to'.",
+        "placeholder": "Ej: I gave the guest the key. / I gave the key to the guest.",
+        "rubric": [
+          "¿La primera versión pone CI + CD sin 'to'?",
+          "¿La segunda usa 'to' con el orden CD + CI?",
+          "¿El verbo admite ambas (give, send, bring, offer…)?"
+        ]
+      }
+    },
+    {
+      "idx": "28.3",
+      "title": "Complementos circunstanciales (CC)",
+      "level": "B1–B2",
+      "rule": "El <b class=\"hl\">CC</b> (complemento circunstancial) añade información sobre las circunstancias: <b>tiempo</b> (at noon), <b>lugar</b> (at the lobby), <b>modo</b> (with great care), <b>frecuencia</b> (every hour). No es imprescindible para el verbo (se puede quitar) y puede haber <b>varios</b> en una misma frase. Suele ir al final, pero el CC de tiempo o lugar también puede ir al principio.",
+      "analysis": {
+        "title": "Localiza los CC",
+        "items": [
+          { "parts": [ { "t": "The shuttle", "fn": "subj" }, { "t": "leaves", "fn": "verb" }, { "t": "every hour", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "CC de frecuencia: 'every hour'." },
+          { "parts": [ { "t": "We", "fn": "subj" }, { "t": "will meet", "fn": "verb" }, { "t": "at the lobby", "fn": "cc" }, { "t": "at noon", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "Dos CC: lugar (at the lobby) y tiempo (at noon)." },
+          { "parts": [ { "t": "The chef", "fn": "subj" }, { "t": "prepared", "fn": "verb" }, { "t": "the dish", "fn": "cd" }, { "t": "with great care", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "'with great care' es CC de modo (¿cómo?)." },
+          { "parts": [ { "t": "He", "fn": "subj" }, { "t": "works", "fn": "verb" }, { "t": "here", "fn": "cc" }, { "t": "on weekends", "fn": "cc" }, { "t": ".", "fn": "" } ] }
+        ]
+      },
+      "quiz": [
+        { "id": "b28-s3q1", "question": "1. In 'The shuttle leaves every hour', 'every hour' is a…", "options": ["CC (circumstantial)", "CD (direct object)"], "correctIndex": 0 },
+        { "id": "b28-s3q2", "question": "2. 'with great care' is a CC of…", "options": ["manner (modo)", "time (tiempo)"], "correctIndex": 0 },
+        { "id": "b28-s3q3", "question": "3. A sentence can have…", "options": ["several CC", "only one CC"], "correctIndex": 0 },
+        { "id": "b28-s3q4", "question": "4. A CC is…", "options": ["not essential (can be removed)", "always essential"], "correctIndex": 0 },
+        { "id": "b28-s3q5", "question": "5. Which CC can move to the front of the sentence?", "options": ["time or place", "none ever"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b28-s3",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase con al menos dos CC distintos (p. ej. lugar + tiempo, o modo + frecuencia).",
+        "placeholder": "Ej: The team meets in the office every Monday. · She answered the phone politely and quickly.",
+        "rubric": [
+          "¿Hay dos CC de tipos distintos?",
+          "¿La frase sigue siendo correcta si quitas los CC?",
+          "¿Colocas los CC de forma natural (tiempo/lugar al final o al inicio)?"
+        ]
+      }
+    },
+    {
+      "idx": "28.4",
+      "title": "Oraciones copulativas y atributo",
+      "level": "B2",
+      "rule": "Los <b class=\"hl\">verbos copulativos</b> (be, seem, look, feel, taste, sound, become, get) no llevan CD: llevan <b class=\"hl\">atributo</b>, que describe o identifica al sujeto. The room <b>is</b> <b class=\"hl\">spacious</b>; The soup <b>tastes</b> <b class=\"hl\">delicious</b>. El atributo puede ser un adjetivo (happy) o un grupo nominal (the new manager). Truco: si puedes sustituir el verbo por <b>be</b> sin cambiar el sentido, es copulativo.",
+      "analysis": {
+        "title": "Identifica el atributo",
+        "items": [
+          { "parts": [ { "t": "The room", "fn": "subj" }, { "t": "is", "fn": "verb" }, { "t": "very spacious", "fn": "attr" }, { "t": ".", "fn": "" } ] },
+          { "parts": [ { "t": "The soup", "fn": "subj" }, { "t": "tastes", "fn": "verb" }, { "t": "delicious", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "'taste' aquí es copulativo: 'tastes delicious' = 'is delicious' en sabor." },
+          { "parts": [ { "t": "Our guests", "fn": "subj" }, { "t": "seem", "fn": "verb" }, { "t": "happy", "fn": "attr" }, { "t": ".", "fn": "" } ] },
+          { "parts": [ { "t": "She", "fn": "subj" }, { "t": "became", "fn": "verb" }, { "t": "the new manager", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "El atributo puede ser un grupo nominal: 'the new manager'." }
+        ]
+      },
+      "quiz": [
+        { "id": "b28-s4q1", "question": "1. In 'The room is spacious', 'spacious' is…", "options": ["an attribute (atributo)", "a direct object"], "correctIndex": 0 },
+        { "id": "b28-s4q2", "question": "2. Copular verbs include…", "options": ["be, seem, look, become", "give, send, bring"], "correctIndex": 0 },
+        { "id": "b28-s4q3", "question": "3. In 'The soup tastes delicious', 'tastes' is…", "options": ["a copular verb (+ attribute)", "a transitive verb (+ CD)"], "correctIndex": 0 },
+        { "id": "b28-s4q4", "question": "4. An attribute describes…", "options": ["the subject", "the place"], "correctIndex": 0 },
+        { "id": "b28-s4q5", "question": "5. Trick to spot a copular verb:", "options": ["you can replace it with 'be'", "it always takes 'to'"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b28-s4",
+        "label": "<span class=\"badge\">tu turno</span>Escribe tres frases copulativas con 'seem', 'look' y 'become', cada una con su atributo.",
+        "placeholder": "Ej: The lobby looks elegant. The guest seems satisfied. He became our best salesperson.",
+        "rubric": [
+          "¿Usas verbos copulativos (seem/look/become)?",
+          "¿Cada frase lleva un atributo (adjetivo o grupo nominal)?",
+          "¿Evitas tratar el atributo como CD?"
+        ]
+      }
+    },
+    {
+      "idx": "28.5",
+      "title": "Coordinación y subordinación",
+      "level": "B2–C1",
+      "rule": "Una frase puede unir varias oraciones mediante <b class=\"hl\">nexos</b>. La <b>coordinación</b> une oraciones del mismo nivel (and, but, or, so): cada una conserva su sujeto y verbo. La <b>subordinación</b> mete una oración dentro de otra (because, although, that, when, if): la subordinada depende de la principal. Analiza cada oración por separado y marca el <b class=\"hl\">nexo</b> que las une.",
+      "analysis": {
+        "title": "Separa las oraciones y el nexo",
+        "items": [
+          { "parts": [ { "t": "I", "fn": "subj" }, { "t": "called", "fn": "verb" }, { "t": "reception", "fn": "cd" }, { "t": "but", "fn": "conj" }, { "t": "nobody", "fn": "subj" }, { "t": "answered", "fn": "verb" }, { "t": ".", "fn": "" } ], "note": "'but' coordina dos oraciones; cada una con su propio sujeto y verbo." },
+          { "parts": [ { "t": "We", "fn": "subj" }, { "t": "upgraded", "fn": "verb" }, { "t": "the couple", "fn": "cd" }, { "t": "because", "fn": "conj" }, { "t": "it", "fn": "subj" }, { "t": "was", "fn": "verb" }, { "t": "their anniversary", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "'because' introduce una subordinada causal (depende de la principal)." },
+          { "parts": [ { "t": "She", "fn": "subj" }, { "t": "said", "fn": "verb" }, { "t": "that", "fn": "conj" }, { "t": "the room", "fn": "subj" }, { "t": "was", "fn": "verb" }, { "t": "ready", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "'that' introduce una subordinada que funciona como CD de 'said'." }
+        ]
+      },
+      "quiz": [
+        { "id": "b28-s5q1", "question": "1. 'and, but, or, so' are…", "options": ["coordinating conjunctions", "subordinating conjunctions"], "correctIndex": 0 },
+        { "id": "b28-s5q2", "question": "2. 'because, although, when, if' introduce…", "options": ["subordinate clauses", "independent main clauses"], "correctIndex": 0 },
+        { "id": "b28-s5q3", "question": "3. In 'I called but nobody answered', how many clauses are there?", "options": ["two", "one"], "correctIndex": 0 },
+        { "id": "b28-s5q4", "question": "4. In coordination, each clause…", "options": ["keeps its own subject and verb", "shares one single verb"], "correctIndex": 0 },
+        { "id": "b28-s5q5", "question": "5. A subordinate clause…", "options": ["depends on the main clause", "stands fully on its own"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b28-s5",
+        "label": "<span class=\"badge\">tu turno</span>Escribe una frase coordinada (con but/so) y otra subordinada (con because/although), y fíjate en el sujeto y verbo de cada oración.",
+        "placeholder": "Ej: The room wasn't ready, so we offered a drink at the bar. · Although it was late, the kitchen prepared a meal for them.",
+        "rubric": [
+          "¿Una frase coordina dos oraciones del mismo nivel?",
+          "¿La otra tiene una subordinada que depende de la principal?",
+          "¿Cada oración tiene su propio sujeto y verbo?"
+        ]
+      }
+    },
+    {
+      "idx": "28.6",
+      "title": "Análisis integrado",
+      "level": "C1",
+      "rule": "Ahora todo junto. En frases reales aparecen varios complementos a la vez y el orden se altera (un CC al principio, una subordinada intercalada). <b class=\"hl\">Método:</b> (1) localiza el verbo principal; (2) busca su sujeto; (3) identifica CD/CI/atributo; (4) marca los CC; (5) señala nexos y subordinadas. Analiza las siguientes con calma.",
+      "analysis": {
+        "title": "Analiza la frase completa",
+        "items": [
+          { "parts": [ { "t": "The concierge", "fn": "subj" }, { "t": "recommended", "fn": "verb" }, { "t": "us", "fn": "ci" }, { "t": "a lovely restaurant", "fn": "cd" }, { "t": "near the cathedral", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "Sujeto + verbo + CI (us) + CD (a lovely restaurant) + CC de lugar." },
+          { "parts": [ { "t": "After check-in", "fn": "cc" }, { "t": ",", "fn": "" }, { "t": "the porter", "fn": "subj" }, { "t": "took", "fn": "verb" }, { "t": "our bags", "fn": "cd" }, { "t": "to the room", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "El CC de tiempo 'After check-in' va al principio, antes del sujeto." },
+          { "parts": [ { "t": "Although", "fn": "conj" }, { "t": "the flight", "fn": "subj" }, { "t": "was", "fn": "verb" }, { "t": "delayed", "fn": "attr" }, { "t": ",", "fn": "" }, { "t": "the guests", "fn": "subj" }, { "t": "arrived", "fn": "verb" }, { "t": "on time", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "Subordinada concesiva ('Although… delayed') + oración principal ('the guests arrived on time')." }
+        ]
+      },
+      "quiz": [
+        { "id": "b28-s6q1", "question": "1. The first step to analyse a sentence is…", "options": ["find the main verb", "count the words"], "correctIndex": 0 },
+        { "id": "b28-s6q2", "question": "2. In 'recommended us a lovely restaurant', 'us' is the…", "options": ["indirect object (CI)", "direct object (CD)"], "correctIndex": 0 },
+        { "id": "b28-s6q3", "question": "3. In 'After check-in, the porter took…', 'After check-in' is…", "options": ["a CC of time at the front", "the subject"], "correctIndex": 0 },
+        { "id": "b28-s6q4", "question": "4. 'Although the flight was delayed' is…", "options": ["a subordinate (concessive) clause", "the main clause"], "correctIndex": 0 },
+        { "id": "b28-s6q5", "question": "5. In 'the guests arrived on time', 'on time' is…", "options": ["a CC (circumstantial)", "a direct object"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b28-s6",
+        "label": "<span class=\"badge\">tu turno · C1</span>Escribe una frase compleja de tu trabajo (con sujeto, verbo, un objeto, al menos un CC y, si puedes, una subordinada) y analízala tú mismo por partes.",
+        "placeholder": "Ej: When the VIP guest arrived, the manager personally offered her a complimentary upgrade at reception. → [CC] When the VIP guest arrived, [Suj] the manager [CC] personally [V] offered [CI] her [CD] a complimentary upgrade [CC] at reception.",
+        "rubric": [
+          "¿Tu frase incluye sujeto, verbo y al menos un objeto?",
+          "¿Añades uno o más CC y, si puedes, una subordinada?",
+          "¿Identificas correctamente la función de cada parte?"
+        ]
+      }
+    }
+  ]
+}

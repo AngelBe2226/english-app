@@ -1438,6 +1438,106 @@ b.hl,
   .reading-gloss-row { grid-template-columns: 1fr; gap: 0; }
 }
 
+/* ---- Análisis sintáctico interactivo ---- */
+.analysis {
+  margin: 0 0 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+  padding: 0.85rem 1.1rem 1rem;
+}
+.analysis-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+.analysis-tag {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--iris);
+  background: var(--iris-soft);
+  padding: 0.12rem 0.45rem;
+  border-radius: 5px;
+}
+.analysis-title { font-weight: 600; color: var(--ink-soft); font-size: 0.92rem; }
+.analysis-legend { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.8rem; }
+.an-chip {
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  background: color-mix(in srgb, currentColor 12%, transparent);
+}
+.an-items { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.9rem; }
+.an-item { border-top: 1px solid var(--line); padding-top: 0.75rem; }
+.an-item:first-child { border-top: none; padding-top: 0; }
+.an-sentence {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.1rem 0.4rem;
+  margin: 0 0 0.5rem;
+  font-size: 1.04rem;
+  line-height: 1.6;
+}
+.an-part { display: inline-flex; flex-direction: column; align-items: center; }
+.an-fn {
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-top: 2px;
+  color: currentColor;
+}
+/* colores por función (reutilizan las variables de rol existentes) */
+.an-subj { color: var(--role-subj); }
+.an-verb { color: var(--role-verb); }
+.an-cd { color: var(--role-obj, #E0906A); }
+.an-ci { color: var(--role-ci); }
+.an-cc { color: var(--role-cc); }
+.an-attr { color: #cf972f; }
+.an-cpred { color: #cf972f; }
+.an-conj { color: var(--ink-faint); }
+.an-on .an-part.an-subj .an-text,
+.an-on .an-part.an-verb .an-text,
+.an-on .an-part.an-cd .an-text,
+.an-on .an-part.an-ci .an-text,
+.an-on .an-part.an-cc .an-text,
+.an-on .an-part.an-attr .an-text,
+.an-on .an-part.an-cpred .an-text,
+.an-on .an-part.an-conj .an-text {
+  border-bottom: 2px solid currentColor;
+  font-weight: 600;
+  padding-bottom: 1px;
+}
+.an-btn {
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  padding: 0.18rem 0.7rem;
+  border-radius: 999px;
+}
+.an-btn:hover { border-color: var(--iris); color: var(--iris); }
+.an-note {
+  margin: 0.5rem 0 0;
+  font-size: 0.86rem;
+  color: var(--ink-faint);
+  line-height: 1.5;
+  border-left: 3px solid var(--line-strong);
+  padding-left: 0.6rem;
+}
+
 /* ---- Writing guiado: rúbrica de autoevaluación + ejemplo modelo ---- */
 .produce .model-btn {
   font: inherit;

@@ -133,5 +133,10 @@
     "block": "27",
     "title": "Lecturas graduadas — Reading",
     "sectionCount": 6
+  },
+  {
+    "block": "28",
+    "title": "Análisis sintáctico — Sentence analysis",
+    "sectionCount": 6
   }
 ]

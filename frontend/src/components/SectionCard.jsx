@@ -5,6 +5,7 @@ import ProduceBox from "./ProduceBox";
 import Dialogue from "./Dialogue";
 import Translate from "./Translate";
 import Reading from "./Reading";
+import Analysis from "./Analysis";
 import HighlightButton from "./HighlightButton";
 import { useProgress } from "../progress";
 
@@ -110,6 +111,10 @@ export default function SectionCard({ section }) {
           title={section.translateTitle}
           hlId={`hl:${section.idx}-translate`}
         />
+      )}
+
+      {section.analysis?.items?.length > 0 && (
+        <Analysis analysis={section.analysis} hlId={`hl:${section.idx}-analysis`} />
       )}
 
       {notesAfter.map((n) => (
