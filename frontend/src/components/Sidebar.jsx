@@ -217,6 +217,23 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
             Destacados
           </button>
 
+          <button
+            className={"nav-pin" + (current === "placement" ? " current" : "")}
+            onClick={() => onSelectBlock("placement")}
+          >
+            <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
+              <path
+                d="M3 17l5-5 3 3 7-7M14 8h5v5"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.8"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            Test de nivel
+          </button>
+
           <nav className="toc">
             {index.map((b) => {
               const open = expanded === b.block;

@@ -6,6 +6,7 @@ import ThemeToggle from "./components/ThemeToggle";
 import BlockPage from "./components/BlockPage";
 import Block15Page from "./panels/Block15Page";
 import HighlightsPanel from "./panels/HighlightsPanel";
+import PlacementTest from "./panels/PlacementTest";
 
 function scrollToSection(idx) {
   const el = document.getElementById("sec-" + idx.replace(/\./g, "-"));
