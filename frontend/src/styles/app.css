@@ -1438,6 +1438,37 @@ b.hl,
   .reading-gloss-row { grid-template-columns: 1fr; gap: 0; }
 }
 
+/* ---- Botón de escucha (síntesis de voz) ---- */
+.speak-btn {
+  font: inherit;
+  font-size: 0.78rem;
+  line-height: 1;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  width: 1.55rem;
+  height: 1.55rem;
+  padding: 0;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  flex: 0 0 auto;
+  transition: all 0.12s;
+}
+.speak-btn:hover { border-color: var(--iris); }
+.speak-btn.speaking {
+  border-color: var(--iris);
+  background: var(--iris-soft);
+  color: var(--iris);
+}
+.ex-speak { margin-left: 0.35rem; }
+.dlg-en-row { display: inline-flex; align-items: center; gap: 0.4rem; flex-wrap: wrap; }
+.dlg-speak { font-size: 0.7rem; width: 1.4rem; height: 1.4rem; }
+.dlg-speak-all, .reading-speak { margin-left: 0.1rem; }
+
 /* ---- Análisis sintáctico interactivo ---- */
 .analysis {
   margin: 0 0 1rem;
