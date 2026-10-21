@@ -1,0 +1,405 @@
+{
+  "block": "25",
+  "title": "Inmobiliaria — Real estate sales",
+  "kicker": "Bloque 25 · Inglés temático · Inmobiliaria",
+  "intro": "Quinta <b class=\"hl\">unidad temática</b>: el inglés de la <b class=\"hl\">venta inmobiliaria</b> de principio a fin — captar, enseñar, describir, tasar, negociar y cerrar. Cada epígrafe cubre una fase con vocabulario, un <b class=\"hl\">diálogo con role-play</b>, frases clave, quiz y una tarea de producción. Complementa el bloque 19 (ventas) con lo específico del sector.",
+  "legend": [
+    { "label": "Agente", "desc": "tu papel — practícalo en el role-play" },
+    { "label": "Cliente", "desc": "el comprador o vendedor al que atiendes" }
+  ],
+  "sections": [
+    {
+      "idx": "25.1",
+      "title": "Recibir y cualificar al comprador",
+      "level": "B1",
+      "rule": "Antes de enseñar nada, descubre qué busca. Preguntas de cualificación: <b class=\"hl\">What are you looking for in a property?</b>, <b class=\"hl\">What's your budget range?</b>, <b class=\"hl\">How many bedrooms do you need?</b>, <b class=\"hl\">Is it to live in or to let?</b> (vivir o alquilar). Distingue imprescindibles de deseables: <b class=\"hl\">a must-have</b> vs <b class=\"hl\">a nice-to-have</b>. Y el plazo: <b class=\"hl\">How soon are you looking to move?</b>",
+      "dialogueTitle": "Primera reunión con un comprador",
+      "dialogue": [
+        { "speaker": "Agente", "en": "Thanks for coming in. <b class=\"hl\">What are you looking for</b> in a property?", "es": "Gracias por venir. ¿Qué busca en una vivienda?" },
+        { "speaker": "Cliente", "en": "A two-bedroom flat, somewhere central.", "es": "Un piso de dos dormitorios, en una zona céntrica." },
+        { "speaker": "Agente", "en": "Great. <b class=\"hl\">What's your budget range?</b>", "es": "Estupendo. ¿Cuál es su rango de presupuesto?" },
+        { "speaker": "Cliente", "en": "Up to €300,000.", "es": "Hasta 300.000 €." },
+        { "speaker": "Agente", "en": "And is it <b class=\"hl\">to live in or to let</b>?", "es": "¿Y es para vivir o para alquilar?" },
+        { "speaker": "Cliente", "en": "To live in. A balcony would be ideal.", "es": "Para vivir. Un balcón sería ideal." },
+        { "speaker": "Agente", "en": "Noted — so a balcony is <b class=\"hl\">a nice-to-have</b> rather than <b class=\"hl\">a must-have</b>?", "es": "Anotado. ¿Entonces el balcón es algo deseable más que imprescindible?" },
+        { "speaker": "Cliente", "en": "Exactly. But it must be quiet.", "es": "Exacto. Pero tiene que ser tranquilo." },
+        { "speaker": "Agente", "en": "Understood. <b class=\"hl\">How soon are you looking to move?</b>", "es": "Entendido. ¿Para cuándo quiere mudarse?" }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">What are you looking for</b> in a property?", "es": "¿Qué busca en una vivienda?" },
+        { "en": "<b class=\"hl\">What's your budget range?</b>", "es": "¿Cuál es su rango de presupuesto?" },
+        { "en": "How many <b class=\"hl\">bedrooms</b> do you need?", "es": "¿Cuántos dormitorios necesita?" },
+        { "en": "Is it <b class=\"hl\">to live in or to let</b>?", "es": "¿Es para vivir o para alquilar?" },
+        { "en": "Which areas are you <b class=\"hl\">interested in</b>?", "es": "¿Qué zonas le interesan?" },
+        { "en": "Is parking <b class=\"hl\">a must-have</b>?", "es": "¿El aparcamiento es imprescindible?" },
+        { "en": "A garden would be <b class=\"hl\">a nice-to-have</b>.", "es": "Un jardín sería algo deseable." },
+        { "en": "<b class=\"hl\">How soon are you looking to move?</b>", "es": "¿Para cuándo quiere mudarse?" },
+        { "en": "Are you a <b class=\"hl\">cash buyer</b> or will you need a mortgage?", "es": "¿Paga al contado o necesitará hipoteca?" },
+        { "en": "Have you been <b class=\"hl\">pre-approved</b> for a mortgage?", "es": "¿Tiene la hipoteca preaprobada?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Objetivo", "Pregunta"],
+          "rows": [
+            ["Necesidad general", "What are you looking for?"],
+            ["Presupuesto", "What's your budget range?"],
+            ["Tamaño", "How many bedrooms do you need?"],
+            ["Uso", "Is it to live in or to let?"],
+            ["Zona", "Which areas are you interested in?"],
+            ["Imprescindibles", "Is X a must-have?"],
+            ["Plazo", "How soon are you looking to move?"],
+            ["Financiación", "Cash buyer or mortgage? Pre-approved?"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b25-s1q1", "question": "1. Para preguntar el presupuesto:", "options": ["What's your budget range?", "How much money you?"], "correctIndex": 0 },
+        { "id": "b25-s1q2", "question": "2. 'Para vivir o para alquilar':", "options": ["to live in or to let", "to living or renting"], "correctIndex": 0 },
+        { "id": "b25-s1q3", "question": "3. Un requisito 'imprescindible' es:", "options": ["a must-have", "a maybe"], "correctIndex": 0 },
+        { "id": "b25-s1q4", "question": "4. 'Comprador al contado':", "options": ["cash buyer", "money buyer"], "correctIndex": 0 },
+        { "id": "b25-s1q5", "question": "5. 'Hipoteca preaprobada':", "options": ["pre-approved mortgage", "pre-paid mortgage"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b25-s1",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Cualifica a un comprador: pregunta qué busca, presupuesto, uso y plazo, y distingue un imprescindible de un deseable.",
+        "placeholder": "Ej: What are you looking for? What's your budget range? Is it to live in or to let? How soon are you looking to move? Is a balcony a must-have or a nice-to-have?",
+        "rubric": [
+          "¿Preguntas por necesidad, presupuesto y uso?",
+          "¿Distingues 'must-have' de 'nice-to-have'?",
+          "¿Preguntas el plazo y/o la financiación?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "Cualificar bien ahorra visitas inútiles: antes de enseñar, ten claros <b>presupuesto, zona, imprescindibles y plazo</b>. Un comprador 'pre-approved' y con plazo corto es prioritario." }
+      ]
+    },
+    {
+      "idx": "25.2",
+      "title": "La visita: enseñar la propiedad",
+      "level": "B1",
+      "rule": "En la visita guías y destacas lo mejor. Frases: <b class=\"hl\">Let me show you around.</b>, <b class=\"hl\">This way, please.</b>, <b class=\"hl\">As you can see…</b>, <b class=\"hl\">Notice the…</b>. Vende el estilo de vida, no solo las paredes: <b class=\"hl\">Imagine…</b>, <b class=\"hl\">This room gets plenty of natural light.</b>. Invita a imaginarse viviendo: <b class=\"hl\">Can you picture yourself here?</b>. Anticipa objeciones con honestidad.",
+      "dialogueTitle": "Enseñando un piso",
+      "dialogue": [
+        { "speaker": "Agente", "en": "Welcome. <b class=\"hl\">Let me show you around.</b> This way, please.", "es": "Bienvenidos. Permítanme enseñarles la casa. Por aquí, por favor." },
+        { "speaker": "Cliente", "en": "It feels bright.", "es": "Se ve luminoso." },
+        { "speaker": "Agente", "en": "<b class=\"hl\">As you can see</b>, the living room <b class=\"hl\">gets plenty of natural light</b> — it's south-facing.", "es": "Como ven, el salón recibe mucha luz natural: está orientado al sur." },
+        { "speaker": "Cliente", "en": "And the kitchen?", "es": "¿Y la cocina?" },
+        { "speaker": "Agente", "en": "Right through here. It was <b class=\"hl\">recently refurbished</b>. <b class=\"hl\">Notice the</b> breakfast bar.", "es": "Justo por aquí. Se reformó hace poco. Fíjense en la barra de desayuno." },
+        { "speaker": "Cliente", "en": "Is it noisy?", "es": "¿Hay ruido?" },
+        { "speaker": "Agente", "en": "The bedrooms <b class=\"hl\">face the courtyard</b>, so it's very quiet at night.", "es": "Los dormitorios dan al patio interior, así que de noche es muy tranquilo." },
+        { "speaker": "Cliente", "en": "I like it.", "es": "Me gusta." },
+        { "speaker": "Agente", "en": "<b class=\"hl\">Can you picture yourself here?</b> Imagine your morning coffee on that balcony.", "es": "¿Se imaginan viviendo aquí? Imagínense el café de la mañana en ese balcón." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">Let me show you around.</b>", "es": "Permítanme enseñarles la casa." },
+        { "en": "<b class=\"hl\">This way, please.</b>", "es": "Por aquí, por favor." },
+        { "en": "<b class=\"hl\">As you can see</b>, it's very spacious.", "es": "Como ven, es muy amplio." },
+        { "en": "<b class=\"hl\">Notice the</b> original features.", "es": "Fíjense en los elementos originales." },
+        { "en": "The flat <b class=\"hl\">gets plenty of natural light</b>.", "es": "El piso recibe mucha luz natural." },
+        { "en": "It's <b class=\"hl\">south-facing</b>.", "es": "Está orientado al sur." },
+        { "en": "The kitchen was <b class=\"hl\">recently refurbished</b>.", "es": "La cocina se reformó hace poco." },
+        { "en": "The bedrooms <b class=\"hl\">face the courtyard</b> — nice and quiet.", "es": "Los dormitorios dan al patio, muy tranquilos." },
+        { "en": "<b class=\"hl\">Imagine</b> hosting friends on this terrace.", "es": "Imagínense recibir a sus amigos en esta terraza." },
+        { "en": "<b class=\"hl\">Can you picture yourself here?</b>", "es": "¿Se imaginan viviendo aquí?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Función", "Frase"],
+          "rows": [
+            ["Empezar la visita", "Let me show you around."],
+            ["Guiar", "This way, please. / Through here."],
+            ["Destacar", "As you can see… / Notice the…"],
+            ["Luz / orientación", "It gets plenty of light. / It's south-facing."],
+            ["Estado", "recently refurbished / newly renovated"],
+            ["Tranquilidad", "The bedrooms face the courtyard."],
+            ["Vender el estilo de vida", "Imagine… / Picture yourself here."],
+            ["Elementos de valor", "original features / high ceilings"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b25-s2q1", "question": "1. 'Permítanme enseñarles la casa':", "options": ["Let me show you around.", "I teach you the house."], "correctIndex": 0 },
+        { "id": "b25-s2q2", "question": "2. 'Orientado al sur':", "options": ["south-facing", "to the south face"], "correctIndex": 0 },
+        { "id": "b25-s2q3", "question": "3. 'Recibe mucha luz natural':", "options": ["gets plenty of natural light", "has much light natural"], "correctIndex": 0 },
+        { "id": "b25-s2q4", "question": "4. 'Reformado hace poco':", "options": ["recently refurbished", "reformed recent"], "correctIndex": 0 },
+        { "id": "b25-s2q5", "question": "5. Para vender el estilo de vida:", "options": ["Can you picture yourself here?", "Here is a wall."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b25-s2",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Enseña una propiedad: inicia la visita, destaca la luz y un punto fuerte, y ayuda al cliente a imaginarse viviendo allí.",
+        "placeholder": "Ej: Let me show you around. As you can see, the living room is south-facing and gets plenty of light. The kitchen was recently refurbished. Can you picture yourself here?",
+        "rubric": [
+          "¿Inicias y guías la visita (Let me show you around / this way)?",
+          "¿Destacas luz/orientación/estado con vocabulario preciso?",
+          "¿Vendes el estilo de vida (imagine / picture yourself)?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "La gente compra una <b>sensación</b>, no metros cuadrados: habla de luz, tranquilidad y de 'imaginarse viviendo aquí'. Sé honesto con los puntos débiles: anticiparlos genera confianza." }
+      ]
+    },
+    {
+      "idx": "25.3",
+      "title": "Describir la propiedad y sus detalles",
+      "level": "B1–B2",
+      "rule": "Dominar el vocabulario técnico da credibilidad. Tipos: <b class=\"hl\">flat/apartment, detached/semi-detached house, studio, penthouse, terraced house</b>. Características: <b class=\"hl\">en-suite, open-plan, fitted kitchen, built-in wardrobes, hardwood floors</b>. Medidas: <b class=\"hl\">square metres, floor area</b>. Estado: <b class=\"hl\">move-in ready, needs updating, a fixer-upper</b>. Describe en orden lógico (tipo → tamaño → distribución → estado → extras).",
+      "dialogueTitle": "Detalles de la propiedad",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "How big is it exactly?", "es": "¿Qué tamaño tiene exactamente?" },
+        { "speaker": "Agente", "en": "It's 85 <b class=\"hl\">square metres</b>, with two bedrooms — the main one is <b class=\"hl\">en-suite</b>.", "es": "Son 85 metros cuadrados, con dos dormitorios; el principal tiene baño en suite." },
+        { "speaker": "Cliente", "en": "And the layout?", "es": "¿Y la distribución?" },
+        { "speaker": "Agente", "en": "It's <b class=\"hl\">open-plan</b> — the kitchen flows into the living area. There are <b class=\"hl\">built-in wardrobes</b> in both bedrooms.", "es": "Es de concepto abierto: la cocina se integra con el salón. Hay armarios empotrados en ambos dormitorios." },
+        { "speaker": "Cliente", "en": "What condition is it in?", "es": "¿En qué estado está?" },
+        { "speaker": "Agente", "en": "It's <b class=\"hl\">move-in ready</b> — a <b class=\"hl\">fitted kitchen</b> and <b class=\"hl\">hardwood floors</b> throughout.", "es": "Está listo para entrar a vivir: cocina equipada y suelos de madera en toda la casa." },
+        { "speaker": "Cliente", "en": "Any outdoor space?", "es": "¿Hay espacio exterior?" },
+        { "speaker": "Agente", "en": "A private balcony, plus access to a <b class=\"hl\">communal garden</b>.", "es": "Un balcón privado, además de acceso a un jardín comunitario." },
+        { "speaker": "Cliente", "en": "Sounds great.", "es": "Suena muy bien." }
+      ],
+      "examples": [
+        { "en": "It's a two-bedroom <b class=\"hl\">flat</b> on the third floor.", "es": "Es un piso de dos dormitorios en la tercera planta." },
+        { "en": "The master bedroom is <b class=\"hl\">en-suite</b>.", "es": "El dormitorio principal tiene baño en suite." },
+        { "en": "It's <b class=\"hl\">open-plan</b> living and dining.", "es": "Tiene salón-comedor de concepto abierto." },
+        { "en": "There are <b class=\"hl\">built-in wardrobes</b>.", "es": "Hay armarios empotrados." },
+        { "en": "It has a <b class=\"hl\">fitted kitchen</b>.", "es": "Tiene cocina equipada." },
+        { "en": "It's 90 <b class=\"hl\">square metres</b> of floor area.", "es": "Son 90 metros cuadrados de superficie." },
+        { "en": "It's <b class=\"hl\">move-in ready</b>.", "es": "Está listo para entrar a vivir." },
+        { "en": "It <b class=\"hl\">needs updating</b> — a bit of a <b class=\"hl\">fixer-upper</b>.", "es": "Necesita una actualización; es una propiedad para reformar." },
+        { "en": "There's a <b class=\"hl\">communal garden</b> and a <b class=\"hl\">parking space</b>.", "es": "Hay un jardín comunitario y una plaza de aparcamiento." },
+        { "en": "The property has <b class=\"hl\">hardwood floors</b> throughout.", "es": "La vivienda tiene suelos de madera en toda la casa." }
+      ],
+      "tables": [
+        {
+          "headers": ["Categoría", "Vocabulario"],
+          "rows": [
+            ["Tipo", "flat/apartment, detached / semi-detached house, studio, penthouse, terraced house"],
+            ["Distribución", "open-plan, en-suite, layout, floor plan"],
+            ["Equipamiento", "fitted kitchen, built-in wardrobes, hardwood floors"],
+            ["Tamaño", "square metres (m²), floor area"],
+            ["Estado", "move-in ready, newly renovated, needs updating, fixer-upper"],
+            ["Exterior", "balcony, terrace, communal garden, parking space"],
+            ["Extras", "storage, lift, concierge, air conditioning"],
+            ["Orientación", "south-/north-facing, dual-aspect"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b25-s3q1", "question": "1. 'Baño en suite' (en el dormitorio):", "options": ["en-suite", "in-suit"], "correctIndex": 0 },
+        { "id": "b25-s3q2", "question": "2. 'De concepto abierto':", "options": ["open-plan", "open-plant"], "correctIndex": 0 },
+        { "id": "b25-s3q3", "question": "3. 'Listo para entrar a vivir':", "options": ["move-in ready", "ready to living"], "correctIndex": 0 },
+        { "id": "b25-s3q4", "question": "4. 'Armarios empotrados':", "options": ["built-in wardrobes", "wardrobes inside"], "correctIndex": 0 },
+        { "id": "b25-s3q5", "question": "5. Una propiedad 'para reformar':", "options": ["a fixer-upper", "a fixed-up"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b25-s3",
+        "label": "<span class=\"badge\">tu turno</span>Describe una propiedad en orden lógico: tipo + tamaño + distribución + estado + un extra. Usa al menos tres términos técnicos.",
+        "placeholder": "Ej: It's an 80 m² two-bedroom flat, open-plan, with a fitted kitchen and built-in wardrobes. It's move-in ready, with a private balcony.",
+        "rubric": [
+          "¿Sigues un orden lógico (tipo → tamaño → distribución → estado → extra)?",
+          "¿Usas vocabulario técnico correcto (en-suite, open-plan, m²…)?",
+          "¿Mencionas el estado (move-in ready / needs updating)?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "Cuidado con 'planta': <b>floor</b> (piso del edificio) vs <b>floor plan</b> (plano) vs <b>flooring</b> (suelo). Y 'm²' se dice <b>square metres</b>. El orden tipo→tamaño→distribución→estado→extras suena profesional." }
+      ]
+    },
+    {
+      "idx": "25.4",
+      "title": "Tasación, precio y mercado",
+      "level": "B2",
+      "rule": "Hablar de precio con criterio transmite autoridad. Términos: <b class=\"hl\">valuation</b> (tasación), <b class=\"hl\">asking price</b> (precio de salida), <b class=\"hl\">market value</b> (valor de mercado), <b class=\"hl\">comparables / comps</b> (ventas similares), <b class=\"hl\">price per square metre</b>. Justifica el precio con datos: <b class=\"hl\">Based on recent sales in the area…</b>. Gestiona expectativas del vendedor: <b class=\"hl\">overpriced</b> vs <b class=\"hl\">priced to sell</b>.",
+      "dialogueTitle": "Fijando el precio con el vendedor",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "What do you think it's worth?", "es": "¿En cuánto cree que está valorada?" },
+        { "speaker": "Agente", "en": "<b class=\"hl\">Based on recent sales</b> in the area, I'd put the <b class=\"hl\">market value</b> at around €280,000.", "es": "Según las ventas recientes de la zona, situaría el valor de mercado en unos 280.000 €." },
+        { "speaker": "Cliente", "en": "I was hoping for 320.", "es": "Esperaba 320." },
+        { "speaker": "Agente", "en": "I understand, but the <b class=\"hl\">comparables</b> don't support that — a similar flat sold for 285 last month.", "es": "Lo entiendo, pero las ventas comparables no lo respaldan: un piso similar se vendió por 285 el mes pasado." },
+        { "speaker": "Cliente", "en": "So what do you suggest?", "es": "¿Qué sugiere entonces?" },
+        { "speaker": "Agente", "en": "We could set the <b class=\"hl\">asking price</b> at 295 — <b class=\"hl\">priced to sell</b> but with room to negotiate.", "es": "Podríamos poner el precio de salida en 295: competitivo pero con margen para negociar." },
+        { "speaker": "Cliente", "en": "And if we go higher?", "es": "¿Y si ponemos más?" },
+        { "speaker": "Agente", "en": "If it's <b class=\"hl\">overpriced</b>, it sits on the market and you end up dropping the price anyway.", "es": "Si está sobrevalorado, se queda en el mercado y acaba bajando el precio igualmente." }
+      ],
+      "examples": [
+        { "en": "We'll arrange a professional <b class=\"hl\">valuation</b>.", "es": "Organizaremos una tasación profesional." },
+        { "en": "The <b class=\"hl\">asking price</b> is €295,000.", "es": "El precio de salida es de 295.000 €." },
+        { "en": "<b class=\"hl\">Based on recent sales</b>, it's worth around 280.", "es": "Según las ventas recientes, vale unos 280." },
+        { "en": "Let me show you the <b class=\"hl\">comparables</b>.", "es": "Déjeme enseñarle las ventas comparables." },
+        { "en": "The <b class=\"hl\">price per square metre</b> is competitive.", "es": "El precio por metro cuadrado es competitivo." },
+        { "en": "It's <b class=\"hl\">priced to sell</b>.", "es": "Tiene un precio competitivo para vender rápido." },
+        { "en": "If it's <b class=\"hl\">overpriced</b>, it won't move.", "es": "Si está sobrevalorado, no se venderá." },
+        { "en": "There's <b class=\"hl\">room to negotiate</b>.", "es": "Hay margen para negociar." },
+        { "en": "The market has <b class=\"hl\">cooled / picked up</b> recently.", "es": "El mercado se ha enfriado / animado últimamente." },
+        { "en": "This is a <b class=\"hl\">buyer's / seller's market</b>.", "es": "Es un mercado de compradores / vendedores." }
+      ],
+      "tables": [
+        {
+          "headers": ["Español", "Inglés"],
+          "rows": [
+            ["tasación", "valuation"],
+            ["precio de salida", "asking price"],
+            ["valor de mercado", "market value"],
+            ["ventas comparables", "comparables / comps"],
+            ["precio por m²", "price per square metre"],
+            ["precio competitivo", "priced to sell"],
+            ["sobrevalorado", "overpriced"],
+            ["margen para negociar", "room to negotiate"],
+            ["mercado de compradores/vendedores", "buyer's / seller's market"],
+            ["bajar el precio", "drop / reduce the price"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b25-s4q1", "question": "1. 'Tasación':", "options": ["valuation", "valorization"], "correctIndex": 0 },
+        { "id": "b25-s4q2", "question": "2. 'Precio de salida':", "options": ["asking price", "exit price"], "correctIndex": 0 },
+        { "id": "b25-s4q3", "question": "3. Para justificar un precio:", "options": ["Based on recent sales in the area…", "Because I say so."], "correctIndex": 0 },
+        { "id": "b25-s4q4", "question": "4. 'Sobrevalorado':", "options": ["overpriced", "overvalue"], "correctIndex": 0 },
+        { "id": "b25-s4q5", "question": "5. 'Ventas comparables':", "options": ["comparables / comps", "comparations"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b25-s4",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un vendedor pide un precio demasiado alto. Justifica un precio de salida realista con datos del mercado y gestiona su expectativa con tacto.",
+        "placeholder": "Ej: I understand, but based on recent sales, the market value is around 280. A similar flat sold for 285. I'd suggest an asking price of 295 — priced to sell, with room to negotiate.",
+        "rubric": [
+          "¿Justificas el precio con datos (recent sales / comparables)?",
+          "¿Usas vocabulario del sector (market value, asking price)?",
+          "¿Gestionas la expectativa con tacto, sin ceder sin más?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "No confundas <b>asking price</b> (precio de salida, lo que se pide) con <b>sale price</b> (precio final de venta). Y 'valorar' = <b>to value</b> / una tasación = <b>a valuation</b> (no 'valoration')." }
+      ]
+    },
+    {
+      "idx": "25.5",
+      "title": "La oferta y la negociación",
+      "level": "B2",
+      "rule": "Gestionar ofertas entre comprador y vendedor. Hacer una oferta: <b class=\"hl\">to put in / make an offer</b>, <b class=\"hl\">a cheeky offer</b> (oferta baja), <b class=\"hl\">the full asking price</b>. Respuestas: <b class=\"hl\">accept / reject / counter(-offer)</b>. Transmite ofertas con tacto y crea urgencia honesta: <b class=\"hl\">There's been a lot of interest.</b>. Toda concesión, condicionada: <b class=\"hl\">If they accept X, we could…</b>",
+      "dialogueTitle": "Transmitiendo una oferta",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "I'd like to <b class=\"hl\">put in an offer</b> of 270.", "es": "Me gustaría hacer una oferta de 270." },
+        { "speaker": "Agente", "en": "I'll pass it on. I should mention <b class=\"hl\">there's been a lot of interest</b>, so it may come in low.", "es": "La transmitiré. Debo decirle que ha habido mucho interés, así que podría quedarse corta." },
+        { "speaker": "Cliente", "en": "What would it take?", "es": "¿Qué haría falta?" },
+        { "speaker": "Agente", "en": "Honestly, at 270 they'll likely <b class=\"hl\">counter</b>. Closer to the <b class=\"hl\">asking price</b> would be stronger.", "es": "Sinceramente, con 270 probablemente hagan una contraoferta. Acercarse al precio de salida sería más fuerte." },
+        { "speaker": "Cliente", "en": "I could go to 285.", "es": "Podría subir a 285." },
+        { "speaker": "Agente", "en": "That's much more competitive. <b class=\"hl\">If they accept</b>, could you <b class=\"hl\">move quickly</b> on the paperwork?", "es": "Eso es mucho más competitivo. Si aceptan, ¿podría avanzar rápido con el papeleo?" },
+        { "speaker": "Cliente", "en": "Yes, I'm a cash buyer.", "es": "Sí, pago al contado." },
+        { "speaker": "Agente", "en": "Excellent — that strengthens your offer. I'll put 285 forward and recommend they accept.", "es": "Excelente, eso refuerza su oferta. Presentaré 285 y recomendaré que acepten." }
+      ],
+      "examples": [
+        { "en": "I'd like to <b class=\"hl\">put in an offer</b>.", "es": "Me gustaría hacer una oferta." },
+        { "en": "That's a <b class=\"hl\">cheeky offer</b> — quite a bit below asking.", "es": "Es una oferta baja, bastante por debajo del precio de salida." },
+        { "en": "They've <b class=\"hl\">accepted</b> your offer.", "es": "Han aceptado su oferta." },
+        { "en": "I'm afraid they've <b class=\"hl\">rejected</b> it.", "es": "Me temo que la han rechazado." },
+        { "en": "They've come back with a <b class=\"hl\">counter-offer</b> of 290.", "es": "Han respondido con una contraoferta de 290." },
+        { "en": "<b class=\"hl\">There's been a lot of interest</b> in this one.", "es": "Ha habido mucho interés en esta propiedad." },
+        { "en": "A <b class=\"hl\">cash offer</b> is more attractive to sellers.", "es": "Una oferta al contado es más atractiva para los vendedores." },
+        { "en": "<b class=\"hl\">If they accept</b>, can you move quickly?", "es": "Si aceptan, ¿puede avanzar rápido?" },
+        { "en": "We're <b class=\"hl\">under offer</b> now.", "es": "Ahora estamos con una oferta aceptada (pendiente de cierre)." },
+        { "en": "Let's try to <b class=\"hl\">meet in the middle</b>.", "es": "Intentemos encontrarnos a medio camino." }
+      ],
+      "tables": [
+        {
+          "headers": ["Español", "Inglés"],
+          "rows": [
+            ["hacer una oferta", "to put in / make an offer"],
+            ["oferta baja", "a cheeky / lowball offer"],
+            ["precio de salida completo", "the full asking price"],
+            ["aceptar", "to accept"],
+            ["rechazar", "to reject / turn down"],
+            ["contraoferta", "a counter-offer"],
+            ["oferta al contado", "a cash offer"],
+            ["oferta aceptada (pendiente)", "under offer"],
+            ["encontrarse a medio camino", "meet in the middle"],
+            ["crear urgencia", "there's been a lot of interest"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b25-s5q1", "question": "1. 'Hacer una oferta':", "options": ["put in an offer", "do an offer"], "correctIndex": 0 },
+        { "id": "b25-s5q2", "question": "2. 'Contraoferta':", "options": ["counter-offer", "against-offer"], "correctIndex": 0 },
+        { "id": "b25-s5q3", "question": "3. 'Oferta al contado':", "options": ["cash offer", "coin offer"], "correctIndex": 0 },
+        { "id": "b25-s5q4", "question": "4. 'Encontrarse a medio camino':", "options": ["meet in the middle", "find in the half"], "correctIndex": 0 },
+        { "id": "b25-s5q5", "question": "5. En negociación, una concesión debe ir:", "options": ["condicionada (If they accept X…)", "regalada"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b25-s5",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un comprador hace una oferta baja. Transmítela con tacto, aconséjale subir con un argumento, y condiciona la concesión.",
+        "placeholder": "Ej: I'll pass it on, but there's been a lot of interest, so it may come in low. Closer to the asking price would be stronger. If they accept, could you move quickly on the paperwork?",
+        "rubric": [
+          "¿Transmites la oferta con tacto y honestidad?",
+          "¿Aconsejas con un argumento (interest, comparables)?",
+          "¿Condicionas la concesión (If they accept…)?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "'Under offer' = oferta aceptada pero sin cerrar aún (puede caerse). Una <b>cash offer</b> y la rapidez pesan tanto como el precio: véndelas. Y la urgencia honesta ('a lot of interest') solo funciona si es verdad." }
+      ]
+    },
+    {
+      "idx": "25.6",
+      "title": "Papeleo y cierre",
+      "level": "B2",
+      "rule": "Tras aceptar la oferta llega la parte legal. Hitos: <b class=\"hl\">offer accepted</b> → <b class=\"hl\">conveyancing</b> (gestión jurídica) → <b class=\"hl\">survey</b> (inspección técnica) → <b class=\"hl\">mortgage approval</b> → <b class=\"hl\">exchange of contracts</b> (firma vinculante) → <b class=\"hl\">completion</b> (cierre) → <b class=\"hl\">handover of keys</b>. Vocabulario: <b class=\"hl\">deposit, deeds, solicitor, land registry, completion date</b>. Mantén informado al cliente en cada paso.",
+      "dialogueTitle": "Explicando los próximos pasos",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "Great, the offer's accepted! What happens now?", "es": "¡Genial, han aceptado la oferta! ¿Y ahora qué?" },
+        { "speaker": "Agente", "en": "Now the legal part — <b class=\"hl\">conveyancing</b>. Your <b class=\"hl\">solicitor</b> will handle the contracts.", "es": "Ahora la parte legal: la gestión jurídica. Su abogado se encargará de los contratos." },
+        { "speaker": "Cliente", "en": "Do I need a survey?", "es": "¿Necesito una inspección técnica?" },
+        { "speaker": "Agente", "en": "Yes, a <b class=\"hl\">survey</b> checks the condition. Meanwhile, finalise your <b class=\"hl\">mortgage approval</b>.", "es": "Sí, la inspección comprueba el estado. Mientras tanto, cierre la aprobación de su hipoteca." },
+        { "speaker": "Cliente", "en": "And when is it final?", "es": "¿Y cuándo es definitivo?" },
+        { "speaker": "Agente", "en": "At <b class=\"hl\">exchange of contracts</b> it becomes binding; then we set a <b class=\"hl\">completion date</b>.", "es": "En la firma de contratos se vuelve vinculante; luego fijamos una fecha de cierre." },
+        { "speaker": "Cliente", "en": "When do I get the keys?", "es": "¿Cuándo recibo las llaves?" },
+        { "speaker": "Agente", "en": "On <b class=\"hl\">completion day</b> — once the funds transfer, we <b class=\"hl\">hand over the keys</b>. Congratulations in advance!", "es": "El día del cierre: en cuanto se transfieran los fondos, le entregamos las llaves. ¡Enhorabuena por adelantado!" }
+      ],
+      "examples": [
+        { "en": "Your offer has been <b class=\"hl\">accepted</b>.", "es": "Su oferta ha sido aceptada." },
+        { "en": "The <b class=\"hl\">conveyancing</b> process starts now.", "es": "Ahora empieza la gestión jurídica." },
+        { "en": "Your <b class=\"hl\">solicitor</b> will handle the paperwork.", "es": "Su abogado se encargará del papeleo." },
+        { "en": "We'll arrange a <b class=\"hl\">survey</b>.", "es": "Organizaremos una inspección técnica." },
+        { "en": "You'll need <b class=\"hl\">mortgage approval</b>.", "es": "Necesitará la aprobación de la hipoteca." },
+        { "en": "At <b class=\"hl\">exchange of contracts</b>, it's binding.", "es": "Con la firma de contratos, es vinculante." },
+        { "en": "We'll agree a <b class=\"hl\">completion date</b>.", "es": "Acordaremos una fecha de cierre." },
+        { "en": "You pay the <b class=\"hl\">deposit</b> on exchange.", "es": "Paga la señal en la firma de contratos." },
+        { "en": "On <b class=\"hl\">completion</b>, we <b class=\"hl\">hand over the keys</b>.", "es": "En el cierre, le entregamos las llaves." },
+        { "en": "The <b class=\"hl\">deeds</b> are registered at the land registry.", "es": "Las escrituras se inscriben en el registro de la propiedad." }
+      ],
+      "tables": [
+        {
+          "headers": ["Fase / término", "Significado"],
+          "rows": [
+            ["offer accepted", "oferta aceptada"],
+            ["conveyancing", "gestión jurídica de la compraventa"],
+            ["solicitor", "abogado (de la operación)"],
+            ["survey", "inspección técnica"],
+            ["mortgage approval", "aprobación de la hipoteca"],
+            ["deposit", "señal / depósito"],
+            ["exchange of contracts", "firma vinculante de contratos"],
+            ["completion (date)", "cierre / escrituración (fecha)"],
+            ["deeds", "escrituras"],
+            ["land registry", "registro de la propiedad"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b25-s6q1", "question": "1. La gestión jurídica de la compraventa es:", "options": ["conveyancing", "lawyering"], "correctIndex": 0 },
+        { "id": "b25-s6q2", "question": "2. La 'inspección técnica' del inmueble:", "options": ["survey", "surveillance"], "correctIndex": 0 },
+        { "id": "b25-s6q3", "question": "3. El momento en que la compra se vuelve vinculante:", "options": ["exchange of contracts", "first visit"], "correctIndex": 0 },
+        { "id": "b25-s6q4", "question": "4. El 'cierre' de la operación:", "options": ["completion", "closing down"], "correctIndex": 0 },
+        { "id": "b25-s6q5", "question": "5. 'Escrituras':", "options": ["deeds", "writings"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b25-s6",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Tras aceptarse la oferta, explícale al comprador los próximos pasos hasta recibir las llaves (conveyancing → survey → exchange → completion).",
+        "placeholder": "Ej: Congratulations — your offer's accepted! Now the conveyancing starts: your solicitor handles the contracts, we arrange a survey, and you finalise your mortgage. At exchange of contracts it's binding, and on completion day we hand over the keys.",
+        "rubric": [
+          "¿Explicas los hitos en orden (conveyancing → survey → exchange → completion)?",
+          "¿Usas el vocabulario legal correcto (solicitor, exchange, completion)?",
+          "¿Tranquilizas y acompañas al cliente en el proceso?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Dos momentos clave que se confunden: <b>exchange of contracts</b> (se vuelve vinculante, se paga la señal) y <b>completion</b> (se paga el resto y se entregan las llaves). No son lo mismo; entre ambos pueden pasar semanas." }
+      ]
+    }
+  ]
+}
