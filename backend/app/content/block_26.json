@@ -1,0 +1,404 @@
+{
+  "block": "26",
+  "title": "Transversales — Cross-department skills",
+  "kicker": "Bloque 26 · Inglés temático · Transversales",
+  "intro": "Habilidades que <b class=\"hl\">cruzan todos los departamentos</b>: charla informal y cultural, el teléfono, la gestión de quejas, spa y wellness, eventos (MICE) y las despedidas que fidelizan. Son las que más se repiten en el día a día. Cada epígrafe trae vocabulario, un <b class=\"hl\">diálogo con role-play</b>, frases clave, quiz y una tarea de producción.",
+  "legend": [
+    { "label": "Profesional", "desc": "tu papel — practícalo en el role-play" },
+    { "label": "Cliente", "desc": "el huésped, invitado o interlocutor" }
+  ],
+  "sections": [
+    {
+      "idx": "26.1",
+      "title": "Small talk y sensibilidad cultural",
+      "level": "A2–B1",
+      "rule": "El <b class=\"hl\">small talk</b> rompe el hielo y genera confianza. Temas seguros: el tiempo, el viaje, los planes, la ciudad. Temas a evitar con desconocidos (cultura anglosajona): dinero, edad, religión, política. Fórmulas: <b class=\"hl\">How was your trip?</b>, <b class=\"hl\">Is this your first time in…?</b>, <b class=\"hl\">Have you got any plans while you're here?</b>. Responde y <b class=\"hl\">devuelve la pregunta</b>: <b class=\"hl\">How about you?</b>",
+      "dialogueTitle": "Charla breve en el mostrador",
+      "dialogue": [
+        { "speaker": "Profesional", "en": "Good morning! <b class=\"hl\">How was your trip?</b>", "es": "¡Buenos días! ¿Qué tal el viaje?" },
+        { "speaker": "Cliente", "en": "Long, but smooth, thanks.", "es": "Largo, pero sin problemas, gracias." },
+        { "speaker": "Profesional", "en": "Glad to hear it. <b class=\"hl\">Is this your first time in</b> Madrid?", "es": "Me alegro. ¿Es su primera vez en Madrid?" },
+        { "speaker": "Cliente", "en": "Yes, it is.", "es": "Sí." },
+        { "speaker": "Profesional", "en": "You'll love it. <b class=\"hl\">Have you got any plans</b> while you're here?", "es": "Le va a encantar. ¿Tiene algún plan durante su estancia?" },
+        { "speaker": "Cliente", "en": "A bit of sightseeing. And you, any recommendations?", "es": "Hacer algo de turismo. ¿Y usted, alguna recomendación?" },
+        { "speaker": "Profesional", "en": "Definitely the old town at sunset. It's beautiful this time of year.", "es": "Sin duda el casco antiguo al atardecer. Está precioso en esta época." },
+        { "speaker": "Cliente", "en": "Sounds lovely, thank you.", "es": "Suena estupendo, gracias." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">How was your trip / flight?</b>", "es": "¿Qué tal el viaje / el vuelo?" },
+        { "en": "<b class=\"hl\">Is this your first time in</b> the city?", "es": "¿Es su primera vez en la ciudad?" },
+        { "en": "<b class=\"hl\">Have you got any plans</b> for today?", "es": "¿Tiene algún plan para hoy?" },
+        { "en": "Lovely weather we're having, isn't it?", "es": "Qué buen tiempo hace, ¿verdad?" },
+        { "en": "How are you finding the city <b class=\"hl\">so far</b>?", "es": "¿Qué le parece la ciudad de momento?" },
+        { "en": "<b class=\"hl\">How about you?</b>", "es": "¿Y usted?" },
+        { "en": "I hope you have a <b class=\"hl\">pleasant stay</b>.", "es": "Espero que tenga una estancia agradable." },
+        { "en": "Let me know if you need <b class=\"hl\">anything at all</b>.", "es": "Avíseme si necesita cualquier cosa." },
+        { "en": "That's a great choice, by the way.", "es": "Es una gran elección, por cierto." },
+        { "en": "Safe travels!", "es": "¡Buen viaje!" }
+      ],
+      "tables": [
+        {
+          "headers": ["Temas seguros ✓", "Temas a evitar ✗"],
+          "rows": [
+            ["El tiempo", "El dinero / el sueldo"],
+            ["El viaje / el vuelo", "La edad"],
+            ["Planes y turismo", "La religión"],
+            ["La ciudad / el barrio", "La política"],
+            ["Comida y restaurantes", "Problemas personales"],
+            ["Deporte / eventos locales", "Preguntas demasiado personales"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b26-s1q1", "question": "1. Para preguntar por el viaje:", "options": ["How was your trip?", "How is your travel?"], "correctIndex": 0 },
+        { "id": "b26-s1q2", "question": "2. '¿Es su primera vez en…?':", "options": ["Is this your first time in…?", "Is your first time in…?"], "correctIndex": 0 },
+        { "id": "b26-s1q3", "question": "3. Para devolver la pregunta:", "options": ["How about you?", "And you how?"], "correctIndex": 0 },
+        { "id": "b26-s1q4", "question": "4. Tema que conviene EVITAR con un desconocido:", "options": ["el sueldo", "el tiempo"], "correctIndex": 0 },
+        { "id": "b26-s1q5", "question": "5. '¿Tiene planes?':", "options": ["Have you got any plans?", "Do you have plans any?"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b26-s1",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Inicia una charla breve con un huésped recién llegado: pregunta por el viaje, si es su primera vez, y ofrece una recomendación. Devuelve alguna pregunta.",
+        "placeholder": "Ej: Good afternoon! How was your flight? Is this your first time in the city? If you have time, the old town at sunset is lovely. Have you got any plans while you're here?",
+        "rubric": [
+          "¿Usas al menos dos aperturas de small talk?",
+          "¿Te mantienes en temas seguros (viaje, ciudad, planes)?",
+          "¿Ofreces algo de valor (una recomendación) y/o devuelves la pregunta?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "El small talk no busca información, busca <b>conexión</b>: una respuesta corta + una pregunta de vuelta mantiene la conversación. Y con desconocidos, cuando dudes, habla del tiempo o del viaje — nunca del dinero, la edad o la política." }
+      ]
+    },
+    {
+      "idx": "26.2",
+      "title": "El teléfono y las reservas",
+      "level": "A2–B1",
+      "rule": "Al teléfono no hay lenguaje corporal, así que la claridad es clave. Abrir: <b class=\"hl\">Good morning, [hotel], how can I help you?</b>. Pedir datos: <b class=\"hl\">Could I take your name, please?</b>, <b class=\"hl\">How do you spell that?</b>. Confirmar deletreando y repitiendo: <b class=\"hl\">Let me read that back to you…</b>. Ganar tiempo: <b class=\"hl\">Bear with me a moment.</b>, <b class=\"hl\">I'll just put you through.</b>",
+      "dialogueTitle": "Tomar una reserva por teléfono",
+      "dialogue": [
+        { "speaker": "Profesional", "en": "Good afternoon, Hotel Sol, <b class=\"hl\">how can I help you?</b>", "es": "Buenas tardes, Hotel Sol, ¿en qué puedo ayudarle?" },
+        { "speaker": "Cliente", "en": "I'd like to book a room for the weekend.", "es": "Quería reservar una habitación para el fin de semana." },
+        { "speaker": "Profesional", "en": "Of course. <b class=\"hl\">Could I take your name, please?</b>", "es": "Por supuesto. ¿Me dice su nombre, por favor?" },
+        { "speaker": "Cliente", "en": "It's Siobhan Doyle.", "es": "Soy Siobhan Doyle." },
+        { "speaker": "Profesional", "en": "<b class=\"hl\">How do you spell</b> the first name?", "es": "¿Cómo se deletrea el nombre?" },
+        { "speaker": "Cliente", "en": "S-I-O-B-H-A-N.", "es": "S-I-O-B-H-A-N." },
+        { "speaker": "Profesional", "en": "Thank you. <b class=\"hl\">Let me read that back</b>: Siobhan Doyle, two nights, Friday and Saturday. Is that correct?", "es": "Gracias. Se lo repito: Siobhan Doyle, dos noches, viernes y sábado. ¿Es correcto?" },
+        { "speaker": "Cliente", "en": "That's right.", "es": "Correcto." },
+        { "speaker": "Profesional", "en": "Perfect. <b class=\"hl\">Bear with me a moment</b> while I confirm availability.", "es": "Perfecto. Deme un momento mientras confirmo la disponibilidad." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">How can I help you?</b>", "es": "¿En qué puedo ayudarle?" },
+        { "en": "<b class=\"hl\">Could I take your name, please?</b>", "es": "¿Me dice su nombre, por favor?" },
+        { "en": "<b class=\"hl\">How do you spell that?</b>", "es": "¿Cómo se deletrea?" },
+        { "en": "<b class=\"hl\">Let me read that back to you.</b>", "es": "Déjeme repetírselo." },
+        { "en": "<b class=\"hl\">Bear with me a moment.</b>", "es": "Deme un momento." },
+        { "en": "<b class=\"hl\">I'll just put you through</b> to reception.", "es": "Le paso con recepción." },
+        { "en": "Could you <b class=\"hl\">speak up</b> a little, please?", "es": "¿Podría hablar un poco más alto, por favor?" },
+        { "en": "The line's a bit <b class=\"hl\">faint</b> — could you repeat that?", "es": "Se oye un poco flojo, ¿puede repetir?" },
+        { "en": "Can I <b class=\"hl\">take a message</b>?", "es": "¿Quiere dejar un mensaje?" },
+        { "en": "Is there <b class=\"hl\">anything else</b> I can help you with?", "es": "¿Hay algo más en lo que pueda ayudarle?" }
+      ],
+      "tables": [
+        {
+          "headers": ["Función", "Frase"],
+          "rows": [
+            ["Abrir", "Good morning, [hotel], how can I help you?"],
+            ["Pedir el nombre", "Could I take your name, please?"],
+            ["Deletrear", "How do you spell that?"],
+            ["Confirmar", "Let me read that back to you."],
+            ["Ganar tiempo", "Bear with me a moment."],
+            ["Transferir", "I'll just put you through."],
+            ["No se oye bien", "The line's a bit faint — could you repeat that?"],
+            ["Cerrar", "Is there anything else I can help you with?"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b26-s2q1", "question": "1. Para pedir el nombre con cortesía:", "options": ["Could I take your name, please?", "Tell me your name."], "correctIndex": 0 },
+        { "id": "b26-s2q2", "question": "2. '¿Cómo se deletrea?':", "options": ["How do you spell that?", "How you write that?"], "correctIndex": 0 },
+        { "id": "b26-s2q3", "question": "3. 'Le paso con…':", "options": ["I'll put you through to…", "I'll pass you with…"], "correctIndex": 0 },
+        { "id": "b26-s2q4", "question": "4. Para confirmar repitiendo los datos:", "options": ["Let me read that back to you.", "I read you behind."], "correctIndex": 0 },
+        { "id": "b26-s2q5", "question": "5. 'Deme un momento':", "options": ["Bear with me a moment.", "Have me a moment."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b26-s2",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Atiende una reserva por teléfono: saluda, pide y deletrea el nombre, confirma repitiéndolo y cierra ofreciendo más ayuda.",
+        "placeholder": "Ej: Good morning, Hotel Sol, how can I help you? Could I take your name, please? How do you spell that? Let me read that back to you… Is there anything else I can help you with?",
+        "rubric": [
+          "¿Abres con un saludo profesional e identificas el lugar?",
+          "¿Pides, deletreas y confirmas los datos (read back)?",
+          "¿Cierras ofreciendo más ayuda?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "Al teléfono, confirma SIEMPRE repitiendo ('let me read that back'): evita errores en nombres y fechas. Para deletrear, apóyate en el alfabeto fonético si hace falta (A for Alpha, B for Bravo…)." }
+      ]
+    },
+    {
+      "idx": "26.3",
+      "title": "Gestión de quejas y disculpas",
+      "level": "B1–B2",
+      "rule": "Protocolo de recuperación del servicio (service recovery): <b class=\"hl\">Listen → Apologise → Act → Follow up</b>. Escuchar sin interrumpir, disculparse con sinceridad (<b class=\"hl\">I'm so sorry about that.</b>), asumir sin culpar (<b class=\"hl\">Let me sort this out for you right away.</b>) y hacer seguimiento. Evita el pasivo-defensivo ('that's not my fault'); usa el <b class=\"hl\">lenguaje de la acción</b>.",
+      "dialogueTitle": "Un huésped se queja del ruido",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "I couldn't sleep — the room next door was so noisy!", "es": "No pude dormir, ¡la habitación de al lado hacía mucho ruido!" },
+        { "speaker": "Profesional", "en": "<b class=\"hl\">I'm so sorry about that</b>, that's not the experience we want for you.", "es": "Lo siento muchísimo, no es la experiencia que queremos para usted." },
+        { "speaker": "Cliente", "en": "It was really frustrating.", "es": "Fue muy frustrante." },
+        { "speaker": "Profesional", "en": "I completely understand. <b class=\"hl\">Let me sort this out for you right away</b> — I'll move you to a quieter room on a higher floor.", "es": "Lo entiendo perfectamente. Déjeme solucionarlo ahora mismo: le cambio a una habitación más tranquila en una planta alta." },
+        { "speaker": "Cliente", "en": "That would be great.", "es": "Eso estaría muy bien." },
+        { "speaker": "Profesional", "en": "And as an apology, tonight's breakfast is <b class=\"hl\">on us</b>.", "es": "Y como disculpa, el desayuno de mañana corre por nuestra cuenta." },
+        { "speaker": "Cliente", "en": "Thank you, I appreciate it.", "es": "Gracias, se lo agradezco." },
+        { "speaker": "Profesional", "en": "I'll <b class=\"hl\">check in with you</b> later to make sure everything's fine.", "es": "Pasaré a ver más tarde que todo esté en orden." }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">I'm so sorry about that.</b>", "es": "Lo siento muchísimo." },
+        { "en": "<b class=\"hl\">I completely understand</b> how frustrating that is.", "es": "Entiendo perfectamente lo frustrante que es." },
+        { "en": "<b class=\"hl\">Let me sort this out for you right away.</b>", "es": "Déjeme solucionarlo ahora mismo." },
+        { "en": "<b class=\"hl\">Thank you for letting us know.</b>", "es": "Gracias por avisarnos." },
+        { "en": "What can I do to <b class=\"hl\">put this right</b>?", "es": "¿Qué puedo hacer para arreglarlo?" },
+        { "en": "As an apology, it's <b class=\"hl\">on us</b>.", "es": "Como disculpa, corre por nuestra cuenta." },
+        { "en": "I'll <b class=\"hl\">look into it</b> straight away.", "es": "Lo investigaré de inmediato." },
+        { "en": "I'll <b class=\"hl\">check in with you</b> later.", "es": "Pasaré a ver más tarde." },
+        { "en": "Please <b class=\"hl\">accept my apologies</b> for the inconvenience.", "es": "Acepte mis disculpas por las molestias." },
+        { "en": "You have my word we'll fix this.", "es": "Le doy mi palabra de que lo arreglaremos." }
+      ],
+      "tables": [
+        {
+          "headers": ["Paso", "Qué decir"],
+          "rows": [
+            ["Listen (escuchar)", "I completely understand. / Thank you for letting us know."],
+            ["Apologise (disculparse)", "I'm so sorry about that. / Please accept my apologies."],
+            ["Act (actuar)", "Let me sort this out for you right away."],
+            ["Compensate (compensar)", "As an apology, it's on us."],
+            ["Follow up (seguimiento)", "I'll check in with you later."]
+          ]
+        },
+        {
+          "headers": ["Evita ✗", "Di mejor ✓"],
+          "rows": [
+            ["That's not my fault.", "Let me sort this out for you."],
+            ["You have to…", "What I can do is…"],
+            ["Calm down.", "I completely understand."],
+            ["There's nothing I can do.", "Let me see what I can do."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b26-s3q1", "question": "1. Disculpa sincera:", "options": ["I'm so sorry about that.", "It is what it is."], "correctIndex": 0 },
+        { "id": "b26-s3q2", "question": "2. Lenguaje de la acción:", "options": ["Let me sort this out for you right away.", "That's not my fault."], "correctIndex": 0 },
+        { "id": "b26-s3q3", "question": "3. El orden del service recovery es:", "options": ["Listen → Apologise → Act → Follow up", "Act → Ignore → Leave"], "correctIndex": 0 },
+        { "id": "b26-s3q4", "question": "4. 'Corre por nuestra cuenta':", "options": ["it's on us", "it's on you"], "correctIndex": 0 },
+        { "id": "b26-s3q5", "question": "5. En vez de 'Calm down' di:", "options": ["I completely understand.", "Relax, please."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b26-s3",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Un huésped se queja de un problema (ruido, limpieza, un cobro…). Aplica el protocolo: escucha, discúlpate, actúa, compensa y ofrece seguimiento.",
+        "placeholder": "Ej: I'm so sorry about that — thank you for letting us know. I completely understand. Let me sort this out for you right away: I'll… As an apology, it's on us. I'll check in with you later to make sure everything's fine.",
+        "rubric": [
+          "¿Te disculpas con sinceridad y sin ponerte a la defensiva?",
+          "¿Usas lenguaje de acción (let me sort this out / what I can do is…)?",
+          "¿Ofreces compensación y/o seguimiento?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "Una queja bien gestionada fideliza MÁS que no tener ningún problema (la 'paradoja de la recuperación'). La clave es nunca ponerte a la defensiva: sustituye 'that's not my fault' por 'let me sort this out for you'." }
+      ]
+    },
+    {
+      "idx": "26.4",
+      "title": "Spa y wellness",
+      "level": "B1",
+      "rule": "El inglés del spa busca transmitir <b class=\"hl\">calma y cuidado</b>. Tratamientos: <b class=\"hl\">massage, facial, body scrub, manicure/pedicure</b>. Reservar: <b class=\"hl\">Would you like to book a treatment?</b>. Guiar: <b class=\"hl\">Please make yourself comfortable.</b>, <b class=\"hl\">Let me know if the pressure is okay.</b>. Vocabulario de bienestar: <b class=\"hl\">relax, unwind, soothing, rejuvenating</b>. Tono suave y pausado.",
+      "dialogueTitle": "Recibir a un cliente en el spa",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "Hi, I have a massage booked at four.", "es": "Hola, tengo un masaje reservado a las cuatro." },
+        { "speaker": "Profesional", "en": "Welcome. Would you like a <b class=\"hl\">herbal tea</b> before we start?", "es": "Bienvenida. ¿Le apetece una infusión antes de empezar?" },
+        { "speaker": "Cliente", "en": "Yes, please.", "es": "Sí, gracias." },
+        { "speaker": "Profesional", "en": "Lovely. This is a deep-tissue massage to help you <b class=\"hl\">unwind</b>. Any areas of tension?", "es": "Estupendo. Es un masaje de tejido profundo para ayudarle a relajarse. ¿Alguna zona de tensión?" },
+        { "speaker": "Cliente", "en": "My shoulders, mostly.", "es": "Los hombros, sobre todo." },
+        { "speaker": "Profesional", "en": "I'll focus there. <b class=\"hl\">Please make yourself comfortable</b> and <b class=\"hl\">let me know if the pressure is okay</b>.", "es": "Me centraré ahí. Póngase cómoda y avíseme si la presión es adecuada." },
+        { "speaker": "Cliente", "en": "Perfect, thank you.", "es": "Perfecto, gracias." },
+        { "speaker": "Profesional", "en": "Just <b class=\"hl\">relax</b> and breathe. I'll leave you to <b class=\"hl\">rejuvenate</b>.", "es": "Relájese y respire. La dejo para que se recupere." }
+      ],
+      "examples": [
+        { "en": "Would you like to <b class=\"hl\">book a treatment</b>?", "es": "¿Le gustaría reservar un tratamiento?" },
+        { "en": "We offer <b class=\"hl\">massages, facials and body scrubs</b>.", "es": "Ofrecemos masajes, faciales y exfoliaciones corporales." },
+        { "en": "<b class=\"hl\">Please make yourself comfortable.</b>", "es": "Póngase cómodo/a." },
+        { "en": "<b class=\"hl\">Let me know if the pressure is okay.</b>", "es": "Avíseme si la presión es adecuada." },
+        { "en": "This treatment is very <b class=\"hl\">soothing</b>.", "es": "Este tratamiento es muy relajante." },
+        { "en": "It'll help you <b class=\"hl\">relax and unwind</b>.", "es": "Le ayudará a relajarse y desconectar." },
+        { "en": "Would you prefer a <b class=\"hl\">quiet</b> or a warm room?", "es": "¿Prefiere una sala tranquila o cálida?" },
+        { "en": "Please avoid heavy meals <b class=\"hl\">beforehand</b>.", "es": "Evite comidas pesadas antes." },
+        { "en": "Take your time — there's no rush.", "es": "Tómese su tiempo, sin prisa." },
+        { "en": "I hope you feel <b class=\"hl\">rejuvenated</b>.", "es": "Espero que se sienta renovado/a." }
+      ],
+      "tables": [
+        {
+          "headers": ["Español", "Inglés"],
+          "rows": [
+            ["masaje", "massage"],
+            ["tratamiento facial", "facial"],
+            ["exfoliación corporal", "body scrub"],
+            ["manicura / pedicura", "manicure / pedicure"],
+            ["sauna / baño de vapor", "sauna / steam room"],
+            ["relajarse / desconectar", "to relax / to unwind"],
+            ["relajante", "soothing"],
+            ["renovador / revitalizante", "rejuvenating"],
+            ["presión (del masaje)", "pressure"],
+            ["zona de tensión", "area of tension"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b26-s4q1", "question": "1. 'Exfoliación corporal':", "options": ["body scrub", "body peel off"], "correctIndex": 0 },
+        { "id": "b26-s4q2", "question": "2. 'Póngase cómodo/a':", "options": ["Please make yourself comfortable.", "Put you comfortable."], "correctIndex": 0 },
+        { "id": "b26-s4q3", "question": "3. 'Relajarse y desconectar':", "options": ["relax and unwind", "relax and unplug the cable"], "correctIndex": 0 },
+        { "id": "b26-s4q4", "question": "4. Para comprobar la intensidad del masaje:", "options": ["Let me know if the pressure is okay.", "Tell me if it pains."], "correctIndex": 0 },
+        { "id": "b26-s4q5", "question": "5. 'Revitalizante':", "options": ["rejuvenating", "rejuvenation-ing"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b26-s4",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Recibe a un cliente en el spa: ofrece una infusión, presenta el tratamiento, pregunta por zonas de tensión y guíale con un tono calmado.",
+        "placeholder": "Ej: Welcome. Would you like a herbal tea before we start? This is a soothing facial to help you unwind. Please make yourself comfortable, and let me know if anything feels uncomfortable. Just relax and breathe.",
+        "rubric": [
+          "¿Usas vocabulario de spa (treatment, soothing, unwind…)?",
+          "¿Guías con cortesía (make yourself comfortable / let me know if…)?",
+          "¿Transmites un tono calmado y de cuidado?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "En wellness, el <b>tono</b> comunica tanto como las palabras: frases cortas, suaves y sin prisa. Verbos clave: <b>relax, unwind, soothe, rejuvenate</b>. Pregunta siempre por la presión y por zonas de tensión antes de empezar." }
+      ]
+    },
+    {
+      "idx": "26.5",
+      "title": "Eventos y MICE",
+      "level": "B2",
+      "rule": "MICE = <b class=\"hl\">Meetings, Incentives, Conferences, Exhibitions</b> (reuniones, incentivos, congresos, ferias). Vocabulario: <b class=\"hl\">venue</b> (sede/espacio), <b class=\"hl\">delegates/attendees</b> (asistentes), <b class=\"hl\">breakout room</b> (sala de trabajo), <b class=\"hl\">AV equipment</b> (equipo audiovisual), <b class=\"hl\">catering, coffee break, seating layout</b>. Gestionar una petición: capacidad, formato de sala, restauración y plan B.",
+      "dialogueTitle": "Organizar una reunión de empresa",
+      "dialogue": [
+        { "speaker": "Cliente", "en": "We need a room for a conference for about 80 people.", "es": "Necesitamos una sala para un congreso de unas 80 personas." },
+        { "speaker": "Profesional", "en": "Certainly. For 80 <b class=\"hl\">delegates</b>, our main <b class=\"hl\">venue</b> works well. What <b class=\"hl\">seating layout</b> would you like?", "es": "Por supuesto. Para 80 asistentes, nuestra sala principal funciona bien. ¿Qué disposición de sala prefiere?" },
+        { "speaker": "Cliente", "en": "Theatre style, I think.", "es": "Tipo auditorio, creo." },
+        { "speaker": "Profesional", "en": "Perfect. It comes with full <b class=\"hl\">AV equipment</b> — projector, microphones and a screen.", "es": "Perfecto. Incluye equipo audiovisual completo: proyector, micrófonos y pantalla." },
+        { "speaker": "Cliente", "en": "And catering?", "es": "¿Y la restauración?" },
+        { "speaker": "Profesional", "en": "We can arrange a <b class=\"hl\">coffee break</b> mid-morning and a working lunch. Any <b class=\"hl\">dietary requirements</b>?", "es": "Podemos organizar un coffee break a media mañana y un almuerzo de trabajo. ¿Alguna necesidad dietética?" },
+        { "speaker": "Cliente", "en": "A few vegetarians.", "es": "Algunos vegetarianos." },
+        { "speaker": "Profesional", "en": "Noted. I'll also book a <b class=\"hl\">breakout room</b> for smaller sessions, just in case.", "es": "Anotado. Reservaré también una sala de trabajo para sesiones reducidas, por si acaso." }
+      ],
+      "examples": [
+        { "en": "How many <b class=\"hl\">delegates</b> are you expecting?", "es": "¿Cuántos asistentes esperan?" },
+        { "en": "What <b class=\"hl\">seating layout</b> would you like?", "es": "¿Qué disposición de sala prefiere?" },
+        { "en": "The room comes with full <b class=\"hl\">AV equipment</b>.", "es": "La sala incluye equipo audiovisual completo." },
+        { "en": "We can set up a <b class=\"hl\">breakout room</b>.", "es": "Podemos preparar una sala de trabajo aparte." },
+        { "en": "Shall I arrange a <b class=\"hl\">coffee break</b>?", "es": "¿Organizo un coffee break?" },
+        { "en": "Are there any <b class=\"hl\">dietary requirements</b>?", "es": "¿Hay alguna necesidad dietética?" },
+        { "en": "The <b class=\"hl\">venue</b> holds up to 120 people.", "es": "El espacio tiene capacidad para 120 personas." },
+        { "en": "We offer theatre, classroom, U-shape and <b class=\"hl\">banquet</b> layouts.", "es": "Ofrecemos disposición de auditorio, aula, en U y banquete." },
+        { "en": "I'll send you a <b class=\"hl\">quote</b> and a floor plan.", "es": "Le enviaré un presupuesto y un plano de la sala." },
+        { "en": "We'll have a <b class=\"hl\">technician on hand</b> throughout.", "es": "Tendremos un técnico disponible durante todo el evento." }
+      ],
+      "tables": [
+        {
+          "headers": ["Término", "Significado"],
+          "rows": [
+            ["MICE", "Meetings, Incentives, Conferences, Exhibitions"],
+            ["venue", "sede / espacio del evento"],
+            ["delegates / attendees", "asistentes"],
+            ["seating layout", "disposición de la sala"],
+            ["theatre / classroom / U-shape", "auditorio / aula / en U"],
+            ["breakout room", "sala de trabajo (sesiones reducidas)"],
+            ["AV equipment", "equipo audiovisual"],
+            ["coffee break", "pausa para el café"],
+            ["dietary requirements", "necesidades dietéticas"],
+            ["quote", "presupuesto"]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b26-s5q1", "question": "1. MICE significa:", "options": ["Meetings, Incentives, Conferences, Exhibitions", "Money, Income, Cost, Expenses"], "correctIndex": 0 },
+        { "id": "b26-s5q2", "question": "2. Los 'asistentes' a un congreso son:", "options": ["delegates / attendees", "assistants"], "correctIndex": 0 },
+        { "id": "b26-s5q3", "question": "3. 'Disposición de la sala':", "options": ["seating layout", "sitting design"], "correctIndex": 0 },
+        { "id": "b26-s5q4", "question": "4. 'Sala de trabajo para sesiones reducidas':", "options": ["breakout room", "break-down room"], "correctIndex": 0 },
+        { "id": "b26-s5q5", "question": "5. 'Presupuesto' (para un evento):", "options": ["a quote", "a budget-paper"], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b26-s5",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Atiende una petición para un evento de empresa: pregunta por número de asistentes y formato, ofrece AV y catering, y menciona las necesidades dietéticas.",
+        "placeholder": "Ej: How many delegates are you expecting? What seating layout would you like? The venue comes with full AV equipment. Shall I arrange a coffee break and a working lunch? Are there any dietary requirements? I'll send you a quote and a floor plan.",
+        "rubric": [
+          "¿Preguntas capacidad y disposición (delegates, seating layout)?",
+          "¿Ofreces AV y restauración con vocabulario del sector?",
+          "¿Cubres detalles (necesidades dietéticas, presupuesto, plano)?"
+        ]
+      },
+      "notes": [
+        { "type": "exception", "text": "No confundas <b>venue</b> (el espacio físico) con <b>event</b> (el acontecimiento). Y 'presupuesto' que das a un cliente = <b>a quote</b> / <b>a quotation</b>; <b>budget</b> es el dinero del que el cliente dispone." }
+      ]
+    },
+    {
+      "idx": "26.6",
+      "title": "Despedidas y fidelización",
+      "level": "B1",
+      "rule": "La despedida es la última impresión: déjala memorable. Agradece: <b class=\"hl\">Thank you for staying with us.</b>. Pide feedback con naturalidad: <b class=\"hl\">How was everything?</b>. Invita a volver: <b class=\"hl\">We'd love to welcome you back.</b>. Siembra la próxima visita y el canal directo: <b class=\"hl\">Next time, book direct for the best rate.</b>. Cierra con calidez: <b class=\"hl\">Have a safe trip home.</b>",
+      "dialogueTitle": "Check-out y despedida",
+      "dialogue": [
+        { "speaker": "Profesional", "en": "<b class=\"hl\">How was everything</b> during your stay?", "es": "¿Qué tal ha ido todo durante su estancia?" },
+        { "speaker": "Cliente", "en": "Really lovely, thank you.", "es": "Muy agradable, gracias." },
+        { "speaker": "Profesional", "en": "I'm so glad to hear it. <b class=\"hl\">Thank you for staying with us.</b>", "es": "Me alegra mucho oírlo. Gracias por alojarse con nosotros." },
+        { "speaker": "Cliente", "en": "We'll definitely be back.", "es": "Sin duda volveremos." },
+        { "speaker": "Profesional", "en": "<b class=\"hl\">We'd love to welcome you back.</b> Next time, <b class=\"hl\">book direct</b> with us for the best rate and a room upgrade.", "es": "Nos encantaría recibirles de nuevo. La próxima vez, reserve directamente con nosotros para el mejor precio y una mejora de habitación." },
+        { "speaker": "Cliente", "en": "Good to know!", "es": "¡Bueno es saberlo!" },
+        { "speaker": "Profesional", "en": "If you have a moment, a <b class=\"hl\">quick review</b> online really helps us. Have a <b class=\"hl\">safe trip home</b>!", "es": "Si tiene un momento, una breve reseña en internet nos ayuda mucho. ¡Buen viaje de vuelta!" },
+        { "speaker": "Cliente", "en": "Will do. Take care!", "es": "Lo haré. ¡Cuídese!" }
+      ],
+      "examples": [
+        { "en": "<b class=\"hl\">How was everything</b> during your stay?", "es": "¿Qué tal ha ido todo durante su estancia?" },
+        { "en": "<b class=\"hl\">Thank you for staying with us.</b>", "es": "Gracias por alojarse con nosotros." },
+        { "en": "<b class=\"hl\">We'd love to welcome you back.</b>", "es": "Nos encantaría recibirle de nuevo." },
+        { "en": "Next time, <b class=\"hl\">book direct</b> for the best rate.", "es": "La próxima vez, reserve directo para el mejor precio." },
+        { "en": "A <b class=\"hl\">quick review</b> online really helps us.", "es": "Una breve reseña en internet nos ayuda mucho." },
+        { "en": "Do join our <b class=\"hl\">loyalty programme</b>.", "es": "Únase a nuestro programa de fidelización." },
+        { "en": "I hope you had a <b class=\"hl\">pleasant stay</b>.", "es": "Espero que haya tenido una estancia agradable." },
+        { "en": "<b class=\"hl\">Have a safe trip home.</b>", "es": "Buen viaje de vuelta." },
+        { "en": "It was a pleasure <b class=\"hl\">having you</b>.", "es": "Ha sido un placer tenerle aquí." },
+        { "en": "We look forward to seeing you again.", "es": "Esperamos verle de nuevo." }
+      ],
+      "tables": [
+        {
+          "headers": ["Objetivo", "Frase"],
+          "rows": [
+            ["Pedir feedback", "How was everything during your stay?"],
+            ["Agradecer", "Thank you for staying with us."],
+            ["Invitar a volver", "We'd love to welcome you back."],
+            ["Fidelizar (canal directo)", "Next time, book direct for the best rate."],
+            ["Pedir reseña", "A quick review online really helps us."],
+            ["Programa de puntos", "Do join our loyalty programme."],
+            ["Cerrar con calidez", "Have a safe trip home."]
+          ]
+        }
+      ],
+      "quiz": [
+        { "id": "b26-s6q1", "question": "1. Para pedir feedback con naturalidad:", "options": ["How was everything during your stay?", "Was all good or not?"], "correctIndex": 0 },
+        { "id": "b26-s6q2", "question": "2. 'Nos encantaría recibirle de nuevo':", "options": ["We'd love to welcome you back.", "We love welcome you return."], "correctIndex": 0 },
+        { "id": "b26-s6q3", "question": "3. Para fidelizar al canal directo:", "options": ["Next time, book direct for the best rate.", "Next time, use another website."], "correctIndex": 0 },
+        { "id": "b26-s6q4", "question": "4. 'Buen viaje de vuelta':", "options": ["Have a safe trip home.", "Have a good return trip travel."], "correctIndex": 0 },
+        { "id": "b26-s6q5", "question": "5. 'Una breve reseña nos ayuda mucho':", "options": ["A quick review online really helps us.", "A fast criticism helps us a lot."], "correctIndex": 0 }
+      ],
+      "produce": {
+        "id": "b26-s6",
+        "label": "<span class=\"badge\">tu turno · role-play</span>Despide a un huésped en el check-out: pide feedback, agradece, invítale a volver reservando directo, pide una reseña y cierra con calidez.",
+        "placeholder": "Ej: How was everything during your stay? Thank you so much for staying with us. We'd love to welcome you back — next time, book direct for the best rate. A quick review online really helps us. Have a safe trip home!",
+        "rubric": [
+          "¿Pides feedback y agradeces con calidez?",
+          "¿Fidelizas (invitar a volver + canal directo / loyalty)?",
+          "¿Pides reseña y cierras con una despedida memorable?"
+        ]
+      },
+      "notes": [
+        { "type": "tip", "text": "La última impresión pesa tanto como la primera. 'Book direct' protege el margen frente a las OTAs (Booking, Expedia), así que siembra siempre el canal directo y el programa de fidelización en la despedida." }
+      ]
+    }
+  ]
+}
