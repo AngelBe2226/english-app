@@ -1,6 +1,7 @@
 import { useState } from "react";
 import RichText from "./RichText";
 import HighlightButton from "./HighlightButton";
+import SpeakButton from "./SpeakButton";
 
 // Lectura graduada: un texto de nivel con glosario desplegable. Las preguntas
 // de comprensión van en el `quiz` normal de la sección (con seguimiento), así
@@ -16,6 +17,7 @@ export default function Reading({ reading, hlId }) {
         <span className="reading-tag">lectura</span>
         {hlId && <HighlightButton id={hlId} label="lectura destacada" />}
         {r.title && <span className="reading-title">{r.title}</span>}
+        <SpeakButton text={r.text} title="Escuchar la lectura" className="reading-speak" />
         {r.words && <span className="reading-meta">{r.words} palabras</span>}
       </div>
 

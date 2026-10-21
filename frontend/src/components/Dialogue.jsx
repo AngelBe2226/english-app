@@ -1,6 +1,8 @@
 import { useState } from "react";
 import RichText from "./RichText";
 import HighlightButton from "./HighlightButton";
+import SpeakButton from "./SpeakButton";
+import { stripHtml } from "../speech";
 
 // A conversation block for thematic units. Renders speaker turns (English +
 // optional Spanish gloss) and offers a role-play mode: pick a speaker and
@@ -23,6 +25,11 @@ export default function Dialogue({ dialogue, title, hlId }) {
         <span className="dialogue-tag">diálogo</span>
         {hlId && <HighlightButton id={hlId} label="diálogo destacado" />}
         {title && <span className="dialogue-title">{title}</span>}
+        <SpeakButton
+          className="dlg-speak-all"
+          title="Escuchar todo el diálogo"
+          text={() => turns.map((t) => stripHtml(t.en)).join(". ")}
+        />
       </div>
 
       {speakers.length > 1 && (
@@ -68,7 +75,10 @@ export default function Dialogue({ dialogue, title, hlId }) {
                   </button>
                 ) : (
                   <>
-                    <RichText className="dlg-en" html={t.en} />
+                    <span className="dlg-en-row">
+                      <RichText className="dlg-en" html={t.en} />
+                      <SpeakButton text={t.en} title="Escuchar esta frase" className="dlg-speak" />
+                    </span>
                     {t.es && <span className="dlg-es">{t.es}</span>}
                   </>
                 )}

@@ -6,6 +6,7 @@ import Dialogue from "./Dialogue";
 import Translate from "./Translate";
 import Reading from "./Reading";
 import Analysis from "./Analysis";
+import SpeakButton from "./SpeakButton";
 import HighlightButton from "./HighlightButton";
 import { useProgress } from "../progress";
 
@@ -87,6 +88,7 @@ export default function SectionCard({ section }) {
             <li key={i}>
               <HighlightButton id={`hl:${section.idx}-ex${i}`} label="ejemplo destacado" />
               <RichText className="ex-en" html={ex.en} />
+              <SpeakButton text={ex.en} title="Escuchar el ejemplo" className="ex-speak" />
               {ex.es && <span className="ex-es">{ex.es}</span>}
             </li>
           ))}
