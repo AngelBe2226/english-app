@@ -49,6 +49,13 @@
         { "id": "b24-s1q4", "question": "4. 'Éxito' es:", "options": ["exit", "success"], "correctIndex": 1 },
         { "id": "b24-s1q5", "question": "5. 'Actually' significa:", "options": ["en realidad", "actualmente"], "correctIndex": 0 }
       ],
+      "translateTitle": "Dilo en inglés — sin falsos amigos",
+      "translate": [
+        { "es": "Actualmente vivo en Madrid.", "en": "I <b class=\"hl\">currently</b> live in Madrid.", "hint": "¿'actually' o 'currently'?" },
+        { "es": "Asistí a la reunión.", "en": "I <b class=\"hl\">attended</b> the meeting.", "hint": "asistir a ≠ assist" },
+        { "es": "Es muy sensible a las críticas.", "en": "She's very <b class=\"hl\">sensitive</b> to criticism.", "hint": "sensible ≠ sensible" },
+        { "es": "En realidad, el desayuno está incluido.", "en": "<b class=\"hl\">Actually</b>, breakfast is included." }
+      ],
       "produce": {
         "id": "b24-s1",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase correcta con <b>actually</b> (=en realidad) y otra con <b>currently</b> (=actualmente), para fijar la diferencia.",
@@ -101,6 +108,13 @@
         { "id": "b24-s2q4", "question": "4. '¿Dónde trabajas?':", "options": ["Where you work?", "Where do you work?"], "correctIndex": 1 },
         { "id": "b24-s2q5", "question": "5. 'Está lloviendo':", "options": ["Is raining.", "It's raining."], "correctIndex": 1 }
       ],
+      "translateTitle": "Dilo en inglés — con el orden correcto",
+      "translate": [
+        { "es": "Tengo 30 años.", "en": "I'm <b class=\"hl\">30 years old</b>.", "hint": "edad con 'be', no 'have'" },
+        { "es": "Hablo bien inglés.", "en": "I <b class=\"hl\">speak English well</b>.", "hint": "no separes verbo y objeto" },
+        { "es": "¿Dónde trabajas?", "en": "Where <b class=\"hl\">do you</b> work?", "hint": "pregunta con auxiliar" },
+        { "es": "Siempre confirmo por email.", "en": "I <b class=\"hl\">always confirm</b> by email.", "hint": "frecuencia antes del verbo" }
+      ],
       "produce": {
         "id": "b24-s2",
         "label": "<span class=\"badge\">tu turno</span>Corrige mentalmente y escribe bien: tu edad, algo que se te da bien, y una pregunta con 'where' o 'when'.",
@@ -150,6 +164,13 @@
         { "id": "b24-s3q3", "question": "3. 'Nunca miento':", "options": ["I don't never lie.", "I never lie."], "correctIndex": 1 },
         { "id": "b24-s3q4", "question": "4. Con 'nobody/nothing/never' el verbo va:", "options": ["en afirmativo", "en negativo también"], "correctIndex": 0 },
         { "id": "b24-s3q5", "question": "5. Con un verbo negativo (didn't) se usa:", "options": ["any- (anything, anybody)", "no- (nothing, nobody)"], "correctIndex": 0 }
+      ],
+      "translateTitle": "Dilo en inglés — un solo negativo",
+      "translate": [
+        { "es": "No sé nada.", "en": "I <b class=\"hl\">don't know anything</b>. / I <b class=\"hl\">know nothing</b>.", "hint": "una u otra, nunca las dos" },
+        { "es": "No vino nadie.", "en": "<b class=\"hl\">Nobody came</b>.", "hint": "verbo en afirmativo" },
+        { "es": "Nunca miento.", "en": "I <b class=\"hl\">never lie</b>.", "hint": "never sin otro 'not'" },
+        { "es": "No tenemos nada disponible.", "en": "We <b class=\"hl\">don't have anything</b> available." }
       ],
       "produce": {
         "id": "b24-s3",
@@ -210,6 +231,13 @@
         { "id": "b24-s4q4", "question": "4. '¿Me puedes decir la hora?':", "options": ["Can you say me the time?", "Can you tell me the time?"], "correctIndex": 1 },
         { "id": "b24-s4q5", "question": "5. 'Dile hola de mi parte':", "options": ["Tell hello to her.", "Say hello to her."], "correctIndex": 1 }
       ],
+      "translateTitle": "Dilo en inglés — do/make · say/tell",
+      "translate": [
+        { "es": "Tengo que tomar una decisión.", "en": "I have to <b class=\"hl\">make a decision</b>.", "hint": "¿do o make?" },
+        { "es": "Hice los deberes.", "en": "I <b class=\"hl\">did my homework</b>." },
+        { "es": "Me dijo la verdad.", "en": "He <b class=\"hl\">told me</b> the truth.", "hint": "con destinatario → tell" },
+        { "es": "¿Me puedes decir la hora?", "en": "Can you <b class=\"hl\">tell me</b> the time?" }
+      ],
       "produce": {
         "id": "b24-s4",
         "label": "<span class=\"badge\">tu turno</span>Escribe una frase con <b>make</b> y otra con <b>do</b>, y una con <b>tell</b> (a alguien) y otra con <b>say</b>.",
@@ -258,6 +286,13 @@
         { "id": "b24-s5q3", "question": "3. 'Lo conocí hace dos años':", "options": ["I met him before two years.", "I met him two years ago."], "correctIndex": 1 },
         { "id": "b24-s5q4", "question": "4. 'No llames durante la reunión':", "options": ["during the meeting", "for the meeting"], "correctIndex": 0 },
         { "id": "b24-s5q5", "question": "5. 'since' se usa con:", "options": ["un punto de inicio (since Monday)", "una duración (since 2 hours)"], "correctIndex": 0 }
+      ],
+      "translateTitle": "Dilo en inglés — for/since/during/ago",
+      "translate": [
+        { "es": "Llevo dos años trabajando aquí.", "en": "I've worked here <b class=\"hl\">for two years</b>.", "hint": "duración → for" },
+        { "es": "Estudié durante tres horas.", "en": "I studied <b class=\"hl\">for three hours</b>.", "hint": "'during' no da duración" },
+        { "es": "Lo conocí hace dos años.", "en": "I met him two years <b class=\"hl\">ago</b>.", "hint": "'ago' al final" },
+        { "es": "No llames durante la reunión.", "en": "Don't call <b class=\"hl\">during the meeting</b>." }
       ],
       "produce": {
         "id": "b24-s5",
@@ -314,6 +349,13 @@
         { "id": "b24-s6q4", "question": "4. 'Se le dan bien las mates':", "options": ["good in maths", "good at maths"], "correctIndex": 1 },
         { "id": "b24-s6q5", "question": "5. 'Espérame aquí':", "options": ["Wait me here.", "Wait for me here."], "correctIndex": 1 }
       ],
+      "translateTitle": "Dilo en inglés — preposición correcta",
+      "translate": [
+        { "es": "Depende de ti.", "en": "It <b class=\"hl\">depends on</b> you.", "hint": "no 'depend of'" },
+        { "es": "Está casada con un médico.", "en": "She's <b class=\"hl\">married to</b> a doctor.", "hint": "no 'married with'" },
+        { "es": "Estoy pensando en ti.", "en": "I'm <b class=\"hl\">thinking of/about</b> you." },
+        { "es": "Se le dan bien las ventas.", "en": "She's <b class=\"hl\">good at</b> sales.", "hint": "no 'good in'" }
+      ],
       "produce": {
         "id": "b24-s6",
         "label": "<span class=\"badge\">tu turno</span>Escribe tres frases con <b>depend on</b>, <b>think of/about</b> y <b>good at</b>, cuidando la preposición.",
@@ -367,6 +409,13 @@
         { "id": "b24-s7q4", "question": "4. 'Necesito algún consejo':", "options": ["I need some advices.", "I need some advice."], "correctIndex": 1 },
         { "id": "b24-s7q5", "question": "5. 'Everybody' concuerda con:", "options": ["verbo singular (has)", "verbo plural (have)"], "correctIndex": 0 }
       ],
+      "translateTitle": "Dilo en inglés — concordancia e incontables",
+      "translate": [
+        { "es": "Ella trabaja en recepción.", "en": "She <b class=\"hl\">works</b> at reception.", "hint": "-s de 3ª persona" },
+        { "es": "La gente está esperando.", "en": "<b class=\"hl\">People are</b> waiting.", "hint": "people = plural" },
+        { "es": "Las noticias son buenas.", "en": "The <b class=\"hl\">news is</b> good.", "hint": "news = singular" },
+        { "es": "Necesito algún consejo.", "en": "I need some <b class=\"hl\">advice</b>.", "hint": "incontable, sin -s" }
+      ],
       "produce": {
         "id": "b24-s7",
         "label": "<span class=\"badge\">tu turno</span>Escribe tres frases correctas: una en 3ª persona (con -s), una con 'people are' y una con un incontable (news/advice/information + is).",
@@ -417,6 +466,13 @@
         { "id": "b24-s8q3", "question": "3. 'La semana pasada':", "options": ["the last week", "last week"], "correctIndex": 1 },
         { "id": "b24-s8q4", "question": "4. 'Desayunamos a las 8':", "options": ["We had the breakfast at 8.", "We had breakfast at 8."], "correctIndex": 1 },
         { "id": "b24-s8q5", "question": "5. ¿Cuándo SÍ se usa 'the'?", "options": ["para algo específico/conocido (the manager)", "siempre que en español haya el/la"], "correctIndex": 0 }
+      ],
+      "translateTitle": "Dilo en inglés — 'the' sí o no",
+      "translate": [
+        { "es": "Me encanta la música.", "en": "I love <b class=\"hl\">music</b>.", "hint": "general → sin 'the'" },
+        { "es": "Vivo en España.", "en": "I live in <b class=\"hl\">Spain</b>.", "hint": "país → sin 'the'" },
+        { "es": "La vi la semana pasada.", "en": "I saw her <b class=\"hl\">last week</b>.", "hint": "last/next → sin 'the'" },
+        { "es": "El gerente le atenderá ahora.", "en": "<b class=\"hl\">The</b> manager will see you now.", "hint": "específico → con 'the'" }
       ],
       "produce": {
         "id": "b24-s8",

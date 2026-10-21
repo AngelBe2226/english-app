@@ -3,6 +3,7 @@ import Table from "./Table";
 import Quiz from "./Quiz";
 import ProduceBox from "./ProduceBox";
 import Dialogue from "./Dialogue";
+import Translate from "./Translate";
 import HighlightButton from "./HighlightButton";
 import { useProgress } from "../progress";
 
@@ -97,6 +98,14 @@ export default function SectionCard({ section }) {
       {section.tables?.map((t, i) => (
         <Table key={i} table={t} />
       ))}
+
+      {section.translate?.length > 0 && (
+        <Translate
+          items={section.translate}
+          title={section.translateTitle}
+          hlId={`hl:${section.idx}-translate`}
+        />
+      )}
 
       {notesAfter.map((n) => (
         <Note key={`na-${n._i}`} note={n} hlId={`hl:${section.idx}-note${n._i}`} />

@@ -1297,6 +1297,67 @@ b.hl,
 }
 .dlg-reveal:hover { background: var(--surface); }
 
+/* ---- Traducción inversa (ES → EN) ---- */
+.translate {
+  margin: 0 0 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+  padding: 0.85rem 1rem 1rem;
+}
+.translate-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.7rem;
+}
+.translate-tag {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--iris);
+  background: var(--iris-soft);
+  padding: 0.12rem 0.45rem;
+  border-radius: 5px;
+}
+.translate-title {
+  font-weight: 600;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+}
+.translate-all { margin-left: auto; }
+.tr-rows {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.tr-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.tr-es { color: var(--ink-soft); font-size: 0.92rem; }
+.tr-en { display: block; font-weight: 500; }
+.tr-reveal {
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  border: 1px dashed var(--iris);
+  background: var(--iris-soft);
+  color: var(--iris);
+  padding: 0.3rem 0.7rem;
+  border-radius: 8px;
+}
+.tr-reveal:hover { background: var(--surface); }
+
 /* ---- Writing guiado: rúbrica de autoevaluación + ejemplo modelo ---- */
 .produce .model-btn {
   font: inherit;
