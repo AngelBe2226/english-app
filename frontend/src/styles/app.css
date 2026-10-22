@@ -1438,6 +1438,108 @@ b.hl,
   .reading-gloss-row { grid-template-columns: 1fr; gap: 0; }
 }
 
+/* ---- Test de nivel (placement) ---- */
+.placement { max-width: 760px; }
+.placement-head h2 { margin: 0 0 0.3rem; }
+.placement-sub { color: var(--ink-faint); line-height: 1.6; margin: 0 0 1.2rem; }
+.placement-cta { color: var(--ink-soft); margin-bottom: 1rem; }
+.placement-actions { margin: 1.4rem 0 0.5rem; }
+.placement-start {
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  background: var(--iris);
+  color: #fff;
+  padding: 0.6rem 1.3rem;
+  border-radius: 10px;
+  transition: filter 0.12s;
+}
+.placement-start:hover { filter: brightness(1.08); }
+
+.pq-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 1.1rem; }
+.pq { border: 1px solid var(--line); border-radius: 12px; background: var(--surface-2); padding: 0.85rem 1rem; }
+.pq-missing { border-color: var(--role-verb, #C0392B); }
+.pq-band {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--iris);
+  margin-bottom: 0.5rem;
+}
+.pq-q { margin: 0 0 0.7rem; font-size: 1.04rem; line-height: 1.5; }
+.pq-n { color: var(--ink-faint); font-family: var(--mono); font-size: 0.85rem; margin-right: 0.2rem; }
+.pq-opts { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.pq-opt {
+  font: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink);
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  transition: all 0.12s;
+}
+.pq-opt:hover { border-color: var(--iris); }
+.pq-opt.chosen { background: var(--iris); border-color: var(--iris); color: #fff; }
+.pq-warn { color: var(--role-verb, #C0392B); font-size: 0.9rem; margin: 1rem 0 0; }
+
+.placement-result { margin-top: 0.5rem; }
+.placement-levelcard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--iris-soft);
+  padding: 1.2rem;
+  margin-bottom: 1.1rem;
+}
+.placement-level-tag {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--iris);
+}
+.placement-level { font-size: 3rem; font-weight: 700; color: var(--iris); line-height: 1; }
+.placement-score { color: var(--ink-faint); font-size: 0.92rem; }
+
+.placement-bands { display: flex; flex-direction: column; gap: 0.4rem; margin-bottom: 1.3rem; }
+.placement-band { display: grid; grid-template-columns: 2rem 1fr 2.6rem; align-items: center; gap: 0.6rem; }
+.pb-label { font-family: var(--mono); font-size: 0.8rem; color: var(--ink-soft); }
+.pb-bar { height: 0.55rem; border-radius: 999px; background: var(--surface); overflow: hidden; }
+.pb-fill { display: block; height: 100%; background: var(--line-strong); border-radius: 999px; }
+.pb-fill.ok { background: var(--iris); }
+.pb-pct { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); text-align: right; }
+
+.placement-route h3 { margin: 0 0 0.3rem; }
+.placement-route-tip { color: var(--ink-faint); line-height: 1.6; margin: 0 0 0.9rem; }
+.placement-route-list { list-style: none; margin: 0 0 1rem; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+.placement-route-block {
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid var(--line);
+  background: var(--surface-2);
+  border-radius: 10px;
+  padding: 0.6rem 0.8rem;
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  grid-template-areas: "num title" "num why";
+  column-gap: 0.7rem;
+  transition: border-color 0.12s;
+}
+.placement-route-block:hover { border-color: var(--iris); }
+.prb-num { grid-area: num; font-family: var(--mono); color: var(--iris); align-self: center; font-size: 1.1rem; }
+.prb-title { grid-area: title; font-weight: 600; }
+.prb-why { grid-area: why; color: var(--ink-faint); font-size: 0.86rem; }
+.placement-focus { color: var(--ink-soft); font-size: 0.92rem; }
+
 /* ---- Botón de escucha (síntesis de voz) ---- */
 .speak-btn {
   font: inherit;

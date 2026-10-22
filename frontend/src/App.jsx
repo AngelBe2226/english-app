@@ -26,7 +26,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    if (current === "highlights") {
+    if (current === "highlights" || current === "placement") {
       setBlock(null);
       setLoadingBlock(false);
       window.scrollTo({ top: 0, behavior: "instant" });
@@ -87,6 +87,8 @@ export default function App() {
           <p className="muted center">Cargando…</p>
         ) : current === "highlights" ? (
           <HighlightsPanel index={index} onGoToSection={goToSection} />
+        ) : current === "placement" ? (
+          <PlacementTest index={index} onSelectBlock={setCurrent} onGoToSection={goToSection} />
         ) : !block ? (
           <p className="muted center">No se pudo cargar el bloque {current}.</p>
         ) : current === "15" ? (

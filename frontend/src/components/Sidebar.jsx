@@ -72,7 +72,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
 
   // Carga perezosa de los epígrafes del capítulo abierto.
   useEffect(() => {
-    if (expanded && expanded !== "highlights" && !secCache[expanded]) {
+    if (expanded && expanded !== "highlights" && expanded !== "placement" && !secCache[expanded]) {
       api
         .getBlock(expanded)
         .then((d) =>
