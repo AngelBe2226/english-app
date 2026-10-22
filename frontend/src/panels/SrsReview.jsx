@@ -55,7 +55,8 @@ export default function SrsReview() {
 
   return (
     <div className="srs">
-      <header className="srs-head">
+      <header className="srs-head panel-hero">
+        <span className="panel-kicker">Repaso espaciado · Gamificado</span>
         <h2>Repaso diario</h2>
         <p className="srs-sub">
           Repaso espaciado: ves el español, intentas decir el inglés y compruebas. El sistema te

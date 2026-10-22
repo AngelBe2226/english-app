@@ -85,7 +85,8 @@ export default function PlacementTest({ index, onSelectBlock, onGoToSection }) {
   if (!taking) {
     return (
       <div className="placement">
-        <header className="placement-head">
+        <header className="placement-head panel-hero">
+          <span className="panel-kicker">Diagnóstico · CEFR A1–C1</span>
           <h2>Test de nivel</h2>
           <p className="placement-sub">
             Un diagnóstico rápido (25 preguntas, A1→C1) que te sitúa en el Marco Común Europeo
@@ -114,7 +115,8 @@ export default function PlacementTest({ index, onSelectBlock, onGoToSection }) {
   let currentBand = null;
   return (
     <div className="placement">
-      <header className="placement-head">
+      <header className="placement-head panel-hero">
+        <span className="panel-kicker">Diagnóstico · CEFR A1–C1</span>
         <h2>Test de nivel</h2>
         <p className="placement-sub">
           Responde las 25 preguntas y pulsa «Ver mi nivel». {answeredCount}/{QUESTIONS.length} respondidas.

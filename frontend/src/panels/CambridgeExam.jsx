@@ -110,7 +110,8 @@ export default function CambridgeExam() {
 
   return (
     <div className="cambridge">
-      <header className="cambridge-head">
+      <header className="cambridge-head panel-hero">
+        <span className="panel-kicker">Examen · B2 First / C1 Advanced</span>
         <h2>Simulacro Cambridge — Use of English</h2>
         <p className="cambridge-sub">
           Practica las cuatro partes de <i>Use of English</i> de los exámenes de Cambridge.

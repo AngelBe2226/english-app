@@ -2328,3 +2328,140 @@ b.hl,
   padding: 0 1px;
   font-weight: 700;
 }
+
+/* ============================================================
+   Pasada de pulido de interfaz — eleva paneles y componentes
+   nuevos al nivel del núcleo editorial (profundidad, ritmo,
+   CTA unificado y micro-interacciones). Va al final para
+   sobrescribir las definiciones planas anteriores.
+   ============================================================ */
+
+/* ---- Hero de panel: kicker + título display (como los bloques) ---- */
+.panel-kicker {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--iris);
+  background: var(--grad-iris-soft);
+  border: 1px solid color-mix(in srgb, var(--iris) 16%, transparent);
+  padding: 0.28rem 0.7rem;
+  border-radius: var(--r-full);
+  margin-bottom: 0.9rem;
+}
+.panel-hero h2 {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(1.7rem, 1.3rem + 1.6vw, 2.2rem);
+  line-height: 1.14;
+  letter-spacing: -0.02em;
+}
+
+/* ---- Elevación + radios de token en las tarjetas de contenido ---- */
+.reading,
+.dialogue,
+.translate,
+.analysis,
+.exam-task,
+.legend {
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--r-lg);
+}
+.pq {
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--r-md);
+  transition: box-shadow 0.18s var(--ease), border-color 0.18s var(--ease);
+}
+.pq:focus-within {
+  box-shadow: var(--shadow-md);
+  border-color: color-mix(in srgb, var(--iris) 28%, transparent);
+}
+
+/* ---- CTA primario unificado (gradiente iris + lift con muelle) ---- */
+.placement-start,
+.exam-check,
+.srs-show {
+  background: var(--grad-iris);
+  color: #fff;
+  border: none;
+  border-radius: var(--r-md);
+  box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.22);
+  transition: transform 0.2s var(--ease-spring), box-shadow 0.2s var(--ease),
+    filter 0.2s var(--ease);
+}
+.placement-start:hover,
+.exam-check:hover,
+.srs-show:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-iris), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  filter: none;
+}
+.placement-start:active,
+.exam-check:active,
+.srs-show:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-sm);
+}
+
+/* ---- Micro-interacciones en tarjetas/controles clicables ---- */
+.placement-route-block {
+  transition: transform 0.18s var(--ease-out), border-color 0.18s var(--ease),
+    box-shadow 0.18s var(--ease);
+}
+.placement-route-block:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: color-mix(in srgb, var(--iris) 30%, transparent);
+}
+.pq-opt,
+.srs-btn {
+  transition: transform 0.14s var(--ease-out), all 0.14s var(--ease);
+}
+.pq-opt:hover,
+.srs-btn:hover {
+  transform: translateY(-1px);
+}
+.ct-level.active,
+.ct-part.active {
+  box-shadow: var(--shadow-iris);
+}
+
+/* ---- Superficie hero: tarjeta del repaso (SRS) ---- */
+.srs-card {
+  border-radius: var(--r-xl);
+  box-shadow: var(--shadow-md);
+  background:
+    radial-gradient(120% 90% at 50% -18%, var(--iris-soft) 0%, transparent 56%),
+    var(--surface);
+}
+.srs-front {
+  font-family: var(--display);
+  letter-spacing: -0.01em;
+}
+.srs-stat {
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--r-lg);
+}
+.srs-stat-big,
+.exam-score-num {
+  font-family: var(--display);
+  letter-spacing: -0.01em;
+}
+
+/* ---- Tarjeta de nivel (placement): elevada + número con gradiente ---- */
+.placement-levelcard {
+  border-radius: var(--r-2xl);
+  box-shadow: var(--shadow-md);
+  background:
+    radial-gradient(120% 120% at 50% -10%,
+      color-mix(in srgb, var(--iris) 14%, transparent) 0%, transparent 60%),
+    var(--grad-iris-soft);
+}
+.placement-level {
+  font-family: var(--display);
+  background: var(--grad-iris);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
