@@ -1438,6 +1438,106 @@ b.hl,
   .reading-gloss-row { grid-template-columns: 1fr; gap: 0; }
 }
 
+/* ---- Repaso espaciado (SRS) + gamificación ---- */
+.srs { max-width: 680px; }
+.srs-head h2 { margin: 0 0 0.3rem; }
+.srs-sub { color: var(--ink-faint); line-height: 1.6; margin: 0 0 1.1rem; }
+
+.srs-stats { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 0.8rem; }
+.srs-stat {
+  flex: 1 1 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface-2);
+  padding: 0.7rem 0.9rem;
+}
+.srs-stat-big { font-size: 1.35rem; font-weight: 700; color: var(--ink); }
+.srs-streak .srs-stat-big { color: #e4852a; }
+.srs-stat-label { font-size: 0.74rem; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.04em; }
+.srs-goal-bar { height: 0.4rem; border-radius: 999px; background: var(--surface); overflow: hidden; margin-top: 0.4rem; }
+.srs-goal-fill { display: block; height: 100%; background: var(--iris); border-radius: 999px; transition: width 0.25s; }
+
+.srs-counts { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; margin-bottom: 1.2rem; font-size: 0.85rem; color: var(--ink-faint); }
+.srs-count b { color: var(--iris); }
+.srs-count-muted b { color: var(--ink-faint); }
+
+.srs-card {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface-2);
+  padding: 1.6rem 1.3rem;
+  text-align: center;
+  min-height: 11rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+}
+.srs-theme {
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--iris);
+  background: var(--iris-soft);
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+}
+.srs-front { font-size: 1.4rem; font-weight: 600; line-height: 1.35; color: var(--ink); }
+.srs-divider { width: 60%; height: 1px; background: var(--line); }
+.srs-back { display: inline-flex; align-items: center; gap: 0.5rem; }
+.srs-en { font-size: 1.3rem; font-weight: 600; color: var(--iris); }
+.srs-hint { font-size: 0.9rem; color: var(--ink-faint); }
+.srs-show {
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  background: var(--iris);
+  color: #fff;
+  padding: 0.6rem 1.4rem;
+  border-radius: 10px;
+  transition: filter 0.12s;
+}
+.srs-show:hover { filter: brightness(1.08); }
+.srs-rate { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin-top: 0.3rem; }
+.srs-btn {
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  padding: 0.5rem 1.1rem;
+  border-radius: 10px;
+  transition: all 0.12s;
+}
+.srs-again { color: #C0392B; }
+.srs-again:hover { border-color: #C0392B; background: color-mix(in srgb, #C0392B 10%, var(--surface)); }
+.srs-good { color: var(--iris); }
+.srs-good:hover { border-color: var(--iris); background: var(--iris-soft); }
+.srs-easy { color: #2e9e6b; }
+.srs-easy:hover { border-color: #2e9e6b; background: color-mix(in srgb, #2e9e6b 12%, var(--surface)); }
+
+.srs-done { text-align: center; padding: 2rem 1rem; border: 1px dashed var(--line-strong); border-radius: 16px; }
+.srs-done-emoji { font-size: 2.6rem; }
+.srs-done h3 { margin: 0.4rem 0 0.3rem; }
+.srs-done p { color: var(--ink-faint); margin: 0 0 1.1rem; }
+.srs-done-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; }
+.srs-reset-btn {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  padding: 0.55rem 1.1rem;
+  border-radius: 10px;
+}
+.srs-reset-btn:hover { border-color: var(--iris); color: var(--iris); }
+
 /* ---- Simulacro Cambridge (Use of English) ---- */
 .cambridge { max-width: 780px; }
 .cambridge-head h2 { margin: 0 0 0.3rem; }

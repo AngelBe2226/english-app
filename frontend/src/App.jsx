@@ -8,6 +8,7 @@ import Block15Page from "./panels/Block15Page";
 import HighlightsPanel from "./panels/HighlightsPanel";
 import PlacementTest from "./panels/PlacementTest";
 import CambridgeExam from "./panels/CambridgeExam";
+import SrsReview from "./panels/SrsReview";
 
 function scrollToSection(idx) {
   const el = document.getElementById("sec-" + idx.replace(/\./g, "-"));
@@ -27,7 +28,12 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    if (current === "highlights" || current === "placement" || current === "cambridge") {
+    if (
+      current === "highlights" ||
+      current === "placement" ||
+      current === "cambridge" ||
+      current === "srs"
+    ) {
       setBlock(null);
       setLoadingBlock(false);
       window.scrollTo({ top: 0, behavior: "instant" });
@@ -92,6 +98,8 @@ export default function App() {
           <PlacementTest index={index} onSelectBlock={setCurrent} onGoToSection={goToSection} />
         ) : current === "cambridge" ? (
           <CambridgeExam />
+        ) : current === "srs" ? (
+          <SrsReview />
         ) : !block ? (
           <p className="muted center">No se pudo cargar el bloque {current}.</p>
         ) : current === "15" ? (
