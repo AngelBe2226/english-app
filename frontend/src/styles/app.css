@@ -1438,6 +1438,119 @@ b.hl,
   .reading-gloss-row { grid-template-columns: 1fr; gap: 0; }
 }
 
+/* ---- Simulacro Cambridge (Use of English) ---- */
+.cambridge { max-width: 780px; }
+.cambridge-head h2 { margin: 0 0 0.3rem; }
+.cambridge-sub { color: var(--ink-faint); line-height: 1.6; margin: 0 0 1.1rem; }
+.cambridge-tabs { display: flex; flex-direction: column; gap: 0.55rem; margin-bottom: 1.1rem; }
+.ct-levels, .ct-parts { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.ct-level, .ct-part {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  transition: all 0.12s;
+}
+.ct-level { font-weight: 600; padding: 0.3rem 0.9rem; }
+.ct-part { font-size: 0.85rem; padding: 0.25rem 0.75rem; }
+.ct-level:hover, .ct-part:hover { border-color: var(--iris); color: var(--iris); }
+.ct-level.active, .ct-part.active { background: var(--iris); border-color: var(--iris); color: #fff; }
+
+.exam-task { border: 1px solid var(--line); border-radius: 12px; background: var(--surface-2); padding: 1rem 1.1rem; }
+.exam-task-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; margin-bottom: 0.3rem; }
+.exam-part-name {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--iris);
+}
+.exam-task-title { font-weight: 600; color: var(--ink-soft); }
+.exam-instr { color: var(--ink-faint); font-size: 0.88rem; line-height: 1.5; margin: 0 0 1rem; }
+.exam-passage { font-size: 1.04rem; line-height: 2.3; margin: 0; }
+
+.gap-wrap { display: inline-flex; align-items: center; gap: 0.15rem; white-space: nowrap; }
+.gap-n {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  color: #fff;
+  background: var(--ink-faint);
+  border-radius: 4px;
+  padding: 0 0.25rem;
+  vertical-align: super;
+}
+.gap-input, .gap-select {
+  font: inherit;
+  font-size: 0.95rem;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: 6px;
+  padding: 0.1rem 0.35rem;
+}
+.gap-input:focus, .gap-select:focus { outline: none; border-color: var(--iris); }
+.gap-select { max-width: 11rem; }
+.gap-ok { border-color: #2e9e6b !important; background: color-mix(in srgb, #2e9e6b 12%, var(--surface)); }
+.gap-bad { border-color: var(--role-verb, #C0392B) !important; background: color-mix(in srgb, #C0392B 10%, var(--surface)); }
+.gap-root {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.04em;
+  color: var(--iris);
+  margin-left: 0.15rem;
+}
+.gap-sol {
+  font-size: 0.8rem;
+  color: #2e9e6b;
+  margin-left: 0.2rem;
+  white-space: nowrap;
+}
+
+.kwt-list { list-style: none; margin: 0; padding: 0; counter-reset: kwt; display: flex; flex-direction: column; gap: 1.1rem; }
+.kwt-item { counter-increment: kwt; border-top: 1px solid var(--line); padding-top: 0.9rem; }
+.kwt-item:first-child { border-top: none; padding-top: 0; }
+.kwt-lead { margin: 0 0 0.35rem; font-size: 1rem; }
+.kwt-lead::before {
+  content: counter(kwt) ". ";
+  font-family: var(--mono);
+  color: var(--ink-faint);
+}
+.kwt-key { margin: 0 0 0.5rem; font-size: 0.85rem; color: var(--ink-faint); }
+.kwt-key b { font-family: var(--mono); letter-spacing: 0.05em; color: var(--iris); }
+.kwt-prompt { margin: 0; font-size: 1.02rem; line-height: 1.8; }
+.kwt-input { min-width: 11rem; }
+.kwt-model { margin: 0.45rem 0 0; font-size: 0.86rem; color: #2e9e6b; }
+
+.exam-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.7rem; margin: 1.2rem 0 0.4rem; }
+.exam-check {
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  background: var(--iris);
+  color: #fff;
+  padding: 0.55rem 1.2rem;
+  border-radius: 10px;
+  transition: filter 0.12s;
+}
+.exam-check:hover { filter: brightness(1.08); }
+.exam-reset {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-soft);
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+}
+.exam-reset:hover { border-color: var(--iris); color: var(--iris); }
+.exam-score { display: inline-flex; align-items: baseline; gap: 0.4rem; margin-left: auto; }
+.exam-score-num { font-size: 1.5rem; font-weight: 700; color: var(--iris); }
+.exam-score-pct { font-family: var(--mono); font-size: 0.8rem; color: var(--ink-faint); }
+.exam-note { color: var(--ink-faint); font-size: 0.85rem; line-height: 1.5; margin: 0.8rem 0 0; }
+
 /* ---- Test de nivel (placement) ---- */
 .placement { max-width: 760px; }
 .placement-head h2 { margin: 0 0 0.3rem; }

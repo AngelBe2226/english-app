@@ -72,7 +72,13 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
 
   // Carga perezosa de los epígrafes del capítulo abierto.
   useEffect(() => {
-    if (expanded && expanded !== "highlights" && expanded !== "placement" && !secCache[expanded]) {
+    if (
+      expanded &&
+      expanded !== "highlights" &&
+      expanded !== "placement" &&
+      expanded !== "cambridge" &&
+      !secCache[expanded]
+    ) {
       api
         .getBlock(expanded)
         .then((d) =>
@@ -232,6 +238,23 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
               />
             </svg>
             Test de nivel
+          </button>
+
+          <button
+            className={"nav-pin" + (current === "cambridge" ? " current" : "")}
+            onClick={() => onSelectBlock("cambridge")}
+          >
+            <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
+              <path
+                d="M4 5h16v11H4z M8 20h8 M12 16v4"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.7"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            Simulacro Cambridge
           </button>
 
           <nav className="toc">
