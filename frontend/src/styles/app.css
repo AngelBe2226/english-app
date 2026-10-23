@@ -2543,3 +2543,15 @@ b.hl,
 .state-emoji { font-size: 2.6rem; line-height: 1; }
 .state-empty h3 { margin: 0.7rem 0 0.3rem; font-family: var(--display); }
 .state-empty p { color: var(--ink-faint); margin: 0 0 1.2rem; }
+
+/* ---- Feedback del quiz: celebra el acierto, calma el error ---- */
+@media (prefers-reduced-motion: no-preference) {
+  .opts button.correct.just { animation: quiz-pop 0.46s var(--ease-spring) both; }
+  .fb.just { animation: ui-rise 0.3s var(--ease-out) both; }
+}
+@keyframes quiz-pop {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 color-mix(in srgb, var(--ok) 34%, transparent); }
+  45% { transform: scale(1.055); box-shadow: 0 0 0 5px color-mix(in srgb, var(--ok) 26%, transparent); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 transparent; }
+}
+.fb.ok.just { color: var(--ok); font-weight: 600; }
