@@ -9,6 +9,7 @@ import HighlightsPanel from "./panels/HighlightsPanel";
 import PlacementTest from "./panels/PlacementTest";
 import CambridgeExam from "./panels/CambridgeExam";
 import SrsReview from "./panels/SrsReview";
+import { LoadingSkeleton, ErrorState } from "./components/StateViews";
 
 function scrollToSection(idx) {
   const el = document.getElementById("sec-" + idx.replace(/\./g, "-"));
@@ -21,6 +22,7 @@ export default function App() {
   const [current, setCurrent] = useState("09"); // same default as the original site
   const [block, setBlock] = useState(null);
   const [loadingBlock, setLoadingBlock] = useState(true);
+  const [reloadNonce, setReloadNonce] = useState(0);
   const pendingSection = useRef(null);
 
   useEffect(() => {
@@ -56,7 +58,7 @@ export default function App() {
       })
       .catch(() => setBlock(null))
       .finally(() => setLoadingBlock(false));
-  }, [current]);
+  }, [current, reloadNonce]);
 
   function goToSection(targetBlock, idx) {
     if (targetBlock === current) {
@@ -91,7 +93,7 @@ export default function App() {
 
       <main className="content">
         {!loaded || loadingBlock ? (
-          <p className="muted center">Cargando…</p>
+          <LoadingSkeleton />
         ) : current === "highlights" ? (
           <HighlightsPanel index={index} onGoToSection={goToSection} />
         ) : current === "placement" ? (
@@ -101,7 +103,7 @@ export default function App() {
         ) : current === "srs" ? (
           <SrsReview />
         ) : !block ? (
-          <p className="muted center">No se pudo cargar el bloque {current}.</p>
+          <ErrorState blockId={current} onRetry={() => setReloadNonce((n) => n + 1)} />
         ) : current === "15" ? (
           <Block15Page block={block} index={index} />
         ) : (
