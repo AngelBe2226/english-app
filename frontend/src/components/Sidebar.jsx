@@ -224,6 +224,8 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
             Destacados
           </button>
 
+          <div className="nav-group">
+            <span className="nav-group-label">Práctica</span>
           <button
             className={"nav-pin" + (current === "placement" ? " current" : "")}
             onClick={() => onSelectBlock("placement")}
@@ -274,7 +276,9 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
             </svg>
             Repaso diario
           </button>
+          </div>
 
+          <span className="nav-group-label nav-group-label--toc">Temario</span>
           <nav className="toc">
             {index.map((b) => {
               const open = expanded === b.block;

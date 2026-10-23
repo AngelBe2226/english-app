@@ -2465,3 +2465,34 @@ b.hl,
   background-clip: text;
   color: transparent;
 }
+
+/* ---- Agrupación del sidebar: Práctica / Temario ---- */
+.nav-group { margin: 0.5rem 0 0.5rem; }
+.nav-group-label {
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--ink-faint);
+  padding: 0.1rem 0.7rem 0.45rem;
+}
+.nav-group .nav-pin { margin: 0 0 0.3rem; }
+.nav-group-label--toc { margin-top: 0.4rem; padding-top: 0.55rem; }
+
+/* ---- Transición de página suave (calmada, no rebota) ---- */
+@media (prefers-reduced-motion: no-preference) {
+  .content > * {
+    animation: ui-rise 0.36s var(--ease-out) both;
+  }
+  .srs-back { animation: ui-rise 0.22s var(--ease-out) both; }
+  .srs-card { animation: ui-pop 0.3s var(--ease-out) both; }
+}
+@keyframes ui-rise {
+  from { opacity: 0; transform: translateY(7px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes ui-pop {
+  from { opacity: 0; transform: translateY(10px) scale(0.985); }
+  to { opacity: 1; transform: none; }
+}
