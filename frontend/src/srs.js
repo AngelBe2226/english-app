@@ -27,8 +27,10 @@ function normalise(s) {
     cards: (s && s.cards) || {},
     meta: {
       streak: 0,
+      bestStreak: 0,
       lastStudy: null,
       xp: 0,
+      totalReviews: 0,
       reviewsToday: 0,
       reviewsDate: null,
       newToday: 0,
@@ -137,6 +139,7 @@ export function rate(state, id, grade, now = Date.now()) {
   // Gamificación: XP, contadores diarios, nuevas introducidas.
   meta.xp = (meta.xp || 0) + (grade === "again" ? 1 : grade === "easy" ? 3 : 2);
   meta.reviewsToday = (meta.reviewsToday || 0) + 1;
+  meta.totalReviews = (meta.totalReviews || 0) + 1;
   if (wasNew && grade !== "again") meta.newToday = (meta.newToday || 0) + 1;
 
   // Racha: se cuenta un "día de estudio" al primer repaso del día.
@@ -146,6 +149,7 @@ export function rate(state, id, grade, now = Date.now()) {
     meta.streak = meta.lastStudy === yesterday ? (meta.streak || 0) + 1 : 1;
     meta.lastStudy = t;
   }
+  meta.bestStreak = Math.max(meta.bestStreak || 0, meta.streak || 0);
 
   return { cards, meta };
 }
@@ -175,10 +179,28 @@ export function stats(deck, state, now = Date.now()) {
     due: avail.due,
     newAvail: avail.new,
     streak: meta.streak || 0,
+    bestStreak: meta.bestStreak || 0,
     studiedToday: meta.lastStudy === todayStr(now),
     xp: meta.xp || 0,
     level: levelFromXp(meta.xp || 0),
     reviewsToday: meta.reviewsToday || 0,
+    totalReviews: meta.totalReviews || 0,
     goal: DAILY_GOAL,
   };
+}
+
+// Logros / insignias. Cada uno se desbloquea al cumplir su condición sobre las
+// estadísticas. earned() devuelve la lista con su estado para pintarlos.
+export const ACHIEVEMENTS = [
+  { id: "streak3", icon: "🔥", label: "En racha", desc: "3 días seguidos", test: (s) => s.bestStreak >= 3 },
+  { id: "streak7", icon: "⚡", label: "Semana perfecta", desc: "7 días seguidos", test: (s) => s.bestStreak >= 7 },
+  { id: "streak30", icon: "🏆", label: "Imparable", desc: "30 días seguidos", test: (s) => s.bestStreak >= 30 },
+  { id: "rev50", icon: "🌱", label: "Constante", desc: "50 repasos", test: (s) => s.totalReviews >= 50 },
+  { id: "rev200", icon: "🌳", label: "Veterano", desc: "200 repasos", test: (s) => s.totalReviews >= 200 },
+  { id: "master10", icon: "🧠", label: "Buena memoria", desc: "10 tarjetas dominadas", test: (s) => s.mastered >= 10 },
+  { id: "masterAll", icon: "👑", label: "Maestría", desc: "Mazo completo dominado", test: (s) => s.total > 0 && s.mastered >= s.total },
+];
+
+export function earnedBadges(st) {
+  return ACHIEVEMENTS.map((a) => ({ ...a, earned: !!a.test(st) }));
 }

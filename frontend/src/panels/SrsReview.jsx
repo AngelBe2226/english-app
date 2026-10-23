@@ -1,6 +1,6 @@
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { VOCAB } from "../data/vocab";
-import { loadSrs, saveSrs, buildSession, rate, stats } from "../srs";
+import { loadSrs, saveSrs, buildSession, rate, stats, earnedBadges } from "../srs";
 import SpeakButton from "../components/SpeakButton";
 
 // Repaso espaciado (SRS) con gamificación. Muestra el español, el alumno
@@ -21,6 +21,14 @@ export default function SrsReview() {
   const st = stats(VOCAB, srs);
   const current = queue[0];
   const card = current ? byId[current] : null;
+
+  // Logros: los ya desbloqueados al abrir el panel se recuerdan para poder
+  // animar solo los que se desbloqueen durante esta sesión.
+  const badges = earnedBadges(st);
+  const initialEarned = useRef(null);
+  if (initialEarned.current === null) {
+    initialEarned.current = new Set(badges.filter((b) => b.earned).map((b) => b.id));
+  }
 
   function doRate(grade) {
     const next = rate(srs, current, grade);
@@ -150,6 +158,34 @@ export default function SrsReview() {
           </div>
         </div>
       )}
+
+      <section className="srs-badges">
+        <h3 className="srs-badges-title">
+          Logros
+          <span className="srs-badges-count">
+            {badges.filter((b) => b.earned).length}/{badges.length}
+          </span>
+        </h3>
+        <div className="srs-badge-grid">
+          {badges.map((b) => {
+            const isNew = b.earned && !initialEarned.current.has(b.id);
+            return (
+              <div
+                key={b.id}
+                className={
+                  "srs-badge" + (b.earned ? " earned" : " locked") + (isNew ? " just" : "")
+                }
+                title={`${b.label} — ${b.desc}${b.earned ? "" : " (bloqueado)"}`}
+              >
+                <span className="srs-badge-icon">{b.earned ? b.icon : "🔒"}</span>
+                <span className="srs-badge-label">{b.label}</span>
+                <span className="srs-badge-desc">{b.desc}</span>
+                {isNew && <span className="srs-badge-new">¡Nuevo!</span>}
+              </div>
+            );
+          })}
+        </div>
+      </section>
     </div>
   );
 }
