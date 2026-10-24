@@ -1,32 +1,45 @@
 /* ============================================================
-   Design tokens — "Editorial cálido elevado"
-   Identidad beige + iris, llevada a nivel pro.
-   Tema claro por defecto; oscuro cálido vía prefers-color-scheme
-   y override explícito con [data-theme].
+   Design tokens — "Pasaporte + Cuaderno"
+   Estructura de pasaporte (papel crema, tinta marino, sello
+   terracota, códigos tipo vuelo) con detalles de cuaderno
+   (fosforito, post-its, notas a mano) en el contenido.
+   Claro = papel de pasaporte · Oscuro = vuelo nocturno.
+   Los nombres de variable se mantienen (p. ej. --iris es ahora
+   el acento terracota) para que todo el CSS existente herede.
    ============================================================ */
 
 :root {
-  /* ---- superficies / neutros (cálidos) ---- */
-  --bg:#ECEEE7;
-  --bg-tint:#E4E7DC;          /* halo/gradiente de fondo */
-  --surface:#FFFFFF;
-  --surface-2:#F6F7F2;
-  --surface-3:#EFF1EA;
-  --surface-glass:rgba(255,255,255,.72);
-  --ink:#15160E;
-  --ink-soft:#54584B;
-  --ink-faint:#868A7B;
-  --line:#E1E3D8;
-  --line-strong:#CBCEBE;
+  /* ---- papel / neutros cálidos ---- */
+  --bg:#F2EBDD;
+  --bg-tint:#EADFCB;          /* halo/gradiente de fondo */
+  --surface:#FCF9F2;
+  --surface-2:#F7F1E5;
+  --surface-3:#EFE6D4;
+  --surface-glass:rgba(252,249,242,.8);
+  --ink:#1C2640;              /* tinta azul marino */
+  --ink-soft:#4B5470;
+  --ink-faint:#8A8272;
+  --line:#E4D9C5;
+  --line-strong:#CDBDA1;
 
-  /* ---- acento iris (identidad) + gradiente ---- */
-  --iris:#3B3E8C;
-  --iris-strong:#2E3178;
-  --iris-2:#5B4B9C;
-  --iris-soft:#EAEBF6;
-  --iris-glow:rgba(59,62,140,.28);
-  --grad-iris:linear-gradient(135deg,#4A4DA0 0%,#6A5AB8 100%);
-  --grad-iris-soft:linear-gradient(135deg,#EDEEF8 0%,#F1ECF8 100%);
+  /* ---- acento: sello terracota (texto/detalles) + marino (rellenos) ---- */
+  --iris:#B24E28;
+  --iris-strong:#8E3B1C;
+  --iris-2:#C9683D;
+  --iris-soft:#F6E4D6;
+  --iris-glow:rgba(178,78,40,.24);
+  --grad-iris:linear-gradient(135deg,#27365C 0%,#1A2543 100%);
+  --grad-iris-soft:linear-gradient(135deg,#F7E7DA 0%,#F2E9DA 100%);
+
+  /* ---- identidad ---- */
+  --navy:#1F2B4A;
+  --stamp:#B24E28;
+  --marker:rgba(255,206,64,.55);    /* fosforito amarillo */
+  --marker-2:rgba(126,207,170,.5);  /* fosforito menta */
+  --postit:#FFF0A3;
+  --postit-ink:#4F4100;
+  --tape:rgba(255,255,255,.6);
+  --margin-red:rgba(205,84,62,.4);
 
   /* ---- paleta pedagógica ---- */
   --a1:#5C9A4E;
@@ -57,35 +70,36 @@
 
   /* ---- semánticos ---- */
   --ok:#2C7A4B;
-  --ok-bg:#E7F3EB;
+  --ok-bg:#E6F0E0;
   --no:#B23A3A;
-  --no-bg:#F7E9E7;
+  --no-bg:#F6E2DC;
   --star:#C99B1F;
 
   /* ---- tipografía ---- */
-  --display:"Space Grotesk",system-ui,sans-serif;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
   --body:"Inter",system-ui,-apple-system,sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,monospace;
+  --hand:"Caveat","Bradley Hand","Segoe Print",cursive;
 
   /* ---- radios ---- */
-  --r-xs:7px;
-  --r-sm:9px;
-  --r-md:12px;
-  --r-lg:16px;
-  --r-xl:20px;
-  --r-2xl:26px;
+  --r-xs:6px;
+  --r-sm:8px;
+  --r-md:10px;
+  --r-lg:14px;
+  --r-xl:18px;
+  --r-2xl:24px;
   --r-full:999px;
 
-  /* ---- elevación (sombras cálidas, multicapa) ---- */
-  --shadow-xs:0 1px 2px rgba(24,25,15,.05);
-  --shadow-sm:0 1px 2px rgba(24,25,15,.05), 0 2px 6px -2px rgba(24,25,15,.08);
-  --shadow-md:0 2px 4px rgba(24,25,15,.05), 0 10px 24px -12px rgba(24,25,15,.16);
-  --shadow-lg:0 4px 8px rgba(24,25,15,.06), 0 18px 40px -16px rgba(24,25,15,.22);
-  --shadow-xl:0 8px 16px rgba(24,25,15,.08), 0 32px 64px -24px rgba(24,25,15,.28);
-  --shadow-iris:0 8px 24px -8px var(--iris-glow);
+  /* ---- elevación (sombras cálidas tipo papel) ---- */
+  --shadow-xs:0 1px 2px rgba(40,30,10,.06);
+  --shadow-sm:0 1px 2px rgba(40,30,10,.06), 0 2px 6px -2px rgba(40,30,10,.09);
+  --shadow-md:0 2px 4px rgba(40,30,10,.06), 0 10px 24px -12px rgba(40,30,10,.18);
+  --shadow-lg:0 4px 8px rgba(40,30,10,.07), 0 18px 40px -16px rgba(40,30,10,.24);
+  --shadow-xl:0 8px 16px rgba(40,30,10,.08), 0 32px 64px -24px rgba(40,30,10,.3);
+  --shadow-iris:0 8px 22px -8px rgba(28,38,64,.45);
 
   /* ---- focus ring ---- */
-  --ring:0 0 0 3px rgba(59,62,140,.28);
+  --ring:0 0 0 3px rgba(178,78,40,.28);
 
   /* ---- easings ---- */
   --ease:cubic-bezier(.4,0,.2,1);
@@ -94,31 +108,40 @@
 }
 
 /* ============================================================
-   TEMA OSCURO CÁLIDO
+   VUELO NOCTURNO (oscuro)
    - Sigue prefers-color-scheme salvo que el usuario fije [data-theme="light"]
    - [data-theme="dark"] lo fuerza siempre
    ============================================================ */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg:#131310;
-    --bg-tint:#1B1B15;
-    --surface:#1D1D18;
-    --surface-2:#242420;
-    --surface-3:#2B2B25;
-    --surface-glass:rgba(29,29,24,.72);
-    --ink:#F3F2E9;
-    --ink-soft:#B9B7A8;
-    --ink-faint:#83816F;
-    --line:#33322B;
-    --line-strong:#464539;
+    --bg:#0F1420;
+    --bg-tint:#161E2F;
+    --surface:#151C2A;
+    --surface-2:#1A2233;
+    --surface-3:#212A3D;
+    --surface-glass:rgba(21,28,42,.8);
+    --ink:#F2EADB;
+    --ink-soft:#BDB3A2;
+    --ink-faint:#877F70;
+    --line:#283147;
+    --line-strong:#38435C;
 
-    --iris:#A9ABE8;
-    --iris-strong:#C0C2F2;
-    --iris-2:#B6A6E0;
-    --iris-soft:#282A46;
-    --iris-glow:rgba(129,132,232,.32);
-    --grad-iris:linear-gradient(135deg,#6E71C8 0%,#8B76D4 100%);
-    --grad-iris-soft:linear-gradient(135deg,#26284A 0%,#2C2748 100%);
+    --iris:#E58A5E;
+    --iris-strong:#F2A57F;
+    --iris-2:#D9774B;
+    --iris-soft:#2E2420;
+    --iris-glow:rgba(229,138,94,.28);
+    --grad-iris:linear-gradient(135deg,#C9612F 0%,#A9481F 100%);
+    --grad-iris-soft:linear-gradient(135deg,#2C2320 0%,#252331 100%);
+
+    --navy:#C9D3EA;
+    --stamp:#E58A5E;
+    --marker:rgba(255,201,60,.26);
+    --marker-2:rgba(95,190,150,.24);
+    --postit:#3A3320;
+    --postit-ink:#F5E7A6;
+    --tape:rgba(255,255,255,.12);
+    --margin-red:rgba(229,120,94,.35);
 
     --a1:#7FBE6C; --a2:#4FB8AD; --b1:#5C9DD6; --b2:#9A88D4;
     --c1:#D473B4; --c2:#E06B5C;
@@ -130,7 +153,7 @@
     --role-cd:#6BA6DC; --role-ci:#7FBE6C; --role-cc:#B48FD8;
     --role-pred:#E0906A;
 
-    --ok:#5FBE7E; --ok-bg:#18271D; --no:#E0716B; --no-bg:#2C1B1A;
+    --ok:#5FBE7E; --ok-bg:#16261C; --no:#E0716B; --no-bg:#2C1B1A;
     --star:#E0B84A;
 
     --shadow-xs:0 1px 2px rgba(0,0,0,.4);
@@ -138,33 +161,42 @@
     --shadow-md:0 2px 4px rgba(0,0,0,.4), 0 12px 28px -12px rgba(0,0,0,.7);
     --shadow-lg:0 4px 8px rgba(0,0,0,.45), 0 20px 44px -16px rgba(0,0,0,.75);
     --shadow-xl:0 8px 18px rgba(0,0,0,.5), 0 36px 70px -24px rgba(0,0,0,.85);
-    --shadow-iris:0 8px 26px -8px var(--iris-glow);
+    --shadow-iris:0 8px 24px -8px rgba(229,138,94,.35);
 
-    --ring:0 0 0 3px rgba(129,132,232,.4);
+    --ring:0 0 0 3px rgba(229,138,94,.4);
   }
 }
 
 /* Override explícito (el toggle) — mismos valores que el bloque de arriba */
 :root[data-theme="dark"] {
-  --bg:#131310;
-  --bg-tint:#1B1B15;
-  --surface:#1D1D18;
-  --surface-2:#242420;
-  --surface-3:#2B2B25;
-  --surface-glass:rgba(29,29,24,.72);
-  --ink:#F3F2E9;
-  --ink-soft:#B9B7A8;
-  --ink-faint:#83816F;
-  --line:#33322B;
-  --line-strong:#464539;
+  --bg:#0F1420;
+  --bg-tint:#161E2F;
+  --surface:#151C2A;
+  --surface-2:#1A2233;
+  --surface-3:#212A3D;
+  --surface-glass:rgba(21,28,42,.8);
+  --ink:#F2EADB;
+  --ink-soft:#BDB3A2;
+  --ink-faint:#877F70;
+  --line:#283147;
+  --line-strong:#38435C;
 
-  --iris:#A9ABE8;
-  --iris-strong:#C0C2F2;
-  --iris-2:#B6A6E0;
-  --iris-soft:#282A46;
-  --iris-glow:rgba(129,132,232,.32);
-  --grad-iris:linear-gradient(135deg,#6E71C8 0%,#8B76D4 100%);
-  --grad-iris-soft:linear-gradient(135deg,#26284A 0%,#2C2748 100%);
+  --iris:#E58A5E;
+  --iris-strong:#F2A57F;
+  --iris-2:#D9774B;
+  --iris-soft:#2E2420;
+  --iris-glow:rgba(229,138,94,.28);
+  --grad-iris:linear-gradient(135deg,#C9612F 0%,#A9481F 100%);
+  --grad-iris-soft:linear-gradient(135deg,#2C2320 0%,#252331 100%);
+
+  --navy:#C9D3EA;
+  --stamp:#E58A5E;
+  --marker:rgba(255,201,60,.26);
+  --marker-2:rgba(95,190,150,.24);
+  --postit:#3A3320;
+  --postit-ink:#F5E7A6;
+  --tape:rgba(255,255,255,.12);
+  --margin-red:rgba(229,120,94,.35);
 
   --a1:#7FBE6C; --a2:#4FB8AD; --b1:#5C9DD6; --b2:#9A88D4;
   --c1:#D473B4; --c2:#E06B5C;
@@ -176,7 +208,7 @@
   --role-cd:#6BA6DC; --role-ci:#7FBE6C; --role-cc:#B48FD8;
   --role-pred:#E0906A;
 
-  --ok:#5FBE7E; --ok-bg:#18271D; --no:#E0716B; --no-bg:#2C1B1A;
+  --ok:#5FBE7E; --ok-bg:#16261C; --no:#E0716B; --no-bg:#2C1B1A;
   --star:#E0B84A;
 
   --shadow-xs:0 1px 2px rgba(0,0,0,.4);
@@ -184,9 +216,9 @@
   --shadow-md:0 2px 4px rgba(0,0,0,.4), 0 12px 28px -12px rgba(0,0,0,.7);
   --shadow-lg:0 4px 8px rgba(0,0,0,.45), 0 20px 44px -16px rgba(0,0,0,.75);
   --shadow-xl:0 8px 18px rgba(0,0,0,.5), 0 36px 70px -24px rgba(0,0,0,.85);
-  --shadow-iris:0 8px 26px -8px var(--iris-glow);
+  --shadow-iris:0 8px 24px -8px rgba(229,138,94,.35);
 
-  --ring:0 0 0 3px rgba(129,132,232,.4);
+  --ring:0 0 0 3px rgba(229,138,94,.4);
 }
 
 /* Compatibilidad: alias del token de sombra antiguo */

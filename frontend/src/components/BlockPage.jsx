@@ -33,9 +33,32 @@ export default function BlockPage({ block, onReset }) {
 
   return (
     <article className="block-page">
-      <div className="block-kicker">{block.kicker}</div>
-      <h2 className="block-title">{block.title}</h2>
-      <RichText as="p" className="block-intro" html={block.intro} />
+      {/* Cabecera como tarjeta de embarque: cuerpo + talón troquelado. */}
+      <header className="ticket">
+        <div className="ticket-main">
+          <div className="block-kicker">{block.kicker}</div>
+          <h2 className="block-title">{block.title}</h2>
+          <RichText as="p" className="block-intro" html={block.intro} />
+        </div>
+        <dl className="ticket-stub">
+          <div>
+            <dt>Bloque</dt>
+            <dd>{block.block}</dd>
+          </div>
+          <div>
+            <dt>Secciones</dt>
+            <dd>{block.sections.length}</dd>
+          </div>
+          <div>
+            <dt>Preguntas</dt>
+            <dd>{total}</dd>
+          </div>
+          <div>
+            <dt>Aciertos</dt>
+            <dd className="ticket-pct">{pct}%</dd>
+          </div>
+        </dl>
+      </header>
 
       {block.legend?.length > 0 && (
         <div className="legend">

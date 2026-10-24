@@ -79,7 +79,7 @@ export default function App() {
     <div className="layout">
       <aside className="sidebar">
         <div className="brand">
-          <span className="brand-mark">EN</span>
+          <span className="brand-mark">En</span>
           <span className="brand-name">Índice de Inglés</span>
         </div>
         <Sidebar

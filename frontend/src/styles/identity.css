@@ -1,0 +1,316 @@
+/* ============================================================
+   Identidad "Pasaporte + Cuaderno" — capa de carácter.
+   Pasaporte = estructura (tarjeta de embarque, sellos, visado,
+   códigos mono). Cuaderno = contenido (fosforito, post-its,
+   notas a mano, papel pautado). Se carga después de app.css.
+   ============================================================ */
+
+/* ---------- Tipografía editorial (Fraunces) ---------- */
+.block-title,
+.panel-hero h2,
+.section-head h3,
+.brand-name,
+.srs-front,
+.state-empty h3,
+.placement-route h3,
+.srs-badges-title {
+  font-family: var(--display);
+  font-optical-sizing: auto;
+}
+.block-title { font-weight: 600; letter-spacing: -0.015em; }
+.panel-hero h2 { font-weight: 600; letter-spacing: -0.012em; }
+.section-head h3 { font-weight: 600; letter-spacing: -0.004em; }
+
+/* Lectura larga en serif: más cómoda y con más voz */
+.reading-text {
+  font-family: var(--display);
+  font-size: 1.08rem;
+  line-height: 1.72;
+}
+
+/* ---------- Marca ---------- */
+.brand-mark {
+  background: var(--grad-iris);
+  font-family: var(--display);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0;
+  border-radius: 10px;
+  box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.18);
+}
+.brand-name { font-weight: 600; font-size: 1.14rem; letter-spacing: -0.01em; }
+.brand-name::after { content: "."; color: var(--stamp); }
+
+/* ---------- Etiquetas tipo billete (kickers) ---------- */
+.block-kicker,
+.panel-kicker {
+  background: transparent;
+  border: 1.5px dashed color-mix(in srgb, var(--stamp) 55%, transparent);
+  color: var(--stamp);
+  border-radius: var(--r-xs);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+}
+
+/* ---------- Cabecera de bloque = tarjeta de embarque ---------- */
+.ticket {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-xl);
+  box-shadow: var(--shadow-sm);
+  margin: 0 0 1.4rem;
+}
+.ticket-main { padding: 1.6rem 1.8rem 1.3rem; }
+.ticket-main .block-intro { margin-bottom: 0; }
+.ticket-stub {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 0;
+  padding: 0.95rem 1.8rem 1.1rem;
+  border-top: 2px dashed var(--line-strong);
+}
+/* muescas del troquel a ambos lados de la línea de corte */
+.ticket-stub::before,
+.ticket-stub::after {
+  content: "";
+  position: absolute;
+  top: -13px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 1px solid var(--line);
+}
+.ticket-stub::before { left: -13px; clip-path: inset(0 0 0 50%); }
+.ticket-stub::after { right: -13px; clip-path: inset(0 50% 0 0); }
+.ticket-stub > div { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
+.ticket-stub > div + div { border-left: 1px solid var(--line); padding-left: 1rem; }
+.ticket-stub dt {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-faint);
+}
+.ticket-stub dd {
+  margin: 0;
+  font-family: var(--mono);
+  font-weight: 600;
+  font-size: 1.15rem;
+  color: var(--ink);
+  letter-spacing: 0.02em;
+}
+.ticket-stub .ticket-pct { color: var(--stamp); }
+@media (max-width: 560px) {
+  .ticket-main { padding: 1.2rem 1.1rem 1rem; }
+  .ticket-stub {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    row-gap: 0.7rem;
+    padding: 0.9rem 1.1rem 1rem;
+  }
+  .ticket-stub > div:nth-child(3) { border-left: none; padding-left: 0; }
+}
+
+/* ---------- Secciones: papel tranquilo (sin saltos al pasar) ---------- */
+.section-card:hover { transform: none; box-shadow: var(--shadow-md); }
+.sec-idx {
+  font-weight: 600;
+  font-size: 0.78rem;
+  color: var(--stamp);
+  border: 1px solid color-mix(in srgb, var(--stamp) 40%, transparent);
+  border-radius: var(--r-xs);
+  padding: 0 0.35rem;
+}
+
+/* ---------- "Regla" = sello de goma ---------- */
+.rule-box { border-left-color: var(--navy); }
+.rule-tag {
+  border: 1.5px solid var(--stamp);
+  color: var(--stamp);
+  padding: 0.05rem 0.45rem;
+  border-radius: 3px;
+  transform: rotate(-2.5deg);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.55rem;
+}
+
+/* ---------- Fosforito en las palabras clave ---------- */
+b.hl,
+.hl {
+  color: inherit;
+  font-weight: 600;
+  background-image: linear-gradient(
+    transparent 56%,
+    var(--marker) 56%,
+    var(--marker) 92%,
+    transparent 92%
+  );
+  padding: 0 0.12em;
+  border-radius: 2px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* ---------- Notas a mano ---------- */
+.note-tag {
+  font-family: var(--hand);
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0;
+  line-height: 1;
+  margin-bottom: 0.25rem;
+}
+/* "Truco" = post-it con celo */
+.note-tip {
+  background: var(--postit);
+  color: var(--postit-ink);
+  border: none;
+  border-radius: 3px;
+  box-shadow: var(--shadow-sm);
+  transform: rotate(-0.4deg);
+  margin-top: 1rem;
+}
+.note-tip .note-tag,
+.note-tip .note-body b { color: var(--postit-ink); }
+.note-tip::before {
+  content: "";
+  position: absolute;
+  top: -9px;
+  left: 50%;
+  width: 72px;
+  height: 18px;
+  transform: translateX(-50%) rotate(-3deg);
+  background: var(--tape);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+/* ---------- Escritura en papel pautado con margen ---------- */
+.produce textarea {
+  line-height: 1.75rem;
+  padding: 0.5rem 0.9rem 0.5rem 2.7rem;
+  border-radius: var(--r-sm);
+  background-color: var(--surface);
+  background-image:
+    linear-gradient(
+      90deg,
+      transparent 2.05rem,
+      var(--margin-red) 2.05rem,
+      var(--margin-red) calc(2.05rem + 1.5px),
+      transparent calc(2.05rem + 1.5px)
+    ),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent calc(1.75rem - 1px),
+      var(--line) calc(1.75rem - 1px),
+      var(--line) 1.75rem
+    );
+  background-position: 0 0, 0 0.5rem;
+  background-attachment: local, local;
+}
+
+/* ---------- Controles activos: relleno marino (contraste en ambos temas) ---------- */
+.ct-level.active,
+.ct-part.active,
+.pq-opt.chosen,
+.rp-btn.active {
+  background: var(--grad-iris);
+  border-color: transparent;
+  color: #fff;
+}
+
+/* ---------- Repaso: tarjeta de embarque ---------- */
+.srs-divider {
+  height: 0;
+  background: none;
+  border-top: 2px dashed var(--line-strong);
+  width: 72%;
+}
+
+/* ---------- Logros = sellos de pasaporte ---------- */
+.srs-badge-grid {
+  grid-template-columns: repeat(auto-fill, minmax(112px, 1fr));
+  gap: 1rem;
+}
+.srs-badge {
+  --rot: 0deg;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  justify-content: center;
+  padding: 0.75rem;
+  background: transparent;
+  border: 2px dashed var(--line-strong);
+  box-shadow: none;
+  transform: rotate(var(--rot));
+}
+.srs-badge:nth-child(4n + 1) { --rot: -7deg; }
+.srs-badge:nth-child(4n + 2) { --rot: 4deg; }
+.srs-badge:nth-child(4n + 3) { --rot: -3deg; }
+.srs-badge:nth-child(4n + 4) { --rot: 6deg; }
+.srs-badge.earned {
+  background: color-mix(in srgb, var(--stamp) 7%, transparent);
+  border: 2px solid var(--stamp);
+  box-shadow: inset 0 0 0 4px var(--bg), inset 0 0 0 5.5px var(--stamp);
+}
+.srs-badge.earned:hover {
+  transform: rotate(var(--rot)) scale(1.05);
+  box-shadow: inset 0 0 0 4px var(--bg), inset 0 0 0 5.5px var(--stamp);
+}
+.srs-badge.locked { opacity: 0.5; filter: grayscale(1); }
+.srs-badge-icon { font-size: 1.5rem; }
+.srs-badge-label {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.srs-badge.earned .srs-badge-label { color: var(--stamp); }
+.srs-badge-desc { font-size: 0.62rem; }
+@media (prefers-reduced-motion: no-preference) {
+  .srs-badge.just { animation: stamp-in 0.5s var(--ease-spring) both; }
+}
+@keyframes stamp-in {
+  0% { transform: rotate(var(--rot)) scale(1.6); opacity: 0; }
+  60% { transform: rotate(var(--rot)) scale(0.94); opacity: 1; }
+  100% { transform: rotate(var(--rot)) scale(1); }
+}
+
+/* ---------- Test de nivel: visado sellado ---------- */
+.placement-levelcard {
+  background: var(--surface);
+  border: 1px solid var(--line);
+}
+.placement-level {
+  background: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  color: var(--stamp);
+  border: 3px double var(--stamp);
+  border-radius: 12px;
+  padding: 0.15rem 1.1rem 0.25rem;
+  margin: 0.35rem 0 0.45rem;
+  transform: rotate(-4deg);
+  font-weight: 700;
+}
+
+/* ---------- Ajustes de confort ---------- */
+.note-tag { font-size: 1.45rem; }
+/* El 🔊 de cada ejemplo va en línea con la frase, no en su propia fila */
+.examples .ex-en { display: inline; }
+.examples .ex-speak {
+  margin-left: 0.4rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  font-size: 0.66rem;
+  vertical-align: 1px;
+}
+.examples .ex-es { margin-top: 0.1rem; }
+.produce textarea { min-height: calc(1.75rem * 3 + 1rem); }
+/* Los botones no heredan color por defecto: sin esto, en oscuro los títulos salían negros */
+.placement-route-block { color: var(--ink); }

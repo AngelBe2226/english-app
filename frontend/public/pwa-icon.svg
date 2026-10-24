@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" fill="#3B3E8C"/>
-  <text x="256" y="340" text-anchor="middle"
-        font-family="Space Grotesk, Arial, sans-serif" font-weight="700"
-        font-size="230" fill="#ffffff">EN</text>
+  <rect width="512" height="512" fill="#1F2B4A"/>
+  <rect x="44" y="44" width="424" height="424" rx="70" fill="none"
+        stroke="#C9683D" stroke-width="7" stroke-dasharray="16 13"/>
+  <text x="240" y="326" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700"
+        font-size="206" fill="#F2EBDD">En</text>
+  <circle cx="380" cy="308" r="19" fill="#D9774B"/>
 </svg>
