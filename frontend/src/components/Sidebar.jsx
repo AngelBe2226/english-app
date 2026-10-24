@@ -74,6 +74,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
   useEffect(() => {
     if (
       expanded &&
+      expanded !== "home" &&
       expanded !== "highlights" &&
       expanded !== "placement" &&
       expanded !== "cambridge" &&
@@ -208,6 +209,23 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
         </div>
       ) : (
         <>
+          <button
+            className={"nav-pin" + (current === "home" ? " current" : "")}
+            onClick={() => onSelectBlock("home")}
+          >
+            <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
+              <path
+                d="M4 11l8-6.5 8 6.5M6.5 9.5V19h4v-5h3v5h4V9.5"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.7"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            Inicio
+          </button>
+
           <button
             className={"nav-pin" + (current === "highlights" ? " current" : "")}
             onClick={() => onSelectBlock("highlights")}

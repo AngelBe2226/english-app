@@ -9,7 +9,11 @@ import HighlightsPanel from "./panels/HighlightsPanel";
 import PlacementTest from "./panels/PlacementTest";
 import CambridgeExam from "./panels/CambridgeExam";
 import SrsReview from "./panels/SrsReview";
+import HomePage, { LAST_BLOCK_KEY } from "./panels/HomePage";
 import { LoadingSkeleton, ErrorState } from "./components/StateViews";
+
+// Vistas que no son bloques de contenido (no se cargan del API).
+const PANELS = new Set(["home", "highlights", "placement", "cambridge", "srs"]);
 
 function scrollToSection(idx) {
   const el = document.getElementById("sec-" + idx.replace(/\./g, "-"));
@@ -19,7 +23,7 @@ function scrollToSection(idx) {
 export default function App() {
   const { loaded, resetPrefix } = useProgress();
   const [index, setIndex] = useState([]);
-  const [current, setCurrent] = useState("09"); // same default as the original site
+  const [current, setCurrent] = useState("home");
   const [block, setBlock] = useState(null);
   const [loadingBlock, setLoadingBlock] = useState(true);
   const [reloadNonce, setReloadNonce] = useState(0);
@@ -30,12 +34,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    if (
-      current === "highlights" ||
-      current === "placement" ||
-      current === "cambridge" ||
-      current === "srs"
-    ) {
+    if (PANELS.has(current)) {
       setBlock(null);
       setLoadingBlock(false);
       window.scrollTo({ top: 0, behavior: "instant" });
@@ -46,6 +45,12 @@ export default function App() {
       .getBlock(current)
       .then((data) => {
         setBlock(data);
+        // Recordar el último bloque abierto para "continúa donde lo dejaste".
+        try {
+          localStorage.setItem(LAST_BLOCK_KEY, current);
+        } catch {
+          /* modo privado: no pasa nada */
+        }
         // After the new block renders, jump to a requested section or the top.
         requestAnimationFrame(() => {
           if (pendingSection.current) {
@@ -78,10 +83,10 @@ export default function App() {
   return (
     <div className="layout">
       <aside className="sidebar">
-        <div className="brand">
+        <button className="brand" onClick={() => setCurrent("home")} aria-label="Ir al inicio">
           <span className="brand-mark">En</span>
           <span className="brand-name">Índice de Inglés</span>
-        </div>
+        </button>
         <Sidebar
           index={index}
           current={current}
@@ -94,6 +99,8 @@ export default function App() {
       <main className="content">
         {!loaded || loadingBlock ? (
           <LoadingSkeleton />
+        ) : current === "home" ? (
+          <HomePage index={index} onSelectBlock={setCurrent} />
         ) : current === "highlights" ? (
           <HighlightsPanel index={index} onGoToSection={goToSection} />
         ) : current === "placement" ? (
