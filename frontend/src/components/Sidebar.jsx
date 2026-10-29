@@ -79,6 +79,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
       expanded !== "placement" &&
       expanded !== "cambridge" &&
       expanded !== "srs" &&
+      expanded !== "sync" &&
       !secCache[expanded]
     ) {
       api

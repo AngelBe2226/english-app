@@ -17,3 +17,7 @@ frontend/.dist-src-hash
 # OS / editor
 .DS_Store
 frontend/public/content/
+
+# Variables de entorno locales (nunca al repo)
+.env.local
+*.local

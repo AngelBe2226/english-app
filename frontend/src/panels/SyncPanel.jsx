@@ -51,7 +51,7 @@ export default function SyncPanel() {
   return (
     <div className="sync-panel">
       <header className="panel-hero">
-        <span className="panel-kicker">Tu progreso · iPhone ↔ Mac Mini ↔ MacBook</span>
+        <span className="panel-kicker">Tu progreso · iPhone ↔ Mac</span>
         <h2>Sincronizar dispositivos</h2>
         <p className="sync-lead">
           Entra con la misma cuenta en cada dispositivo y lo que hagas en uno aparecerá en los demás.
