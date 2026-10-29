@@ -1,28 +1,22 @@
 import { useMemo, useState } from "react";
 import { QUESTIONS, BANDS, ROUTES, scorePlacement } from "../data/placement";
+import { useProgress } from "../progress";
+import { K_PLACEMENT } from "../keys";
 
-const STORE_KEY = "english-app-placement";
-
-function loadSaved() {
+function parse(raw) {
   try {
-    const raw = localStorage.getItem(STORE_KEY);
     return raw ? JSON.parse(raw) : null;
   } catch {
     return null;
-  }
-}
-function save(result) {
-  try {
-    localStorage.setItem(STORE_KEY, JSON.stringify(result));
-  } catch {
-    /* modo privado: no se guarda, no pasa nada */
   }
 }
 
 // Test de nivel: diagnóstico CEFR + ruta recomendada. Si ya hay un resultado
 // guardado, lo muestra directamente con opción de rehacer. Todo offline.
 export default function PlacementTest({ index, onSelectBlock, onGoToSection }) {
-  const [saved, setSaved] = useState(loadSaved);
+  // El resultado se guarda en el almacén de progreso → se sincroniza.
+  const { getVal, setVal } = useProgress();
+  const saved = parse(getVal(K_PLACEMENT));
   const [taking, setTaking] = useState(false);
   const [answers, setAnswers] = useState({});
   const [result, setResult] = useState(null);
@@ -60,8 +54,7 @@ export default function PlacementTest({ index, onSelectBlock, onGoToSection }) {
       date: new Date().toISOString(),
     };
     setResult(r);
-    setSaved(stored);
-    save(stored);
+    setVal(K_PLACEMENT, JSON.stringify(stored));
     setTaking(false);
     window.scrollTo({ top: 0, behavior: "smooth" });
   }

@@ -2,22 +2,13 @@ import { useMemo } from "react";
 import { useProgress } from "../progress";
 import { VOCAB } from "../data/vocab";
 import { ROUTES } from "../data/placement";
-import { loadSrs, stats, earnedBadges } from "../srs";
+import { srsFromProgress, stats, earnedBadges } from "../srs";
+import { K_LAST_BLOCK, K_PLACEMENT } from "../keys";
 import SpeakButton from "../components/SpeakButton";
 
-export const LAST_BLOCK_KEY = "english-app-last-block";
-
-function readJSON(key) {
+function parse(raw) {
   try {
-    const raw = localStorage.getItem(key);
     return raw ? JSON.parse(raw) : null;
-  } catch {
-    return null;
-  }
-}
-function readStr(key) {
-  try {
-    return localStorage.getItem(key);
   } catch {
     return null;
   }
@@ -32,7 +23,7 @@ function greeting(h) {
 // Página de inicio: el "mostrador de embarque" de la app. Saludo, continuar
 // donde lo dejaste, repaso de hoy, nivel, frase del día y accesos a la práctica.
 export default function HomePage({ index, onSelectBlock }) {
-  const { progress } = useProgress();
+  const { progress, getVal } = useProgress();
   const now = new Date();
 
   const titleOf = useMemo(() => {
@@ -53,11 +44,11 @@ export default function HomePage({ index, onSelectBlock }) {
   const totalAnswered = Object.values(answeredByBlock).reduce((a, b) => a + b, 0);
   const blocksStarted = Object.keys(answeredByBlock).length;
 
-  const srs = stats(VOCAB, loadSrs());
+  const srs = stats(VOCAB, srsFromProgress(progress));
   const badgesEarned = earnedBadges(srs).filter((b) => b.earned).length;
-  const placement = readJSON("english-app-placement");
+  const placement = parse(getVal(K_PLACEMENT));
 
-  const last = readStr(LAST_BLOCK_KEY);
+  const last = getVal(K_LAST_BLOCK);
   const lastBlock = last && titleOf[last] ? titleOf[last] : null;
   // Sin historial: proponer el primer bloque de la ruta del test (o el 01).
   const suggested =

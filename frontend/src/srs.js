@@ -1,8 +1,9 @@
-// Motor de repaso espaciado (SRS) + gamificación, todo offline en localStorage.
+// Motor de repaso espaciado (SRS) + gamificación.
 // Algoritmo tipo SM-2 simplificado con tres valoraciones: otra vez / bien / fácil.
-// El estado es por dispositivo (como el resto del progreso de la app).
+// El estado vive en el almacén de progreso (una clave por tarjeta + una de
+// meta), así se sincroniza entre dispositivos y se fusiona tarjeta a tarjeta.
+import { K_SRS_META, SRS_CARD_PREFIX, srsCardKey } from "./keys";
 
-const KEY = "english-app-srs";
 const DAY = 24 * 60 * 60 * 1000;
 export const DAILY_GOAL = 20; // repasos objetivo al día
 const NEW_PER_DAY = 12; // tarjetas nuevas que se introducen cada día
@@ -12,14 +13,19 @@ function todayStr(now = Date.now()) {
   return new Date(now).toISOString().slice(0, 10);
 }
 
-export function loadSrs() {
-  try {
-    const raw = localStorage.getItem(KEY);
-    const s = raw ? JSON.parse(raw) : null;
-    return normalise(s);
-  } catch {
-    return normalise(null);
+// Reconstruye el estado del repaso a partir del mapa de progreso.
+export function srsFromProgress(progress) {
+  const cards = {};
+  let meta = null;
+  for (const [k, v] of Object.entries(progress || {})) {
+    try {
+      if (k === K_SRS_META) meta = JSON.parse(v);
+      else if (k.startsWith(SRS_CARD_PREFIX)) cards[k.slice(SRS_CARD_PREFIX.length)] = JSON.parse(v);
+    } catch {
+      /* valor corrupto: se ignora esa clave */
+    }
   }
+  return normalise({ cards, meta });
 }
 
 function normalise(s) {
@@ -40,12 +46,14 @@ function normalise(s) {
   };
 }
 
-export function saveSrs(state) {
-  try {
-    localStorage.setItem(KEY, JSON.stringify(state));
-  } catch {
-    /* modo privado: no persiste, no pasa nada */
+// Claves que cambian entre dos estados (para guardar solo lo tocado).
+export function srsDiff(prev, next) {
+  const items = {};
+  for (const [id, card] of Object.entries(next.cards)) {
+    if (JSON.stringify(prev.cards[id]) !== JSON.stringify(card)) items[srsCardKey(id)] = JSON.stringify(card);
   }
+  if (JSON.stringify(prev.meta) !== JSON.stringify(next.meta)) items[K_SRS_META] = JSON.stringify(next.meta);
+  return items;
 }
 
 // Asegura que los contadores diarios correspondan a HOY (si no, los reinicia).

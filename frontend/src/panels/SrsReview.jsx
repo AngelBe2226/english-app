@@ -1,6 +1,7 @@
 import { useMemo, useRef, useState } from "react";
 import { VOCAB } from "../data/vocab";
-import { loadSrs, saveSrs, buildSession, rate, stats, earnedBadges } from "../srs";
+import { srsFromProgress, srsDiff, buildSession, rate, stats, earnedBadges } from "../srs";
+import { useProgress } from "../progress";
 import SpeakButton from "../components/SpeakButton";
 
 // Repaso espaciado (SRS) con gamificación. Muestra el español, el alumno
@@ -13,8 +14,11 @@ export default function SrsReview() {
     return m;
   }, []);
 
-  const [srs, setSrs] = useState(loadSrs);
-  const [queue, setQueue] = useState(() => buildSession(VOCAB, loadSrs()));
+  // El estado sale del almacén de progreso: si llega un repaso hecho en otro
+  // dispositivo, las cifras se actualizan solas.
+  const { progress, importAll } = useProgress();
+  const srs = useMemo(() => srsFromProgress(progress), [progress]);
+  const [queue, setQueue] = useState(() => buildSession(VOCAB, srsFromProgress(progress)));
   const [flipped, setFlipped] = useState(false);
   const [done, setDone] = useState(0); // repasos en esta sesión
 
@@ -32,8 +36,7 @@ export default function SrsReview() {
 
   function doRate(grade) {
     const next = rate(srs, current, grade);
-    saveSrs(next);
-    setSrs(next);
+    importAll(srsDiff(srs, next)); // solo la tarjeta tocada + la meta
     setDone((d) => d + 1);
     setFlipped(false);
     setQueue((q) => (grade === "again" ? [...q.slice(1), q[0]] : q.slice(1)));
@@ -52,9 +55,7 @@ export default function SrsReview() {
   }
 
   function restartSession() {
-    const fresh = loadSrs();
-    setSrs(fresh);
-    setQueue(buildSession(VOCAB, fresh));
+    setQueue(buildSession(VOCAB, srsFromProgress(progress)));
     setDone(0);
     setFlipped(false);
   }
