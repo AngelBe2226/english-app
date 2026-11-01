@@ -79,6 +79,31 @@ export function pendingCount() {
   return Object.keys(readJSON(OUTBOX_KEY, {})).length;
 }
 
+export function clearOutbox() {
+  writeJSON(OUTBOX_KEY, {});
+}
+
+// Este dispositivo pasa a ser de `userId` sin subir lo local (se usa cuando lo
+// local era de otra persona o se descarta): el próximo tirón lo trae todo.
+export function claimDevice(userId) {
+  setMeta({ userId, lastPull: 0 });
+}
+
+// Qué hacer con lo local cuando entra `userId` en este dispositivo:
+//  "seed" → lo local no tiene dueño: se sube a esta cuenta (unión).
+//  "wipe" → lo local es de otra persona: se vacía y se baja lo de esta cuenta.
+//  "none" → ya era de esta persona: sincronización normal.
+export function ownershipAction(userId) {
+  const owner = getMeta().userId;
+  if (owner && owner !== userId) return "wipe";
+  if (!owner) return "seed";
+  return "none";
+}
+
+export function resetMeta() {
+  writeJSON(META_KEY, { lastPull: 0, userId: null, lastSync: null });
+}
+
 export function getMeta() {
   return readJSON(META_KEY, { lastPull: 0, userId: null, lastSync: null });
 }
@@ -180,18 +205,26 @@ export async function signIn(email, password) {
 }
 
 // Devuelve true si hay que confirmar el email antes de poder entrar.
-export async function signUp(email, password) {
+export async function signUp(email, password, name) {
   const redirect = window.location.origin + ((import.meta.env && import.meta.env.BASE_URL) || "/");
   const { data, error } = await getClient().auth.signUp({
     email,
     password,
-    options: { emailRedirectTo: redirect },
+    options: { emailRedirectTo: redirect, data: name ? { name } : undefined },
   });
   if (error) throw error;
   return !data.session;
 }
 
+// Solo cierra la sesión; vaciar lo local lo decide quien llama (progress.jsx).
 export async function signOut() {
   await getClient().auth.signOut();
-  setMeta({ userId: null, lastPull: 0 });
+}
+
+// Nombre visible de la cuenta (metadata del registro) o, si no hay, el email.
+export function displayName(user) {
+  const n = user?.user_metadata?.name?.trim();
+  if (n) return n;
+  const local = (user?.email || "").split("@")[0];
+  return local ? local.charAt(0).toUpperCase() + local.slice(1) : null;
 }

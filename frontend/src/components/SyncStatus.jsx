@@ -26,10 +26,12 @@ export function describeSync(sync, now = Date.now()) {
       return { tone: "wait", label: sync.pending ? "Sin conexión · se subirá luego" : "Sin conexión" };
     case "error":
       return { tone: "bad", label: "Error al sincronizar" };
-    default:
+    default: {
+      const who = sync.name ? `${sync.name} · ` : "";
       return sync.pending
-        ? { tone: "wait", label: "Cambios por subir" }
-        : { tone: "ok", label: `Sincronizado · ${timeAgo(sync.lastSync, now)}` };
+        ? { tone: "wait", label: `${who}cambios por subir` }
+        : { tone: "ok", label: `${who}sincronizado ${timeAgo(sync.lastSync, now)}` };
+    }
   }
 }
 

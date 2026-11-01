@@ -315,3 +315,46 @@ html { -webkit-text-size-adjust: 100%; }
   .nav-pin:active,
   .nav-item:active { transform: scale(0.985); }
 }
+
+/* ---------- cuentas: pestañas Entrar / Crear cuenta y pregunta de dueño ---------- */
+.sync-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.3rem;
+  padding: 0.25rem;
+  border-radius: var(--r-md);
+  background: var(--surface-3);
+}
+.sync-tab {
+  min-height: 40px;
+  border: none;
+  border-radius: calc(var(--r-md) - 2px);
+  background: none;
+  font: inherit;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.sync-tab.active { background: var(--surface); color: var(--ink); box-shadow: var(--shadow-xs); }
+.sync-own {
+  margin: 0;
+  padding: 0.85rem 0.9rem;
+  border: 1.5px dashed color-mix(in srgb, var(--stamp) 55%, transparent);
+  border-radius: var(--r-md);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.sync-own legend { padding: 0 0.3rem; font-size: 0.88rem; font-weight: 600; color: var(--ink); }
+.sync-form .sync-radio {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.55rem;
+  min-height: 40px;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--ink);
+  cursor: pointer;
+}
+.sync-form .sync-radio input { width: 18px; height: 18px; padding: 0; accent-color: var(--stamp); }

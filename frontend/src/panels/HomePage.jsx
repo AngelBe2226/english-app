@@ -23,7 +23,7 @@ function greeting(h) {
 // Página de inicio: el "mostrador de embarque" de la app. Saludo, continuar
 // donde lo dejaste, repaso de hoy, nivel, frase del día y accesos a la práctica.
 export default function HomePage({ index, onSelectBlock }) {
-  const { progress, getVal } = useProgress();
+  const { progress, getVal, sync } = useProgress();
   const now = new Date();
 
   const titleOf = useMemo(() => {
@@ -68,7 +68,10 @@ export default function HomePage({ index, onSelectBlock }) {
     <div className="home">
       <header className="home-hero panel-hero">
         <span className="panel-kicker">Hoy · {dateLabel}</span>
-        <h2>{greeting(now.getHours())}</h2>
+        <h2>
+          {greeting(now.getHours())}
+          {sync.name ? `, ${sync.name}` : ""}
+        </h2>
         <p className="home-lead">¿A qué destino del inglés viajamos hoy?</p>
       </header>
 

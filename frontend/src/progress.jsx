@@ -53,6 +53,7 @@ export function ProgressProvider({ children }) {
   const [syncState, setSyncState] = useState(() => ({
     status: sync.syncConfigured ? "idle" : "off",
     email: null,
+    name: null,
     lastSync: sync.getMeta().lastSync,
     pending: sync.pendingCount(),
     error: null,
@@ -60,6 +61,7 @@ export function ProgressProvider({ children }) {
   const syncing = useRef(false);
   const again = useRef(false);
   const debounce = useRef(null);
+  const switching = useRef(false); // cambio de persona en curso: no sincronizar
 
   const commit = useCallback((updater) => {
     setProgress((prev) => {
@@ -67,6 +69,20 @@ export function ProgressProvider({ children }) {
       progressRef.current = next;
       return next;
     });
+  }, []);
+
+  // Deja el dispositivo sin progreso (memoria + almacén local). Lo usa el
+  // cambio de persona: el progreso de cada cuenta ya está a salvo en la nube.
+  const wipeLocal = useCallback(async () => {
+    progressRef.current = {};
+    setProgress({});
+    await api.resetPrefix("").catch(() => {});
+  }, []);
+
+  // Espera a que termine una sincronización en curso (para no mezclar datos
+  // de una persona en el almacén de la siguiente).
+  const waitIdle = useCallback(async () => {
+    while (syncing.current) await new Promise((r) => setTimeout(r, 100));
   }, []);
 
   // ---------- sincronización ----------
@@ -96,7 +112,7 @@ export function ProgressProvider({ children }) {
   );
 
   const runSync = useCallback(async () => {
-    if (!sync.syncConfigured) return;
+    if (!sync.syncConfigured || switching.current) return;
     if (syncing.current) {
       again.current = true; // hubo cambios durante la sincronización: repetir al acabar
       return;
@@ -106,20 +122,36 @@ export function ProgressProvider({ children }) {
     try {
       const session = await sync.currentSession();
       if (!session) {
-        setSyncState((s) => ({ ...s, status: "signed-out", email: null, pending: sync.pendingCount() }));
+        setSyncState((s) => ({ ...s, status: "signed-out", email: null, name: null, pending: sync.pendingCount() }));
         return;
       }
       if (typeof navigator !== "undefined" && navigator.onLine === false) {
-        setSyncState((s) => ({ ...s, status: "offline", email: session.user.email, pending: sync.pendingCount() }));
+        setSyncState((s) => ({
+          ...s,
+          status: "offline",
+          email: session.user.email,
+          name: sync.displayName(session.user),
+          pending: sync.pendingCount(),
+        }));
         return;
       }
-      sync.seedFromLocal(progressRef.current, session.user.id);
+      // Cada dispositivo guarda el progreso de UNA persona: la de la sesión.
+      const action = sync.ownershipAction(session.user.id);
+      if (action === "wipe") {
+        // Lo local es de otra persona: no se mezcla. Se vacía y se baja lo suyo.
+        sync.clearOutbox();
+        await wipeLocal();
+        sync.claimDevice(session.user.id);
+      } else if (action === "seed") {
+        sync.seedFromLocal(progressRef.current, session.user.id);
+      }
       const sb = sync.getClient();
       await sync.push(sb);
       await sync.pull(sb, applyRemote);
       setSyncState({
         status: "synced",
         email: session.user.email,
+        name: sync.displayName(session.user),
         lastSync: sync.getMeta().lastSync,
         pending: sync.pendingCount(),
         error: null,
@@ -139,7 +171,7 @@ export function ProgressProvider({ children }) {
         setTimeout(() => runSync(), 300);
       }
     }
-  }, [applyRemote]);
+  }, [applyRemote, wipeLocal]);
 
   const scheduleSync = useCallback(() => {
     if (!sync.syncConfigured) return;
@@ -272,14 +304,50 @@ export function ProgressProvider({ children }) {
     ...syncState,
     configured: sync.syncConfigured,
     runNow: runSync,
-    signIn: async (email, password) => {
-      await sync.signIn(email, password);
+    // Progreso de este dispositivo que aún no es de ninguna cuenta (el de antes
+    // de sincronizar). Al entrar, la persona decide si es suyo.
+    unownedCount:
+      !syncState.email && !sync.getMeta().userId
+        ? Object.keys(progress).filter((k) => k !== K_LAST_BLOCK).length
+        : 0,
+    // keepLocal = false → ese progreso sin dueño no es de quien entra: se descarta.
+    signIn: async (email, password, { keepLocal = true } = {}) => {
+      switching.current = true;
+      try {
+        await waitIdle();
+        if (!keepLocal && !sync.getMeta().userId) {
+          sync.clearOutbox();
+          await wipeLocal();
+        }
+        await sync.signIn(email, password);
+      } finally {
+        switching.current = false;
+      }
       await runSync();
     },
-    signUp: (email, password) => sync.signUp(email, password),
+    signUp: (email, password, name) => sync.signUp(email, password, name),
+    // Cambiar de persona: sube lo pendiente, cierra la sesión y deja el
+    // dispositivo limpio para la siguiente. Sin red y con cambios pendientes no
+    // se permite (se perderían).
     signOut: async () => {
-      await sync.signOut();
-      setSyncState((s) => ({ ...s, status: "signed-out", email: null, lastSync: null }));
+      switching.current = true;
+      clearTimeout(debounce.current);
+      try {
+        await waitIdle();
+        if (sync.pendingCount() > 0) {
+          if (typeof navigator !== "undefined" && navigator.onLine === false) {
+            throw new Error("PENDING_OFFLINE");
+          }
+          await sync.push(sync.getClient());
+        }
+        await sync.signOut();
+        sync.clearOutbox();
+        sync.resetMeta();
+        await wipeLocal();
+        setSyncState({ status: "signed-out", email: null, name: null, lastSync: null, pending: 0, error: null });
+      } finally {
+        switching.current = false;
+      }
     },
   };
 
