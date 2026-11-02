@@ -103,7 +103,7 @@ export default function SyncPanel() {
             <p className="sync-account">
               Sesión de <b>{sync.name}</b> · {sync.email}
             </p>
-            {sync.status === "error" && sync.error && <p className="sync-error">{sync.error}</p>}
+            {sync.status === "error" && sync.error && <p className="sync-error">{friendlyError(sync.error)}</p>}
             {msg && <p className={"sync-msg sync-msg-" + msg.tone}>{msg.text}</p>}
             <div className="sync-actions">
               <button className="srs-show" onClick={() => sync.runNow()} disabled={busy || sync.status === "syncing"}>
@@ -234,6 +234,10 @@ function friendlyError(e) {
   if (/not confirmed/i.test(m)) return "Confirma primero la cuenta desde el email que te llegó.";
   if (/already registered/i.test(m)) return "Ese email ya tiene cuenta: pulsa Entrar.";
   if (/signups not allowed|signup.*disabled/i.test(m)) return "El registro de cuentas nuevas está cerrado.";
+  // Lista de emails autorizados (supabase/allowlist.sql): el registro falla
+  // con un error de base de datos y la subida, con la política de filas.
+  if (/EMAIL_NOT_ALLOWED|database error saving new user|row-level security/i.test(m))
+    return "Este email no tiene acceso a la app.";
   if (/fetch|network/i.test(m)) return "Sin conexión. Inténtalo cuando tengas red.";
   return m || "No se pudo completar. Inténtalo de nuevo.";
 }
