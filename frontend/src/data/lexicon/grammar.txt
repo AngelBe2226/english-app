@@ -1,0 +1,288 @@
+# Palabras gramaticales: pronombres, determinantes, preposiciones, conjunciones,
+# modales, auxiliares y contracciones.
+# palabra|tipo|significado|extra|nota
+# Tipos: pron, det, prep, conj, mod (modal), ctr (contracción), int (interjección), num, adv
+i|pron|yo||Sujeto. Siempre en mayúscula. Objeto: me · posesivo: my / mine · reflexivo: myself.
+me|pron|me, mí||Objeto de I (después del verbo o de una preposición): «Call me», «with me».
+my|det|mi, mis||Posesivo delante de sustantivo: my room. Sin sustantivo se usa mine.
+mine|pron|(el) mío, (la) mía||Posesivo que va solo: «It's mine».
+myself|pron|yo mismo/a; me (reflexivo)||Reflexivo o enfático: «I did it myself».
+you|pron|tú, usted, vosotros/as; te, os||Sujeto y objeto, singular y plural. Posesivo: your / yours.
+your|det|tu, tus, su, vuestro/a||Posesivo delante de sustantivo: your booking.
+yours|pron|(el) tuyo, (el) suyo, (el) vuestro||Posesivo que va solo: «Is this yours?». En cartas: Yours sincerely.
+yourself|pron|tú mismo/a; te (reflexivo)||Reflexivo singular: «Help yourself».
+yourselves|pron|vosotros/as mismos/as; os (reflexivo)||Reflexivo plural.
+he|pron|él||Sujeto. Objeto: him · posesivo: his · reflexivo: himself.
+him|pron|lo, le, él||Objeto de he: «I saw him», «for him».
+his|det|su, sus (de él); (el) suyo||Sirve delante de sustantivo (his car) y solo (it's his).
+himself|pron|él mismo; se (reflexivo)||Reflexivo: «He hurt himself».
+she|pron|ella||Sujeto. Objeto: her · posesivo: her / hers · reflexivo: herself.
+her|pron|la, le, ella; su, sus (de ella)||Objeto (I called her) y posesivo delante de sustantivo (her bag).
+hers|pron|(el) suyo (de ella)||Posesivo que va solo: «The bag is hers».
+herself|pron|ella misma; se (reflexivo)||Reflexivo: «She enjoyed herself».
+it|pron|ello; lo, la (cosa o animal)||Sujeto y objeto para cosas. También sujeto vacío: «It's raining».
+its|det|su, sus (de una cosa)||Posesivo, sin apóstrofo. No confundir con it's (= it is).
+itself|pron|sí mismo/a (cosa); se||Reflexivo para cosas: «The door closes itself».
+we|pron|nosotros/as||Sujeto. Objeto: us · posesivo: our / ours · reflexivo: ourselves.
+us|pron|nos, nosotros/as||Objeto de we: «Join us».
+our|det|nuestro/a, nuestros/as||Posesivo delante de sustantivo: our hotel.
+ours|pron|(el) nuestro||Posesivo que va solo: «The table is ours».
+ourselves|pron|nosotros/as mismos/as; nos||Reflexivo: «We enjoyed ourselves».
+they|pron|ellos/as||Sujeto plural (y singular neutro: someone… they). Objeto: them · posesivo: their / theirs.
+them|pron|los, las, les, ellos/as||Objeto de they: «Call them».
+their|det|su, sus (de ellos)||Posesivo delante de sustantivo: their room. No confundir con there o they're.
+theirs|pron|(el) suyo (de ellos)||Posesivo que va solo: «The car is theirs».
+themselves|pron|ellos/as mismos/as; se||Reflexivo: «They helped themselves».
+one|pron|uno; (el/la) que||Sustituye a un sustantivo contable: «the blue one», «this one».
+ones|pron|los/las (que)||Plural de one: «the cheaper ones».
+oneself|pron|uno mismo||Reflexivo impersonal, formal.
+who|pron|quién; que (personas)||Pregunta por personas y relativo de persona: «the guest who called».
+whom|pron|a quién; a quien||Objeto formal de who: «To whom it may concern».
+whose|pron|de quién; cuyo/a||Posesión: «Whose bag is this?», «the guest whose bag…».
+which|pron|cuál; que (cosas)||Pregunta con opciones limitadas y relativo de cosa: «the room which…».
+what|pron|qué; lo que||Pregunta abierta: «What time is it?». Relativo: «what you need» (lo que necesitas).
+whatever|pron|lo que sea, cualquier cosa que||«Order whatever you like».
+whichever|pron|el que sea, cualquiera que||«Choose whichever room you prefer».
+whoever|pron|quienquiera que||«Whoever arrives first…».
+that|pron|eso, aquel; que||Demostrativo (that room) y relativo (the room that…). Plural: those.
+this|det|este, esta, esto||Demostrativo cercano. Plural: these.
+these|det|estos, estas||Plural de this.
+those|det|esos, aquellos||Plural de that.
+the|det|el, la, los, las||Artículo definido. Se pronuncia /ði/ delante de vocal.
+a|det|un, una||Artículo indefinido delante de sonido consonante: a hotel, a user.
+an|det|un, una||Artículo indefinido delante de sonido vocal: an hour, an email.
+some|det|algo de, algunos/as||En afirmativas y en ofrecimientos: «Would you like some coffee?».
+any|det|algún, ningún; cualquier||En negativas y preguntas: «Do you have any rooms?». En afirmativas = cualquier.
+no|det|ningún, ninguna; no||«There's no hot water». Como respuesta: no.
+every|det|cada, todos los||Con sustantivo singular: every day, every guest.
+each|det|cada (uno)||Cada uno por separado: «each room has a balcony».
+all|det|todo/a, todos/as||«all the rooms», «all day».
+both|det|ambos, los dos||«both options», «both of them».
+either|det|cualquiera de los dos; tampoco||Uno u otro: «either day». En negativas: «I don't either».
+neither|det|ninguno de los dos; tampoco||«Neither option works». «Neither do I» (yo tampoco).
+another|det|otro/a (uno más)||Singular: another coffee, another room.
+other|det|otro/a, otros/as||«the other room», «other guests».
+others|pron|otros/as||Sin sustantivo: «some guests…, others…».
+such|det|tal, tan||«such a nice view» (una vista tan bonita).
+many|det|muchos/as||Con contables: many guests. Comparativo: more · superlativo: most.
+much|det|mucho/a||Con incontables: much time. Comparativo: more · superlativo: most.
+more|det|más||Comparativo de many/much y de adjetivos largos: more expensive.
+most|det|la mayoría; el/la más||«most guests», «the most popular dish».
+few|det|pocos/as||Con contables. a few = unos cuantos (sentido positivo).
+fewer|det|menos (contables)||Comparativo de few: fewer complaints.
+little|det|poco/a; pequeño||Con incontables: little time. a little = un poco.
+less|det|menos||Comparativo de little: less noise.
+least|det|el/la menos; lo mínimo||«at least» = al menos.
+several|det|varios/as||«several options».
+enough|det|suficiente, bastante||Delante del sustantivo (enough rooms) y detrás del adjetivo (big enough).
+half|det|medio/a, la mitad||«half an hour», «half the price».
+own|det|propio/a||«my own room», «on my own» (solo, por mi cuenta).
+lots|det|muchos, montones||«lots of guests» (informal).
+plenty|pron|de sobra, muchos||«plenty of time».
+anybody|pron|alguien; nadie (en negativas)||Igual que anyone.
+anyone|pron|alguien; nadie; cualquiera||En preguntas y negativas: «Is anyone there?».
+anything|pron|algo; nada; cualquier cosa||En preguntas y negativas: «Anything else?».
+anywhere|adv|en algún sitio; en ningún sitio; en cualquier sitio||
+somebody|pron|alguien||Igual que someone.
+someone|pron|alguien||«Someone called for you».
+something|pron|algo||«something to drink».
+somewhere|adv|en algún sitio||
+everybody|pron|todos, todo el mundo||Verbo en singular: «Everybody is here».
+everyone|pron|todos, todo el mundo||Verbo en singular: «Everyone loves it».
+everything|pron|todo||Verbo en singular: «Everything is ready».
+everywhere|adv|en todas partes||
+nobody|pron|nadie||Verbo afirmativo: «Nobody called» (no «nobody didn't»).
+none|pron|ninguno/a; nada||«None of the rooms are free».
+nothing|pron|nada||Verbo afirmativo: «Nothing happened».
+nowhere|adv|en ningún sitio||
+at|prep|en, a (punto concreto)||Lugar exacto (at the hotel) y hora (at 9 o'clock).
+in|prep|en, dentro de||Dentro de un espacio (in the room), meses y años (in May), «en X tiempo» (in two days).
+on|prep|en, sobre||Superficie (on the table), días y fechas (on Monday).
+to|prep|a, hacia; para||Dirección (to the airport). También marca el infinitivo: to work.
+from|prep|de, desde||Origen: «from Madrid», «from 9 to 5».
+for|prep|para; durante; por||Destinatario y propósito (for you), duración (for two hours).
+of|prep|de||Pertenencia y cantidad: «a cup of tea», «the end of the day».
+with|prep|con||«a room with a view».
+without|prep|sin||Seguido de -ing: «without paying».
+by|prep|por; junto a; antes de||Agente en pasiva (by the chef), medio (by car), plazo (by Friday).
+about|prep|sobre, acerca de; alrededor de||«about the price», «about 20 people».
+above|prep|encima de, por encima de||
+across|prep|a través de, al otro lado de||«across the street».
+after|prep|después de||También conjunción: «after you check in».
+against|prep|contra||
+along|prep|a lo largo de, por||«along the beach».
+among|prep|entre (varios)||Entre más de dos. Entre dos: between.
+around|prep|alrededor de; por||«around the city», «around 10 o'clock».
+before|prep|antes de||También conjunción y adverbio.
+behind|prep|detrás de||
+below|prep|debajo de, por debajo de||
+beside|prep|al lado de||No confundir con besides (además).
+besides|adv|además; aparte de||
+between|prep|entre (dos)||«between 9 and 5».
+beyond|prep|más allá de||
+despite|prep|a pesar de||Seguido de sustantivo o -ing, sin of: «despite the rain».
+down|prep|abajo, hacia abajo||«down the stairs».
+during|prep|durante||Seguido de sustantivo: during the stay.
+except|prep|excepto, salvo||
+inside|prep|dentro (de)||
+into|prep|en, dentro de (con movimiento)||«Come into the room».
+like|prep|como||Comparación: «a room like this».
+near|prep|cerca de||
+next|adj|próximo, siguiente||«next week», «next to» (al lado de).
+off|prep|fuera de; apagado||«off the menu», «the lights are off».
+onto|prep|sobre, encima de (con movimiento)||
+opposite|prep|enfrente de||
+out|adv|fuera||«out of» = fuera de.
+outside|prep|fuera (de)||
+over|prep|sobre, por encima de; más de||«over 100 guests».
+past|prep|más allá de; y (en la hora)||«half past ten» (las diez y media).
+per|prep|por (cada)||«80 euros per night».
+plus|prep|más||
+since|prep|desde (que)||Con present perfect: «since 2019». También = ya que.
+than|conj|que (en comparaciones)||«cheaper than the other one».
+through|prep|a través de; por||«through the window», «Monday through Friday».
+throughout|prep|durante todo; por todo||«throughout the year».
+till|prep|hasta||Informal de until.
+toward|prep|hacia||Variante americana de towards.
+towards|prep|hacia||
+under|prep|debajo de; menos de||
+until|prep|hasta (que)||Tiempo: «until 11 am».
+up|prep|arriba, hacia arriba||«up the stairs».
+upon|prep|sobre; al (formal)||«upon arrival» = a la llegada.
+via|prep|vía, por medio de||
+within|prep|dentro de||«within 24 hours».
+vs|prep|contra (versus)||
+and|conj|y||
+but|conj|pero||
+or|conj|o||
+nor|conj|ni||«neither… nor» = ni… ni.
+so|conj|así que; tan||Consecuencia (so we called) e intensificador (so nice).
+because|conj|porque||Seguido de oración. Con sustantivo: because of.
+if|conj|si||Condicional: «If you book now, …».
+unless|conj|a menos que||= if… not.
+whether|conj|si (alternativa)||«whether or not» = tanto si… como si no.
+when|conj|cuando||
+whenever|conj|siempre que, cuando sea||
+where|adv|dónde; donde||
+wherever|adv|dondequiera que||
+while|conj|mientras; aunque||
+whereas|conj|mientras que (contraste)||
+although|conj|aunque||Seguido de oración: «although it rained».
+though|conj|aunque; sin embargo||Al final de frase = sin embargo.
+once|conj|una vez que; una vez||
+as|conj|como; mientras; ya que||«as you know», «as soon as».
+how|adv|cómo; qué tan||«How much…?», «How long…?».
+why|adv|por qué||
+therefore|adv|por lo tanto||
+however|adv|sin embargo||
+hence|adv|de ahí; por eso||Formal.
+thus|adv|así, por tanto||Formal.
+moreover|adv|además||Formal.
+furthermore|adv|además||Formal.
+nevertheless|adv|no obstante||
+nonetheless|adv|no obstante||
+meanwhile|adv|mientras tanto||
+otherwise|adv|de lo contrario||
+instead|adv|en cambio, en su lugar||«instead of» = en lugar de.
+consequently|adv|por consiguiente||
+accordingly|adv|en consecuencia||
+can|mod|poder; saber (hacer algo)|could|Modal: sin -s en 3ª persona y seguido de infinitivo sin to. Pasado: could. Negativa: can't / cannot.
+could|mod|podía, podría, pude||Pasado de can y forma cortés: «Could you…?». Posibilidad: «It could rain».
+may|mod|poder (permiso, posibilidad)||Más formal que can: «May I see your passport?». Posibilidad: «It may rain».
+might|mod|podría, quizás||Posibilidad más remota que may: «We might be late».
+must|mod|deber, tener que||Obligación interna y deducción segura: «You must be tired». Negativa mustn't = prohibición.
+shall|mod|(futuro, ofrecimientos)||Hoy sobre todo en ofrecimientos: «Shall I call a taxi?».
+should|mod|debería||Consejo: «You should book early».
+will|mod|(futuro)||Futuro, decisiones en el momento y promesas: «I'll call you back». Negativa: won't.
+would|mod|(condicional); querría||Condicional y cortesía: «Would you like…?», «I'd prefer…».
+ought|mod|debería (ought to)||= should, más formal: «You ought to apologise».
+cannot|mod|no poder||Forma negativa escrita de can, en una sola palabra.
+can't|ctr|no puedo / no puede (cannot)||
+couldn't|ctr|no podía, no podría (could not)||
+mustn't|ctr|no debes (must not)||Prohibición.
+needn't|ctr|no hace falta (need not)||
+shouldn't|ctr|no debería (should not)||
+won't|ctr|no + futuro (will not)||«I won't be late».
+wouldn't|ctr|no + condicional (would not)||
+don't|ctr|no (do not)||Negativa del presente simple (I/you/we/they).
+doesn't|ctr|no (does not)||Negativa del presente simple en 3ª persona.
+didn't|ctr|no (did not)||Negativa del pasado simple.
+isn't|ctr|no es / no está (is not)||
+aren't|ctr|no son / no están (are not)||
+wasn't|ctr|no era / no estaba (was not)||
+weren't|ctr|no eran / no estaban (were not)||
+haven't|ctr|no he / no hemos (have not)||
+hasn't|ctr|no ha (has not)||
+hadn't|ctr|no había (had not)||
+i'm|ctr|yo soy / yo estoy (I am)||
+i've|ctr|yo he (I have)||
+i'll|ctr|yo + futuro (I will)||
+i'd|ctr|yo + condicional / yo había (I would / I had)||
+you're|ctr|tú eres / estás (you are)||
+you've|ctr|tú has (you have)||
+you'll|ctr|tú + futuro (you will)||
+you'd|ctr|tú + condicional / habías (you would / you had)||
+he's|ctr|él es / está; él ha (he is / he has)||
+he'll|ctr|él + futuro (he will)||
+he'd|ctr|él + condicional / había (he would / he had)||
+she's|ctr|ella es / está; ella ha (she is / she has)||
+she'll|ctr|ella + futuro (she will)||
+she'd|ctr|ella + condicional / había (she would / she had)||
+it's|ctr|es / está; ha (it is / it has)||No confundir con its (su, de una cosa).
+it'll|ctr|+ futuro (it will)||
+we're|ctr|nosotros somos / estamos (we are)||
+we've|ctr|nosotros hemos (we have)||
+we'll|ctr|nosotros + futuro (we will)||
+we'd|ctr|nosotros + condicional / habíamos (we would / we had)||
+they're|ctr|ellos son / están (they are)||No confundir con their ni there.
+they've|ctr|ellos han (they have)||
+they'll|ctr|ellos + futuro (they will)||
+they'd|ctr|ellos + condicional / habían (they would / they had)||
+that's|ctr|eso es (that is)||
+there's|ctr|hay (there is / there has)||
+here's|ctr|aquí está / aquí tiene (here is)||«Here's your key».
+what's|ctr|qué es / qué ha (what is / what has)||
+who's|ctr|quién es / quién ha (who is / who has)||No confundir con whose.
+let's|ctr|vamos a… (let us)||Propuesta: «Let's start».
+could've|ctr|podría haber (could have)||
+o'clock|adv|en punto||«at nine o'clock».
+oh|int|oh||
+hi|int|hola||Informal.
+hello|int|hola||
+bye|int|adiós||
+goodbye|int|adiós||
+yes|int|sí||
+okay|int|vale, de acuerdo||
+ok|int|vale, de acuerdo||
+please|int|por favor||
+thanks|int|gracias||
+sorry|adj|perdón, lo siento||«Sorry for the delay». «Sorry?» = ¿perdón?, ¿cómo dice?
+cheers|int|gracias; salud (brindis)||Británico informal.
+hmm|int|mmm (duda)||
+congratulations|int|enhorabuena||
+there|adv|allí; (hay)||«There is / there are» = hay.
+here|adv|aquí||
+not|adv|no||Negación tras auxiliar: «is not», «do not».
+zero|num|cero||
+one|num|uno||
+two|num|dos||
+three|num|tres||
+four|num|cuatro||
+five|num|cinco||
+six|num|seis||
+seven|num|siete||
+eight|num|ocho||
+nine|num|nueve||
+ten|num|diez||
+eleven|num|once||
+twelve|num|doce||
+twenty|num|veinte||
+hundred|num|cien||
+thousand|num|mil||Plural thousands = miles.
+first|num|primero||
+second|num|segundo||
+third|num|tercero||
+fourth|num|cuarto||
+eleventh|num|undécimo||
+once|adv|una vez||
+twice|adv|dos veces||

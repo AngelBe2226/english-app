@@ -1,0 +1,805 @@
+# Sustantivos, adjetivos y adverbios (A–L).
+# palabra|tipo|significado|extra|nota
+# Tipos: n (contable), nu (incontable), adj, adv
+# Extra: n → plural irregular · adj → comparativo,superlativo irregulares; «er» = admite -er/-est; «more» = more/most; «-» = no se gradúa
+able|adj|capaz||«be able to» = poder, ser capaz de.
+abroad|adv|en el extranjero||
+absolutely|adv|totalmente; por supuesto||
+accent|n|acento||
+access|nu|acceso||
+accident|n|accidente||
+account|n|cuenta; relato||
+accurately|adv|con precisión||
+accustomed|adj|acostumbrado|more|«be accustomed to» + -ing.
+active|adj|activo|more|
+actual|adj|real, verdadero|-|Falso amigo: no significa «actual» (= current).
+actually|adv|en realidad||Falso amigo: no significa «actualmente» (= currently).
+addition|n|adición, incorporación||«in addition» = además.
+address|n|dirección||
+advance|n|avance; anticipo||«in advance» = con antelación.
+advantage|n|ventaja||
+advice|nu|consejo(s)||Incontable: «some advice», «a piece of advice». Nunca «advices».
+advisor|n|asesor/a||
+affordable|adj|asequible|more|
+afraid|adj|asustado; me temo que|more|«I'm afraid…» = me temo que… (malas noticias con tacto).
+afternoon|n|tarde||
+again|adv|otra vez, de nuevo||
+age|n|edad; época||
+agency|n|agencia||
+agent|n|agente||
+ago|adv|hace (tiempo)||Detrás del periodo: «two days ago».
+agreement|n|acuerdo||
+ahead|adv|delante, por delante||«go ahead» = adelante.
+air|nu|aire||
+airport|n|aeropuerto||
+alarm|n|alarma||
+alert|adj|alerta, atento|more|
+allergic|adj|alérgico|more|«allergic to nuts».
+allergy|n|alergia||
+almost|adv|casi||
+alone|adj|solo|-|
+already|adv|ya||Con present perfect: «I've already paid».
+also|adv|también||Va delante del verbo principal: «We also offer…».
+alternative|n|alternativa||
+always|adv|siempre||
+ambulance|n|ambulancia||
+amenity|n|servicio, comodidad (de un hotel)||Casi siempre en plural: amenities.
+american|adj|estadounidense|-|
+amicably|adv|amistosamente||
+amount|n|cantidad||
+analysis|n|análisis|analyses|
+angry|adj|enfadado||
+anniversary|n|aniversario||
+annoyed|adj|molesto|more|Cómo se siente alguien. Lo que molesta es annoying.
+annoying|adj|molesto, irritante|more|
+anticipatory|adj|anticipatorio|-|
+antique|adj|antiguo (de anticuario)|-|
+anymore|adv|ya no (en negativas)||«We don't do that anymore».
+anytime|adv|cuando sea||
+anyway|adv|de todos modos||
+apart|adv|aparte; separado||«apart from» = aparte de.
+apartment|n|apartamento, piso||
+apology|n|disculpa||
+app|n|aplicación (móvil)||
+application|n|solicitud; aplicación||
+appointment|n|cita||
+approval|nu|aprobación||
+area|n|zona, área||
+arguably|adv|posiblemente, se podría decir||
+argument|n|discusión; argumento||
+arm|n|brazo||
+arrival|n|llegada||
+arrogant|adj|arrogante|more|
+art|nu|arte||
+artisan|n|artesano||
+assertive|adj|firme, asertivo|more|
+assistance|nu|ayuda, asistencia||
+assistant|n|asistente, ayudante||
+atmosphere|n|ambiente; atmósfera||
+attention|nu|atención||
+attitude|n|actitud||
+attractive|adj|atractivo|more|
+august|n|agosto||Los meses van con mayúscula: August.
+australian|adj|australiano|-|
+authentic|adj|auténtico|more|
+automatically|adv|automáticamente||
+autumn|n|otoño||
+availability|nu|disponibilidad||
+available|adj|disponible|more|
+average|adj|medio, promedio|-|
+awake|adj|despierto|-|
+award|n|premio||
+aware|adj|consciente|more|«aware of» = consciente de.
+awareness|nu|conciencia, conocimiento||
+away|adv|fuera; lejos||«go away», «two km away».
+baby|n|bebé||
+back|adv|atrás; de vuelta||«come back», «call back».
+back|n|espalda; parte de atrás||
+backdrop|n|telón de fondo||
+backup|n|copia de seguridad; respaldo||
+bad|adj|malo|worse,worst|
+bag|n|bolso, bolsa; maleta||
+balcony|n|balcón||
+ball|n|pelota; baile||
+ballpark|n|estadio; «ballpark figure» = cifra aproximada||
+ballroom|n|salón de baile||
+banana|n|plátano||
+bank|n|banco||
+banquet|n|banquete||
+bar|n|bar; barra||
+base|n|base||
+basement|n|sótano||
+basic|adj|básico|more|
+bat|n|bate; murciélago||
+bath|n|bañera; baño||
+bathroom|n|cuarto de baño||
+batter|nu|rebozado, masa||
+battle|n|batalla||
+beach|n|playa||
+beachfront|n|primera línea de playa||
+beautiful|adj|precioso, bonito|more|
+beautifully|adv|maravillosamente||
+bed|n|cama||
+bedroom|n|dormitorio||
+beforehand|adv|de antemano||
+behalf|n|nombre, parte||«on behalf of» = en nombre de.
+behaviour|nu|comportamiento||Británico. Americano: behavior.
+belongings|n|pertenencias||Siempre en plural.
+belt|n|cinturón||
+benefit|n|beneficio, ventaja||
+berry|n|baya||
+best|adj|el mejor|-|Superlativo de good.
+bet|n|apuesta||
+better|adj|mejor|-|Comparativo de good.
+bid|n|puja, oferta||
+big|adj|grande||
+bill|n|cuenta, factura||«Could we have the bill?».
+binding|adj|vinculante|-|
+bit|n|trocito, poco||«a bit» = un poco.
+black|adj|negro||
+blanket|n|manta||
+blessing|n|bendición||
+block|n|bloque; manzana||
+blue|adj|azul||
+board|n|tablero; junta; pensión (half board)||
+boat|n|barco||
+body|n|cuerpo||
+boiler|n|caldera||
+bonus|n|bonificación, extra||
+book|n|libro||
+booking|n|reserva||
+bookshop|n|librería||
+boot|n|bota; maletero||
+boss|n|jefe/a||
+bottle|n|botella||
+bottom|n|fondo, parte de abajo||
+box|n|caja||
+brainer|n|«no-brainer» = algo obvio||
+brand|n|marca||
+bread|nu|pan||
+break|n|descanso, pausa||
+breakfast|n|desayuno||
+breakout|n|«breakout room» = sala para grupos||
+breathtaking|adj|impresionante, que quita el aliento|more|
+bridge|n|puente||
+bright|adj|luminoso; brillante||
+brilliantly|adv|de maravilla||
+british|adj|británico|-|
+brochure|n|folleto||
+buck|n|dólar (informal)||
+budget|n|presupuesto||
+buffet|n|bufé||
+building|n|edificio||
+bulk|nu|grueso, mayor parte||«in bulk» = al por mayor.
+bullet|n|bala; viñeta (bullet point)||
+bundle|n|paquete, lote||
+bus|n|autobús|buses|
+bush|n|arbusto||
+business|n|negocio, empresa||
+busy|adj|ocupado; concurrido||
+butter|nu|mantequilla||
+butterfly|n|mariposa||«butterflies in my stomach» = nervios.
+buyer|n|comprador/a||
+cabin|n|cabina; cabaña||
+cafe|n|cafetería||
+cake|n|pastel, tarta||
+calendar|n|calendario||
+call|n|llamada||
+calm|adj|tranquilo||
+calmly|adv|con calma||
+campaign|n|campaña||
+cancellation|n|cancelación||
+cap|n|gorra; tope||
+capable|adj|capaz|more|
+capacity|n|capacidad, aforo||
+car|n|coche||
+card|n|tarjeta||
+care|nu|cuidado||
+career|n|carrera (profesional)||
+careful|adj|cuidadoso|more|
+carefully|adv|con cuidado||
+cart|n|carrito||
+case|n|caso; maleta||«in case» = por si acaso.
+cash|nu|efectivo||
+castle|n|castillo||
+cat|n|gato||
+catering|nu|catering, servicio de comidas||
+cathedral|n|catedral||
+cautious|adj|prudente, cauteloso|more|
+cava|nu|cava||
+central|adj|céntrico, central|more|
+centre|n|centro||Británico. Americano: center.
+certainly|adv|por supuesto, sin duda||
+chain|n|cadena||
+chair|n|silla||
+challenge|n|desafío, reto||
+chance|n|oportunidad; posibilidad||
+change|n|cambio; cambio (dinero suelto)||
+charge|n|cargo, coste||«free of charge» = gratis.
+charger|n|cargador||
+charm|nu|encanto||
+charming|adj|encantador|more|
+cheap|adj|barato||
+check|n|comprobación; cuenta (EE. UU.)||
+checkout|n|salida (del hotel); caja||
+cheeky|adj|descarado, pícaro||
+chef|n|chef, cocinero/a||
+chicken|n|pollo||
+child|n|niño/a|children|
+childish|adj|infantil (en sentido negativo)|more|
+childlike|adj|infantil, inocente (positivo)|more|
+chin|n|barbilla||
+chip|n|patata frita (UK); chip||
+chocolate|nu|chocolate||
+choice|n|elección, opción||
+church|n|iglesia||
+circumstance|n|circunstancia||
+city|n|ciudad||
+civil|adj|civil|-|
+claim|n|reclamación; afirmación||
+classroom|n|aula||
+clean|adj|limpio||
+cleaning|nu|limpieza||
+cleanliness|nu|limpieza (cualidad)||
+clear|adj|claro||
+clearly|adv|claramente||
+client|n|cliente||
+clock|n|reloj||
+close|adj|cercano||
+closing|n|cierre||
+clothes|n|ropa||Siempre en plural.
+clothing|nu|ropa||
+cloud|n|nube||
+club|n|club||
+coast|n|costa||
+coastal|adj|costero|-|
+coat|n|abrigo||
+cobbled|adj|empedrado|-|
+code|n|código||
+coffee|nu|café||
+cold|adj|frío||
+colleague|n|compañero/a de trabajo||
+color|n|color||Americano. Británico: colour.
+colour|n|color||Británico. Americano: color.
+comfort|nu|comodidad, confort||
+comfortable|adj|cómodo|more|
+comfortably|adv|cómodamente||
+commission|n|comisión||
+communal|adj|comunitario, compartido|-|
+company|n|empresa; compañía||
+comparable|adj|comparable|more|En inmobiliaria, comparables = inmuebles parecidos vendidos.
+compensation|nu|compensación||
+competitive|adj|competitivo|more|
+competitor|n|competidor||
+complaint|n|queja, reclamación||
+completely|adv|completamente||
+completion|nu|finalización; firma final (compraventa)||
+composure|nu|compostura||
+concern|n|preocupación||
+concerned|adj|preocupado|more|
+concierge|n|conserje||
+conclusion|n|conclusión||
+condition|n|condición; estado||
+conditioning|nu|«air conditioning» = aire acondicionado||
+conference|n|conferencia, congreso||
+confidence|nu|confianza, seguridad||
+confident|adj|seguro de sí mismo|more|
+confidently|adv|con seguridad||
+confirmation|n|confirmación||
+confused|adj|confundido|more|
+confusing|adj|confuso|more|
+connection|n|conexión||
+consequently|adv|por consiguiente||
+constantly|adv|constantemente||
+contract|n|contrato||
+contractor|n|contratista||
+contrary|n|contrario||«on the contrary» = al contrario.
+contrast|n|contraste||
+control|nu|control||
+convenient|adj|conveniente, práctico|more|
+conveyancing|nu|trámites legales de la compraventa||
+cookie|n|galleta||
+cool|adj|fresco; guay||
+copy|n|copia||
+corner|n|esquina, rincón||
+correct|adj|correcto|-|
+correctly|adv|correctamente||
+corridor|n|pasillo||
+cost|n|coste||
+costly|adj|costoso||
+cosy|adj|acogedor||Británico. Americano: cozy.
+cozy|adj|acogedor||Americano. Británico: cosy.
+cot|n|cuna (de viaje)||
+counter|n|mostrador||
+country|n|país||
+couple|n|pareja; par||«a couple of» = un par de.
+coupon|n|cupón||
+course|n|curso; plato; rumbo||«of course» = por supuesto.
+courtyard|n|patio||
+crash|n|accidente; caída (del sistema)||
+cream|nu|nata; crema||
+creamy|adj|cremoso||
+crisis|n|crisis|crises|
+crisp|adj|crujiente||
+crispy|adj|crujiente||
+criticism|nu|crítica||
+critic|n|crítico/a||
+crowd|n|multitud||
+crowded|adj|abarrotado|more|
+crucially|adv|sobre todo, de forma decisiva||
+cucumber|n|pepino||
+culture|n|cultura||
+cup|n|taza||
+cuppa|n|taza de té (informal británico)||
+curious|adj|curioso|more|
+currently|adv|actualmente||
+curtain|n|cortina||
+curve|n|curva||
+customer|n|cliente||
+daily|adj|diario|-|
+dairy|nu|lácteos||
+damp|adj|húmedo||
+danger|n|peligro||
+dark|adj|oscuro||
+data|nu|datos||
+date|n|fecha; cita||
+dawn|n|amanecer||
+day|n|día||
+daylight|nu|luz del día||
+deadline|n|fecha límite, plazo||
+deal|n|trato, acuerdo; oferta||«a good deal» = una buena oferta.
+dear|adj|querido||En cartas: Dear Mr Smith.
+debate|n|debate||
+decade|n|década||
+december|n|diciembre||
+decision|n|decisión||
+deed|n|escritura (de propiedad)||
+deep|adj|profundo||
+deeply|adv|profundamente||
+definitely|adv|sin duda, definitivamente||
+degree|n|grado; título universitario||
+delay|n|retraso||
+delegate|n|delegado/a, participante||
+delegation|n|delegación||
+delicate|adj|delicado|more|
+delicious|adj|delicioso|more|
+delighted|adj|encantado|more|
+delightful|adj|encantador|more|
+demand|n|demanda||
+demanding|adj|exigente|more|
+department|n|departamento||
+deposit|n|fianza, depósito; señal||
+desert|n|desierto||
+design|n|diseño||
+designer|n|diseñador/a||
+desk|n|mostrador; escritorio||
+dessert|n|postre||
+destination|n|destino||
+detail|n|detalle||
+detailed|adj|detallado|more|
+determined|adj|decidido|more|
+device|n|dispositivo||
+dietary|adj|alimentario, dietético|-|«dietary requirements» = necesidades alimentarias.
+difference|n|diferencia||
+different|adj|diferente|more|
+differently|adv|de forma diferente||
+difficult|adj|difícil|more|
+dining|nu|comedor; restauración||«dining room» = comedor.
+dinner|n|cena||
+directions|n|indicaciones||
+directly|adv|directamente||
+dirt|nu|suciedad||
+dirty|adj|sucio||
+disappointed|adj|decepcionado|more|
+disappointing|adj|decepcionante|more|
+discount|n|descuento||
+discreetly|adv|con discreción||
+discussion|n|conversación, debate||
+disguise|n|disfraz||«a blessing in disguise» = no hay mal que por bien no venga.
+dish|n|plato||
+dissatisfaction|nu|insatisfacción||
+doctor|n|médico/a||
+document|n|documento||
+dog|n|perro||
+door|n|puerta||
+double|adj|doble|-|
+doubt|n|duda||
+downstairs|adv|abajo (en la planta de abajo)||
+drawer|n|cajón||
+drawing|n|dibujo||
+dream|n|sueño||
+dress|n|vestido||
+drink|n|bebida||
+driveway|n|entrada para coches||
+dry|adj|seco||
+due|adj|previsto; debido|-|«due to» = debido a. «The rent is due» = toca pagar.
+dull|adj|aburrido; apagado||
+duty|n|deber; turno||«on duty» = de guardia.
+each|det|cada||
+ear|n|oreja, oído||
+earlier|adv|antes, más temprano||
+early|adj|temprano||
+ease|nu|facilidad||«at ease» = a gusto.
+easter|n|Semana Santa||
+easy|adj|fácil||
+edge|n|borde||
+effect|n|efecto||
+efficiency|nu|eficiencia||
+efficiently|adv|eficientemente||
+effort|n|esfuerzo||
+either|adv|tampoco (en negativas)||«I don't like it either».
+elegant|adj|elegante|more|
+elevator|n|ascensor (EE. UU.)||Británico: lift.
+else|adv|más; otro||«anything else?» = ¿algo más?
+email|n|correo electrónico||
+embarrassed|adj|avergonzado|more|Falso amigo: no significa «embarazada» (= pregnant).
+embarrassing|adj|vergonzoso|more|
+embassy|n|embajada||
+emergency|n|emergencia||
+employee|n|empleado/a||
+empty|adj|vacío||
+end|n|fin, final||
+ending|n|final; terminación||
+english|adj|inglés|-|
+enough|adv|suficientemente||Detrás del adjetivo: «big enough».
+entrance|n|entrada||
+enthusiasm|nu|entusiasmo||
+enthusiastically|adv|con entusiasmo||
+environmental|adj|medioambiental|-|
+equally|adv|igualmente||
+equipment|nu|equipo, material||Incontable.
+equipped|adj|equipado|more|
+equivalent|n|equivalente||
+error|n|error||
+escort|n|acompañante, escolta||
+especially|adv|especialmente||
+essential|adj|esencial|more|
+estate|n|finca; «estate agent» = agente inmobiliario||
+euro|n|euro||
+even|adv|incluso; aún||«even better» = aún mejor.
+evening|n|tarde, noche||
+event|n|evento||
+eventually|adv|al final, finalmente||Falso amigo: no significa «eventualmente».
+ever|adv|alguna vez; nunca||«Have you ever…?».
+exactly|adv|exactamente||
+exam|n|examen||
+example|n|ejemplo||
+excellent|adj|excelente|-|
+exceptionally|adv|excepcionalmente||
+exception|n|excepción||
+exchange|n|cambio, intercambio||
+excited|adj|ilusionado, emocionado|more|
+exciting|adj|emocionante|more|
+exclusive|adj|exclusivo|more|
+excuse|n|excusa||«Excuse me» = disculpe.
+exhausted|adj|agotado|-|
+exhausting|adj|agotador|more|
+exit|n|salida||
+expectation|n|expectativa||
+expensive|adj|caro|more|
+experience|n|experiencia||
+experienced|adj|experimentado|more|
+explanation|n|explicación||
+exquisite|adj|exquisito|more|
+extent|n|grado, medida||
+extra|adj|adicional, extra|-|
+extremely|adv|extremadamente||
+eye|n|ojo||
+fabric|n|tejido, tela||
+face|n|cara||
+facial|n|tratamiento facial||
+facility|n|instalación; servicio||Casi siempre en plural: facilities.
+fact|n|hecho||«in fact» = de hecho.
+faint|adj|débil, tenue||
+fair|adj|justo; razonable||
+fairly|adv|bastante; con justicia||
+faithfully|adv|fielmente||«Yours faithfully» = cierre de carta formal sin nombre.
+familiar|adj|conocido, familiar|more|
+family|n|familia||
+famous|adj|famoso|more|
+far|adv|lejos|further,furthest|
+fast|adj|rápido||
+fault|n|culpa; avería||
+favour|n|favor||Británico. Americano: favor.
+favourite|adj|favorito|-|
+feather|n|pluma||
+feature|n|característica||
+fee|n|tarifa, honorarios||
+feedback|nu|opinión, comentarios||Incontable.
+feeling|n|sentimiento, sensación||
+fence|n|valla||
+festival|n|festival||
+fight|n|pelea||
+figure|n|cifra; figura||
+file|n|archivo||
+final|adj|final|-|
+finally|adv|finalmente, por fin||
+financial|adj|financiero|-|
+fine|adj|bien; fino||
+fire|n|fuego; incendio||
+fireplace|n|chimenea||
+firm|n|empresa||
+firstly|adv|en primer lugar||
+fish|n|pescado; pez|fish|
+flag|n|bandera||
+flash|n|destello||«in a flash» = en un instante.
+flat|n|piso||Británico. Americano: apartment.
+flavour|n|sabor||Británico. Americano: flavor.
+flexibility|nu|flexibilidad||
+flexible|adj|flexible|more|
+flight|n|vuelo||
+floor|n|suelo; planta, piso||
+flour|nu|harina||
+flower|n|flor||
+fluent|adj|fluido|more|
+fluently|adv|con fluidez||
+focus|nu|enfoque||
+folder|n|carpeta||
+following|adj|siguiente|-|
+fond|adj|cariñoso||«fond of» = aficionado a.
+food|nu|comida||
+fool|n|tonto/a||
+foot|n|pie|feet|
+football|nu|fútbol||
+footprint|n|huella||
+forecast|n|previsión, pronóstico||
+formal|adj|formal|more|
+former|adj|antiguo, anterior|-|
+fortune|n|fortuna||
+forward|adv|adelante||«look forward to» = tener ganas de.
+fountain|n|fuente||
+free|adj|libre; gratis||
+freehold|nu|propiedad absoluta (del suelo)||
+french|adj|francés|-|
+frequent|adj|frecuente|more|
+frequently|adv|con frecuencia||
+fresh|adj|fresco||
+freshly|adv|recién||
+friday|n|viernes||
+fridge|n|nevera||
+friend|n|amigo/a||
+friendly|adj|amable, simpático||
+fruit|nu|fruta||
+frustrating|adj|frustrante|more|
+frustration|nu|frustración||
+fuel|nu|combustible||
+full|adj|lleno; completo||
+fully|adv|completamente||
+funds|n|fondos||
+furniture|nu|muebles||Incontable: «a piece of furniture».
+further|adv|más (lejos); más adelante||
+furthermore|adv|además||
+gala|n|gala||
+game|n|juego; partido||
+garden|n|jardín||
+gate|n|puerta (de embarque); verja||
+general|adj|general|-|
+generally|adv|en general||
+generation|n|generación||
+generous|adj|generoso|more|
+gently|adv|suavemente, con delicadeza||
+genuine|adj|auténtico, sincero|more|
+german|adj|alemán|-|
+gesture|n|gesto||
+ghost|n|fantasma||
+gift|n|regalo||
+glad|adj|contento||
+glass|n|vaso; cristal||
+gluten|nu|gluten||
+goal|n|objetivo; gol||
+gold|nu|oro||
+good|adj|bueno|better,best|
+goodwill|nu|buena voluntad||
+gorgeous|adj|precioso|more|
+grand|adj|grandioso||
+grandfather|n|abuelo||
+grasp|n|comprensión||
+grateful|adj|agradecido|more|
+great|adj|genial; grande||
+green|adj|verde||
+greeting|n|saludo||
+grey|adj|gris||
+grilled|adj|a la parrilla|-|
+grin|n|sonrisa amplia||
+ground|n|suelo||«ground floor» = planta baja.
+group|n|grupo||
+growth|nu|crecimiento||
+guarantee|n|garantía||
+guest|n|huésped, invitado||
+guesthouse|n|casa de huéspedes||
+guide|n|guía||
+gun|n|pistola||«jump the gun» = precipitarse.
+gym|n|gimnasio||
+hair|nu|pelo||
+half|n|mitad|halves|
+halfway|adv|a mitad de camino||
+hall|n|vestíbulo; salón||
+hand|n|mano||
+handy|adj|práctico, útil||
+happily|adv|felizmente, con gusto||
+happy|adj|feliz, contento||
+harbour|n|puerto||Británico. Americano: harbor.
+hard|adj|duro; difícil||
+hardly|adv|apenas||Falso amigo: no significa «duramente».
+hardwood|nu|madera noble||
+hatchet|n|hacha||«bury the hatchet» = hacer las paces.
+haunted|adj|encantado (con fantasmas)|-|
+head|n|cabeza; jefe||
+heart|n|corazón||
+heat|nu|calor||
+heavy|adj|pesado||
+hedge|n|seto||
+helpful|adj|útil; servicial|more|
+herbal|adj|de hierbas|-|
+hesitant|adj|indeciso|more|
+hesitation|nu|duda, vacilación||
+high|adj|alto||
+highly|adv|muy; altamente||«highly recommended».
+hill|n|colina||
+hint|n|pista, indirecta||
+history|nu|historia||
+hit|n|éxito; golpe||
+hitch|n|contratiempo||«without a hitch» = sin problemas.
+hole|n|agujero||
+holiday|n|vacaciones; día festivo||
+home|n|casa, hogar||
+homework|nu|deberes||
+honest|adj|honesto, sincero|more|
+honestly|adv|sinceramente||
+honesty|nu|honestidad||
+honeymoon|n|luna de miel||
+honeymooner|n|recién casado (de luna de miel)||
+honour|n|honor||Británico. Americano: honor.
+horse|n|caballo||
+hospitality|nu|hostelería; hospitalidad||
+host|n|anfitrión||
+hot|adj|caliente; caluroso||
+hotel|n|hotel||
+hour|n|hora||
+house|n|casa||
+housekeeping|nu|limpieza de pisos (departamento)||
+huge|adj|enorme||
+hungry|adj|hambriento||
+hurry|n|prisa||«in a hurry» = con prisa.
+hut|n|cabaña||
+ice|nu|hielo||
+iceberg|n|iceberg||«the tip of the iceberg» = la punta del iceberg.
+icing|nu|glaseado||«the icing on the cake» = la guinda del pastel.
+id|n|documento de identidad||
+idea|n|idea||
+ideal|adj|ideal|-|
+ill|adj|enfermo|worse,worst|
+immediately|adv|inmediatamente||
+important|adj|importante|more|
+impossible|adj|imposible|-|
+impressed|adj|impresionado|more|
+impression|n|impresión||
+impressive|adj|impresionante|more|
+improvement|n|mejora||
+incident|n|incidente||
+inclusive|adj|incluido, todo incluido|-|
+inconvenience|n|molestia||«Sorry for the inconvenience».
+increasingly|adv|cada vez más||
+incredibly|adv|increíblemente||
+indoors|adv|dentro, bajo techo||
+industry|n|industria, sector||
+inevitably|adv|inevitablemente||
+information|nu|información||Incontable: nunca «informations».
+informal|adj|informal|more|
+initiative|n|iniciativa||
+inquisitive|adj|curioso, inquisitivo|more|
+inside|adv|dentro||
+inspection|n|inspección||
+inspector|n|inspector||
+instalment|n|plazo (de pago)||Americano: installment.
+installment|n|plazo (de pago)||Británico: instalment.
+instance|n|ejemplo, caso||«for instance» = por ejemplo.
+instantly|adv|al instante||
+intensively|adv|intensivamente||
+interest|n|interés||
+interested|adj|interesado|more|«interested in».
+interesting|adj|interesante|more|
+intonation|nu|entonación||
+investment|n|inversión||
+investor|n|inversor/a||
+invoice|n|factura||
+irish|adj|irlandés|-|
+iron|n|plancha; hierro||
+issue|n|problema, asunto||
+italian|adj|italiano|-|
+item|n|artículo, elemento||
+jacket|n|chaqueta||
+jackpot|n|premio gordo||«hit the jackpot».
+jam|n|mermelada; atasco||
+japanese|adj|japonés|-|
+jello|nu|gelatina (EE. UU.)||
+job|n|trabajo||
+journey|n|viaje, trayecto||
+judgement|n|juicio, criterio||
+judgment|n|juicio, criterio||
+juicy|adj|jugoso||
+july|n|julio||
+june|n|junio||
+junior|adj|subalterno, júnior|-|
+just|adv|justo; solo; acabar de||«I've just arrived» = acabo de llegar.
+justified|adj|justificado|more|
+keen|adj|entusiasta||«keen on» = aficionado a.
+key|n|llave; clave||
+kid|n|niño/a (informal)||
+kind|adj|amable||
+kind|n|tipo, clase||
+kindness|nu|amabilidad||
+kitchen|n|cocina||
+kitchenette|n|cocina pequeña, office||
+lack|n|falta, carencia||
+land|nu|tierra, terreno||
+landlord|n|casero, propietario||
+landmark|n|lugar emblemático||
+language|n|idioma||
+lapse|n|lapsus, fallo||
+laptop|n|portátil||
+large|adj|grande||
+lark|n|alondra||«up with the lark» = madrugador.
+last|adj|último; pasado|-|«last night» = anoche.
+lastly|adv|por último||
+late|adj|tarde; tardío||
+lately|adv|últimamente||
+later|adv|más tarde||
+latter|adj|el último (de dos)|-|
+laundry|nu|lavandería; ropa sucia||
+law|n|ley||
+lawyer|n|abogado/a||
+layout|n|distribución||
+leader|n|líder||
+learning|nu|aprendizaje||
+lease|n|contrato de arrendamiento||
+leasehold|nu|propiedad por arrendamiento a largo plazo||
+least|adv|menos||«at least» = al menos.
+leather|nu|cuero||
+left|adj|izquierdo|-|También: pasado de leave.
+leg|n|pierna||
+legal|adj|legal|-|
+lemon|n|limón||
+less|adv|menos||
+letter|n|carta; letra||
+level|n|nivel||
+library|n|biblioteca||Falso amigo: librería = bookshop.
+lice|n|piojos||Plural de louse.
+lie|n|mentira||
+life|n|vida|lives|
+lifetime|n|vida, toda la vida||
+lift|n|ascensor||Británico. Americano: elevator.
+light|n|luz||
+light|adj|ligero; claro||
+likely|adj|probable||
+limit|n|límite||
+line|n|línea; cola||
+linen|nu|ropa de cama; lino||
+list|n|lista||
+listing|n|anuncio (de un inmueble)||
+little|adj|pequeño|-|
+live|adj|en directo|-|
+living|n|vida; «living room» = salón||
+loaf|n|barra (de pan)|loaves|
+lobby|n|vestíbulo||
+local|adj|local|more|
+locally|adv|localmente||
+located|adj|situado|-|
+location|n|ubicación||
+lock|n|cerradura||
+logo|n|logotipo||
+long|adj|largo||
+look|n|mirada; aspecto||
+loose|adj|suelto||
+lot|n|mucho||«a lot of» = mucho.
+loudly|adv|en voz alta||
+lounge|n|salón||
+love|nu|amor||
+lovely|adj|encantador, precioso||
+low|adj|bajo||
+loyal|adj|leal|more|
+loyalty|nu|fidelidad||«loyalty programme».
+luck|nu|suerte||
+luggage|nu|equipaje||Incontable: «a piece of luggage».
+lunch|n|comida, almuerzo||
+luxury|nu|lujo||
