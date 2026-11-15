@@ -138,7 +138,11 @@
             "so",
             "yet"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "So introduce una consecuencia; seguir trabajando cansado es un contraste.",
+            "Yet = y aun así: contraste inesperado."
+          ]
         },
         {
           "id": "b03-s1q2",
@@ -147,7 +151,11 @@
             "so",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So = así que: la lluvia provoca la cancelación.",
+            "For = porque (formal); aquí el orden pide consecuencia."
+          ]
         },
         {
           "id": "b03-s1q3",
@@ -156,7 +164,11 @@
             "or",
             "nor"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Or en negativa no suma una segunda negación clara («ni»).",
+            "Nor = ni: tampoco toma té."
+          ]
         },
         {
           "id": "b03-s1q4",
@@ -165,7 +177,11 @@
             "yet",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Yet = y aun así: contraste entre cansancio y sonrisa.",
+            "For expresa causa, no contraste."
+          ]
         },
         {
           "id": "b03-s1q5",
@@ -174,7 +190,11 @@
             "or",
             "so"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Or plantea alternativa, no consecuencia.",
+            "So = así que la cambiamos de habitación."
+          ]
         },
         {
           "id": "b03-s1q6",
@@ -183,7 +203,11 @@
             "or",
             "nor"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Or = o: dos alternativas.",
+            "Nor = ni; solo va en estructuras negativas."
+          ]
         },
         {
           "id": "b03-s1q7",
@@ -192,7 +216,11 @@
             "nor",
             "but"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Nor + inversión = ni tampoco: nor did he write.",
+            "But expresa contraste, y no pide inversión."
+          ]
         },
         {
           "id": "b03-s1q8",
@@ -201,7 +229,11 @@
             "for",
             "yet"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For = ya que (razón, formal): pedimos perdón porque fue culpa nuestra.",
+            "Yet expresa contraste; aquí se da la razón."
+          ]
         }
       ],
       "produce": {
@@ -332,7 +364,11 @@
             "If",
             "Although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If = si: condición para obtener la tarifa.",
+            "Although = aunque; no introduce condición."
+          ]
         },
         {
           "id": "b03-s2q2",
@@ -341,7 +377,11 @@
             "Despite",
             "Even though"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Despite + sustantivo sería posible (despite the price), pero aquí el sentido es «aunque».",
+            "Even though = aunque: concesión."
+          ]
         },
         {
           "id": "b03-s2q3",
@@ -350,7 +390,11 @@
             "if",
             "unless"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "If no expresa condición negativa; haría falta if… not.",
+            "Unless = a menos que: no seguiremos a menos que confirme."
+          ]
         },
         {
           "id": "b03-s2q4",
@@ -359,7 +403,11 @@
             "Although",
             "Because"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Although = aunque: era tarde y aun así servimos.",
+            "Because daría una causa, no una concesión."
+          ]
         },
         {
           "id": "b03-s2q5",
@@ -368,7 +416,11 @@
             "as soon as",
             "although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As soon as = en cuanto, tiempo.",
+            "Although = aunque; no indica tiempo."
+          ]
         },
         {
           "id": "b03-s2q6",
@@ -377,7 +429,11 @@
             "unless",
             "since"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Unless = a menos que: no te cobraremos salvo que canceles tarde.",
+            "Since = ya que o desde; no es condición."
+          ]
         },
         {
           "id": "b03-s2q7",
@@ -386,7 +442,11 @@
             "Since",
             "While"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Since = ya que (causa).",
+            "While = mientras; no expresa causa aquí."
+          ]
         },
         {
           "id": "b03-s2q8",
@@ -395,7 +455,11 @@
             "in case",
             "so that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In case = por si acaso te quedas fuera.",
+            "So that = para que; no es lo mismo que «por si»."
+          ]
         }
       ],
       "produce": {
@@ -526,7 +590,11 @@
             "Whether / or",
             "Either / nor"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whether… or = tanto si… como si no.",
+            "Either va con or, no con nor."
+          ]
         },
         {
           "id": "b03-s3q2",
@@ -535,7 +603,11 @@
             "both / and",
             "neither / nor"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Both… and = tanto… como.",
+            "Neither… nor negaría las dos ventajas."
+          ]
         },
         {
           "id": "b03-s3q3",
@@ -544,7 +616,11 @@
             "either / or",
             "not only / but also"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Either… or presenta alternativas; aquí se suman cualidades.",
+            "Not only… but also = no solo… sino también."
+          ]
         },
         {
           "id": "b03-s3q4",
@@ -553,7 +629,11 @@
             "both",
             "either"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Both… and = tanto… como.",
+            "Either va con or y presenta alternativa."
+          ]
         },
         {
           "id": "b03-s3q5",
@@ -562,7 +642,11 @@
             "neither",
             "either"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Neither va con nor y niega.",
+            "Either… or = o… o."
+          ]
         },
         {
           "id": "b03-s3q6",
@@ -571,7 +655,11 @@
             "or",
             "nor"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Neither va con nor, no con or.",
+            "Neither… nor = ni… ni."
+          ]
         },
         {
           "id": "b03-s3q7",
@@ -580,7 +668,11 @@
             "but also",
             "and also"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Not only… but also: estructura fija.",
+            "«And also» no completa not only."
+          ]
         },
         {
           "id": "b03-s3q8",
@@ -589,7 +681,11 @@
             "Both",
             "Either"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Both… and como sujeto: los dos son gratis.",
+            "Either… and no es correcto; either va con or."
+          ]
         }
       ],
       "produce": {
@@ -720,7 +816,11 @@
             "As a result",
             "On the other hand"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As a result = como resultado: la queja llevó al reembolso.",
+            "On the other hand introduce otro punto de vista, no consecuencia."
+          ]
         },
         {
           "id": "b03-s4q2",
@@ -729,7 +829,11 @@
             "However",
             "Moreover"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "However = sin embargo: contraste.",
+            "Moreover añade información en la misma línea."
+          ]
         },
         {
           "id": "b03-s4q3",
@@ -738,7 +842,11 @@
             "Therefore",
             "Moreover"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Therefore introduce consecuencia, no un dato más.",
+            "Moreover = además: añade otra cualidad."
+          ]
         },
         {
           "id": "b03-s4q4",
@@ -747,7 +855,11 @@
             "However",
             "Therefore"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "However = sin embargo (contraste formal).",
+            "Therefore introduce consecuencia."
+          ]
         },
         {
           "id": "b03-s4q5",
@@ -756,7 +868,11 @@
             "Therefore",
             "However"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Therefore = por tanto: consecuencia.",
+            "However introduce contraste."
+          ]
         },
         {
           "id": "b03-s4q6",
@@ -765,7 +881,11 @@
             "Moreover",
             "Instead"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Moreover = además: suma otra ventaja.",
+            "Instead = en su lugar; no añade."
+          ]
         },
         {
           "id": "b03-s4q7",
@@ -774,7 +894,11 @@
             "Instead",
             "Moreover"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Instead = en su lugar.",
+            "Moreover añade, no sustituye."
+          ]
         },
         {
           "id": "b03-s4q8",
@@ -783,7 +907,11 @@
             "As a result",
             "In addition"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As a result = como resultado.",
+            "In addition suma información; no expresa resultado."
+          ]
         }
       ],
       "produce": {
@@ -902,7 +1030,11 @@
             "However",
             "But"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "However va solo con coma tras el punto.",
+            "But no suele abrir frase seguido de coma; une oraciones."
+          ]
         },
         {
           "id": "b03-s5q2",
@@ -911,7 +1043,11 @@
             "however",
             "whereas"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "However no une dos oraciones con coma.",
+            "Whereas = mientras que: une oraciones contrastadas."
+          ]
         },
         {
           "id": "b03-s5q3",
@@ -920,7 +1056,11 @@
             "On the contrary",
             "In addition"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On the contrary = al contrario.",
+            "In addition añade, no contradice."
+          ]
         },
         {
           "id": "b03-s5q4",
@@ -929,7 +1069,11 @@
             "Nevertheless",
             "Therefore"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Nevertheless = no obstante.",
+            "Therefore introduce consecuencia."
+          ]
         },
         {
           "id": "b03-s5q5",
@@ -938,7 +1082,11 @@
             "while",
             "however"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "While = mientras que (une oraciones).",
+            "However no une dos oraciones con coma."
+          ]
         },
         {
           "id": "b03-s5q6",
@@ -947,7 +1095,11 @@
             "In contrast",
             "As a result"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In contrast = en cambio.",
+            "As a result introduce consecuencia."
+          ]
         },
         {
           "id": "b03-s5q7",
@@ -956,7 +1108,11 @@
             "Moreover",
             "However"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Moreover añade en la misma línea.",
+            "However = sin embargo: resultado contrario al esperado."
+          ]
         }
       ],
       "produce": {
@@ -1067,7 +1223,11 @@
             "Therefore",
             "However"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Therefore = por tanto.",
+            "However es contraste."
+          ]
         },
         {
           "id": "b03-s6q2",
@@ -1076,7 +1236,11 @@
             "thus",
             "whereas"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Thus = así, por tanto (tras punto y coma).",
+            "Whereas es contraste."
+          ]
         },
         {
           "id": "b03-s6q3",
@@ -1085,7 +1249,11 @@
             "As a result",
             "In contrast"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As a result = como resultado.",
+            "In contrast introduce contraste."
+          ]
         },
         {
           "id": "b03-s6q4",
@@ -1094,7 +1262,11 @@
             "so",
             "therefore"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So = así que, coloquial y une oraciones con coma.",
+            "Therefore no une oraciones con coma; va tras punto o punto y coma."
+          ]
         },
         {
           "id": "b03-s6q5",
@@ -1103,7 +1275,11 @@
             "Consequently",
             "Nevertheless"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Consequently = en consecuencia.",
+            "Nevertheless es contraste."
+          ]
         },
         {
           "id": "b03-s6q6",
@@ -1112,7 +1288,11 @@
             "hence",
             "although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hence = de ahí.",
+            "Although = aunque; no expresa consecuencia."
+          ]
         },
         {
           "id": "b03-s6q7",
@@ -1121,7 +1301,11 @@
             "Accordingly",
             "Meanwhile"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Accordingly = en consecuencia.",
+            "Meanwhile = mientras tanto."
+          ]
         }
       ],
       "produce": {
@@ -1232,7 +1416,11 @@
             "Moreover",
             "However"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Moreover = además, formal.",
+            "However es contraste."
+          ]
         },
         {
           "id": "b03-s7q2",
@@ -1241,7 +1429,11 @@
             "First",
             "Finally"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "First = primero.",
+            "Finally = por último."
+          ]
         },
         {
           "id": "b03-s7q3",
@@ -1250,7 +1442,11 @@
             "Finally",
             "Next"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Finally = por último.",
+            "Next = a continuación, no el último paso."
+          ]
         },
         {
           "id": "b03-s7q4",
@@ -1259,7 +1455,11 @@
             "Besides",
             "Therefore"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Besides = además (coloquial).",
+            "Therefore es consecuencia."
+          ]
         },
         {
           "id": "b03-s7q5",
@@ -1268,7 +1468,11 @@
             "Meanwhile",
             "Finally"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Meanwhile = mientras tanto: acciones simultáneas.",
+            "Finally indica el último paso."
+          ]
         },
         {
           "id": "b03-s7q6",
@@ -1277,7 +1481,11 @@
             "Next",
             "However"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Next = a continuación.",
+            "However es contraste."
+          ]
         },
         {
           "id": "b03-s7q7",
@@ -1286,7 +1494,11 @@
             "In addition",
             "In contrast"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In addition = además.",
+            "In contrast introduce contraste."
+          ]
         }
       ],
       "produce": {
@@ -1397,7 +1609,11 @@
             "for example",
             "in other words"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For example = por ejemplo.",
+            "In other words = es decir."
+          ]
         },
         {
           "id": "b03-s8q2",
@@ -1406,7 +1622,11 @@
             "such as",
             "that is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Such as = como, + sustantivo.",
+            "That is = es decir; no introduce ejemplos."
+          ]
         },
         {
           "id": "b03-s8q3",
@@ -1415,7 +1635,11 @@
             "In other words",
             "For instance"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In other words = es decir.",
+            "For instance introduce un ejemplo."
+          ]
         },
         {
           "id": "b03-s8q4",
@@ -1424,7 +1648,11 @@
             "namely",
             "such as"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Namely = en concreto, a saber.",
+            "Such as introduce ejemplos de una lista abierta."
+          ]
         },
         {
           "id": "b03-s8q5",
@@ -1433,7 +1661,11 @@
             "e.g.",
             "i.e."
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "e.g. = por ejemplo.",
+            "i.e. = es decir."
+          ]
         },
         {
           "id": "b03-s8q6",
@@ -1442,7 +1674,11 @@
             "for instance",
             "in contrast"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For instance = por ejemplo.",
+            "In contrast introduce contraste."
+          ]
         },
         {
           "id": "b03-s8q7",
@@ -1451,7 +1687,11 @@
             "That means",
             "However"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "That means = eso significa.",
+            "However es contraste."
+          ]
         }
       ],
       "produce": {
@@ -1562,7 +1802,11 @@
             "when I arrive",
             "when I will arrive"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras when con sentido futuro se usa presente.",
+            "Después de when no va will."
+          ]
         },
         {
           "id": "b03-s9q2",
@@ -1571,7 +1815,11 @@
             "Once",
             "Until"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Once = una vez que.",
+            "Until = hasta que."
+          ]
         },
         {
           "id": "b03-s9q3",
@@ -1580,7 +1828,11 @@
             "By the time",
             "As soon as"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "By the time = para cuando (ya había pasado).",
+            "As soon as = en cuanto; no encaja con «ya había cerrado»."
+          ]
         },
         {
           "id": "b03-s9q4",
@@ -1589,7 +1841,11 @@
             "until",
             "before"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Until = hasta que.",
+            "Before = antes de que."
+          ]
         },
         {
           "id": "b03-s9q5",
@@ -1598,7 +1854,11 @@
             "as soon as",
             "by the time"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As soon as = en cuanto.",
+            "By the time = para cuando."
+          ]
         },
         {
           "id": "b03-s9q6",
@@ -1607,7 +1867,11 @@
             "before",
             "after"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Before = antes de.",
+            "After = después de."
+          ]
         },
         {
           "id": "b03-s9q7",
@@ -1616,7 +1880,11 @@
             "after",
             "until"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "After = después de que.",
+            "Until = hasta que."
+          ]
         }
       ],
       "produce": {

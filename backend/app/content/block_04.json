@@ -130,7 +130,11 @@
             "nice blue",
             "blue nice"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Opinión antes que color: nice blue.",
+            "El color no va antes de la opinión."
+          ]
         },
         {
           "id": "b04-s1q2",
@@ -139,7 +143,11 @@
             "small square black",
             "black small square"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tamaño → forma → color: small square black.",
+            "El color va al final, justo antes del sustantivo."
+          ]
         },
         {
           "id": "b04-s1q3",
@@ -148,7 +156,11 @@
             "old red French",
             "French old red"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Edad → color → origen: old red French.",
+            "El origen va después de edad y color."
+          ]
         },
         {
           "id": "b04-s1q4",
@@ -157,7 +169,11 @@
             "round small wooden",
             "small round wooden"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "La forma (round) no va antes del tamaño.",
+            "Tamaño → forma → material: small round wooden."
+          ]
         },
         {
           "id": "b04-s1q5",
@@ -166,7 +182,11 @@
             "long black",
             "black long"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tamaño antes que color: long black.",
+            "El color va después del tamaño."
+          ]
         },
         {
           "id": "b04-s1q6",
@@ -175,7 +195,11 @@
             "lovely small Spanish",
             "Spanish small lovely"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Opinión → tamaño → origen.",
+            "El orden está invertido: la opinión va primero."
+          ]
         },
         {
           "id": "b04-s1q7",
@@ -184,7 +208,11 @@
             "Italian old elegant",
             "elegant old Italian"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El origen va al final, antes del sustantivo.",
+            "Opinión → edad → origen: elegant old Italian."
+          ]
         },
         {
           "id": "b04-s1q8",
@@ -193,7 +221,11 @@
             "huge leather",
             "leather huge"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tamaño → material: huge leather.",
+            "El material va justo antes del sustantivo."
+          ]
         }
       ],
       "produce": {
@@ -324,7 +356,11 @@
             "quieter",
             "more quiet"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Quiet admite -er: quieter.",
+            "«More quiet» se oye, pero lo estándar es quieter."
+          ]
         },
         {
           "id": "b04-s2q2",
@@ -333,7 +369,11 @@
             "the comfortablest",
             "the most comfortable"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Adjetivo largo: no admite -est.",
+            "Adjetivo largo: the most comfortable."
+          ]
         },
         {
           "id": "b04-s2q3",
@@ -342,7 +382,11 @@
             "as good",
             "so good"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As + adjetivo + as = tan… como.",
+            "So good as solo se usa en negativas antiguas; lo correcto es as good as."
+          ]
         },
         {
           "id": "b04-s2q4",
@@ -351,7 +395,11 @@
             "more big",
             "bigger"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Big es corto: no lleva more.",
+            "Corto CVC: dobla la consonante (bigger)."
+          ]
         },
         {
           "id": "b04-s2q5",
@@ -360,7 +408,11 @@
             "most expensive",
             "expensivest"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Largo: the most expensive.",
+            "«Expensivest» no existe."
+          ]
         },
         {
           "id": "b04-s2q6",
@@ -369,7 +421,11 @@
             "gooder",
             "better"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Good es irregular: no existe gooder.",
+            "Comparativo irregular: better."
+          ]
         },
         {
           "id": "b04-s2q7",
@@ -378,7 +434,11 @@
             "busier",
             "more busy"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Busy acaba en y: y → i + er.",
+            "«More busy» no es la forma correcta; busier."
+          ]
         },
         {
           "id": "b04-s2q8",
@@ -387,7 +447,11 @@
             "as flexible as",
             "so flexible than"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Negativa: not as + adjetivo + as.",
+            "So… than mezcla dos estructuras."
+          ]
         }
       ],
       "produce": {
@@ -518,7 +582,11 @@
             "good",
             "well"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Good es adjetivo; para describir cómo lo hizo hace falta adverbio.",
+            "Well = bien (adverbio de good)."
+          ]
         },
         {
           "id": "b04-s3q2",
@@ -527,7 +595,11 @@
             "carefully",
             "careful"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Adverbio de manera: carefully.",
+            "Careful es adjetivo; no modifica al verbo."
+          ]
         },
         {
           "id": "b04-s3q3",
@@ -536,7 +608,11 @@
             "quickly",
             "quick"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Adverbio: quickly.",
+            "Quick es adjetivo."
+          ]
         },
         {
           "id": "b04-s3q4",
@@ -545,7 +621,11 @@
             "calm",
             "calmly"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Calm es adjetivo; aquí describe cómo lo gestionó.",
+            "Adverbio de manera: calmly."
+          ]
         },
         {
           "id": "b04-s3q5",
@@ -554,7 +634,11 @@
             "well",
             "goodly"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Well = bien, adverbio irregular.",
+            "«Goodly» no es el adverbio de good."
+          ]
         },
         {
           "id": "b04-s3q6",
@@ -563,7 +647,11 @@
             "quick",
             "quickly"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Quick es adjetivo.",
+            "Adverbio: quickly."
+          ]
         },
         {
           "id": "b04-s3q7",
@@ -572,7 +660,11 @@
             "fastly",
             "fast"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Fastly» no existe.",
+            "Fast es adjetivo y adverbio a la vez."
+          ]
         },
         {
           "id": "b04-s3q8",
@@ -581,7 +673,11 @@
             "carefully",
             "careful"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Adverbio de manera: carefully.",
+            "Careful es adjetivo."
+          ]
         }
       ],
       "produce": {
@@ -712,7 +808,11 @@
             "always",
             "is always"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Adverbio de frecuencia antes del verbo principal.",
+            "«Is always arrives» tiene dos verbos."
+          ]
         },
         {
           "id": "b04-s4q2",
@@ -721,7 +821,11 @@
             "usually",
             "usually are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras be, el adverbio va detrás: are usually.",
+            "«Usually are» repetiría el verbo."
+          ]
         },
         {
           "id": "b04-s4q3",
@@ -730,7 +834,11 @@
             "never",
             "ever"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Never = nunca, entre auxiliar y participio.",
+            "Ever en afirmativa no significa nunca."
+          ]
         },
         {
           "id": "b04-s4q4",
@@ -739,7 +847,11 @@
             "rarely",
             "rarely is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Antes del verbo principal: rarely arrives.",
+            "«Rarely is arrives» tiene dos verbos."
+          ]
         },
         {
           "id": "b04-s4q5",
@@ -748,7 +860,11 @@
             "always",
             "always is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras be: is always.",
+            "Repite el verbo: is always is."
+          ]
         },
         {
           "id": "b04-s4q6",
@@ -757,7 +873,11 @@
             "often",
             "often the"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Antes del verbo principal: often get.",
+            "«Often the» no tiene sentido aquí."
+          ]
         },
         {
           "id": "b04-s4q7",
@@ -766,7 +886,11 @@
             "never",
             "ever never"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Never entre have y el participio.",
+            "«Ever never» es incorrecto."
+          ]
         },
         {
           "id": "b04-s4q8",
@@ -775,7 +899,11 @@
             "hardly ever",
             "ever hardly"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hardly ever = casi nunca.",
+            "El orden es hardly ever."
+          ]
         }
       ],
       "produce": {
@@ -906,7 +1034,11 @@
             "very",
             "too"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Very no expresa exceso con consecuencia negativa.",
+            "Too = demasiado: no pueden pagarlo."
+          ]
         },
         {
           "id": "b04-s5q2",
@@ -915,7 +1047,11 @@
             "really",
             "too"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Really = muy, énfasis positivo.",
+            "Too indicaría exceso negativo."
+          ]
         },
         {
           "id": "b04-s5q3",
@@ -924,7 +1060,11 @@
             "quite",
             "too"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Quite = bastante.",
+            "Too indicaría exceso."
+          ]
         },
         {
           "id": "b04-s5q4",
@@ -933,7 +1073,11 @@
             "very",
             "too"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Very no implica que no puedan pagarlo.",
+            "Too + for = demasiado para ellos."
+          ]
         },
         {
           "id": "b04-s5q5",
@@ -942,7 +1086,11 @@
             "quite",
             "extremely"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Quite = bastante, matiz medio.",
+            "Extremely no encaja con «no perfecto»."
+          ]
         },
         {
           "id": "b04-s5q6",
@@ -951,7 +1099,11 @@
             "deeply",
             "a bit"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Deeply = profundamente, con impressed.",
+            "A bit rebajaría la emoción."
+          ]
         },
         {
           "id": "b04-s5q7",
@@ -960,7 +1112,11 @@
             "a bit",
             "absolutely"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A bit = un poco.",
+            "Absolutely va con adjetivos extremos, no con slow."
+          ]
         },
         {
           "id": "b04-s5q8",
@@ -969,7 +1125,11 @@
             "very",
             "absolutely"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Very no va con adjetivos extremos como stunning.",
+            "Absolutely + adjetivo extremo."
+          ]
         }
       ],
       "produce": {
@@ -1088,7 +1248,11 @@
             "interesting",
             "interested"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ing describe lo que causa la emoción.",
+            "-ed = lo que siente la persona."
+          ]
         },
         {
           "id": "b04-s6q2",
@@ -1097,7 +1261,11 @@
             "interesting",
             "interested"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "-ing: la visita causa interés.",
+            "-ed = cómo se siente alguien."
+          ]
         },
         {
           "id": "b04-s6q3",
@@ -1106,7 +1274,11 @@
             "tiring",
             "tired"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ing describe lo que cansa.",
+            "-ed = ella siente cansancio."
+          ]
         },
         {
           "id": "b04-s6q4",
@@ -1115,7 +1287,11 @@
             "tired",
             "tiring"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ed describe a la persona cansada.",
+            "-ing: el trabajo cansa."
+          ]
         },
         {
           "id": "b04-s6q5",
@@ -1124,7 +1300,11 @@
             "surprising",
             "surprised"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ing describiría lo que sorprende.",
+            "-ed = nosotros sentimos sorpresa."
+          ]
         },
         {
           "id": "b04-s6q6",
@@ -1133,7 +1313,11 @@
             "excited",
             "exciting"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ed describe a la persona emocionada.",
+            "-ing: el momento emociona."
+          ]
         },
         {
           "id": "b04-s6q7",
@@ -1142,7 +1326,11 @@
             "confused",
             "confusing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "-ed = él siente confusión.",
+            "-ing describe el mapa."
+          ]
         }
       ],
       "produce": {
@@ -1253,7 +1441,11 @@
             "too",
             "enough"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Too = demasiado.",
+            "Enough va después del adjetivo y significa suficiente."
+          ]
         },
         {
           "id": "b04-s7q2",
@@ -1262,7 +1454,11 @@
             "enough",
             "too"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Enough va detrás del adjetivo.",
+            "Too = demasiado; no encaja con «no es lo bastante grande»."
+          ]
         },
         {
           "id": "b04-s7q3",
@@ -1271,7 +1467,11 @@
             "such",
             "so"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Such necesita sustantivo detrás.",
+            "So + adjetivo: so beautiful."
+          ]
         },
         {
           "id": "b04-s7q4",
@@ -1280,7 +1480,11 @@
             "so",
             "such"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "So no va con a + adjetivo + sustantivo.",
+            "Such a + adjetivo + sustantivo."
+          ]
         },
         {
           "id": "b04-s7q5",
@@ -1289,7 +1493,11 @@
             "enough",
             "too"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Enough delante del sustantivo.",
+            "Too no va delante de sustantivo."
+          ]
         },
         {
           "id": "b04-s7q6",
@@ -1298,7 +1506,11 @@
             "such",
             "so"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Such necesita sustantivo detrás.",
+            "So + adjetivo + that."
+          ]
         },
         {
           "id": "b04-s7q7",
@@ -1307,7 +1519,11 @@
             "such",
             "so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Such a + adjetivo + sustantivo.",
+            "So no va con a + sustantivo."
+          ]
         }
       ],
       "produce": {
@@ -1418,7 +1634,11 @@
             "as big as",
             "as big than"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As big as = tan grande como.",
+            "As va con as, no con than."
+          ]
         },
         {
           "id": "b04-s8q2",
@@ -1427,7 +1647,11 @@
             "as low as",
             "so low that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Not as… as = no tan… como.",
+            "So… that = tan… que; otro sentido."
+          ]
         },
         {
           "id": "b04-s8q3",
@@ -1436,7 +1660,11 @@
             "longer and longer",
             "more long and long"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Comparativo repetido: longer and longer.",
+            "Long es corto: no lleva more."
+          ]
         },
         {
           "id": "b04-s8q4",
@@ -1445,7 +1673,11 @@
             "The sooner / the cheaper",
             "Sooner / cheaper"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The + comparativo, the + comparativo.",
+            "Sin the no expresa «cuanto más…»."
+          ]
         },
         {
           "id": "b04-s8q5",
@@ -1454,7 +1686,11 @@
             "more and more",
             "the more the more"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "More and more = cada vez más.",
+            "«The more the more» no se usa así."
+          ]
         },
         {
           "id": "b04-s8q6",
@@ -1463,7 +1699,11 @@
             "twice as",
             "two times more"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Twice as… as = el doble de.",
+            "«Two times more» es menos natural y confuso."
+          ]
         },
         {
           "id": "b04-s8q7",
@@ -1472,7 +1712,11 @@
             "The bigger / the better",
             "Bigger / better"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The bigger…, the better.",
+            "Sin the no funciona la estructura."
+          ]
         }
       ],
       "produce": {
@@ -1583,7 +1827,11 @@
             "She worked at the desk quietly all morning",
             "She worked quietly at the desk all morning"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El modo (quietly) va antes del lugar.",
+            "Modo → lugar → tiempo."
+          ]
         },
         {
           "id": "b04-s9q2",
@@ -1592,7 +1840,11 @@
             "I speak English well",
             "I speak well English"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "El adverbio va después del objeto.",
+            "No se separa el verbo del objeto."
+          ]
         },
         {
           "id": "b04-s9q3",
@@ -1601,7 +1853,11 @@
             "antes del verbo principal (She often calls)",
             "después del objeto (She calls clients often always)"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Frecuencia antes del verbo principal.",
+            "No va al final con otro adverbio."
+          ]
         },
         {
           "id": "b04-s9q4",
@@ -1610,7 +1866,11 @@
             "We'll meet tomorrow here",
             "We'll meet here tomorrow"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El lugar va antes del tiempo.",
+            "Lugar → tiempo: here tomorrow."
+          ]
         },
         {
           "id": "b04-s9q5",
@@ -1619,7 +1879,11 @@
             "al principio (Yesterday, we opened)",
             "entre verbo y objeto (We opened yesterday the wing)"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Al principio para dar énfasis.",
+            "No se pone entre verbo y objeto."
+          ]
         },
         {
           "id": "b04-s9q6",
@@ -1628,7 +1892,11 @@
             "He handled calmly the complaint",
             "He handled the complaint calmly"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No se separa el verbo del objeto.",
+            "El adverbio va después del objeto."
+          ]
         },
         {
           "id": "b04-s9q7",
@@ -1637,7 +1905,11 @@
             "They danced happily on the terrace all night",
             "They danced on the terrace happily all night"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Modo → lugar → tiempo.",
+            "El modo debería ir antes del lugar."
+          ]
         }
       ],
       "produce": {
@@ -1748,7 +2020,11 @@
             "five-stars",
             "five-star"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "En adjetivos compuestos el sustantivo va en singular.",
+            "five-star: sin -s."
+          ]
         },
         {
           "id": "b04-s10q2",
@@ -1757,7 +2033,11 @@
             "ten-minutes",
             "ten-minute"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Sin -s cuando funciona como adjetivo.",
+            "ten-minute: sin -s."
+          ]
         },
         {
           "id": "b04-s10q3",
@@ -1766,7 +2046,11 @@
             "English-speaking",
             "English-spoken"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "English-speaking = que habla inglés.",
+            "English-spoken no se refiere a personas."
+          ]
         },
         {
           "id": "b04-s10q4",
@@ -1775,7 +2059,11 @@
             "well-known",
             "good-known"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Well-known = muy conocido.",
+            "«Good-known» no existe."
+          ]
         },
         {
           "id": "b04-s10q5",
@@ -1784,7 +2072,11 @@
             "three-nights",
             "three-night"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Sin -s en adjetivos compuestos.",
+            "three-night: sin -s."
+          ]
         },
         {
           "id": "b04-s10q6",
@@ -1793,7 +2085,11 @@
             "family-run",
             "family-running"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Family-run = gestionado por una familia.",
+            "«Family-running» no se usa."
+          ]
         },
         {
           "id": "b04-s10q7",
@@ -1802,7 +2098,11 @@
             "24-hours",
             "24-hour"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Sin -s en el adjetivo compuesto.",
+            "24-hour: sin -s."
+          ]
         }
       ],
       "produce": {
