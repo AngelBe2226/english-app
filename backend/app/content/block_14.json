@@ -171,7 +171,11 @@
             "TH suave (θ), lengua entre los dientes",
             "Una \"t\" como en español"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "TH sorda /θ/: la lengua asoma entre los dientes.",
+            "Con «t» se oye tink, otra palabra."
+          ]
         },
         {
           "id": "b14-s1q2",
@@ -180,7 +184,11 @@
             "Dientes superiores tocan el labio inferior",
             "Juntar ambos labios como en \"b\""
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "La V es labiodental: dientes sobre el labio.",
+            "Con los labios juntos sale una B."
+          ]
         },
         {
           "id": "b14-s1q3",
@@ -189,7 +197,11 @@
             "No vibra, la lengua no toca el paladar",
             "Se pronuncia igual, solo cambia la ortografía"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "La R inglesa no vibra y la lengua no toca el paladar.",
+            "No se pronuncia igual que en español."
+          ]
         },
         {
           "id": "b14-s1q4",
@@ -198,7 +210,11 @@
             "la vocal (larga vs corta)",
             "la consonante final"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sheep /iː/ larga, ship /ɪ/ corta.",
+            "La consonante final es la misma (p)."
+          ]
         },
         {
           "id": "b14-s1q5",
@@ -207,7 +223,11 @@
             "muda",
             "aspirada"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "En house la H sí suena.",
+            "H aspirada, como una «j» suave."
+          ]
         },
         {
           "id": "b14-s1q6",
@@ -216,7 +236,11 @@
             "V vs B",
             "la vocal"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "V labiodental frente a B bilabial.",
+            "La vocal es la misma."
+          ]
         },
         {
           "id": "b14-s1q7",
@@ -225,7 +249,11 @@
             "como S",
             "con la lengua entre los dientes"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No es una S.",
+            "TH: lengua entre los dientes."
+          ]
         },
         {
           "id": "b14-s1q8",
@@ -234,7 +262,11 @@
             "R vs L",
             "la vocal"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "R frente a L.",
+            "La vocal es la misma."
+          ]
         }
       ],
       "produce": {
@@ -395,7 +427,11 @@
             "ship",
             "sheep"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Ship tiene /ɪ/ corta.",
+            "Sheep tiene /iː/ larga."
+          ]
         },
         {
           "id": "b14-s2q2",
@@ -404,7 +440,11 @@
             "cat",
             "car"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Cat = gato.",
+            "Car = coche."
+          ]
         },
         {
           "id": "b14-s2q3",
@@ -413,7 +453,11 @@
             "corta",
             "larga"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Full tiene /ʊ/ corta.",
+            "La larga es /uː/, como en fool."
+          ]
         },
         {
           "id": "b14-s2q4",
@@ -422,7 +466,11 @@
             "la duración de la vocal",
             "la consonante"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Solo cambia la duración de la vocal.",
+            "La consonante es la misma."
+          ]
         },
         {
           "id": "b14-s2q5",
@@ -431,7 +479,11 @@
             "corta",
             "larga"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Pool no es corta.",
+            "Pool: /uː/ larga."
+          ]
         },
         {
           "id": "b14-s2q6",
@@ -440,7 +492,11 @@
             "cheap",
             "chip"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Cheap: /iː/ larga.",
+            "Chip: /ɪ/ corta."
+          ]
         },
         {
           "id": "b14-s2q7",
@@ -449,7 +505,11 @@
             "/ʊ/ corta",
             "/uː/ larga"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Full: /ʊ/ corta.",
+            "La /uː/ larga es la de fool."
+          ]
         },
         {
           "id": "b14-s2q8",
@@ -458,7 +518,11 @@
             "sit",
             "seat"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Sit es corta.",
+            "Seat: /iː/ larga."
+          ]
         }
       ],
       "produce": {
@@ -577,7 +641,11 @@
             "sube",
             "baja"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En preguntas de sí/no la entonación sube.",
+            "Bajar es típico de afirmaciones."
+          ]
         },
         {
           "id": "b14-s3q2",
@@ -586,7 +654,11 @@
             "baja",
             "sube"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Afirmación: baja al final.",
+            "Subir suena a pregunta."
+          ]
         },
         {
           "id": "b14-s3q3",
@@ -595,7 +667,11 @@
             "cambiar lo que realmente se comunica",
             "no afecta el significado en absoluto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "El énfasis cambia el mensaje.",
+            "Sí afecta al significado."
+          ]
         },
         {
           "id": "b14-s3q4",
@@ -604,7 +680,11 @@
             "subir al final",
             "bajar al final"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sí/no: sube.",
+            "Bajar es para afirmaciones y preguntas wh-."
+          ]
         },
         {
           "id": "b14-s3q5",
@@ -613,7 +693,11 @@
             "un sustantivo",
             "un verbo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Acento inicial: sustantivo.",
+            "El verbo es reCORD."
+          ]
         },
         {
           "id": "b14-s3q6",
@@ -622,7 +706,11 @@
             "un regalo",
             "el verbo presentar"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El regalo es PREsent.",
+            "PreSENT = presentar."
+          ]
         },
         {
           "id": "b14-s3q7",
@@ -631,7 +719,11 @@
             "cambiar el significado",
             "no cambiar nada"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Puede cambiar el significado.",
+            "Sí cambia."
+          ]
         },
         {
           "id": "b14-s3q8",
@@ -640,7 +732,11 @@
             "cambia el matiz del mensaje",
             "es incorrecto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Cambia el matiz.",
+            "No es incorrecto."
+          ]
         }
       ],
       "produce": {
@@ -786,7 +882,11 @@
             "británico",
             "americano"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "En británico la T se marca más.",
+            "Americano: water suena «wader»."
+          ]
         },
         {
           "id": "b14-s4q2",
@@ -795,7 +895,11 @@
             "británico",
             "americano"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Británico: T marcada.",
+            "En americano la T suena como D suave."
+          ]
         },
         {
           "id": "b14-s4q3",
@@ -804,7 +908,11 @@
             "australiano",
             "canadiense"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El australiano no tiene ese rasgo.",
+            "Canadiense: «aboot»."
+          ]
         },
         {
           "id": "b14-s4q4",
@@ -813,7 +921,11 @@
             "se pronuncia",
             "se omite"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Americano: la R final suena.",
+            "En americano no se omite."
+          ]
         },
         {
           "id": "b14-s4q5",
@@ -822,7 +934,11 @@
             "se pronuncia",
             "se omite"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "En RP no suena.",
+            "RP: la R final se omite."
+          ]
         },
         {
           "id": "b14-s4q6",
@@ -831,7 +947,11 @@
             "'wader' (T suave)",
             "'wa-terr'"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "T suave tipo «d».",
+            "Así es más británico."
+          ]
         },
         {
           "id": "b14-s4q7",
@@ -840,7 +960,11 @@
             "imitarlos todos",
             "reconocerlos y entenderlos"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No hace falta imitarlos.",
+            "Lo importante es reconocerlos."
+          ]
         },
         {
           "id": "b14-s4q8",
@@ -849,7 +973,11 @@
             "la R muy vibrada",
             "no pronunciar consonantes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Escocés: R muy vibrada.",
+            "No es así."
+          ]
         }
       ],
       "produce": {
@@ -963,7 +1091,11 @@
             "con 'e' (estreet)",
             "directo en la S (str-)"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No se añade «e» delante.",
+            "Directo en la S: str-."
+          ]
         },
         {
           "id": "b14-s5q2",
@@ -972,7 +1104,11 @@
             "es opcional",
             "marca el plural y hay que pronunciarla"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No es opcional.",
+            "Marca el plural y se pronuncia."
+          ]
         },
         {
           "id": "b14-s5q3",
@@ -981,7 +1117,11 @@
             "/pt/",
             "/ped/ con vocal"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "-ed tras p suena /t/: helpt.",
+            "No se añade vocal."
+          ]
         },
         {
           "id": "b14-s5q4",
@@ -990,7 +1130,11 @@
             "añadir una 'e' de apoyo",
             "pronunciar de más"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Añadir «e» de apoyo: estreet.",
+            "No es el error típico."
+          ]
         },
         {
           "id": "b14-s5q5",
@@ -999,7 +1143,11 @@
             "la -s final",
             "la vocal"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "La -s final distingue.",
+            "La vocal es la misma."
+          ]
         },
         {
           "id": "b14-s5q6",
@@ -1008,7 +1156,11 @@
             "'eschool'",
             "'skool' (sin e)"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No se añade «e».",
+            "Skool, sin vocal inicial."
+          ]
         },
         {
           "id": "b14-s5q7",
@@ -1017,7 +1169,11 @@
             "el grupo 'ksts' final",
             "la vocal"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Grupo consonántico ksts.",
+            "La vocal no es el problema."
+          ]
         }
       ],
       "produce": {
@@ -1141,7 +1297,11 @@
             "neutra y relajada, en sílabas átonas",
             "fuerte y acentuada"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Schwa: neutra, en sílabas átonas.",
+            "No es fuerte."
+          ]
         },
         {
           "id": "b14-s6q2",
@@ -1150,7 +1310,11 @@
             "la primera sílaba (a-)",
             "la segunda (-bout)"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "La a- inicial es schwa.",
+            "-bout está acentuada."
+          ]
         },
         {
           "id": "b14-s6q3",
@@ -1159,7 +1323,11 @@
             "reduce la vocal a schwa",
             "pronuncia todas las vocales claras"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se reduce a schwa.",
+            "No se pronuncian todas claras."
+          ]
         },
         {
           "id": "b14-s6q4",
@@ -1168,7 +1336,11 @@
             "schwa /ə/",
             "'er' fuerte"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "-er suena /ə/.",
+            "No es fuerte."
+          ]
         },
         {
           "id": "b14-s6q5",
@@ -1177,7 +1349,11 @@
             "más frecuente",
             "más raro"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "La más frecuente.",
+            "No es rara."
+          ]
         },
         {
           "id": "b14-s6q6",
@@ -1186,7 +1362,11 @@
             "/ðə/ (schwa)",
             "/ðiː/ siempre"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ante consonante: /ðə/.",
+            "/ðiː/ es ante vocal o con énfasis."
+          ]
         },
         {
           "id": "b14-s6q7",
@@ -1195,7 +1375,11 @@
             "suenes más natural",
             "hables más lento"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Suenas más natural.",
+            "No te hace más lento."
+          ]
         }
       ],
       "produce": {
@@ -1319,7 +1503,11 @@
             "/ən/ o /n/",
             "/ænd/ siempre"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "And se reduce a /ən/ o /n/.",
+            "No siempre suena completo."
+          ]
         },
         {
           "id": "b14-s7q2",
@@ -1328,7 +1516,11 @@
             "could've /əv/",
             "could of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Could've /əv/.",
+            "«Could of» es un error escrito."
+          ]
         },
         {
           "id": "b14-s7q3",
@@ -1337,7 +1529,11 @@
             "'Wadaya want?'",
             "muy separado"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Wadaya want: unión de sonidos.",
+            "En habla real no va separado."
+          ]
         },
         {
           "id": "b14-s7q4",
@@ -1346,7 +1542,11 @@
             "/tə/",
             "/tuː/"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Forma débil /tə/.",
+            "/tuː/ es la forma fuerte."
+          ]
         },
         {
           "id": "b14-s7q5",
@@ -1355,7 +1555,11 @@
             "cuando se enfatiza",
             "siempre"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Fuerte cuando se enfatiza.",
+            "No siempre."
+          ]
         },
         {
           "id": "b14-s7q6",
@@ -1364,7 +1568,11 @@
             "'a_norange'",
             "muy cortado"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Enlace: a_norange.",
+            "No se corta."
+          ]
         },
         {
           "id": "b14-s7q7",
@@ -1373,7 +1581,11 @@
             "el listening",
             "la ortografía"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Mejora el listening.",
+            "No afecta a la ortografía."
+          ]
         }
       ],
       "produce": {
@@ -1501,7 +1713,11 @@
             "they are",
             "su (posesivo)"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "They're = they are.",
+            "Su (posesivo) es their."
+          ]
         },
         {
           "id": "b14-s8q2",
@@ -1510,7 +1726,11 @@
             "for",
             "four"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "For = para.",
+            "Four = cuatro."
+          ]
         },
         {
           "id": "b14-s8q3",
@@ -1519,7 +1739,11 @@
             "see",
             "sea"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "See = ver.",
+            "Sea = mar."
+          ]
         },
         {
           "id": "b14-s8q4",
@@ -1528,7 +1752,11 @@
             "right",
             "write"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Right = correcto, derecha.",
+            "Write = escribir."
+          ]
         },
         {
           "id": "b14-s8q5",
@@ -1537,7 +1765,11 @@
             "whole",
             "hole"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whole = entero.",
+            "Hole = agujero."
+          ]
         },
         {
           "id": "b14-s8q6",
@@ -1546,7 +1778,11 @@
             "to",
             "too"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "To = a, hacia.",
+            "Too = demasiado."
+          ]
         },
         {
           "id": "b14-s8q7",
@@ -1555,7 +1791,11 @@
             "el contexto y la ortografía",
             "el sonido"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Contexto y ortografía.",
+            "Suenan igual."
+          ]
         }
       ],
       "produce": {

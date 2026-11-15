@@ -118,7 +118,11 @@
             "submit",
             "submits"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con she el presente simple lleva -s.",
+            "3ª persona: submits."
+          ]
         },
         {
           "id": "b09-s1q2",
@@ -127,7 +131,11 @@
             "Do",
             "Are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Speak es verbo principal: pregunta con do.",
+            "Are no forma pregunta con speak."
+          ]
         },
         {
           "id": "b09-s1q3",
@@ -136,7 +144,11 @@
             "don't",
             "doesn't"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Don't no va con he.",
+            "3ª persona: doesn't."
+          ]
         },
         {
           "id": "b09-s1q4",
@@ -145,7 +157,11 @@
             "submit",
             "submits"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con she el verbo lleva -s.",
+            "3ª persona: submits."
+          ]
         },
         {
           "id": "b09-s1q5",
@@ -154,7 +170,11 @@
             "Do",
             "Does"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Do no va con the price (singular).",
+            "3ª persona: Does."
+          ]
         },
         {
           "id": "b09-s1q6",
@@ -163,7 +183,11 @@
             "doesn't",
             "don't"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "3ª persona negativa: doesn't.",
+            "Don't no va con he."
+          ]
         },
         {
           "id": "b09-s1q7",
@@ -172,7 +196,11 @@
             "boils",
             "is boiling"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hecho general: presente simple.",
+            "El continuo es para lo que pasa ahora."
+          ]
         },
         {
           "id": "b09-s1q8",
@@ -181,7 +209,11 @@
             "is leaving",
             "leaves"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El continuo no expresa horarios fijos.",
+            "Horario o rutina: presente simple."
+          ]
         }
       ],
       "produce": {
@@ -300,7 +332,11 @@
             "is preparing",
             "prepares"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Right now: presente continuo.",
+            "Prepares es rutina, no ahora mismo."
+          ]
         },
         {
           "id": "b09-s2q2",
@@ -309,7 +345,11 @@
             "want",
             "am wanting"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Want es de estado: no va en continuo.",
+            "Want no se usa en continuo."
+          ]
         },
         {
           "id": "b09-s2q3",
@@ -318,7 +358,11 @@
             "are visiting",
             "visit"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Plan confirmado: presente continuo.",
+            "El presente simple se usa para horarios, no planes personales."
+          ]
         },
         {
           "id": "b09-s2q4",
@@ -327,7 +371,11 @@
             "prepares",
             "is preparing"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Prepares es rutina.",
+            "En progreso ahora: is preparing."
+          ]
         },
         {
           "id": "b09-s2q5",
@@ -336,7 +384,11 @@
             "am wanting",
             "want"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Want es de estado: no va en continuo.",
+            "Verbo de estado en simple: want."
+          ]
         },
         {
           "id": "b09-s2q6",
@@ -345,7 +397,11 @@
             "are visiting",
             "visit"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Plan confirmado: presente continuo.",
+            "El simple es para horarios oficiales."
+          ]
         },
         {
           "id": "b09-s2q7",
@@ -354,7 +410,11 @@
             "rains",
             "is raining"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Rains es lo habitual, no ahora mismo.",
+            "Look… ahora: is raining."
+          ]
         },
         {
           "id": "b09-s2q8",
@@ -363,7 +423,11 @@
             "is checking",
             "checks"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "At the moment: continuo.",
+            "Checks es rutina."
+          ]
         }
       ],
       "produce": {
@@ -482,7 +546,11 @@
             "have / seen",
             "had / seen"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Never + have + participio: nunca he visto.",
+            "Had seen es pasado perfecto."
+          ]
         },
         {
           "id": "b09-s3q2",
@@ -491,7 +559,11 @@
             "for",
             "since"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For + duración: for five years.",
+            "Since necesita un punto de inicio."
+          ]
         },
         {
           "id": "b09-s3q3",
@@ -500,7 +572,11 @@
             "yet",
             "already"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Yet en preguntas = ya / todavía.",
+            "Already en pregunta expresa sorpresa; aquí es pregunta neutra."
+          ]
         },
         {
           "id": "b09-s3q4",
@@ -509,7 +585,11 @@
             "have / seen",
             "had / seen"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Have + participio: nunca he visto.",
+            "Had seen es pasado perfecto."
+          ]
         },
         {
           "id": "b09-s3q5",
@@ -518,7 +598,11 @@
             "since",
             "for"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Since necesita un punto de inicio.",
+            "For + duración."
+          ]
         },
         {
           "id": "b09-s3q6",
@@ -527,7 +611,11 @@
             "yet",
             "already"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Yet en preguntas.",
+            "Already en pregunta expresa sorpresa."
+          ]
         },
         {
           "id": "b09-s3q7",
@@ -536,7 +624,11 @@
             "for",
             "since"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "For va con duración, no con un año.",
+            "Since + punto de inicio: since 2020."
+          ]
         },
         {
           "id": "b09-s3q8",
@@ -545,7 +637,11 @@
             "I've seen it yesterday",
             "I saw it yesterday"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Yesterday (momento terminado) no va con present perfect.",
+            "Momento terminado: pasado simple."
+          ]
         }
       ],
       "produce": {
@@ -660,7 +756,11 @@
             "have been waiting",
             "have waited"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Llevo esperando: perfecto continuo.",
+            "Have waited no resalta la duración en curso."
+          ]
         },
         {
           "id": "b09-s4q2",
@@ -669,7 +769,11 @@
             "have",
             "are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "How long have you been…?",
+            "Are no forma el perfecto continuo."
+          ]
         },
         {
           "id": "b09-s4q3",
@@ -678,7 +782,11 @@
             "has been working",
             "has worked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ha estado trabajando (proceso que explica el cansancio).",
+            "Has worked resalta resultado, no el proceso."
+          ]
         },
         {
           "id": "b09-s4q4",
@@ -687,7 +795,11 @@
             "have been waiting",
             "have waited"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Perfecto continuo: duración que sigue.",
+            "Have waited no resalta el proceso."
+          ]
         },
         {
           "id": "b09-s4q5",
@@ -696,7 +808,11 @@
             "have",
             "are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Have + been + -ing.",
+            "Are no forma el perfecto continuo."
+          ]
         },
         {
           "id": "b09-s4q6",
@@ -705,7 +821,11 @@
             "has been working",
             "has worked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Proceso que explica el cansancio.",
+            "Has worked resalta el resultado."
+          ]
         },
         {
           "id": "b09-s4q7",
@@ -714,7 +834,11 @@
             "perfecto continuo",
             "perfecto simple"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "El perfecto continuo resalta la duración del proceso.",
+            "El perfecto simple resalta el resultado."
+          ]
         },
         {
           "id": "b09-s4q8",
@@ -723,7 +847,11 @@
             "have been working",
             "work"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Llevamos trabajando: have been working.",
+            "Work es rutina, no duración hasta ahora."
+          ]
         }
       ],
       "produce": {
@@ -838,7 +966,11 @@
             "finished",
             "finish"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado regular: finished.",
+            "Finish es presente."
+          ]
         },
         {
           "id": "b09-s5q2",
@@ -847,7 +979,11 @@
             "went",
             "goed"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Go es irregular: went.",
+            "«Goed» no existe."
+          ]
         },
         {
           "id": "b09-s5q3",
@@ -856,7 +992,11 @@
             "Did",
             "Was"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pregunta en pasado: Did.",
+            "Was no forma pregunta con call."
+          ]
         },
         {
           "id": "b09-s5q4",
@@ -865,7 +1005,11 @@
             "finished",
             "finish"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado: finished.",
+            "Finish es presente."
+          ]
         },
         {
           "id": "b09-s5q5",
@@ -874,7 +1018,11 @@
             "went",
             "goed"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado irregular de go: went.",
+            "«Goed» no existe."
+          ]
         },
         {
           "id": "b09-s5q6",
@@ -883,7 +1031,11 @@
             "Did",
             "Was"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did + base.",
+            "Was no forma pregunta con call."
+          ]
         },
         {
           "id": "b09-s5q7",
@@ -892,7 +1044,11 @@
             "didn't receive",
             "didn't received"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras didn't, verbo base.",
+            "Tras didn't no va pasado."
+          ]
         },
         {
           "id": "b09-s5q8",
@@ -901,7 +1057,11 @@
             "was founded",
             "founded"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasiva: fue fundada.",
+            "Founded solo sería activa: «la empresa fundó»."
+          ]
         }
       ],
       "produce": {
@@ -1016,7 +1176,11 @@
             "was having",
             "had"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Acción en curso interrumpida: pasado continuo.",
+            "Had lunch diría que comió después."
+          ]
         },
         {
           "id": "b09-s6q2",
@@ -1025,7 +1189,11 @@
             "were having",
             "had"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En curso toda la tarde: pasado continuo.",
+            "Had es posible, pero no resalta la acción en curso."
+          ]
         },
         {
           "id": "b09-s6q3",
@@ -1034,7 +1202,11 @@
             "were",
             "did"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado continuo: were you doing.",
+            "Did no forma el continuo."
+          ]
         },
         {
           "id": "b09-s6q4",
@@ -1043,7 +1215,11 @@
             "was having",
             "had"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Estaba comiendo: was having.",
+            "Had diría que comió tras la llamada."
+          ]
         },
         {
           "id": "b09-s6q5",
@@ -1052,7 +1228,11 @@
             "were having",
             "had"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En curso: were having.",
+            "Had no resalta la duración."
+          ]
         },
         {
           "id": "b09-s6q6",
@@ -1061,7 +1241,11 @@
             "were",
             "did"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Were + -ing.",
+            "Did no forma el continuo."
+          ]
         },
         {
           "id": "b09-s6q7",
@@ -1070,7 +1254,11 @@
             "was presenting",
             "presented"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "While + pasado continuo (fondo).",
+            "Presented no expresa la acción de fondo."
+          ]
         },
         {
           "id": "b09-s6q8",
@@ -1079,7 +1267,11 @@
             "was raining",
             "rained"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Fondo de la escena: was raining.",
+            "Rained no describe el fondo."
+          ]
         }
       ],
       "produce": {
@@ -1198,7 +1390,11 @@
             "had / ended",
             "has / ended"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado perfecto: had ended.",
+            "Has ended es presente perfecto."
+          ]
         },
         {
           "id": "b09-s7q2",
@@ -1207,7 +1403,11 @@
             "had sent",
             "sent"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Anterior a otro pasado: had sent.",
+            "Sent no marca anterioridad."
+          ]
         },
         {
           "id": "b09-s7q3",
@@ -1216,7 +1416,11 @@
             "had already made",
             "already made"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ya habían tomado: had already made.",
+            "Already made no marca anterioridad."
+          ]
         },
         {
           "id": "b09-s7q4",
@@ -1225,7 +1429,11 @@
             "had / ended",
             "has / ended"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had + participio.",
+            "Has ended es presente perfecto."
+          ]
         },
         {
           "id": "b09-s7q5",
@@ -1234,7 +1442,11 @@
             "had sent",
             "sent"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Había enviado: had sent.",
+            "Sent no marca anterioridad."
+          ]
         },
         {
           "id": "b09-s7q6",
@@ -1243,7 +1455,11 @@
             "had already made",
             "already made"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had already made.",
+            "Sin had no marca anterioridad."
+          ]
         },
         {
           "id": "b09-s7q7",
@@ -1252,7 +1468,11 @@
             "had / finished",
             "has / finished"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Acababa de: had just finished.",
+            "Has just es presente."
+          ]
         },
         {
           "id": "b09-s7q8",
@@ -1261,7 +1481,11 @@
             "anterior a otra pasada",
             "en curso ahora"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Anterior a otra acción pasada.",
+            "Eso es el presente continuo."
+          ]
         }
       ],
       "produce": {
@@ -1380,7 +1604,11 @@
             "had been working",
             "had worked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Llevaba trabajando: had been working.",
+            "Had worked no resalta la duración."
+          ]
         },
         {
           "id": "b09-s8q2",
@@ -1389,7 +1617,11 @@
             "had",
             "have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "How long had you been…?",
+            "Have es presente."
+          ]
         },
         {
           "id": "b09-s8q3",
@@ -1398,7 +1630,11 @@
             "had been negotiating",
             "had negotiated"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Duración antes de otro momento pasado.",
+            "Had negotiated no resalta el proceso."
+          ]
         },
         {
           "id": "b09-s8q4",
@@ -1407,7 +1643,11 @@
             "had been working",
             "had worked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had been working.",
+            "Had worked no resalta la duración."
+          ]
         },
         {
           "id": "b09-s8q5",
@@ -1416,7 +1656,11 @@
             "had",
             "have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had: pasado.",
+            "Have es presente."
+          ]
         },
         {
           "id": "b09-s8q6",
@@ -1425,7 +1669,11 @@
             "had been negotiating",
             "had negotiated"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had been negotiating.",
+            "Had negotiated no resalta el proceso."
+          ]
         },
         {
           "id": "b09-s8q7",
@@ -1434,7 +1682,11 @@
             "duración",
             "finalización única"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Resalta la duración.",
+            "Para algo terminado se usa el pasado perfecto simple."
+          ]
         },
         {
           "id": "b09-s8q8",
@@ -1443,7 +1695,11 @@
             "had been planning",
             "planned"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Llevábamos planeando: had been planning.",
+            "Planned no resalta la duración."
+          ]
         }
       ],
       "produce": {
@@ -1562,7 +1818,11 @@
             "will go",
             "are going"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Will no es para planes ya decididos.",
+            "Plan decidido: presente continuo."
+          ]
         },
         {
           "id": "b09-s9q2",
@@ -1571,7 +1831,11 @@
             "will",
             "am going to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Decisión espontánea: will.",
+            "Going to es para planes previos."
+          ]
         },
         {
           "id": "b09-s9q3",
@@ -1580,7 +1844,11 @@
             "are going to be",
             "will be"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Evidencia visible: going to.",
+            "Will es para predicción sin pruebas."
+          ]
         },
         {
           "id": "b09-s9q4",
@@ -1589,7 +1857,11 @@
             "will go",
             "are going"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Will no es para planes decididos.",
+            "Plan decidido: are going."
+          ]
         },
         {
           "id": "b09-s9q5",
@@ -1598,7 +1870,11 @@
             "will",
             "am going to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Decisión en el momento: will.",
+            "Going to es plan previo."
+          ]
         },
         {
           "id": "b09-s9q6",
@@ -1607,7 +1883,11 @@
             "are going to be",
             "will be"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Evidencia: going to.",
+            "Will no se basa en evidencia."
+          ]
         },
         {
           "id": "b09-s9q7",
@@ -1616,7 +1896,11 @@
             "will",
             "am going to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Promesa: will.",
+            "Going to no expresa promesa."
+          ]
         },
         {
           "id": "b09-s9q8",
@@ -1625,7 +1909,11 @@
             "are going to open",
             "will open"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Intención o plan: going to.",
+            "Will es menos natural para un plan ya decidido."
+          ]
         }
       ],
       "produce": {
@@ -1740,7 +2028,11 @@
             "will be calling",
             "will call"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Estaré llamando: will be calling.",
+            "Will call es una acción puntual."
+          ]
         },
         {
           "id": "b09-s10q2",
@@ -1749,7 +2041,11 @@
             "will be relaxing",
             "relax"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En progreso en el futuro: will be relaxing.",
+            "Relax es presente."
+          ]
         },
         {
           "id": "b09-s10q3",
@@ -1758,7 +2054,11 @@
             "will be writing",
             "writes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will be writing.",
+            "Writes es presente."
+          ]
         },
         {
           "id": "b09-s10q4",
@@ -1767,7 +2067,11 @@
             "will be calling",
             "will call"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will be + -ing.",
+            "Will call no está en progreso."
+          ]
         },
         {
           "id": "b09-s10q5",
@@ -1776,7 +2080,11 @@
             "will be relaxing",
             "relax"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Futuro continuo.",
+            "Presente simple."
+          ]
         },
         {
           "id": "b09-s10q6",
@@ -1785,7 +2093,11 @@
             "will be writing",
             "writes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En progreso: will be writing.",
+            "Writes es presente."
+          ]
         },
         {
           "id": "b09-s10q7",
@@ -1794,7 +2106,11 @@
             "will be meeting",
             "will meet"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Estaremos reunidos: will be meeting.",
+            "Will meet es puntual."
+          ]
         },
         {
           "id": "b09-s10q8",
@@ -1803,7 +2119,11 @@
             "en progreso en un momento futuro",
             "terminada antes del futuro"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En progreso en un momento futuro.",
+            "Eso es el futuro perfecto."
+          ]
         }
       ],
       "produce": {
@@ -1922,7 +2242,11 @@
             "will have finished",
             "will finish"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Habremos terminado: will have finished.",
+            "Will finish no marca «antes de»."
+          ]
         },
         {
           "id": "b09-s11q2",
@@ -1931,7 +2255,11 @@
             "will have sent",
             "will send"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Habrá enviado.",
+            "Will send no marca «para entonces»."
+          ]
         },
         {
           "id": "b09-s11q3",
@@ -1940,7 +2268,11 @@
             "will have left",
             "will leave"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ya se habrán ido.",
+            "Will leave sería después de la llamada."
+          ]
         },
         {
           "id": "b09-s11q4",
@@ -1949,7 +2281,11 @@
             "will have finished",
             "will finish"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Futuro perfecto.",
+            "Futuro simple."
+          ]
         },
         {
           "id": "b09-s11q5",
@@ -1958,7 +2294,11 @@
             "will have sent",
             "will send"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will have sent.",
+            "Will send no marca plazo."
+          ]
         },
         {
           "id": "b09-s11q6",
@@ -1967,7 +2307,11 @@
             "will have left",
             "will leave"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will have left.",
+            "Will leave cambia el orden."
+          ]
         },
         {
           "id": "b09-s11q7",
@@ -1976,7 +2320,11 @@
             "by / by the time",
             "while"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "By / by the time.",
+            "While no marca plazo."
+          ]
         },
         {
           "id": "b09-s11q8",
@@ -1985,7 +2333,11 @@
             "will have opened",
             "will open"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Habremos abierto.",
+            "Will open no marca plazo."
+          ]
         }
       ],
       "produce": {
@@ -2104,7 +2456,11 @@
             "will have been working",
             "will have worked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Llevará trabajando: will have been working.",
+            "Will have worked no resalta el proceso."
+          ]
         },
         {
           "id": "b09-s12q2",
@@ -2113,7 +2469,11 @@
             "will have been serving",
             "will serve"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Duración hasta el futuro.",
+            "Will serve no expresa duración."
+          ]
         },
         {
           "id": "b09-s12q3",
@@ -2122,7 +2482,11 @@
             "will have been negotiating",
             "will negotiate"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Llevarán negociando.",
+            "Will negotiate no expresa duración."
+          ]
         },
         {
           "id": "b09-s12q4",
@@ -2131,7 +2495,11 @@
             "will have been working",
             "will have worked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Futuro perfecto continuo.",
+            "Sin been no resalta la duración."
+          ]
         },
         {
           "id": "b09-s12q5",
@@ -2140,7 +2508,11 @@
             "will have been serving",
             "will serve"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will have been serving.",
+            "Will serve no expresa duración."
+          ]
         },
         {
           "id": "b09-s12q6",
@@ -2149,7 +2521,11 @@
             "will have been negotiating",
             "will negotiate"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will have been negotiating.",
+            "Sin duración."
+          ]
         },
         {
           "id": "b09-s12q7",
@@ -2158,7 +2534,11 @@
             "proceso aún en marcha",
             "acción terminada"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Proceso aún en marcha.",
+            "Acción terminada es el futuro perfecto."
+          ]
         },
         {
           "id": "b09-s12q8",
@@ -2167,7 +2547,11 @@
             "will have been working",
             "will work"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Llevaré trabajando.",
+            "Will work no expresa duración."
+          ]
         }
       ],
       "produce": {
@@ -2278,7 +2662,11 @@
             "used to",
             "would be"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hábito pasado: used to.",
+            "Would be no expresa hábito aquí."
+          ]
         },
         {
           "id": "b09-s13q2",
@@ -2287,7 +2675,11 @@
             "would be",
             "used to be"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Would no se usa para estados pasados.",
+            "Estado pasado: used to be."
+          ]
         },
         {
           "id": "b09-s13q3",
@@ -2296,7 +2688,11 @@
             "would open",
             "used to being"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Acción repetida: would open.",
+            "«Used to being» no es correcto."
+          ]
         },
         {
           "id": "b09-s13q4",
@@ -2305,7 +2701,11 @@
             "didn't use to",
             "didn't used to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Negativa: didn't use to.",
+            "Tras didn't, use (sin d)."
+          ]
         },
         {
           "id": "b09-s13q5",
@@ -2314,7 +2714,11 @@
             "Did",
             "Do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did you use to…?",
+            "Do es presente."
+          ]
         },
         {
           "id": "b09-s13q6",
@@ -2323,7 +2727,11 @@
             "antes trataba con VIPs",
             "estoy acostumbrado a tratar con VIPs"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Eso sería «I used to deal…».",
+            "Be used to + -ing = estar acostumbrado."
+          ]
         },
         {
           "id": "b09-s13q7",
@@ -2332,7 +2740,11 @@
             "It would be a palace",
             "It used to be a palace"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Incorrecta: would no va con estados.",
+            "Correcta: used to para estados."
+          ]
         }
       ],
       "produce": {
@@ -2443,7 +2855,11 @@
             "leaves",
             "will leave"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Horario fijo: presente simple.",
+            "Will no es para horarios oficiales."
+          ]
         },
         {
           "id": "b09-s14q2",
@@ -2452,7 +2868,11 @@
             "will meet",
             "are meeting"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Will no es para planes concertados.",
+            "Plan concertado: presente continuo."
+          ]
         },
         {
           "id": "b09-s14q3",
@@ -2461,7 +2881,11 @@
             "arrive",
             "will arrive"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras when, presente.",
+            "No va will tras when."
+          ]
         },
         {
           "id": "b09-s14q4",
@@ -2470,7 +2894,11 @@
             "is starting",
             "starts"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El continuo no se usa para horarios.",
+            "Horario: starts."
+          ]
         },
         {
           "id": "b09-s14q5",
@@ -2479,7 +2907,11 @@
             "is checking",
             "checks"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Plan personal: is checking.",
+            "El simple es para horarios oficiales."
+          ]
         },
         {
           "id": "b09-s14q6",
@@ -2488,7 +2920,11 @@
             "will rain",
             "rains"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No va will tras if.",
+            "Presente tras if."
+          ]
         },
         {
           "id": "b09-s14q7",
@@ -2497,7 +2933,11 @@
             "is",
             "will be"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras until, presente.",
+            "No va will tras until."
+          ]
         }
       ],
       "produce": {
@@ -2608,7 +3048,11 @@
             "were going to",
             "will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Plan pasado no cumplido: were going to.",
+            "Will no es pasado."
+          ]
         },
         {
           "id": "b09-s15q2",
@@ -2617,7 +3061,11 @@
             "would",
             "will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will → would en estilo indirecto.",
+            "Will no retrocede."
+          ]
         },
         {
           "id": "b09-s15q3",
@@ -2626,7 +3074,11 @@
             "was about to",
             "was going"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Was about to = estaba a punto de.",
+            "Falta to: was going to."
+          ]
         },
         {
           "id": "b09-s15q4",
@@ -2635,7 +3087,11 @@
             "would",
             "will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Would: futuro en el pasado.",
+            "Will no retrocede."
+          ]
         },
         {
           "id": "b09-s15q5",
@@ -2644,7 +3100,11 @@
             "were going to",
             "would"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Were going to: intención pasada.",
+            "Would no expresa intención previa."
+          ]
         },
         {
           "id": "b09-s15q6",
@@ -2653,7 +3113,11 @@
             "would",
             "will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Vendría = would come.",
+            "Will es futuro, no condicional."
+          ]
         },
         {
           "id": "b09-s15q7",
@@ -2662,7 +3126,11 @@
             "about",
             "going"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "About to = a punto de.",
+            "Going to no significa «a punto de» aquí."
+          ]
         }
       ],
       "produce": {

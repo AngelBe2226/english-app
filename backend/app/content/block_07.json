@@ -130,7 +130,11 @@
             "Should",
             "If should"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Should al principio sustituye a if: Should you have…",
+            "Con la inversión se quita if."
+          ]
         },
         {
           "id": "b07-s1q2",
@@ -139,7 +143,11 @@
             "Had",
             "Have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had I known = if I had known.",
+            "Have no forma el tercer condicional."
+          ]
         },
         {
           "id": "b07-s1q3",
@@ -148,7 +156,11 @@
             "Were",
             "Was"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Were I you = if I were you.",
+            "En la inversión formal se usa were, no was."
+          ]
         },
         {
           "id": "b07-s1q4",
@@ -157,7 +169,11 @@
             "Should",
             "Would"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Should you need = if you should need.",
+            "Would no sustituye a if."
+          ]
         },
         {
           "id": "b07-s1q5",
@@ -166,7 +182,11 @@
             "Was",
             "Were"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "La inversión formal pide were.",
+            "Were I in your position."
+          ]
         },
         {
           "id": "b07-s1q6",
@@ -175,7 +195,11 @@
             "Had",
             "Have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had I known = tercer condicional invertido.",
+            "Have no forma el tercer condicional."
+          ]
         },
         {
           "id": "b07-s1q7",
@@ -184,7 +208,11 @@
             "Should",
             "Did"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Should + sujeto + base = si llegara a…",
+            "Did no forma esta inversión."
+          ]
         },
         {
           "id": "b07-s1q8",
@@ -193,7 +221,11 @@
             "Had",
             "Has"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had she signed = if she had signed.",
+            "Has es presente; aquí es pasado perfecto."
+          ]
         }
       ],
       "produce": {
@@ -324,7 +356,11 @@
             "have",
             "I have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras never al inicio: auxiliar + sujeto.",
+            "Sin inversión no es correcto tras never."
+          ]
         },
         {
           "id": "b07-s2q2",
@@ -333,7 +369,11 @@
             "did",
             "she did"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Not only + did + sujeto.",
+            "Sin inversión no es correcto."
+          ]
         },
         {
           "id": "b07-s2q3",
@@ -342,7 +382,11 @@
             "do",
             "guests do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Rarely + do + sujeto.",
+            "Falta la inversión."
+          ]
         },
         {
           "id": "b07-s2q4",
@@ -351,7 +395,11 @@
             "I have seen",
             "have I seen"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Falta la inversión tras never.",
+            "Have I seen: auxiliar antes del sujeto."
+          ]
         },
         {
           "id": "b07-s2q5",
@@ -360,7 +408,11 @@
             "she arrives",
             "does she arrive"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Falta la inversión con does.",
+            "Does she arrive."
+          ]
         },
         {
           "id": "b07-s2q6",
@@ -369,7 +421,11 @@
             "did he close",
             "he closed"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did he close: inversión.",
+            "Sin inversión tras not only."
+          ]
         },
         {
           "id": "b07-s2q7",
@@ -378,7 +434,11 @@
             "No sooner",
             "No longer"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "No sooner… than = nada más.",
+            "No longer = ya no."
+          ]
         },
         {
           "id": "b07-s2q8",
@@ -387,7 +447,11 @@
             "you should offer",
             "should you offer"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Sin inversión tras under no circumstances.",
+            "Should you offer: inversión."
+          ]
         }
       ],
       "produce": {
@@ -518,7 +582,11 @@
             "All",
             "What"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "All I need = todo lo que necesito.",
+            "What I need = lo que necesito; aquí el sentido es «todo»."
+          ]
         },
         {
           "id": "b07-s3q2",
@@ -527,7 +595,11 @@
             "who",
             "that only"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It was… who = fue… quien.",
+            "«That only» no encaja."
+          ]
         },
         {
           "id": "b07-s3q3",
@@ -536,7 +608,11 @@
             "What",
             "That"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "What = lo que.",
+            "That necesita una oración completa."
+          ]
         },
         {
           "id": "b07-s3q4",
@@ -545,7 +621,11 @@
             "It was",
             "There was"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It was = fue (énfasis).",
+            "There was = había."
+          ]
         },
         {
           "id": "b07-s3q5",
@@ -554,7 +634,11 @@
             "What",
             "That"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "What = lo que (hendida).",
+            "That no funciona como «lo que»."
+          ]
         },
         {
           "id": "b07-s3q6",
@@ -563,7 +647,11 @@
             "All",
             "It"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "All = todo lo que.",
+            "It no introduce la hendida aquí."
+          ]
         },
         {
           "id": "b07-s3q7",
@@ -572,7 +660,11 @@
             "that",
             "which"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It was… that.",
+            "Which no se usa en la hendida con tiempo."
+          ]
         },
         {
           "id": "b07-s3q8",
@@ -581,7 +673,11 @@
             "What",
             "It"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "What we offer = lo que ofrecemos.",
+            "It no encaja sin that."
+          ]
         }
       ],
       "produce": {
@@ -712,7 +808,11 @@
             "did",
             "she did"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Only after + inversión: did she decide.",
+            "Falta la inversión."
+          ]
         },
         {
           "id": "b07-s4q2",
@@ -721,7 +821,11 @@
             "good",
             "goodly"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So + adjetivo.",
+            "«Goodly» no es el adjetivo."
+          ]
         },
         {
           "id": "b07-s4q3",
@@ -730,7 +834,11 @@
             "should you",
             "you should"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Should you: inversión.",
+            "Falta la inversión."
+          ]
         },
         {
           "id": "b07-s4q4",
@@ -739,7 +847,11 @@
             "she was",
             "was she"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Falta la inversión tras so + adjetivo.",
+            "Was she: inversión."
+          ]
         },
         {
           "id": "b07-s4q5",
@@ -748,7 +860,11 @@
             "I realised",
             "did I realise"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Falta la inversión tras only then.",
+            "Did I realise."
+          ]
         },
         {
           "id": "b07-s4q6",
@@ -757,7 +873,11 @@
             "Such",
             "So"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Such was the demand = tal era la demanda.",
+            "So necesita adjetivo."
+          ]
         },
         {
           "id": "b07-s4q7",
@@ -766,7 +886,11 @@
             "she decided",
             "did she decide"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Falta la inversión.",
+            "Did she decide."
+          ]
         },
         {
           "id": "b07-s4q8",
@@ -775,7 +899,11 @@
             "should you offer",
             "you should offer"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Should you offer: inversión.",
+            "Falta la inversión."
+          ]
         }
       ],
       "produce": {
@@ -886,7 +1014,11 @@
             "do",
             "am"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do + base: énfasis.",
+            "Am no va con apologise."
+          ]
         },
         {
           "id": "b07-s5q2",
@@ -895,7 +1027,11 @@
             "did",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did + base: énfasis en pasado.",
+            "Do es presente."
+          ]
         },
         {
           "id": "b07-s5q3",
@@ -904,7 +1040,11 @@
             "do",
             "does"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Do no va con she.",
+            "Does: 3ª persona."
+          ]
         },
         {
           "id": "b07-s5q4",
@@ -913,7 +1053,11 @@
             "cares",
             "care"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras does va base.",
+            "Base: care."
+          ]
         },
         {
           "id": "b07-s5q5",
@@ -922,7 +1066,11 @@
             "Do",
             "Does"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do come in = pase, por favor.",
+            "Does no va en imperativo."
+          ]
         },
         {
           "id": "b07-s5q6",
@@ -931,7 +1079,11 @@
             "do",
             "does"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Do no va con the offer (singular).",
+            "Does: 3ª persona."
+          ]
         },
         {
           "id": "b07-s5q7",
@@ -940,7 +1092,11 @@
             "paid",
             "pay"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras did va base.",
+            "Base: pay."
+          ]
         }
       ],
       "produce": {
@@ -1051,7 +1207,11 @@
             "Here comes",
             "Here the shuttle comes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Here + verbo + sujeto nominal.",
+            "Con sustantivo se invierte."
+          ]
         },
         {
           "id": "b07-s6q2",
@@ -1060,7 +1220,11 @@
             "There goes",
             "Goes there"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "There goes = ahí se va.",
+            "Orden incorrecto."
+          ]
         },
         {
           "id": "b07-s6q3",
@@ -1069,7 +1233,11 @@
             "Here comes she",
             "Here she comes"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con pronombre no se invierte.",
+            "Here she comes."
+          ]
         },
         {
           "id": "b07-s6q4",
@@ -1078,7 +1246,11 @@
             "Down",
             "Downwards"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Down came the rain.",
+            "Downwards no se usa así."
+          ]
         },
         {
           "id": "b07-s6q5",
@@ -1087,7 +1259,11 @@
             "The view everyone loved",
             "The view loved everyone"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Objeto adelantado sin inversión.",
+            "Cambia el sentido: la vista quería a todos."
+          ]
         },
         {
           "id": "b07-s6q6",
@@ -1096,7 +1272,11 @@
             "In",
             "Into"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In walked = entró.",
+            "Into necesita objeto."
+          ]
         },
         {
           "id": "b07-s6q7",
@@ -1105,7 +1285,11 @@
             "stood",
             "it stood"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On the terrace stood… (inversión).",
+            "It sobra."
+          ]
         }
       ],
       "produce": {
@@ -1216,7 +1400,11 @@
             "So do",
             "So am"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So do I: presente con do.",
+            "Love no usa am."
+          ]
         },
         {
           "id": "b07-s7q2",
@@ -1225,7 +1413,11 @@
             "So",
             "Neither"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "So es para afirmativas.",
+            "Neither can I = yo tampoco."
+          ]
         },
         {
           "id": "b07-s7q3",
@@ -1234,7 +1426,11 @@
             "So is",
             "So does"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So is he: con be.",
+            "Be no usa does."
+          ]
         },
         {
           "id": "b07-s7q4",
@@ -1243,7 +1439,11 @@
             "did",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did: pasado.",
+            "Do es presente."
+          ]
         },
         {
           "id": "b07-s7q5",
@@ -1252,7 +1452,11 @@
             "will",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So will I.",
+            "Futuro: will, no do."
+          ]
         },
         {
           "id": "b07-s7q6",
@@ -1261,7 +1465,11 @@
             "So",
             "Nor"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "So es para afirmativas.",
+            "Nor has she = ella tampoco."
+          ]
         },
         {
           "id": "b07-s7q7",
@@ -1270,7 +1478,11 @@
             "So I do",
             "So + auxiliar + sujeto"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«So I do» significa «es verdad, lo hago».",
+            "So + auxiliar + sujeto."
+          ]
         }
       ],
       "produce": {
@@ -1381,7 +1593,11 @@
             "only",
             "even"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Only = solo.",
+            "Even = incluso."
+          ]
         },
         {
           "id": "b07-s8q2",
@@ -1390,7 +1606,11 @@
             "Only",
             "Even"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Only = solo.",
+            "Even = incluso."
+          ]
         },
         {
           "id": "b07-s8q3",
@@ -1399,7 +1619,11 @@
             "solo lo llamé (no hice más)",
             "solo yo lo llamé"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Only antes del verbo: solo lo llamé.",
+            "Eso sería «Only I called him»."
+          ]
         },
         {
           "id": "b07-s8q4",
@@ -1408,7 +1632,11 @@
             "solo lo llamé a él",
             "solo yo lo llamé"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Eso sería «I called only him».",
+            "Only I = solo yo."
+          ]
         },
         {
           "id": "b07-s8q5",
@@ -1417,7 +1645,11 @@
             "especially",
             "even"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Especially = especialmente.",
+            "Even = incluso."
+          ]
         },
         {
           "id": "b07-s8q6",
@@ -1426,7 +1658,11 @@
             "just",
             "even"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Just = solo.",
+            "Even = incluso."
+          ]
         },
         {
           "id": "b07-s8q7",
@@ -1435,7 +1671,11 @@
             "too",
             "only"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Too al final = también.",
+            "Only = solo."
+          ]
         }
       ],
       "produce": {

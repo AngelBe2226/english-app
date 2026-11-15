@@ -126,7 +126,11 @@
             "press",
             "will press"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Condicional 0: if + presente.",
+            "No va will tras if."
+          ]
         },
         {
           "id": "b10-s1q2",
@@ -135,7 +139,11 @@
             "let",
             "will let"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Política fija: presente en las dos partes.",
+            "Will no es para normas fijas."
+          ]
         },
         {
           "id": "b10-s1q3",
@@ -144,7 +152,11 @@
             "drops",
             "will drop"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras if, presente.",
+            "No va will tras if."
+          ]
         },
         {
           "id": "b10-s1q4",
@@ -153,7 +165,11 @@
             "melts",
             "will melt"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Verdad general: presente.",
+            "Will no se usa para verdades generales."
+          ]
         },
         {
           "id": "b10-s1q5",
@@ -162,7 +178,11 @@
             "is",
             "will be"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Norma fija: presente.",
+            "Will no es para normas fijas."
+          ]
         },
         {
           "id": "b10-s1q6",
@@ -171,7 +191,11 @@
             "+ presente",
             "+ will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If + presente, + presente.",
+            "Eso es el condicional 1."
+          ]
         },
         {
           "id": "b10-s1q7",
@@ -180,7 +204,11 @@
             "turns",
             "would turn"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Verdad general: turns.",
+            "Would es hipotético."
+          ]
         },
         {
           "id": "b10-s1q8",
@@ -189,7 +217,11 @@
             "die",
             "will die"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Consecuencia general: presente.",
+            "Will es para un caso futuro concreto."
+          ]
         }
       ],
       "produce": {
@@ -312,7 +344,11 @@
             "will give",
             "would give"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Condicional 1: will.",
+            "Would es hipotético."
+          ]
         },
         {
           "id": "b10-s2q2",
@@ -321,7 +357,11 @@
             "is",
             "will be"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras if, presente.",
+            "No va will tras if."
+          ]
         },
         {
           "id": "b10-s2q3",
@@ -330,7 +370,11 @@
             "confirm",
             "will confirm"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras unless, presente.",
+            "No va will tras unless."
+          ]
         },
         {
           "id": "b10-s2q4",
@@ -339,7 +383,11 @@
             "get",
             "will get"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El resultado futuro va con will.",
+            "Will get: resultado futuro."
+          ]
         },
         {
           "id": "b10-s2q5",
@@ -348,7 +396,11 @@
             "'ll hold",
             "held"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will hold: futuro real.",
+            "Held es pasado."
+          ]
         },
         {
           "id": "b10-s2q6",
@@ -357,7 +409,11 @@
             "+ will",
             "+ would"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If + presente, + will.",
+            "Would es el condicional 2."
+          ]
         },
         {
           "id": "b10-s2q7",
@@ -366,7 +422,11 @@
             "will move",
             "would move"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Futuro posible: will.",
+            "Would es hipotético."
+          ]
         },
         {
           "id": "b10-s2q8",
@@ -375,7 +435,11 @@
             "presente",
             "will"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras if sí va presente.",
+            "Tras if no va will."
+          ]
         }
       ],
       "produce": {
@@ -498,7 +562,11 @@
             "were",
             "am"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hipótesis: were.",
+            "Am es real, no hipotético."
+          ]
         },
         {
           "id": "b10-s3q2",
@@ -507,7 +575,11 @@
             "would",
             "will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Condicional 2: would.",
+            "Will es real."
+          ]
         },
         {
           "id": "b10-s3q3",
@@ -516,7 +588,11 @@
             "fell",
             "falls"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hipótesis: pasado (fell).",
+            "Falls es real."
+          ]
         },
         {
           "id": "b10-s3q4",
@@ -525,7 +601,11 @@
             "was",
             "were"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "En el condicional 2 se prefiere were.",
+            "If I were you."
+          ]
         },
         {
           "id": "b10-s3q5",
@@ -534,7 +614,11 @@
             "would sell",
             "will sell"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Would + infinitivo.",
+            "Will es real."
+          ]
         },
         {
           "id": "b10-s3q6",
@@ -543,7 +627,11 @@
             "+ would + infinitivo",
             "+ will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado + would.",
+            "Will es real."
+          ]
         },
         {
           "id": "b10-s3q7",
@@ -552,7 +640,11 @@
             "refused",
             "will refuse"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hipótesis: pasado.",
+            "No va will tras if."
+          ]
         },
         {
           "id": "b10-s3q8",
@@ -561,7 +653,11 @@
             "irreal o improbable ahora",
             "seguro en el futuro"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Irreal o improbable ahora.",
+            "Lo seguro va con will."
+          ]
         }
       ],
       "produce": {
@@ -688,7 +784,11 @@
             "would have called",
             "would call"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Would have + participio.",
+            "Would call es presente hipotético."
+          ]
         },
         {
           "id": "b10-s4q2",
@@ -697,7 +797,11 @@
             "had left",
             "left"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If + had + participio.",
+            "Left no basta para el tercer condicional."
+          ]
         },
         {
           "id": "b10-s4q3",
@@ -706,7 +810,11 @@
             "had been",
             "were"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had been: pasado perfecto.",
+            "Were es condicional 2."
+          ]
         },
         {
           "id": "b10-s4q4",
@@ -715,7 +823,11 @@
             "had known",
             "knew"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had known.",
+            "Knew es condicional 2."
+          ]
         },
         {
           "id": "b10-s4q5",
@@ -724,7 +836,11 @@
             "have gotten",
             "get"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Would have + participio.",
+            "Get no completa would have."
+          ]
         },
         {
           "id": "b10-s4q6",
@@ -733,7 +849,11 @@
             "would have + participio",
             "would + infinitivo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Would have + participio.",
+            "Would + infinitivo es el condicional 2."
+          ]
         },
         {
           "id": "b10-s4q7",
@@ -742,7 +862,11 @@
             "irreal (no ocurrió)",
             "que sí ocurrió"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado irreal.",
+            "Si ocurrió no es tercer condicional."
+          ]
         },
         {
           "id": "b10-s4q8",
@@ -751,7 +875,11 @@
             "wouldn't have lost",
             "won't lose"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Wouldn't have lost.",
+            "Won't es real y futuro."
+          ]
         }
       ],
       "produce": {
@@ -878,7 +1006,11 @@
             "would be working",
             "would have worked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Resultado en el presente: would be.",
+            "Would have worked se refiere al pasado."
+          ]
         },
         {
           "id": "b10-s5q2",
@@ -887,7 +1019,11 @@
             "wouldn't have made",
             "wouldn't make"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Resultado en el pasado: wouldn't have made.",
+            "Wouldn't make se refiere al presente."
+          ]
         },
         {
           "id": "b10-s5q3",
@@ -896,7 +1032,11 @@
             "wouldn't have",
             "wouldn't have had"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Resultado ahora: wouldn't have.",
+            "Wouldn't have had se refiere al pasado."
+          ]
         },
         {
           "id": "b10-s5q4",
@@ -905,7 +1045,11 @@
             "would be living",
             "would have lived"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ahora: would be living.",
+            "Would have lived es pasado."
+          ]
         },
         {
           "id": "b10-s5q5",
@@ -914,7 +1058,11 @@
             "wouldn't have missed",
             "won't miss"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado: wouldn't have missed.",
+            "Won't es real."
+          ]
         },
         {
           "id": "b10-s5q6",
@@ -923,7 +1071,11 @@
             "tiempos de dos condicionales distintos",
             "solo presente"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Combina dos condicionales.",
+            "No es solo presente."
+          ]
         },
         {
           "id": "b10-s5q7",
@@ -932,7 +1084,11 @@
             "wouldn't be",
             "wouldn't have been"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Hoy: wouldn't be.",
+            "Wouldn't have been es pasado."
+          ]
         },
         {
           "id": "b10-s5q8",
@@ -941,7 +1097,11 @@
             "would have handled",
             "will handle"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Resultado pasado: would have handled.",
+            "Will es real."
+          ]
         }
       ],
       "produce": {
@@ -1095,7 +1255,11 @@
             "have to",
             "must"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Norma externa: have to.",
+            "Must suena a obligación del hablante."
+          ]
         },
         {
           "id": "b10-s6q2",
@@ -1104,7 +1268,11 @@
             "should",
             "can"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Consejo fuerte: should.",
+            "Can = poder."
+          ]
         },
         {
           "id": "b10-s6q3",
@@ -1113,7 +1281,11 @@
             "Could",
             "Must"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Petición cortés: Could.",
+            "Must no pide."
+          ]
         },
         {
           "id": "b10-s6q4",
@@ -1122,7 +1294,11 @@
             "mustn't",
             "don't have to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Prohibición: mustn't.",
+            "Don't have to = no hace falta."
+          ]
         },
         {
           "id": "b10-s6q5",
@@ -1131,7 +1307,11 @@
             "mustn't",
             "don't have to"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Mustn't prohíbe.",
+            "Don't have to = no hace falta."
+          ]
         },
         {
           "id": "b10-s6q6",
@@ -1140,7 +1320,11 @@
             "Could",
             "Must"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Could: cortés.",
+            "Must no pide."
+          ]
         },
         {
           "id": "b10-s6q7",
@@ -1149,7 +1333,11 @@
             "should",
             "can't"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Consejo: should.",
+            "Can't prohíbe."
+          ]
         },
         {
           "id": "b10-s6q8",
@@ -1158,7 +1346,11 @@
             "must",
             "might"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Obligación: must.",
+            "Might = posibilidad."
+          ]
         }
       ],
       "produce": {
@@ -1269,7 +1461,11 @@
             "must",
             "can't"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Deducción positiva: must be.",
+            "Can't sería imposible."
+          ]
         },
         {
           "id": "b10-s7q2",
@@ -1278,7 +1474,11 @@
             "mustn't",
             "can't"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Mustn't prohíbe, no deduce.",
+            "Imposible: can't be."
+          ]
         },
         {
           "id": "b10-s7q3",
@@ -1287,7 +1487,11 @@
             "might",
             "must"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Posible: might.",
+            "Must es casi seguro."
+          ]
         },
         {
           "id": "b10-s7q4",
@@ -1296,7 +1500,11 @@
             "mustn't have",
             "can't have"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Mustn't have no se usa para deducir.",
+            "Imposible en pasado: can't have."
+          ]
         },
         {
           "id": "b10-s7q5",
@@ -1305,7 +1513,11 @@
             "must have",
             "can't have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Deducción segura: must have.",
+            "Can't have niega."
+          ]
         },
         {
           "id": "b10-s7q6",
@@ -1314,7 +1526,11 @@
             "can't",
             "mustn't"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Can't = imposible.",
+            "Mustn't es prohibición."
+          ]
         },
         {
           "id": "b10-s7q7",
@@ -1323,7 +1539,11 @@
             "might",
             "must"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Posibilidad: might have.",
+            "Must have es casi seguro."
+          ]
         }
       ],
       "produce": {
@@ -1434,7 +1654,11 @@
             "have to",
             "should"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Obligación externa: have to.",
+            "Should es consejo."
+          ]
         },
         {
           "id": "b10-s8q2",
@@ -1443,7 +1667,11 @@
             "mustn't",
             "don't have to"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Mustn't prohíbe.",
+            "Don't have to = no hace falta."
+          ]
         },
         {
           "id": "b10-s8q3",
@@ -1452,7 +1680,11 @@
             "mustn't",
             "don't have to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Prohibición: mustn't.",
+            "Don't have to = opcional."
+          ]
         },
         {
           "id": "b10-s8q4",
@@ -1461,7 +1693,11 @@
             "should",
             "must not"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Consejo: should.",
+            "Must not prohíbe."
+          ]
         },
         {
           "id": "b10-s8q5",
@@ -1470,7 +1706,11 @@
             "can",
             "should"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Permiso: can.",
+            "Should es consejo."
+          ]
         },
         {
           "id": "b10-s8q6",
@@ -1479,7 +1719,11 @@
             "está prohibido",
             "es opcional"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Mustn't = prohibido.",
+            "Opcional es don't have to."
+          ]
         },
         {
           "id": "b10-s8q7",
@@ -1488,7 +1732,11 @@
             "had better",
             "may"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had better = advertencia fuerte.",
+            "May = posibilidad o permiso."
+          ]
         }
       ],
       "produce": {
@@ -1599,7 +1847,11 @@
             "should have",
             "must have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Reproche: should have.",
+            "Must have es deducción."
+          ]
         },
         {
           "id": "b10-s9q2",
@@ -1608,7 +1860,11 @@
             "shouldn't have",
             "couldn't have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Shouldn't have: no debías.",
+            "Couldn't have = no era posible."
+          ]
         },
         {
           "id": "b10-s9q3",
@@ -1617,7 +1873,11 @@
             "could have",
             "must have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Could have: posibilidad no aprovechada.",
+            "Must have es deducción."
+          ]
         },
         {
           "id": "b10-s9q4",
@@ -1626,7 +1886,11 @@
             "should have",
             "must have"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Should have sería reproche.",
+            "Deducción: must have."
+          ]
         },
         {
           "id": "b10-s9q5",
@@ -1635,7 +1899,11 @@
             "have + participio",
             "have + infinitivo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Modal + have + participio.",
+            "Have + infinitivo no forma el modal perfecto."
+          ]
         },
         {
           "id": "b10-s9q6",
@@ -1644,7 +1912,11 @@
             "would have",
             "should have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Would have: resultado hipotético.",
+            "Should have es reproche."
+          ]
         },
         {
           "id": "b10-s9q7",
@@ -1653,7 +1925,11 @@
             "reproche por algo no hecho",
             "una orden futura"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Reproche por algo no hecho.",
+            "No es una orden."
+          ]
         }
       ],
       "produce": {
@@ -1764,7 +2040,11 @@
             "have",
             "had"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Deseo presente: pasado.",
+            "Have es real."
+          ]
         },
         {
           "id": "b10-s10q2",
@@ -1773,7 +2053,11 @@
             "had booked",
             "booked"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Arrepentimiento pasado: had booked.",
+            "Booked expresa deseo presente."
+          ]
         },
         {
           "id": "b10-s10q3",
@@ -1782,7 +2066,11 @@
             "would",
             "had"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Queja: would.",
+            "Had no expresa queja."
+          ]
         },
         {
           "id": "b10-s10q4",
@@ -1791,7 +2079,11 @@
             "was",
             "were"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Se prefiere were.",
+            "I wish I were."
+          ]
         },
         {
           "id": "b10-s10q5",
@@ -1800,7 +2092,11 @@
             "had",
             "would have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If only + had.",
+            "Would have no va tras if only."
+          ]
         },
         {
           "id": "b10-s10q6",
@@ -1809,7 +2105,11 @@
             "el presente",
             "el futuro seguro"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Deseo sobre el presente.",
+            "No es futuro seguro."
+          ]
         },
         {
           "id": "b10-s10q7",
@@ -1818,7 +2118,11 @@
             "wouldn't",
             "didn't have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Queja de comportamiento: wouldn't.",
+            "«Didn't have» no encaja."
+          ]
         }
       ],
       "produce": {

@@ -247,7 +247,11 @@
             "Let's get the ball rolling",
             "Let's call it a day"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Get the ball rolling = poner algo en marcha.",
+            "Call it a day = dar por terminada la jornada."
+          ]
         },
         {
           "id": "b12-s1q2",
@@ -256,7 +260,11 @@
             "keep me in the loop",
             "bring to the table"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Keep someone in the loop = mantener informado.",
+            "Bring to the table = aportar."
+          ]
         },
         {
           "id": "b12-s1q3",
@@ -265,7 +273,11 @@
             "back to the drawing board",
             "on the same page"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Back to the drawing board = empezar de cero.",
+            "On the same page = de acuerdo."
+          ]
         },
         {
           "id": "b12-s1q4",
@@ -274,7 +286,11 @@
             "subir el listón",
             "bajar los precios"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Raise the bar = subir el listón.",
+            "No tiene que ver con precios."
+          ]
         },
         {
           "id": "b12-s1q5",
@@ -283,7 +299,11 @@
             "cambia las reglas del juego",
             "no importa"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Game changer = algo que lo cambia todo.",
+            "Significa lo contrario."
+          ]
         },
         {
           "id": "b12-s1q6",
@@ -292,7 +312,11 @@
             "una cifra exacta",
             "una cifra aproximada"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Ballpark figure no es exacta.",
+            "Ballpark figure = cifra aproximada."
+          ]
         },
         {
           "id": "b12-s1q7",
@@ -301,7 +325,11 @@
             "la burocracia",
             "una alfombra roja"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Red tape = burocracia.",
+            "Alfombra roja es red carpet."
+          ]
         },
         {
           "id": "b12-s1q8",
@@ -310,7 +338,11 @@
             "la fuente principal de ingresos",
             "el desayuno"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Bread and butter = sustento principal.",
+            "No es literal."
+          ]
         }
       ],
       "produce": {
@@ -552,7 +584,11 @@
             "in the nick of time",
             "around the clock"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In the nick of time = justo a tiempo.",
+            "Around the clock = las 24 horas."
+          ]
         },
         {
           "id": "b12-s2q2",
@@ -561,7 +597,11 @@
             "strike while the iron is hot",
             "once in a blue moon"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Strike while the iron is hot = aprovechar el momento.",
+            "Once in a blue moon = muy de vez en cuando."
+          ]
         },
         {
           "id": "b12-s2q3",
@@ -570,7 +610,11 @@
             "on short notice",
             "against the clock"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On short notice = con poco aviso.",
+            "Against the clock = contrarreloj."
+          ]
         },
         {
           "id": "b12-s2q4",
@@ -579,7 +623,11 @@
             "improvisar",
             "planear al detalle"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Play it by ear = improvisar.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s2q5",
@@ -588,7 +636,11 @@
             "a las once en punto",
             "en el último momento"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No es literal.",
+            "At the eleventh hour = en el último momento."
+          ]
         },
         {
           "id": "b12-s2q6",
@@ -597,7 +649,11 @@
             "adelantarse/precipitarse",
             "esperar demasiado"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Jump the gun = precipitarse.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s2q7",
@@ -606,7 +662,11 @@
             "muy lejos",
             "muy cerca"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Around the corner no es lejos.",
+            "Around the corner = a la vuelta de la esquina."
+          ]
         },
         {
           "id": "b12-s2q8",
@@ -615,7 +675,11 @@
             "lleva mucho retraso",
             "llegó pronto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Long overdue = con mucho retraso.",
+            "Es lo contrario."
+          ]
         }
       ],
       "produce": {
@@ -851,7 +915,11 @@
             "bite the bullet",
             "throw in the towel"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Bite the bullet = hacer de tripas corazón.",
+            "Throw in the towel = rendirse."
+          ]
         },
         {
           "id": "b12-s3q2",
@@ -860,7 +928,11 @@
             "caught between a rock and a hard place",
             "out of the woods"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Between a rock and a hard place = entre la espada y la pared.",
+            "Out of the woods = fuera de peligro."
+          ]
         },
         {
           "id": "b12-s3q3",
@@ -869,7 +941,11 @@
             "a blessing in disguise",
             "a tough nut to crack"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A blessing in disguise = no hay mal que por bien no venga.",
+            "A tough nut to crack = un hueso duro de roer."
+          ]
         },
         {
           "id": "b12-s3q4",
@@ -878,7 +954,11 @@
             "destapar un lío que complica todo",
             "resolverlo todo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Open a can of worms = destapar un avispero.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s3q5",
@@ -887,7 +967,11 @@
             "en apuros",
             "en un spa"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In hot water = en apuros.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s3q6",
@@ -896,7 +980,11 @@
             "algo claro",
             "una zona ambigua"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Grey area no es algo claro.",
+            "Grey area = zona ambigua."
+          ]
         },
         {
           "id": "b12-s3q7",
@@ -905,7 +993,11 @@
             "sin resolver",
             "confirmado"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Up in the air = sin decidir.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s3q8",
@@ -914,7 +1006,11 @@
             "calmar la situación",
             "empeorar la situación"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Es lo contrario.",
+            "Add fuel to the fire = echar leña al fuego."
+          ]
         }
       ],
       "produce": {
@@ -1156,7 +1252,11 @@
             "miss the boat",
             "hit the jackpot"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Miss the boat = perder el tren.",
+            "Hit the jackpot = que te toque el gordo."
+          ]
         },
         {
           "id": "b12-s4q2",
@@ -1165,7 +1265,11 @@
             "make or break",
             "a piece of cake"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Make or break = decisivo.",
+            "A piece of cake = pan comido."
+          ]
         },
         {
           "id": "b12-s4q3",
@@ -1174,7 +1278,11 @@
             "pay off",
             "fall through"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pay off = dar fruto.",
+            "Fall through = fracasar."
+          ]
         },
         {
           "id": "b12-s4q4",
@@ -1183,7 +1291,11 @@
             "salir sin problemas",
             "fracasar"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Without a hitch = sin contratiempos.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s4q5",
@@ -1192,7 +1304,11 @@
             "salir el tiro por la culata",
             "tener éxito"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Backfire = salir el tiro por la culata.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s4q6",
@@ -1201,7 +1317,11 @@
             "en racha",
             "en apuros"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On a roll = en racha.",
+            "En apuros es in hot water."
+          ]
         },
         {
           "id": "b12-s4q7",
@@ -1210,7 +1330,11 @@
             "duradero",
             "efímero"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Flash in the pan no dura.",
+            "Éxito efímero."
+          ]
         },
         {
           "id": "b12-s4q8",
@@ -1219,7 +1343,11 @@
             "lograrlo",
             "cancelarlo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pull it off = lograrlo.",
+            "Cancelar es call off."
+          ]
         }
       ],
       "produce": {
@@ -1455,7 +1583,11 @@
             "won't break the bank",
             "foot the bill"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Won't break the bank = no arruinará.",
+            "Foot the bill = pagar la cuenta."
+          ]
         },
         {
           "id": "b12-s5q2",
@@ -1464,7 +1596,11 @@
             "cut corners",
             "tighten your belt"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Cut corners = recortar en calidad.",
+            "Tighten your belt = apretarse el cinturón."
+          ]
         },
         {
           "id": "b12-s5q3",
@@ -1473,7 +1609,11 @@
             "bang for your buck",
             "worth its weight in gold"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Bang for your buck = buena relación calidad-precio.",
+            "Worth its weight in gold = vale su peso en oro."
+          ]
         },
         {
           "id": "b12-s5q4",
@@ -1482,7 +1622,11 @@
             "ser gratis",
             "costar carísimo"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Es lo contrario.",
+            "Cost an arm and a leg = costar un ojo de la cara."
+          ]
         },
         {
           "id": "b12-s5q5",
@@ -1491,7 +1635,11 @@
             "baratísimo",
             "sucio"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Dirt cheap = tirado de precio.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s5q6",
@@ -1500,7 +1648,11 @@
             "con mucho dinero",
             "sin dinero"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Es lo contrario.",
+            "Strapped for cash = sin liquidez."
+          ]
         },
         {
           "id": "b12-s5q7",
@@ -1509,7 +1661,11 @@
             "que vale la pena",
             "demasiado caro"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Worth every penny = merece la pena.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s5q8",
@@ -1518,7 +1674,11 @@
             "abusivo",
             "justo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Daylight robbery = un robo a mano armada (precio abusivo).",
+            "Es lo contrario."
+          ]
         }
       ],
       "produce": {
@@ -1764,7 +1924,11 @@
             "get straight to the point",
             "beat around the bush"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Get straight to the point = ir al grano.",
+            "Beat around the bush = andarse con rodeos."
+          ]
         },
         {
           "id": "b12-s6q2",
@@ -1773,7 +1937,11 @@
             "read between the lines",
             "speak your mind"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Read between the lines = leer entre líneas.",
+            "Speak your mind = decir lo que piensas."
+          ]
         },
         {
           "id": "b12-s6q3",
@@ -1782,7 +1950,11 @@
             "rub someone the wrong way",
             "break the ice"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Rub someone the wrong way = caer mal.",
+            "Break the ice = romper el hielo."
+          ]
         },
         {
           "id": "b12-s6q4",
@@ -1791,7 +1963,11 @@
             "estar de acuerdo",
             "mirarse fijamente"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "See eye to eye = estar de acuerdo.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s6q5",
@@ -1800,7 +1976,11 @@
             "en pocas palabras",
             "en detalle"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In a nutshell = en pocas palabras.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s6q6",
@@ -1809,7 +1989,11 @@
             "ayudar a alguien",
             "pisar el terreno a alguien"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Es lo contrario.",
+            "Step on someone's toes = meterse en su terreno."
+          ]
         },
         {
           "id": "b12-s6q7",
@@ -1818,7 +2002,11 @@
             "ventilar la sala",
             "aclarar tensiones"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No es literal.",
+            "Clear the air = aclarar tensiones."
+          ]
         },
         {
           "id": "b12-s6q8",
@@ -1827,7 +2015,11 @@
             "estar alineados/de acuerdo",
             "leer el mismo libro"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On the same page = alineados.",
+            "No es literal."
+          ]
         }
       ],
       "produce": {
@@ -1995,7 +2187,11 @@
             "felicísimo",
             "muy enfadado"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Over the moon = felicísimo.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s7q2",
@@ -2004,7 +2200,11 @@
             "de bajón",
             "de celebración"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Down in the dumps = de bajón.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s7q3",
@@ -2013,7 +2213,11 @@
             "perder la calma",
             "enfriarse"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Lose your cool = perder la calma.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s7q4",
@@ -2022,7 +2226,11 @@
             "harto de",
             "alimentado por"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Fed up with = harto de.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s7q5",
@@ -2031,7 +2239,11 @@
             "muy tranquilo",
             "muy nervioso"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Cool as a cucumber = muy tranquilo.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s7q6",
@@ -2040,7 +2252,11 @@
             "tomárselo a pecho",
             "memorizarlo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Take it to heart = tomárselo a pecho.",
+            "No es memorizar."
+          ]
         },
         {
           "id": "b12-s7q7",
@@ -2049,7 +2265,11 @@
             "ponerse furioso",
             "apagar la luz"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Blow a fuse = ponerse furioso.",
+            "No es literal."
+          ]
         }
       ],
       "produce": {
@@ -2223,7 +2443,11 @@
             "cumplir con tu parte",
             "adelgazar"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pull your weight = cumplir con tu parte.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s8q2",
@@ -2232,7 +2456,11 @@
             "cubrir las espaldas a alguien",
             "dar la espalda"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Have someone's back = cubrir las espaldas.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s8q3",
@@ -2241,7 +2469,11 @@
             "hacer las paces",
             "empezar una pelea"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Bury the hatchet = hacer las paces.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s8q4",
@@ -2250,7 +2482,11 @@
             "echar las culpas",
             "señalar el camino"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Point fingers = echar las culpas.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s8q5",
@@ -2259,7 +2495,11 @@
             "ayudar a alguien",
             "culpar/traicionar para salvarse"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Es lo contrario.",
+            "Throw under the bus = sacrificar a alguien para salvarse."
+          ]
         },
         {
           "id": "b12-s8q6",
@@ -2268,7 +2508,11 @@
             "de acuerdo",
             "en un barco"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On board = de acuerdo, implicado.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s8q7",
@@ -2277,7 +2521,11 @@
             "predicar con el ejemplo",
             "dar órdenes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Lead by example = predicar con el ejemplo.",
+            "Es lo contrario."
+          ]
         }
       ],
       "produce": {
@@ -2451,7 +2699,11 @@
             "no decidirse",
             "sentarse a descansar"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sit on the fence = no posicionarse.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s9q2",
@@ -2460,7 +2712,11 @@
             "obvia",
             "muy difícil"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "No-brainer = decisión obvia.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s9q3",
@@ -2469,7 +2725,11 @@
             "decidir mañana con calma",
             "olvidarlo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sleep on it = consultarlo con la almohada.",
+            "No es olvidarlo."
+          ]
         },
         {
           "id": "b12-s9q4",
@@ -2478,7 +2738,11 @@
             "plantarse/imponerse",
             "rendirse"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Put your foot down = plantarse.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s9q5",
@@ -2487,7 +2751,11 @@
             "sacar conclusiones precipitadas",
             "analizar con calma"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Jump to conclusions = precipitarse al juzgar.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s9q6",
@@ -2496,7 +2764,11 @@
             "indeciso",
             "muy seguro"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In two minds = indeciso.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s9q7",
@@ -2505,7 +2777,11 @@
             "mantenerse firme",
             "ceder"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Stand your ground = mantenerse firme.",
+            "Es lo contrario."
+          ]
         }
       ],
       "produce": {
@@ -2679,7 +2955,11 @@
             "algo facilísimo",
             "un postre"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A piece of cake = pan comido.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s10q2",
@@ -2688,7 +2968,11 @@
             "échame una mano",
             "dame la mano"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Give me a hand = échame una mano.",
+            "Dar la mano es shake hands."
+          ]
         },
         {
           "id": "b12-s10q3",
@@ -2697,7 +2981,11 @@
             "tener mucho que hacer",
             "comer mucho"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A lot on your plate = mucho que hacer.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s10q4",
@@ -2706,7 +2994,11 @@
             "difícil de aceptar",
             "una medicina"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A hard pill to swallow = difícil de aceptar.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s10q5",
@@ -2715,7 +3007,11 @@
             "solo una pequeña parte",
             "el final del problema"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tip of the iceberg = solo una pequeña parte.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b12-s10q6",
@@ -2724,7 +3020,11 @@
             "hasta arriba de trabajo",
             "sordo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Up to your ears = hasta arriba.",
+            "No es literal."
+          ]
         },
         {
           "id": "b12-s10q7",
@@ -2733,7 +3033,11 @@
             "de primera mano",
             "un rumor"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Straight from the horse's mouth = de primera mano.",
+            "Es lo contrario."
+          ]
         }
       ],
       "produce": {

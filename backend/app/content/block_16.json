@@ -114,7 +114,11 @@
             "do so",
             "do it so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do so sustituye la acción en registro formal.",
+            "«Do it so» no existe."
+          ]
         },
         {
           "id": "b16-s1q2",
@@ -123,7 +127,11 @@
             "did so",
             "made so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did so = lo hizo (formal, pasado).",
+            "«Made so» no se usa."
+          ]
         },
         {
           "id": "b16-s1q3",
@@ -132,7 +140,11 @@
             "do it",
             "do so it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do it: acción concreta ya mencionada.",
+            "«Do so it» mezcla dos formas."
+          ]
         },
         {
           "id": "b16-s1q4",
@@ -141,7 +153,11 @@
             "do so",
             "do it so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do so: formal, sustituye «cancel».",
+            "«Do it so» no existe."
+          ]
         },
         {
           "id": "b16-s1q5",
@@ -150,7 +166,11 @@
             "do so",
             "do that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do so es la más formal.",
+            "Do that es más coloquial y enfática."
+          ]
         },
         {
           "id": "b16-s1q6",
@@ -159,7 +179,11 @@
             "did so",
             "made so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did so = lo hice.",
+            "«Made so» no se usa."
+          ]
         },
         {
           "id": "b16-s1q7",
@@ -168,7 +192,11 @@
             "distancia/énfasis en la acción concreta",
             "formalidad extrema"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do that señala la acción concreta con énfasis.",
+            "No es especialmente formal."
+          ]
         },
         {
           "id": "b16-s1q8",
@@ -177,7 +205,11 @@
             "do it",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do it sustituye la acción con su objeto.",
+            "Do solo queda incompleto."
+          ]
         }
       ],
       "produce": {
@@ -296,7 +328,11 @@
             "So do I",
             "So I do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So + auxiliar + sujeto: So do I.",
+            "«So I do» significa «es verdad, lo hago»."
+          ]
         },
         {
           "id": "b16-s2q2",
@@ -305,7 +341,11 @@
             "Neither do I",
             "Neither I do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Neither + auxiliar + sujeto.",
+            "El orden es auxiliar antes del sujeto."
+          ]
         },
         {
           "id": "b16-s2q3",
@@ -314,7 +354,11 @@
             "So can he",
             "So he can"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So can he: se repite el modal.",
+            "Falta la inversión."
+          ]
         },
         {
           "id": "b16-s2q4",
@@ -323,7 +367,11 @@
             "So am",
             "So do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Con be: So am I.",
+            "Be no usa do."
+          ]
         },
         {
           "id": "b16-s2q5",
@@ -332,7 +380,11 @@
             "So",
             "Neither"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "So es para afirmativas.",
+            "Neither can I = yo tampoco."
+          ]
         },
         {
           "id": "b16-s2q6",
@@ -341,7 +393,11 @@
             "did",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did: pasado.",
+            "Do es presente."
+          ]
         },
         {
           "id": "b16-s2q7",
@@ -350,7 +406,11 @@
             "will",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Futuro: So will I.",
+            "Do no sustituye a will."
+          ]
         },
         {
           "id": "b16-s2q8",
@@ -359,7 +419,11 @@
             "So + auxiliar + sujeto",
             "So + sujeto + auxiliar"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So + auxiliar + sujeto.",
+            "El sujeto no va antes del auxiliar."
+          ]
         }
       ],
       "produce": {
@@ -474,7 +538,11 @@
             "hope so",
             "hope it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I hope so = espero que sí.",
+            "«Hope it» no sustituye la oración."
+          ]
         },
         {
           "id": "b16-s3q2",
@@ -483,7 +551,11 @@
             "afraid not",
             "afraid no"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I'm afraid not = me temo que no.",
+            "«Afraid no» es incorrecto."
+          ]
         },
         {
           "id": "b16-s3q3",
@@ -492,7 +564,11 @@
             "don't think so",
             "think not so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I don't think so = creo que no.",
+            "«Think not so» es incorrecto."
+          ]
         },
         {
           "id": "b16-s3q4",
@@ -501,7 +577,11 @@
             "think so",
             "think it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I think so = creo que sí.",
+            "«Think it» no sustituye la oración."
+          ]
         },
         {
           "id": "b16-s3q5",
@@ -510,7 +590,11 @@
             "hope not",
             "don't hope"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I hope not = espero que no.",
+            "«I don't hope» no se usa."
+          ]
         },
         {
           "id": "b16-s3q6",
@@ -519,7 +603,11 @@
             "afraid so",
             "afraid it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I'm afraid so = me temo que sí.",
+            "«Afraid it» no se usa."
+          ]
         },
         {
           "id": "b16-s3q7",
@@ -528,7 +616,11 @@
             "don't think so",
             "think not so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I don't think so.",
+            "«Think not so» es incorrecto."
+          ]
         },
         {
           "id": "b16-s3q8",
@@ -537,7 +629,11 @@
             "toda la oración anterior",
             "un sustantivo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sustituyen a toda la oración.",
+            "No sustituyen a un sustantivo."
+          ]
         }
       ],
       "produce": {
@@ -652,7 +748,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "One: singular.",
+            "Ones es plural."
+          ]
         },
         {
           "id": "b16-s4q2",
@@ -661,7 +761,11 @@
             "ones",
             "one"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ones: plural (glasses).",
+            "One es singular."
+          ]
         },
         {
           "id": "b16-s4q3",
@@ -670,7 +774,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "One: singular (room).",
+            "Ones es plural."
+          ]
         },
         {
           "id": "b16-s4q4",
@@ -679,7 +787,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "One: singular.",
+            "Ones es plural."
+          ]
         },
         {
           "id": "b16-s4q5",
@@ -688,7 +800,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "One es singular; towels es plural.",
+            "Ones: plural."
+          ]
         },
         {
           "id": "b16-s4q6",
@@ -697,7 +813,11 @@
             "one",
             "it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "One = uno cualquiera.",
+            "It sería el mismo objeto concreto."
+          ]
         },
         {
           "id": "b16-s4q7",
@@ -706,7 +826,11 @@
             "contables",
             "incontables"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Solo contables.",
+            "Con incontables no se usa one."
+          ]
         },
         {
           "id": "b16-s4q8",
@@ -715,7 +839,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "One es singular.",
+            "Ones: plural (rooms)."
+          ]
         }
       ],
       "produce": {
@@ -830,7 +958,11 @@
             "have",
             "have sent"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Respuesta corta: solo el auxiliar.",
+            "Repetir el participio sobra."
+          ]
         },
         {
           "id": "b16-s5q2",
@@ -839,7 +971,11 @@
             "help",
             "to help"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras could't se omite help (sin to).",
+            "Los modales no llevan to."
+          ]
         },
         {
           "id": "b16-s5q3",
@@ -848,7 +984,11 @@
             "to",
             "to join"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "I'd love to: se omite el verbo tras to.",
+            "Repetir join no es necesario."
+          ]
         },
         {
           "id": "b16-s5q4",
@@ -857,7 +997,11 @@
             "'help' (verbo repetido)",
             "el sujeto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se omite help.",
+            "El sujeto sí aparece."
+          ]
         },
         {
           "id": "b16-s5q5",
@@ -866,7 +1010,11 @@
             "'come'",
             "'to'"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se omite come.",
+            "Tras couldn't no va to."
+          ]
         },
         {
           "id": "b16-s5q6",
@@ -875,7 +1023,11 @@
             "evitar repetir lo ya dicho",
             "añadir información"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Evita repetir.",
+            "No añade información."
+          ]
         },
         {
           "id": "b16-s5q7",
@@ -884,7 +1036,11 @@
             "el verbo repetido",
             "el sujeto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se omite el verbo.",
+            "El sujeto está."
+          ]
         },
         {
           "id": "b16-s5q8",
@@ -893,7 +1049,11 @@
             "'waited'",
             "'asked'"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did = waited.",
+            "No sustituye a asked."
+          ]
         }
       ],
       "produce": {
@@ -996,7 +1156,11 @@
             "the same",
             "same"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The same = lo mismo.",
+            "Same necesita the."
+          ]
         },
         {
           "id": "b16-s6q2",
@@ -1005,7 +1169,11 @@
             "the same",
             "such"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did the same = hicimos lo mismo.",
+            "Such = tal; no encaja."
+          ]
         },
         {
           "id": "b16-s6q3",
@@ -1014,7 +1182,11 @@
             "Such",
             "Same"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Such = de ese tipo.",
+            "Same no significa «de ese tipo»."
+          ]
         },
         {
           "id": "b16-s6q4",
@@ -1023,7 +1195,11 @@
             "the former",
             "the latter"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The former = el primero.",
+            "The latter = el segundo."
+          ]
         },
         {
           "id": "b16-s6q5",
@@ -1032,7 +1208,11 @@
             "the former",
             "the latter"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "The former es el primero.",
+            "The latter = el segundo."
+          ]
         },
         {
           "id": "b16-s6q6",
@@ -1041,7 +1221,11 @@
             "the same",
             "such"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "And the same to you = igualmente.",
+            "Such no se usa así."
+          ]
         },
         {
           "id": "b16-s6q7",
@@ -1050,7 +1234,11 @@
             "evitar repetir ideas ya dichas",
             "introducir temas nuevos"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Evitan repetir.",
+            "No introducen temas nuevos."
+          ]
         }
       ],
       "produce": {
@@ -1153,7 +1341,11 @@
             "do",
             "have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do: la pregunta usa do.",
+            "Have no es el auxiliar de la pregunta."
+          ]
         },
         {
           "id": "b16-s7q2",
@@ -1162,7 +1354,11 @@
             "has",
             "is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Has: se repite el auxiliar.",
+            "Is no es el auxiliar."
+          ]
         },
         {
           "id": "b16-s7q3",
@@ -1171,7 +1367,11 @@
             "can",
             "does"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Can: se repite el modal.",
+            "Does no sustituye a can."
+          ]
         },
         {
           "id": "b16-s7q4",
@@ -1180,7 +1380,11 @@
             "did",
             "sent"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Did: pasado.",
+            "Sent repite el verbo principal."
+          ]
         },
         {
           "id": "b16-s7q5",
@@ -1189,7 +1393,11 @@
             "might",
             "will do come"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Might = puede que sí.",
+            "«Will do come» es incorrecto."
+          ]
         },
         {
           "id": "b16-s7q6",
@@ -1198,7 +1406,11 @@
             "el auxiliar",
             "el verbo principal"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se repite el auxiliar.",
+            "No se repite el verbo principal."
+          ]
         },
         {
           "id": "b16-s7q7",
@@ -1207,7 +1419,11 @@
             "does",
             "includes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Does: auxiliar de la pregunta.",
+            "Includes repite el verbo."
+          ]
         }
       ],
       "produce": {
@@ -1310,7 +1526,11 @@
             "el sujeto repetido (she)",
             "el verbo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se omite she.",
+            "El verbo sí está."
+          ]
         },
         {
           "id": "b16-s8q2",
@@ -1319,7 +1539,11 @@
             "'help'",
             "el sujeto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se omite help.",
+            "El sujeto está."
+          ]
         },
         {
           "id": "b16-s8q3",
@@ -1328,7 +1552,11 @@
             "does",
             "works"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Does sustituye a works.",
+            "Repetir works es posible pero menos natural."
+          ]
         },
         {
           "id": "b16-s8q4",
@@ -1337,7 +1565,11 @@
             "se reconstruye sin ambigüedad",
             "es un sustantivo"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Debe reconstruirse sin ambigüedad.",
+            "No solo sustantivos."
+          ]
         },
         {
           "id": "b16-s8q5",
@@ -1346,7 +1578,11 @@
             "el verbo 'ordered'",
             "el sujeto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se omite ordered.",
+            "El sujeto sí está."
+          ]
         },
         {
           "id": "b16-s8q6",
@@ -1355,7 +1591,11 @@
             "'pay'",
             "'you can'"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Se omite pay.",
+            "You can se mantiene."
+          ]
         },
         {
           "id": "b16-s8q7",
@@ -1364,7 +1604,11 @@
             "no repetir lo compartido",
             "enfatizar"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "No repetir.",
+            "No es para enfatizar."
+          ]
         }
       ],
       "produce": {

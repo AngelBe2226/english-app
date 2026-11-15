@@ -157,7 +157,11 @@
             "carryed",
             "carried"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Consonante + y: la y pasa a i (carried).",
+            "Consonante + y → ied."
+          ]
         },
         {
           "id": "b11-s1q2",
@@ -166,7 +170,11 @@
             "preferred",
             "prefered"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tónica final (pre-FER): se dobla la r.",
+            "Sin doblar no es correcto: la tónica cae al final."
+          ]
         },
         {
           "id": "b11-s1q3",
@@ -175,7 +183,11 @@
             "arrived",
             "arriveed"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Acaba en e: solo se añade -d.",
+            "No se repite la e."
+          ]
         },
         {
           "id": "b11-s1q4",
@@ -184,7 +196,11 @@
             "confirmed",
             "confirm"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado regular: confirm + ed.",
+            "Confirm es presente."
+          ]
         },
         {
           "id": "b11-s1q5",
@@ -193,7 +209,11 @@
             "planed",
             "planned"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Monosílabo CVC: se dobla la n.",
+            "Planned: se dobla la consonante."
+          ]
         },
         {
           "id": "b11-s1q6",
@@ -202,7 +222,11 @@
             "tryed",
             "tried"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Consonante + y → ied.",
+            "Tried."
+          ]
         },
         {
           "id": "b11-s1q7",
@@ -211,7 +235,11 @@
             "stopped",
             "stoped"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Monosílabo CVC: stopped.",
+            "Hay que doblar la p."
+          ]
         },
         {
           "id": "b11-s1q8",
@@ -220,7 +248,11 @@
             "-ed",
             "cambio de vocal"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Regulares: -ed.",
+            "El cambio de vocal es de irregulares."
+          ]
         }
       ],
       "produce": {
@@ -372,7 +404,11 @@
             "took",
             "taken"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Took es el pasado.",
+            "Participio: taken."
+          ]
         },
         {
           "id": "b11-s2q2",
@@ -381,7 +417,11 @@
             "caught",
             "catched"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado irregular: caught.",
+            "«Catched» no existe."
+          ]
         },
         {
           "id": "b11-s2q3",
@@ -390,7 +430,11 @@
             "cut",
             "cutted"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Cut no cambia.",
+            "«Cutted» no existe."
+          ]
         },
         {
           "id": "b11-s2q4",
@@ -399,7 +443,11 @@
             "thinked",
             "thought"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Thinked» no existe.",
+            "Pasado irregular: thought."
+          ]
         },
         {
           "id": "b11-s2q5",
@@ -408,7 +456,11 @@
             "begun",
             "began"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Participio: begun.",
+            "Began es el pasado."
+          ]
         },
         {
           "id": "b11-s2q6",
@@ -417,7 +469,11 @@
             "builded",
             "built"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Builded» no existe.",
+            "Pasado: built."
+          ]
         },
         {
           "id": "b11-s2q7",
@@ -426,7 +482,11 @@
             "taken",
             "took"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Participio: taken.",
+            "Took es el pasado."
+          ]
         },
         {
           "id": "b11-s2q8",
@@ -435,7 +495,11 @@
             "payed",
             "paid"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Payed» no es la forma estándar.",
+            "Pasado: paid."
+          ]
         }
       ],
       "produce": {
@@ -562,7 +626,11 @@
             "has",
             "is having"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Poseer: has (verbo de estado).",
+            "Have de posesión no va en continuo."
+          ]
         },
         {
           "id": "b11-s3q2",
@@ -571,7 +639,11 @@
             "Would",
             "Are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Would you like…? (oferta cortés).",
+            "Are no va con like."
+          ]
         },
         {
           "id": "b11-s3q3",
@@ -580,7 +652,11 @@
             "does",
             "is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Do como verbo principal: does.",
+            "Is no significa «hacer»."
+          ]
         },
         {
           "id": "b11-s3q4",
@@ -589,7 +665,11 @@
             "Do",
             "Are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Understand necesita do en la pregunta.",
+            "Are no va con understand."
+          ]
         },
         {
           "id": "b11-s3q5",
@@ -598,7 +678,11 @@
             "auxiliar",
             "verbo principal"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Aquí am no acompaña a otro verbo.",
+            "Verbo principal (ser)."
+          ]
         },
         {
           "id": "b11-s3q6",
@@ -607,7 +691,11 @@
             "have",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Respuesta corta con el mismo auxiliar: have.",
+            "La pregunta usa have, no do."
+          ]
         },
         {
           "id": "b11-s3q7",
@@ -616,7 +704,11 @@
             "auxiliar",
             "verbo principal"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Aquí do no acompaña a otro verbo.",
+            "Verbo principal: hacer."
+          ]
         },
         {
           "id": "b11-s3q8",
@@ -625,7 +717,11 @@
             "has",
             "is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Has + participio.",
+            "Is + finished es adjetivo, no perfecto."
+          ]
         }
       ],
       "produce": {
@@ -783,7 +879,11 @@
             "look into",
             "look for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Look into = investigar.",
+            "Look for = buscar."
+          ]
         },
         {
           "id": "b11-s4q2",
@@ -792,7 +892,11 @@
             "fill out",
             "fill up"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Fill out = rellenar.",
+            "Fill up = llenar del todo."
+          ]
         },
         {
           "id": "b11-s4q3",
@@ -801,7 +905,11 @@
             "follow up",
             "follow on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Follow up = dar seguimiento.",
+            "«Follow on» no tiene ese sentido."
+          ]
         },
         {
           "id": "b11-s4q4",
@@ -810,7 +918,11 @@
             "it",
             "off it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pronombre en medio: turn it off.",
+            "El pronombre no va al final."
+          ]
         },
         {
           "id": "b11-s4q5",
@@ -819,7 +931,11 @@
             "look into",
             "look it into"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Inseparable: look into the issue.",
+            "No se separa."
+          ]
         },
         {
           "id": "b11-s4q6",
@@ -828,7 +944,11 @@
             "ran out",
             "run out"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado: ran out.",
+            "Run es presente."
+          ]
         },
         {
           "id": "b11-s4q7",
@@ -837,7 +957,11 @@
             "call off",
             "call in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Call off = cancelar.",
+            "Call in = llamar a alguien."
+          ]
         },
         {
           "id": "b11-s4q8",
@@ -846,7 +970,11 @@
             "looks after",
             "looks the guests after"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Look after = cuidar de (inseparable).",
+            "No se separa."
+          ]
         }
       ],
       "produce": {
@@ -977,7 +1105,11 @@
             "making",
             "to make"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Avoid + -ing.",
+            "Avoid no va con to."
+          ]
         },
         {
           "id": "b11-s5q2",
@@ -986,7 +1118,11 @@
             "to call",
             "calling"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Promise + to.",
+            "Promise no va con -ing."
+          ]
         },
         {
           "id": "b11-s5q3",
@@ -995,7 +1131,11 @@
             "drinking",
             "to drink"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Stop + -ing = dejar de.",
+            "Stop + to = parar para hacer algo."
+          ]
         },
         {
           "id": "b11-s5q4",
@@ -1004,7 +1144,11 @@
             "to negotiate",
             "negotiating"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Enjoy no va con to.",
+            "Enjoy + -ing."
+          ]
         },
         {
           "id": "b11-s5q5",
@@ -1013,7 +1157,11 @@
             "to postpone",
             "postponing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Decide + to.",
+            "Decide no va con -ing."
+          ]
         },
         {
           "id": "b11-s5q6",
@@ -1022,7 +1170,11 @@
             "to wait",
             "waiting"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Mind no va con to.",
+            "Mind + -ing."
+          ]
         },
         {
           "id": "b11-s5q7",
@@ -1031,7 +1183,11 @@
             "fixing",
             "to fix"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Manage no va con -ing.",
+            "Manage + to."
+          ]
         },
         {
           "id": "b11-s5q8",
@@ -1040,7 +1196,11 @@
             "to help",
             "helping"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Offer + to.",
+            "Offer no va con -ing."
+          ]
         }
       ],
       "produce": {
@@ -1151,7 +1311,11 @@
             "am knowing",
             "know"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Know es de estado: no va en continuo.",
+            "Simple: I know."
+          ]
         },
         {
           "id": "b11-s6q2",
@@ -1160,7 +1324,11 @@
             "wants",
             "is wanting"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Want: estado, simple.",
+            "No va en continuo."
+          ]
         },
         {
           "id": "b11-s6q3",
@@ -1169,7 +1337,11 @@
             "have",
             "are having"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Have lunch es acción, pero «ahora mismo» pide continuo.",
+            "Acción en curso: are having."
+          ]
         },
         {
           "id": "b11-s6q4",
@@ -1178,7 +1350,11 @@
             "is tasting",
             "tastes"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Taste como estado no va en continuo.",
+            "Tastes: describe el sabor."
+          ]
         },
         {
           "id": "b11-s6q5",
@@ -1187,7 +1363,11 @@
             "thinking",
             "think"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Think = estar pensando (proceso): sí va en continuo.",
+            "I'm think no es correcto."
+          ]
         },
         {
           "id": "b11-s6q6",
@@ -1196,7 +1376,11 @@
             "is having",
             "has"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Have de posesión no va en continuo.",
+            "Has: posee."
+          ]
         },
         {
           "id": "b11-s6q7",
@@ -1205,7 +1389,11 @@
             "run",
             "believe"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Run es acción.",
+            "Believe es de estado."
+          ]
         }
       ],
       "produce": {
@@ -1316,7 +1504,11 @@
             "checking",
             "to check"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Stop + -ing = dejar de revisar.",
+            "Stop + to = parar para revisar."
+          ]
         },
         {
           "id": "b11-s7q2",
@@ -1325,7 +1517,11 @@
             "taking",
             "to take"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Stop + -ing = dejar de.",
+            "Stop + to = parar para."
+          ]
         },
         {
           "id": "b11-s7q3",
@@ -1334,7 +1530,11 @@
             "locking",
             "to lock"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Remember + -ing = recordar algo hecho.",
+            "Remember + to = acordarse de hacerlo."
+          ]
         },
         {
           "id": "b11-s7q4",
@@ -1343,7 +1543,11 @@
             "locking",
             "to lock"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Remember + -ing = recuerdo haberlo hecho.",
+            "Remember + to es para el futuro."
+          ]
         },
         {
           "id": "b11-s7q5",
@@ -1352,7 +1556,11 @@
             "restarting",
             "to restart"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Try + -ing = probar a hacerlo.",
+            "Try + to = esforzarse."
+          ]
         },
         {
           "id": "b11-s7q6",
@@ -1361,7 +1569,11 @@
             "reaching",
             "to reach"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Try + -ing = probar como experimento.",
+            "Try + to = esforzarse por."
+          ]
         },
         {
           "id": "b11-s7q7",
@@ -1370,7 +1582,11 @@
             "sending",
             "to send"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Forget + -ing = olvidar algo hecho.",
+            "Don't forget + to = no olvides hacerlo."
+          ]
         }
       ],
       "produce": {
@@ -1481,7 +1697,11 @@
             "to wait",
             "wait"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Make no va con to.",
+            "Make + base."
+          ]
         },
         {
           "id": "b11-s8q2",
@@ -1490,7 +1710,11 @@
             "check in",
             "to check in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Let + base.",
+            "Let no va con to."
+          ]
         },
         {
           "id": "b11-s8q3",
@@ -1499,7 +1723,11 @@
             "sign",
             "to sign"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Get + objeto + to.",
+            "Get + to: to sign."
+          ]
         },
         {
           "id": "b11-s8q4",
@@ -1508,7 +1736,11 @@
             "leave",
             "to leave"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Acción completa: see + base.",
+            "See no va con to."
+          ]
         },
         {
           "id": "b11-s8q5",
@@ -1517,7 +1749,11 @@
             "knock to",
             "knocking"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Orden incorrecto.",
+            "Acción en curso: hear + -ing."
+          ]
         },
         {
           "id": "b11-s8q6",
@@ -1526,7 +1762,11 @@
             "en infinitivo sin 'to'",
             "con 'to'"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Make y let + base.",
+            "No llevan to."
+          ]
         },
         {
           "id": "b11-s8q7",
@@ -1535,7 +1775,11 @@
             "carry",
             "carried"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Help + base.",
+            "El participio no va aquí."
+          ]
         }
       ],
       "produce": {
@@ -1646,7 +1890,11 @@
             "booked up",
             "booked off"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Booked up = completo.",
+            "Off no indica completo."
+          ]
         },
         {
           "id": "b11-s9q2",
@@ -1655,7 +1903,11 @@
             "call off",
             "call up"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Call off = cancelar.",
+            "Call up = llamar."
+          ]
         },
         {
           "id": "b11-s9q3",
@@ -1664,7 +1916,11 @@
             "run out",
             "run down"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Run out = agotarse.",
+            "Run down = agotar (batería) o criticar."
+          ]
         },
         {
           "id": "b11-s9q4",
@@ -1673,7 +1929,11 @@
             "write down",
             "write up"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Write down = anotar.",
+            "Write up = redactar."
+          ]
         },
         {
           "id": "b11-s9q5",
@@ -1682,7 +1942,11 @@
             "turn down",
             "turn off"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Turn down = rechazar.",
+            "Turn off = apagar."
+          ]
         },
         {
           "id": "b11-s9q6",
@@ -1691,7 +1955,11 @@
             "set up",
             "set off"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Set up = preparar.",
+            "Set off = salir de viaje."
+          ]
         },
         {
           "id": "b11-s9q7",
@@ -1700,7 +1968,11 @@
             "separación o cancelación",
             "completar"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Off: separación o cancelación.",
+            "Completar es up."
+          ]
         }
       ],
       "produce": {

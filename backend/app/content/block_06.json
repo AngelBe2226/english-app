@@ -130,7 +130,11 @@
             "if",
             "that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pregunta indirecta sí/no: if = si.",
+            "That no introduce preguntas indirectas."
+          ]
         },
         {
           "id": "b06-s1q2",
@@ -139,7 +143,11 @@
             "What",
             "That"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "What = lo que, sujeto.",
+            "That necesita oración completa y no significa «lo que»."
+          ]
         },
         {
           "id": "b06-s1q3",
@@ -148,7 +156,11 @@
             "that",
             "if"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "That introduce lo que cree.",
+            "If = si; no encaja con believe."
+          ]
         },
         {
           "id": "b06-s1q4",
@@ -157,7 +169,11 @@
             "that",
             "what"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "That = que.",
+            "What = lo que; aquí no hay hueco de objeto."
+          ]
         },
         {
           "id": "b06-s1q5",
@@ -166,7 +182,11 @@
             "That",
             "What"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "That no significa «lo que».",
+            "What she said = lo que dijo."
+          ]
         },
         {
           "id": "b06-s1q6",
@@ -175,7 +195,11 @@
             "that",
             "whether"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "That no introduce preguntas.",
+            "Whether = si (pregunta indirecta)."
+          ]
         },
         {
           "id": "b06-s1q7",
@@ -184,7 +208,11 @@
             "if",
             "that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If = si (duda).",
+            "That no expresa duda."
+          ]
         },
         {
           "id": "b06-s1q8",
@@ -193,7 +221,11 @@
             "that",
             "what"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras decided falta el objeto: hace falta what.",
+            "What = lo que decidiste."
+          ]
         }
       ],
       "produce": {
@@ -324,7 +356,11 @@
             "that",
             "which"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "That no va tras coma.",
+            "Explicativa (con comas): which."
+          ]
         },
         {
           "id": "b06-s2q2",
@@ -333,7 +369,11 @@
             "talking",
             "who talking"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Reducida: participio sin pronombre.",
+            "«Who talking» le falta is."
+          ]
         },
         {
           "id": "b06-s2q3",
@@ -342,7 +382,11 @@
             "The car that I bought is red. (sin coma)",
             "The car, that I bought, is red."
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Restrictiva: sin comas.",
+            "Con that no se usan comas."
+          ]
         },
         {
           "id": "b06-s2q4",
@@ -351,7 +395,11 @@
             "who",
             "that"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Who es para personas.",
+            "That para cosas."
+          ]
         },
         {
           "id": "b06-s2q5",
@@ -360,7 +408,11 @@
             "that",
             "which"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "That no va con comas.",
+            "Explicativa de cosa: which."
+          ]
         },
         {
           "id": "b06-s2q6",
@@ -369,7 +421,11 @@
             "who",
             "whose"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Who no expresa posesión.",
+            "Whose = cuyo."
+          ]
         },
         {
           "id": "b06-s2q7",
@@ -378,7 +434,11 @@
             "talking",
             "who talking"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Reducida con -ing.",
+            "Falta is."
+          ]
         },
         {
           "id": "b06-s2q8",
@@ -387,7 +447,11 @@
             "which",
             "where"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Which necesitaría preposición (which I worked at).",
+            "Where = donde."
+          ]
         }
       ],
       "produce": {
@@ -518,7 +582,11 @@
             "get",
             "will get"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras when, presente con sentido futuro.",
+            "No va will tras when."
+          ]
         },
         {
           "id": "b06-s3q2",
@@ -527,7 +595,11 @@
             "Before",
             "Until"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Before = antes de.",
+            "Until = hasta que."
+          ]
         },
         {
           "id": "b06-s3q3",
@@ -536,7 +608,11 @@
             "until",
             "while"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Until = hasta que.",
+            "While = mientras."
+          ]
         },
         {
           "id": "b06-s3q4",
@@ -545,7 +621,11 @@
             "will arrive",
             "arrives"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "No va will tras when.",
+            "Presente: arrives."
+          ]
         },
         {
           "id": "b06-s3q5",
@@ -554,7 +634,11 @@
             "As soon as",
             "Until"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As soon as = en cuanto.",
+            "Until = hasta que."
+          ]
         },
         {
           "id": "b06-s3q6",
@@ -563,7 +647,11 @@
             "before",
             "after"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Before = antes de.",
+            "After = después."
+          ]
         },
         {
           "id": "b06-s3q7",
@@ -572,7 +660,11 @@
             "By the time",
             "While"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "By the time = para cuando.",
+            "While = mientras."
+          ]
         },
         {
           "id": "b06-s3q8",
@@ -581,7 +673,11 @@
             "until",
             "since"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Until = hasta que.",
+            "Since = desde."
+          ]
         }
       ],
       "produce": {
@@ -712,7 +808,11 @@
             "provided that",
             "in case"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Provided that = siempre que.",
+            "In case = por si."
+          ]
         },
         {
           "id": "b06-s4q2",
@@ -721,7 +821,11 @@
             "in case",
             "unless"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In case = por si.",
+            "Unless = a menos que."
+          ]
         },
         {
           "id": "b06-s4q3",
@@ -730,7 +834,11 @@
             "unless",
             "as long as"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Unless = a menos que (no la guardamos si no confirma… aquí significa «salvo que»).",
+            "As long as = siempre que: guardamos la habitación siempre que confirme hoy."
+          ]
         },
         {
           "id": "b06-s4q4",
@@ -739,7 +847,11 @@
             "If",
             "Unless"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If = si.",
+            "Unless = a menos que; cambiaría el sentido."
+          ]
         },
         {
           "id": "b06-s4q5",
@@ -748,7 +860,11 @@
             "unless",
             "if"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Unless = a menos que.",
+            "If no expresa condición negativa."
+          ]
         },
         {
           "id": "b06-s4q6",
@@ -757,7 +873,11 @@
             "in case",
             "as long as"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "In case = por si.",
+            "As long as = siempre que."
+          ]
         },
         {
           "id": "b06-s4q7",
@@ -766,7 +886,11 @@
             "in case",
             "unless"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In case = por si acaso.",
+            "Unless = a menos que."
+          ]
         },
         {
           "id": "b06-s4q8",
@@ -775,7 +899,11 @@
             "Unless",
             "Provided"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Unless = a menos que.",
+            "Provided that = siempre que."
+          ]
         }
       ],
       "produce": {
@@ -906,7 +1034,11 @@
             "Since",
             "Because of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Since = ya que.",
+            "Because of va con sustantivo."
+          ]
         },
         {
           "id": "b06-s5q2",
@@ -915,7 +1047,11 @@
             "because of",
             "because"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Because of + sustantivo.",
+            "Because va con oración."
+          ]
         },
         {
           "id": "b06-s5q3",
@@ -924,7 +1060,11 @@
             "because",
             "due to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Because + oración.",
+            "Due to va con sustantivo."
+          ]
         },
         {
           "id": "b06-s5q4",
@@ -933,7 +1073,11 @@
             "because",
             "although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Because = causa.",
+            "Although = aunque."
+          ]
         },
         {
           "id": "b06-s5q5",
@@ -942,7 +1086,11 @@
             "Since",
             "Unless"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Since = dado que.",
+            "Unless = a menos que."
+          ]
         },
         {
           "id": "b06-s5q6",
@@ -951,7 +1099,11 @@
             "As",
             "So that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As = como (causa).",
+            "So that = para que."
+          ]
         },
         {
           "id": "b06-s5q7",
@@ -960,7 +1112,11 @@
             "because",
             "in case"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Because = porque.",
+            "In case = por si."
+          ]
         },
         {
           "id": "b06-s5q8",
@@ -969,7 +1125,11 @@
             "Since",
             "Although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Since = dado que.",
+            "Although = aunque."
+          ]
         }
       ],
       "produce": {
@@ -1100,7 +1260,11 @@
             "Although",
             "Despite"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Although + oración.",
+            "Despite va con sustantivo."
+          ]
         },
         {
           "id": "b06-s6q2",
@@ -1109,7 +1273,11 @@
             "despite",
             "although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Despite + sustantivo.",
+            "Although va con oración."
+          ]
         },
         {
           "id": "b06-s6q3",
@@ -1118,7 +1286,11 @@
             "Even though",
             "In spite of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Even though + oración.",
+            "In spite of va con sustantivo."
+          ]
         },
         {
           "id": "b06-s6q4",
@@ -1127,7 +1299,11 @@
             "Although",
             "Because"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Although = aunque.",
+            "Because es causa."
+          ]
         },
         {
           "id": "b06-s6q5",
@@ -1136,7 +1312,11 @@
             "Even though",
             "So that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Even though = aunque, enfático.",
+            "So that = para que."
+          ]
         },
         {
           "id": "b06-s6q6",
@@ -1145,7 +1325,11 @@
             "though",
             "since"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Though al final = aunque.",
+            "Since = ya que."
+          ]
         },
         {
           "id": "b06-s6q7",
@@ -1154,7 +1338,11 @@
             "even if",
             "as"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Even if = aunque (hipotético).",
+            "As = como."
+          ]
         },
         {
           "id": "b06-s6q8",
@@ -1163,7 +1351,11 @@
             "Although",
             "Because"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Although = aunque.",
+            "Because es causa."
+          ]
         }
       ],
       "produce": {
@@ -1294,7 +1486,11 @@
             "to",
             "so that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "To + infinitivo con el mismo sujeto.",
+            "So that necesita oración."
+          ]
         },
         {
           "id": "b06-s7q2",
@@ -1303,7 +1499,11 @@
             "so that",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So that + otro sujeto.",
+            "To no permite otro sujeto."
+          ]
         },
         {
           "id": "b06-s7q3",
@@ -1312,7 +1512,11 @@
             "in order to",
             "so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In order to = para (formal).",
+            "So no expresa finalidad aquí."
+          ]
         },
         {
           "id": "b06-s7q4",
@@ -1321,7 +1525,11 @@
             "so that",
             "because"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So that + oración.",
+            "Because es causa."
+          ]
         },
         {
           "id": "b06-s7q5",
@@ -1330,7 +1538,11 @@
             "to",
             "so that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "To + infinitivo.",
+            "So that necesita sujeto y verbo."
+          ]
         },
         {
           "id": "b06-s7q6",
@@ -1339,7 +1551,11 @@
             "in order to",
             "so that to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In order to = con el fin de.",
+            "«So that to» mezcla estructuras."
+          ]
         },
         {
           "id": "b06-s7q7",
@@ -1348,7 +1564,11 @@
             "so as not to",
             "for not"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So as not to = para no.",
+            "«For not» no existe."
+          ]
         },
         {
           "id": "b06-s7q8",
@@ -1357,7 +1577,11 @@
             "so that",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So that + oración.",
+            "To + infinitivo; aquí sigue una oración."
+          ]
         }
       ],
       "produce": {
@@ -1488,7 +1712,11 @@
             "so",
             "such"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So + adjetivo.",
+            "Such necesita sustantivo."
+          ]
         },
         {
           "id": "b06-s8q2",
@@ -1497,7 +1725,11 @@
             "such a",
             "so a"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Such a + sustantivo.",
+            "So no va con a + sustantivo."
+          ]
         },
         {
           "id": "b06-s8q3",
@@ -1506,7 +1738,11 @@
             "such",
             "so"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Such + incontable.",
+            "So no va con sustantivo."
+          ]
         },
         {
           "id": "b06-s8q4",
@@ -1515,7 +1751,11 @@
             "so",
             "such"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So + adjetivo.",
+            "Such necesita sustantivo."
+          ]
         },
         {
           "id": "b06-s8q5",
@@ -1524,7 +1764,11 @@
             "so",
             "such"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "So no va con a + sustantivo.",
+            "Such a great deal."
+          ]
         },
         {
           "id": "b06-s8q6",
@@ -1533,7 +1777,11 @@
             "so",
             "such"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So many.",
+            "«Such many» no existe."
+          ]
         },
         {
           "id": "b06-s8q7",
@@ -1542,7 +1790,11 @@
             "that",
             "which"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "So… that.",
+            "Which no completa so."
+          ]
         },
         {
           "id": "b06-s8q8",
@@ -1551,7 +1803,11 @@
             "so",
             "such"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "So no va con sustantivo.",
+            "Such + incontable."
+          ]
         }
       ],
       "produce": {
@@ -1662,7 +1918,11 @@
             "as if",
             "as"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As if + pasado irreal.",
+            "As no expresa «como si»."
+          ]
         },
         {
           "id": "b06-s9q2",
@@ -1671,7 +1931,11 @@
             "knows",
             "knew"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Presente real no expresa irrealidad.",
+            "Pasado irreal: knew."
+          ]
         },
         {
           "id": "b06-s9q3",
@@ -1680,7 +1944,11 @@
             "the way",
             "as if"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The way = de la manera en que.",
+            "As if = como si."
+          ]
         },
         {
           "id": "b06-s9q4",
@@ -1689,7 +1957,11 @@
             "as",
             "like"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As = tal como.",
+            "Like no va con oración en este uso."
+          ]
         },
         {
           "id": "b06-s9q5",
@@ -1698,7 +1970,11 @@
             "as if",
             "the way"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As if = parece que.",
+            "The way = la manera."
+          ]
         },
         {
           "id": "b06-s9q6",
@@ -1707,7 +1983,11 @@
             "as though",
             "the way"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As though = como si.",
+            "The way = la manera."
+          ]
         },
         {
           "id": "b06-s9q7",
@@ -1716,7 +1996,11 @@
             "as",
             "as if"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "As = tal como.",
+            "As if = como si."
+          ]
         }
       ],
       "produce": {
@@ -1827,7 +2111,11 @@
             "where",
             "which"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Where = donde.",
+            "Which necesita preposición."
+          ]
         },
         {
           "id": "b06-s10q2",
@@ -1836,7 +2124,11 @@
             "where",
             "wherever"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Where es un lugar concreto.",
+            "Wherever = donde quieras."
+          ]
         },
         {
           "id": "b06-s10q3",
@@ -1845,7 +2137,11 @@
             "where",
             "when"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Where = donde.",
+            "When = cuando."
+          ]
         },
         {
           "id": "b06-s10q4",
@@ -1854,7 +2150,11 @@
             "wherever",
             "where"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Wherever = dondequiera.",
+            "Where es un lugar concreto."
+          ]
         },
         {
           "id": "b06-s10q5",
@@ -1863,7 +2163,11 @@
             "where",
             "wherever"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Where = donde.",
+            "Wherever = cualquier lugar."
+          ]
         },
         {
           "id": "b06-s10q6",
@@ -1872,7 +2176,11 @@
             "where",
             "wherever"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Where es un lugar concreto.",
+            "Wherever = donde sea."
+          ]
         },
         {
           "id": "b06-s10q7",
@@ -1881,7 +2189,11 @@
             "where",
             "that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Where = donde.",
+            "That necesitaría preposición."
+          ]
         }
       ],
       "produce": {
@@ -1992,7 +2304,11 @@
             "than",
             "as"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Comparativo + than.",
+            "As va con as."
+          ]
         },
         {
           "id": "b06-s11q2",
@@ -2001,7 +2317,11 @@
             "than",
             "as"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Than va con comparativo.",
+            "As good as."
+          ]
         },
         {
           "id": "b06-s11q3",
@@ -2010,7 +2330,11 @@
             "The more / the more",
             "More / more"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The more…, the more.",
+            "Sin the no funciona."
+          ]
         },
         {
           "id": "b06-s11q4",
@@ -2019,7 +2343,11 @@
             "than",
             "as"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Better than.",
+            "As va con as."
+          ]
         },
         {
           "id": "b06-s11q5",
@@ -2028,7 +2356,11 @@
             "than",
             "as"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Than va con comparativo.",
+            "As far as."
+          ]
         },
         {
           "id": "b06-s11q6",
@@ -2037,7 +2369,11 @@
             "than expected",
             "as expected"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Longer than expected.",
+            "As expected no compara."
+          ]
         },
         {
           "id": "b06-s11q7",
@@ -2046,7 +2382,11 @@
             "The bigger / the better",
             "Bigger / better"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The bigger…, the better.",
+            "Sin the no funciona."
+          ]
         }
       ],
       "produce": {
@@ -2157,7 +2497,11 @@
             "Waiting",
             "Waited"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "-ing: acción activa.",
+            "Waited es pasivo o pasado."
+          ]
         },
         {
           "id": "b06-s12q2",
@@ -2166,7 +2510,11 @@
             "Building",
             "Built"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ing sería activo.",
+            "Participio pasivo: built."
+          ]
         },
         {
           "id": "b06-s12q3",
@@ -2175,7 +2523,11 @@
             "Impressing",
             "Impressed"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ing sería activo.",
+            "Impressed: pasivo."
+          ]
         },
         {
           "id": "b06-s12q4",
@@ -2184,7 +2536,11 @@
             "Having finished",
             "Finished"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Having + participio = habiendo terminado.",
+            "Finished solo sería pasivo."
+          ]
         },
         {
           "id": "b06-s12q5",
@@ -2193,7 +2549,11 @@
             "Knowing",
             "Known"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Knowing: activo, causa.",
+            "Known es pasivo."
+          ]
         },
         {
           "id": "b06-s12q6",
@@ -2202,7 +2562,11 @@
             "Locating",
             "Located"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ing activo no encaja.",
+            "Located: situado."
+          ]
         },
         {
           "id": "b06-s12q7",
@@ -2211,7 +2575,11 @@
             "Seeing",
             "Seen"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Seeing: al ver.",
+            "Seen es pasivo."
+          ]
         }
       ],
       "produce": {
@@ -2322,7 +2690,11 @@
             "What",
             "That"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "What = lo que.",
+            "That necesita oración completa."
+          ]
         },
         {
           "id": "b06-s13q2",
@@ -2331,7 +2703,11 @@
             "Whatever",
             "What"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whatever = lo que sea.",
+            "What no expresa «lo que sea que»."
+          ]
         },
         {
           "id": "b06-s13q3",
@@ -2340,7 +2716,11 @@
             "Whoever",
             "Whatever"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whoever = quienquiera.",
+            "Whatever es para cosas."
+          ]
         },
         {
           "id": "b06-s13q4",
@@ -2349,7 +2729,11 @@
             "whichever",
             "whatever"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whichever = cualquiera de un grupo.",
+            "Whatever es más abierto."
+          ]
         },
         {
           "id": "b06-s13q5",
@@ -2358,7 +2742,11 @@
             "whoever",
             "whatever"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whoever = a quien.",
+            "Whatever es para cosas."
+          ]
         },
         {
           "id": "b06-s13q6",
@@ -2367,7 +2755,11 @@
             "whenever",
             "wherever"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whenever = cuando sea.",
+            "Wherever = donde sea."
+          ]
         },
         {
           "id": "b06-s13q7",
@@ -2376,7 +2768,11 @@
             "What",
             "Which"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "What = lo que.",
+            "Which necesita antecedente."
+          ]
         }
       ],
       "produce": {

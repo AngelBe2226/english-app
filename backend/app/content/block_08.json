@@ -165,7 +165,11 @@
             "was sent",
             "sent"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasiva en pasado: was + participio.",
+            "Sent solo es activa: «el informe envió»."
+          ]
         },
         {
           "id": "b08-s1q2",
@@ -174,7 +178,11 @@
             "clean",
             "are cleaned"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Activa: «las habitaciones limpian».",
+            "Pasiva presente: are + participio."
+          ]
         },
         {
           "id": "b08-s1q3",
@@ -183,7 +191,11 @@
             "will have been signed",
             "will be signed"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Futuro perfecto pasivo: will have been + participio.",
+            "Will be signed es futuro simple."
+          ]
         },
         {
           "id": "b08-s1q4",
@@ -192,7 +204,11 @@
             "are cleaned",
             "clean"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Are + participio.",
+            "Activa sin sentido."
+          ]
         },
         {
           "id": "b08-s1q5",
@@ -201,7 +217,11 @@
             "has been",
             "was being"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Has been + participio.",
+            "Was being es pasado continuo."
+          ]
         },
         {
           "id": "b08-s1q6",
@@ -210,7 +230,11 @@
             "be signed",
             "been signed"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will be + participio.",
+            "Tras will va base: be."
+          ]
         },
         {
           "id": "b08-s1q7",
@@ -219,7 +243,11 @@
             "is being",
             "has been"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Is being + participio: ahora mismo.",
+            "Has been no indica «ahora mismo»."
+          ]
         },
         {
           "id": "b08-s1q8",
@@ -228,7 +256,11 @@
             "had been signed",
             "were signing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Had been + participio.",
+            "Were signing es activa."
+          ]
         }
       ],
       "produce": {
@@ -359,7 +391,11 @@
             "was",
             "is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Presente → pasado: was.",
+            "En estilo indirecto se retrocede el tiempo."
+          ]
         },
         {
           "id": "b08-s2q2",
@@ -368,7 +404,11 @@
             "would",
             "will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will → would.",
+            "Will no retrocede."
+          ]
         },
         {
           "id": "b08-s2q3",
@@ -377,7 +417,11 @@
             "finished",
             "had finished"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Pasado → pasado perfecto.",
+            "Had finished."
+          ]
         },
         {
           "id": "b08-s2q4",
@@ -386,7 +430,11 @@
             "was",
             "is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Am → was.",
+            "Hay que retroceder."
+          ]
         },
         {
           "id": "b08-s2q5",
@@ -395,7 +443,11 @@
             "signed",
             "had signed"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Hay que retroceder al pasado perfecto.",
+            "Had signed."
+          ]
         },
         {
           "id": "b08-s2q6",
@@ -404,7 +456,11 @@
             "would",
             "will"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Will → would.",
+            "No retrocede."
+          ]
         },
         {
           "id": "b08-s2q7",
@@ -413,7 +469,11 @@
             "can",
             "could"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Can no retrocede.",
+            "Can → could."
+          ]
         },
         {
           "id": "b08-s2q8",
@@ -422,7 +482,11 @@
             "had",
             "have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Have → had.",
+            "No retrocede."
+          ]
         }
       ],
       "produce": {
@@ -553,7 +617,11 @@
             "where",
             "if"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Where se mantiene.",
+            "If es para sí/no."
+          ]
         },
         {
           "id": "b08-s3q2",
@@ -562,7 +630,11 @@
             "if",
             "what"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "If para sí/no.",
+            "What no es pregunta sí/no."
+          ]
         },
         {
           "id": "b08-s3q3",
@@ -571,7 +643,11 @@
             "She asked where I lived",
             "She asked where did I live"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Orden afirmativo en indirecta.",
+            "No se usa did en la indirecta."
+          ]
         },
         {
           "id": "b08-s3q4",
@@ -580,7 +656,11 @@
             "live",
             "lived"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Hay que retroceder el tiempo.",
+            "Live → lived."
+          ]
         },
         {
           "id": "b08-s3q5",
@@ -589,7 +669,11 @@
             "that",
             "if"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "That no introduce preguntas.",
+            "If = si."
+          ]
         },
         {
           "id": "b08-s3q6",
@@ -598,7 +682,11 @@
             "could",
             "can"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Can → could.",
+            "Can no retrocede."
+          ]
         },
         {
           "id": "b08-s3q7",
@@ -607,7 +695,11 @@
             "where was the spa",
             "where the spa was"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Orden de pregunta, no de indirecta.",
+            "Sujeto antes del verbo."
+          ]
         },
         {
           "id": "b08-s3q8",
@@ -616,7 +708,11 @@
             "whether",
             "that"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whether = si.",
+            "That no introduce preguntas."
+          ]
         }
       ],
       "produce": {
@@ -747,7 +843,11 @@
             "to sign",
             "sign"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tell + objeto + to + infinitivo.",
+            "Falta to."
+          ]
         },
         {
           "id": "b08-s4q2",
@@ -756,7 +856,11 @@
             "to not be",
             "not to be"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El not va antes de to.",
+            "Not to be."
+          ]
         },
         {
           "id": "b08-s4q3",
@@ -765,7 +869,11 @@
             "to wait",
             "wait"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ask + to + infinitivo.",
+            "Falta to."
+          ]
         },
         {
           "id": "b08-s4q4",
@@ -774,7 +882,11 @@
             "to close",
             "closing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "To + infinitivo.",
+            "-ing no va tras tell me."
+          ]
         },
         {
           "id": "b08-s4q5",
@@ -783,7 +895,11 @@
             "to not be",
             "not to be"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El not va antes de to.",
+            "Not to be."
+          ]
         },
         {
           "id": "b08-s4q6",
@@ -792,7 +908,11 @@
             "to send",
             "sending"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ask + to.",
+            "-ing no va aquí."
+          ]
         },
         {
           "id": "b08-s4q7",
@@ -801,7 +921,11 @@
             "to sign",
             "sign"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ask + to.",
+            "Falta to."
+          ]
         },
         {
           "id": "b08-s4q8",
@@ -810,7 +934,11 @@
             "to not cancel",
             "not to cancel"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El not va antes de to.",
+            "Not to cancel."
+          ]
         }
       ],
       "produce": {
@@ -978,7 +1106,11 @@
             "the next day",
             "tomorrow"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tomorrow → the next day.",
+            "Tomorrow no se adapta."
+          ]
         },
         {
           "id": "b08-s5q2",
@@ -987,7 +1119,11 @@
             "there",
             "here"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Here → there.",
+            "Here no se adapta."
+          ]
         },
         {
           "id": "b08-s5q3",
@@ -996,7 +1132,11 @@
             "before",
             "ago"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Ago → before.",
+            "Ago no se adapta."
+          ]
         },
         {
           "id": "b08-s5q4",
@@ -1005,7 +1145,11 @@
             "that day",
             "this day"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Today → that day.",
+            "«This day» no se usa así."
+          ]
         },
         {
           "id": "b08-s5q5",
@@ -1014,7 +1158,11 @@
             "the next day",
             "the day before"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The next day.",
+            "The day before es yesterday."
+          ]
         },
         {
           "id": "b08-s5q6",
@@ -1023,7 +1171,11 @@
             "here",
             "there"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Here no se adapta.",
+            "Here → there."
+          ]
         },
         {
           "id": "b08-s5q7",
@@ -1032,7 +1184,11 @@
             "the day before",
             "the next day"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Yesterday → the day before.",
+            "The next day es tomorrow."
+          ]
         },
         {
           "id": "b08-s5q8",
@@ -1041,7 +1197,11 @@
             "that offer",
             "this offer"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "This → that.",
+            "No se adapta."
+          ]
         }
       ],
       "produce": {
@@ -1152,7 +1312,11 @@
             "It is said",
             "He is said"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It is said that.",
+            "He is said necesita to."
+          ]
         },
         {
           "id": "b08-s6q2",
@@ -1161,7 +1325,11 @@
             "is believed",
             "believes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Is believed + to.",
+            "Activa sin sentido."
+          ]
         },
         {
           "id": "b08-s6q3",
@@ -1170,7 +1338,11 @@
             "to have",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "To have + participio: anterior.",
+            "Falta have."
+          ]
         },
         {
           "id": "b08-s6q4",
@@ -1179,7 +1351,11 @@
             "that",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It is reported that.",
+            "To no sigue a la estructura con it."
+          ]
         },
         {
           "id": "b08-s6q5",
@@ -1188,7 +1364,11 @@
             "is known",
             "knows"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Is known + to.",
+            "Activa sin sentido."
+          ]
         },
         {
           "id": "b08-s6q6",
@@ -1197,7 +1377,11 @@
             "to speak",
             "to have spoken"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "To speak: simultáneo.",
+            "To have spoken: anterior."
+          ]
         },
         {
           "id": "b08-s6q7",
@@ -1206,7 +1390,11 @@
             "It is understood",
             "They are understood"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It is understood that.",
+            "They no funciona con that."
+          ]
         }
       ],
       "produce": {
@@ -1317,7 +1505,11 @@
             "had",
             "did"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Have + objeto + participio.",
+            "Did no forma causativa."
+          ]
         },
         {
           "id": "b08-s7q2",
@@ -1326,7 +1518,11 @@
             "had cleaned the room",
             "had the room cleaned"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Orden incorrecto.",
+            "Have + objeto + participio."
+          ]
         },
         {
           "id": "b08-s7q3",
@@ -1335,7 +1531,11 @@
             "getting",
             "doing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Get + objeto + participio.",
+            "Do no forma causativa."
+          ]
         },
         {
           "id": "b08-s7q4",
@@ -1344,7 +1544,11 @@
             "stealing",
             "stolen"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "-ing no va en causativa.",
+            "Participio: stolen."
+          ]
         },
         {
           "id": "b08-s7q5",
@@ -1353,7 +1557,11 @@
             "lo limpiamos nosotros",
             "alguien lo limpió por nosotros"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Eso sería «We cleaned the room».",
+            "Causativa: alguien lo hizo por nosotros."
+          ]
         },
         {
           "id": "b08-s7q6",
@@ -1362,7 +1570,11 @@
             "printed",
             "printing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Participio: printed.",
+            "-ing no va aquí."
+          ]
         },
         {
           "id": "b08-s7q7",
@@ -1371,7 +1583,11 @@
             "upgrade",
             "upgraded"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Base no va tras got + objeto.",
+            "Participio: upgraded."
+          ]
         }
       ],
       "produce": {
@@ -1482,7 +1698,11 @@
             "to",
             "-ing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Offer + to.",
+            "Offer no va con -ing."
+          ]
         },
         {
           "id": "b08-s8q2",
@@ -1491,7 +1711,11 @@
             "to book",
             "booking"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Suggest no va con to.",
+            "Suggest + -ing."
+          ]
         },
         {
           "id": "b08-s8q3",
@@ -1500,7 +1724,11 @@
             "not to",
             "to not"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Warn + not to.",
+            "El not va antes de to."
+          ]
         },
         {
           "id": "b08-s8q4",
@@ -1509,7 +1737,11 @@
             "for",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Apologise for.",
+            "To es para la persona."
+          ]
         },
         {
           "id": "b08-s8q5",
@@ -1518,7 +1750,11 @@
             "paying",
             "to pay"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Refuse no va con -ing.",
+            "Refuse + to."
+          ]
         },
         {
           "id": "b08-s8q6",
@@ -1527,7 +1763,11 @@
             "to",
             "-ing"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Remind + to.",
+            "Remind no va con -ing aquí."
+          ]
         },
         {
           "id": "b08-s8q7",
@@ -1536,7 +1776,11 @@
             "on",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Insist on.",
+            "«Insist to» no se usa."
+          ]
         }
       ],
       "produce": {
@@ -1647,7 +1891,11 @@
             "She was given",
             "A gift was given her"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "La persona como sujeto: She was given.",
+            "Menos natural sin to."
+          ]
         },
         {
           "id": "b08-s9q2",
@@ -1656,7 +1904,11 @@
             "were offered",
             "were offering"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Were offered: pasiva.",
+            "Activa: «estábamos ofreciendo»."
+          ]
         },
         {
           "id": "b08-s9q3",
@@ -1665,7 +1917,11 @@
             "was told",
             "was said"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tell admite pasiva con persona.",
+            "Say no admite persona como sujeto."
+          ]
         },
         {
           "id": "b08-s9q4",
@@ -1674,7 +1930,11 @@
             "was sent",
             "was send"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Was + participio: sent.",
+            "«Send» no es participio."
+          ]
         },
         {
           "id": "b08-s9q5",
@@ -1683,7 +1943,11 @@
             "were given",
             "were gave"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Were given.",
+            "«Gave» no es participio."
+          ]
         },
         {
           "id": "b08-s9q6",
@@ -1692,7 +1956,11 @@
             "was promised",
             "was promise"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Was promised.",
+            "«Promise» no es participio."
+          ]
         },
         {
           "id": "b08-s9q7",
@@ -1701,7 +1969,11 @@
             "la cosa",
             "la persona"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Lo más natural no es la cosa.",
+            "La persona como sujeto."
+          ]
         }
       ],
       "produce": {

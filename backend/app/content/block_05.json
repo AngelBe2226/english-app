@@ -142,7 +142,11 @@
             "visit",
             "visits"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con she el presente simple lleva -s.",
+            "3ª persona del singular: visit + s."
+          ]
         },
         {
           "id": "b05-s1q2",
@@ -151,7 +155,11 @@
             "don't",
             "doesn't"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Don't es para I/you/we/they.",
+            "3ª persona: doesn't + verbo base."
+          ]
         },
         {
           "id": "b05-s1q3",
@@ -160,7 +168,11 @@
             "It",
             "(sin sujeto)"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En inglés el sujeto es obligatorio: It rains.",
+            "El inglés no admite omitir el sujeto."
+          ]
         },
         {
           "id": "b05-s1q4",
@@ -169,7 +181,11 @@
             "Works at the desk",
             "She works at the desk"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Falta el sujeto; en inglés no se puede omitir.",
+            "Sujeto explícito: She works…"
+          ]
         },
         {
           "id": "b05-s1q5",
@@ -178,7 +194,11 @@
             "rain",
             "rains"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con it el verbo lleva -s.",
+            "3ª persona: rains."
+          ]
         },
         {
           "id": "b05-s1q6",
@@ -187,7 +207,11 @@
             "is",
             "are"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Is es singular; two suites es plural.",
+            "There are + plural."
+          ]
         },
         {
           "id": "b05-s1q7",
@@ -196,7 +220,11 @@
             "doesn't like",
             "don't like"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "3ª persona negativa: doesn't + like.",
+            "Don't no va con he."
+          ]
         },
         {
           "id": "b05-s1q8",
@@ -205,7 +233,11 @@
             "arrived",
             "arrives"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado: arrived, igual para todas las personas.",
+            "Arrives es presente y singular; colleagues es plural."
+          ]
         }
       ],
       "produce": {
@@ -336,7 +368,11 @@
             "the reservation",
             "by phone"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "CD: lo que se confirma (the reservation).",
+            "By phone es complemento circunstancial de modo."
+          ]
         },
         {
           "id": "b05-s2q2",
@@ -345,7 +381,11 @@
             "she",
             "her"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "She es sujeto; como CD hace falta objeto.",
+            "Pronombre objeto: her."
+          ]
         },
         {
           "id": "b05-s2q3",
@@ -354,7 +394,11 @@
             "it",
             "them"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It sustituye a un singular (the contract).",
+            "Them es plural."
+          ]
         },
         {
           "id": "b05-s2q4",
@@ -363,7 +407,11 @@
             "the client",
             "quickly"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "CD: a quién llamó (the client).",
+            "Quickly es adverbio de modo."
+          ]
         },
         {
           "id": "b05-s2q5",
@@ -372,7 +420,11 @@
             "it",
             "her"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It sustituye a the suite (cosa).",
+            "Her es para una mujer."
+          ]
         },
         {
           "id": "b05-s2q6",
@@ -381,7 +433,11 @@
             "the report",
             "on time"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "CD: lo que terminamos (the report).",
+            "On time es circunstancial de tiempo."
+          ]
         },
         {
           "id": "b05-s2q7",
@@ -390,7 +446,11 @@
             "the contract",
             "at the office"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "CD: lo que firmó (the contract).",
+            "At the office es circunstancial de lugar."
+          ]
         },
         {
           "id": "b05-s2q8",
@@ -399,7 +459,11 @@
             "it",
             "them"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It sustituye a the room (singular).",
+            "Them es plural."
+          ]
         }
       ],
       "produce": {
@@ -530,7 +594,11 @@
             "to",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Explain + algo + to + persona.",
+            "«Explain for» no indica a quién se le explica."
+          ]
         },
         {
           "id": "b05-s3q2",
@@ -539,7 +607,11 @@
             "for",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For = para (beneficiario).",
+            "To indica destinatario de un envío; buy usa for."
+          ]
         },
         {
           "id": "b05-s3q3",
@@ -548,7 +620,11 @@
             "I gave my manager the report",
             "I gave the report my manager"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sin preposición: persona primero, cosa después.",
+            "Si la cosa va primero, hace falta to."
+          ]
         },
         {
           "id": "b05-s3q4",
@@ -557,7 +633,11 @@
             "the client",
             "yesterday"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "CI: a quién envió el email.",
+            "Yesterday es tiempo, no CI."
+          ]
         },
         {
           "id": "b05-s3q5",
@@ -566,7 +646,11 @@
             "to the client",
             "the client to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "CI con preposición al final: to the client.",
+            "El orden no es correcto: to va delante."
+          ]
         },
         {
           "id": "b05-s3q6",
@@ -575,7 +659,11 @@
             "for his wife",
             "his wife for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For + persona: for his wife.",
+            "For va delante, no detrás."
+          ]
         },
         {
           "id": "b05-s3q7",
@@ -584,7 +672,11 @@
             "me",
             "to me the"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pronombre CI sin preposición: send me.",
+            "«To me the» mezcla las dos estructuras."
+          ]
         },
         {
           "id": "b05-s3q8",
@@ -593,7 +685,11 @@
             "the guests",
             "for the guests to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "CI sin preposición delante del CD.",
+            "Sobran for y to."
+          ]
         }
       ],
       "produce": {
@@ -724,7 +820,11 @@
             "politely at the meeting this morning",
             "this morning at the meeting politely"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Modo → lugar → tiempo.",
+            "El orden natural es modo, lugar, tiempo."
+          ]
         },
         {
           "id": "b05-s4q2",
@@ -733,7 +833,11 @@
             "calmly",
             "to the complaint"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Calmly = cómo respondió (modo).",
+            "To the complaint es el complemento del verbo."
+          ]
         },
         {
           "id": "b05-s4q3",
@@ -742,7 +846,11 @@
             "by Friday",
             "the report"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "By Friday = cuándo (tiempo).",
+            "The report es el CD."
+          ]
         },
         {
           "id": "b05-s4q4",
@@ -751,7 +859,11 @@
             "the client",
             "this morning"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "The client es el CD, no prescindible.",
+            "This morning es CC de tiempo: se puede quitar."
+          ]
         },
         {
           "id": "b05-s4q5",
@@ -760,7 +872,11 @@
             "She works carefully at the desk every day",
             "She works every day at the desk carefully"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Modo → lugar → tiempo.",
+            "Orden poco natural."
+          ]
         },
         {
           "id": "b05-s4q6",
@@ -769,7 +885,11 @@
             "because of the traffic",
             "the traffic"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Because of + sustantivo: causa.",
+            "Sin because of no expresa causa."
+          ]
         },
         {
           "id": "b05-s4q7",
@@ -778,7 +898,11 @@
             "very professionally",
             "the complaint"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Very professionally = cómo (modo).",
+            "The complaint sería CD, no modo."
+          ]
         },
         {
           "id": "b05-s4q8",
@@ -787,7 +911,11 @@
             "on the terrace",
             "the guests"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On the terrace = dónde.",
+            "The guests no es un lugar."
+          ]
         }
       ],
       "produce": {
@@ -918,7 +1046,11 @@
             "satisfied",
             "satisfy"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras seem va adjetivo (satisfied).",
+            "Satisfy es verbo."
+          ]
         },
         {
           "id": "b05-s5q2",
@@ -927,7 +1059,11 @@
             "employee",
             "employ"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sustantivo que describe al CD.",
+            "Employ es verbo."
+          ]
         },
         {
           "id": "b05-s5q3",
@@ -936,7 +1072,11 @@
             "perfect",
             "perfectly"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Tras look (parecer) va adjetivo.",
+            "Perfectly es adverbio; look aquí es copulativo."
+          ]
         },
         {
           "id": "b05-s5q4",
@@ -945,7 +1085,11 @@
             "tired",
             "the desk"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Adjetivo que describe al sujeto.",
+            "The desk no describe a la persona."
+          ]
         },
         {
           "id": "b05-s5q5",
@@ -954,7 +1098,11 @@
             "president",
             "quickly"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "President describe al CD (him).",
+            "Quickly es adverbio, no predicativo."
+          ]
         },
         {
           "id": "b05-s5q6",
@@ -963,7 +1111,11 @@
             "tastes",
             "eats"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Taste = saber (copulativo).",
+            "Eat = comer; no encaja con delicious."
+          ]
         },
         {
           "id": "b05-s5q7",
@@ -972,7 +1124,11 @@
             "became",
             "sold"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Become = llegar a ser.",
+            "Sell no es copulativo."
+          ]
         },
         {
           "id": "b05-s5q8",
@@ -981,7 +1137,11 @@
             "excellent",
             "at the office"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Excellent describe al CD (this deal).",
+            "At the office es lugar."
+          ]
         }
       ],
       "produce": {
@@ -1092,7 +1252,11 @@
             "Do",
             "Are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Have es verbo principal: Do you have…?",
+            "Are no forma pregunta con have."
+          ]
         },
         {
           "id": "b05-s6q2",
@@ -1101,7 +1265,11 @@
             "do",
             "are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Work necesita do en la pregunta.",
+            "Are + work no es correcto."
+          ]
         },
         {
           "id": "b05-s6q3",
@@ -1110,7 +1278,11 @@
             "Who did",
             "Who"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con who sujeto no se usa did.",
+            "Who sujeto: Who called?"
+          ]
         },
         {
           "id": "b05-s6q4",
@@ -1119,7 +1291,11 @@
             "Where you are from?",
             "Where are you from?"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Orden de pregunta: verbo antes del sujeto.",
+            "Are you from?: be antes del sujeto."
+          ]
         },
         {
           "id": "b05-s6q5",
@@ -1128,7 +1304,11 @@
             "Did",
             "Do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado: Did you enjoy…?",
+            "Do es presente."
+          ]
         },
         {
           "id": "b05-s6q6",
@@ -1137,7 +1317,11 @@
             "Are you ready?",
             "Do you be ready?"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Be no usa do: Are you ready?",
+            "«Do you be» es incorrecto."
+          ]
         },
         {
           "id": "b05-s6q7",
@@ -1146,7 +1330,11 @@
             "did happen",
             "happened"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "What sujeto: sin did.",
+            "What happened…?: el verbo va en pasado sin auxiliar."
+          ]
         }
       ],
       "produce": {
@@ -1257,7 +1445,11 @@
             "don't",
             "doesn't"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Don't no va con she.",
+            "3ª persona: doesn't."
+          ]
         },
         {
           "id": "b05-s7q2",
@@ -1266,7 +1458,11 @@
             "didn't",
             "don't"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pasado negativo: didn't.",
+            "Don't es presente."
+          ]
         },
         {
           "id": "b05-s7q3",
@@ -1275,7 +1471,11 @@
             "likes",
             "like"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras doesn't el verbo va en base, sin -s.",
+            "Base: like."
+          ]
         },
         {
           "id": "b05-s7q4",
@@ -1284,7 +1484,11 @@
             "isn't",
             "doesn't"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Be se niega con not: isn't.",
+            "Be no usa do."
+          ]
         },
         {
           "id": "b05-s7q5",
@@ -1293,7 +1497,11 @@
             "nothing",
             "anything"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Doble negación: don't + nothing.",
+            "Con verbo negativo: anything."
+          ]
         },
         {
           "id": "b05-s7q6",
@@ -1302,7 +1510,11 @@
             "can't",
             "don't can"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Modal + not: can't.",
+            "Los modales no usan do."
+          ]
         },
         {
           "id": "b05-s7q7",
@@ -1311,7 +1523,11 @@
             "didn't",
             "haven't"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Today (periodo no terminado) pide presente perfecto.",
+            "Presente perfecto negativo: haven't seen."
+          ]
         }
       ],
       "produce": {
@@ -1422,7 +1638,11 @@
             "don't you",
             "do you"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Afirmativa → coletilla negativa con do.",
+            "Coletilla afirmativa tras afirmativa no es la regla."
+          ]
         },
         {
           "id": "b05-s8q2",
@@ -1431,7 +1651,11 @@
             "is it",
             "isn't it"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Afirmativa necesita coletilla negativa.",
+            "Is → isn't it."
+          ]
         },
         {
           "id": "b05-s8q3",
@@ -1440,7 +1664,11 @@
             "didn't she",
             "did she"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Negativa → coletilla afirmativa.",
+            "Did she: afirmativa tras negativa."
+          ]
         },
         {
           "id": "b05-s8q4",
@@ -1449,7 +1677,11 @@
             "can't you",
             "don't you"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Modal en la coletilla: can't you.",
+            "Can no usa do."
+          ]
         },
         {
           "id": "b05-s8q5",
@@ -1458,7 +1690,11 @@
             "hasn't he",
             "has he"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Negativa → coletilla afirmativa.",
+            "Has he."
+          ]
         },
         {
           "id": "b05-s8q6",
@@ -1467,7 +1703,11 @@
             "shall we",
             "don't we"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Let's → shall we.",
+            "«Don't we» no se usa con let's."
+          ]
         },
         {
           "id": "b05-s8q7",
@@ -1476,7 +1716,11 @@
             "aren't they",
             "are they"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Afirmativa → negativa: aren't they.",
+            "Are they repetiría la afirmación."
+          ]
         }
       ],
       "produce": {
@@ -1587,7 +1831,11 @@
             "You sign",
             "Please sign"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«You sign» suena a orden seca.",
+            "Please + imperativo = cortés."
+          ]
         },
         {
           "id": "b05-s9q2",
@@ -1596,7 +1844,11 @@
             "Don't",
             "Not"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Imperativo negativo: Don't.",
+            "«Not worry» no es imperativo."
+          ]
         },
         {
           "id": "b05-s9q3",
@@ -1605,7 +1857,11 @@
             "Let's",
             "Let us to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Let's + base.",
+            "Let us no lleva to."
+          ]
         },
         {
           "id": "b05-s9q4",
@@ -1614,7 +1870,11 @@
             "Let me",
             "Let me to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Let me + base.",
+            "Let no va con to."
+          ]
         },
         {
           "id": "b05-s9q5",
@@ -1623,7 +1883,11 @@
             "upgrade",
             "upgrading"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "How about + -ing.",
+            "Tras how about va -ing."
+          ]
         },
         {
           "id": "b05-s9q6",
@@ -1632,7 +1896,11 @@
             "offering",
             "offer"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras why don't we va base.",
+            "Why don't we + base: offer."
+          ]
         },
         {
           "id": "b05-s9q7",
@@ -1641,7 +1909,11 @@
             "Shall",
             "Do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Shall we…? sugerencia.",
+            "«Do we start now?» pregunta por un hecho, no sugiere."
+          ]
         }
       ],
       "produce": {
@@ -1752,7 +2024,11 @@
             "Turn off it",
             "Turn it off"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con pronombre, va en medio: turn it off.",
+            "El pronombre va entre verbo y partícula."
+          ]
         },
         {
           "id": "b05-s10q2",
@@ -1761,7 +2037,11 @@
             "Fill in the form",
             "Fill the form in — ambas valen"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Fill in the form es válida.",
+            "Correcto: las dos son válidas, así que esta opción es la buena."
+          ]
         },
         {
           "id": "b05-s10q3",
@@ -1770,7 +2050,11 @@
             "it",
             "off it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pronombre en medio: sort it out.",
+            "«Off it» no es la partícula."
+          ]
         },
         {
           "id": "b05-s10q4",
@@ -1779,7 +2063,11 @@
             "your bags",
             "your bags after"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Look after + objeto (inseparable).",
+            "After no va al final."
+          ]
         },
         {
           "id": "b05-s10q5",
@@ -1788,7 +2076,11 @@
             "down it",
             "it"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "El pronombre no va al final.",
+            "Write it down."
+          ]
         },
         {
           "id": "b05-s10q6",
@@ -1797,7 +2089,11 @@
             "into",
             "the matter into"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Look into = investigar (inseparable).",
+            "Inseparable: into va antes del objeto."
+          ]
         },
         {
           "id": "b05-s10q7",
@@ -1806,7 +2102,11 @@
             "it",
             "off it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Call it off.",
+            "«Off it» invierte el orden."
+          ]
         }
       ],
       "produce": {

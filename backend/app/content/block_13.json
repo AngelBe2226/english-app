@@ -195,7 +195,11 @@
             "do",
             "make"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Do a decision» no se usa.",
+            "Make a decision = tomar una decisión."
+          ]
         },
         {
           "id": "b13-s1q2",
@@ -204,7 +208,11 @@
             "have",
             "make"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Have a party = hacer una fiesta.",
+            "«Make a party» es un calco del español."
+          ]
         },
         {
           "id": "b13-s1q3",
@@ -213,7 +221,11 @@
             "highly",
             "strongly"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Highly likely = muy probable.",
+            "Strongly no va con likely."
+          ]
         },
         {
           "id": "b13-s1q4",
@@ -222,7 +234,11 @@
             "make",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Make a decision.",
+            "«Do a decision» no se usa."
+          ]
         },
         {
           "id": "b13-s1q5",
@@ -231,7 +247,11 @@
             "make",
             "do"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Make business» no se usa.",
+            "Do business with = hacer negocios con."
+          ]
         },
         {
           "id": "b13-s1q6",
@@ -240,7 +260,11 @@
             "meet",
             "arrive"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Meet a deadline = cumplir un plazo.",
+            "«Arrive the deadline» no se usa."
+          ]
         },
         {
           "id": "b13-s1q7",
@@ -249,7 +273,11 @@
             "takes",
             "makes"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Take responsibility = asumir la responsabilidad.",
+            "«Make responsibility» no se usa."
+          ]
         },
         {
           "id": "b13-s1q8",
@@ -258,7 +286,11 @@
             "pay",
             "give"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pay attention = prestar atención.",
+            "«Give attention» es posible pero no es la colocación fija."
+          ]
         }
       ],
       "produce": {
@@ -487,7 +519,11 @@
             "actually",
             "currently"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Actually = en realidad (falso amigo).",
+            "Currently = actualmente."
+          ]
         },
         {
           "id": "b13-s2q2",
@@ -496,7 +532,11 @@
             "assist",
             "attend"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Assist = ayudar (falso amigo).",
+            "Attend = asistir a."
+          ]
         },
         {
           "id": "b13-s2q3",
@@ -505,7 +545,11 @@
             "realize the project",
             "carry out the project"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Realize = darse cuenta (falso amigo).",
+            "Carry out = llevar a cabo."
+          ]
         },
         {
           "id": "b13-s2q4",
@@ -514,7 +558,11 @@
             "real, efectivo",
             "actual, de ahora"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Actual = real.",
+            "Actual (de ahora) es current."
+          ]
         },
         {
           "id": "b13-s2q5",
@@ -523,7 +571,11 @@
             "librería (tienda)",
             "biblioteca"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Librería = bookshop.",
+            "Library = biblioteca."
+          ]
         },
         {
           "id": "b13-s2q6",
@@ -532,7 +584,11 @@
             "tela",
             "fábrica"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Fabric = tela.",
+            "Fábrica = factory."
+          ]
         },
         {
           "id": "b13-s2q7",
@@ -541,7 +597,11 @@
             "aviso",
             "consejo"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Aviso = notice o warning.",
+            "Advice = consejo."
+          ]
         },
         {
           "id": "b13-s2q8",
@@ -550,7 +610,11 @@
             "éxito",
             "salida"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Éxito = success.",
+            "Exit = salida."
+          ]
         }
       ],
       "produce": {
@@ -762,7 +826,11 @@
             "upselling",
             "cross-selling"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Upselling = vender algo superior.",
+            "Cross-selling = vender algo complementario."
+          ]
         },
         {
           "id": "b13-s3q2",
@@ -771,7 +839,11 @@
             "upselling",
             "cross-selling"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Upselling es mejorar la categoría.",
+            "Cross-selling = producto complementario."
+          ]
         },
         {
           "id": "b13-s3q3",
@@ -780,7 +852,11 @@
             "closing a sale",
             "booking a sale"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Closing a sale = cerrar una venta.",
+            "«Booking a sale» no se usa."
+          ]
         },
         {
           "id": "b13-s3q4",
@@ -789,7 +865,11 @@
             "tasa de ocupación",
             "tarifa por hora"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Occupancy rate = tasa de ocupación.",
+            "Tarifa por hora es hourly rate."
+          ]
         },
         {
           "id": "b13-s3q5",
@@ -798,7 +878,11 @@
             "servicios/comodidades",
             "quejas"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Amenities = servicios del hotel.",
+            "Quejas = complaints."
+          ]
         },
         {
           "id": "b13-s3q6",
@@ -807,7 +891,11 @@
             "un cliente que repite",
             "una reserva doble"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Repeat guest = cliente que repite.",
+            "Reserva doble = double booking."
+          ]
         },
         {
           "id": "b13-s3q7",
@@ -816,7 +904,11 @@
             "temporada baja",
             "temporada alta"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Temporada baja = low season.",
+            "Peak season = temporada alta."
+          ]
         },
         {
           "id": "b13-s3q8",
@@ -825,7 +917,11 @@
             "sin reserva",
             "VIP"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Walk-in = sin reserva.",
+            "VIP es otra cosa."
+          ]
         }
       ],
       "produce": {
@@ -1037,7 +1133,11 @@
             "deed",
             "lease"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Deed = escritura.",
+            "Lease = contrato de alquiler."
+          ]
         },
         {
           "id": "b13-s4q2",
@@ -1046,7 +1146,11 @@
             "tenant",
             "landlord"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tenant = inquilino.",
+            "Landlord = casero."
+          ]
         },
         {
           "id": "b13-s4q3",
@@ -1055,7 +1159,11 @@
             "comparable sale",
             "valuation"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Comparable sale = venta comparable.",
+            "Valuation = tasación."
+          ]
         },
         {
           "id": "b13-s4q4",
@@ -1064,7 +1172,11 @@
             "hipoteca",
             "alquiler"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Mortgage = hipoteca.",
+            "Alquiler = rent."
+          ]
         },
         {
           "id": "b13-s4q5",
@@ -1073,7 +1185,11 @@
             "el inquilino",
             "el casero"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Inquilino = tenant.",
+            "Landlord = casero."
+          ]
         },
         {
           "id": "b13-s4q6",
@@ -1082,7 +1198,11 @@
             "entrada / pago inicial",
             "cuota mensual"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Down payment = entrada.",
+            "Cuota mensual = monthly payment."
+          ]
         },
         {
           "id": "b13-s4q7",
@@ -1091,7 +1211,11 @@
             "agente inmobiliario",
             "tasador"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Estate agent = agente inmobiliario.",
+            "Tasador = valuer o surveyor."
+          ]
         },
         {
           "id": "b13-s4q8",
@@ -1100,7 +1224,11 @@
             "rentabilidad",
             "hipoteca"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Yield = rentabilidad.",
+            "Hipoteca = mortgage."
+          ]
         }
       ],
       "produce": {
@@ -1232,7 +1360,11 @@
             "make",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Make = crear o producir.",
+            "Do es para tareas."
+          ]
         },
         {
           "id": "b13-s5q2",
@@ -1241,7 +1373,11 @@
             "make",
             "do"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Make your best» no se usa.",
+            "Do your best = esforzarse."
+          ]
         },
         {
           "id": "b13-s5q3",
@@ -1250,7 +1386,11 @@
             "take",
             "have"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Take a break = tomarse un descanso.",
+            "Have a break también existe, pero la colocación pedida es take."
+          ]
         },
         {
           "id": "b13-s5q4",
@@ -1259,7 +1399,11 @@
             "do",
             "have"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Do a meeting» no se usa.",
+            "Have a meeting."
+          ]
         },
         {
           "id": "b13-s5q5",
@@ -1268,7 +1412,11 @@
             "get",
             "make"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Get ready = prepararse.",
+            "«Make ready» no es natural."
+          ]
         },
         {
           "id": "b13-s5q6",
@@ -1277,7 +1425,11 @@
             "make",
             "do"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Make no va con paperwork.",
+            "Do the paperwork."
+          ]
         },
         {
           "id": "b13-s5q7",
@@ -1286,7 +1438,11 @@
             "take",
             "do"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Take notes = tomar notas.",
+            "«Do notes» no se usa."
+          ]
         }
       ],
       "produce": {
@@ -1449,7 +1605,11 @@
             "uncomfortable",
             "discomfortable"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Un- + comfortable.",
+            "«Discomfortable» no existe."
+          ]
         },
         {
           "id": "b13-s6q2",
@@ -1458,7 +1618,11 @@
             "unpossible",
             "impossible"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Unpossible» no existe.",
+            "Im- delante de p: impossible."
+          ]
         },
         {
           "id": "b13-s6q3",
@@ -1467,7 +1631,11 @@
             "kindness",
             "kindity"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Kind + -ness.",
+            "«Kindity» no existe."
+          ]
         },
         {
           "id": "b13-s6q4",
@@ -1476,7 +1644,11 @@
             "useful",
             "useless"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Useful = útil.",
+            "-less = sin: useless."
+          ]
         },
         {
           "id": "b13-s6q5",
@@ -1485,7 +1657,11 @@
             "payment",
             "payness"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pay + -ment.",
+            "«Payness» no existe."
+          ]
         },
         {
           "id": "b13-s6q6",
@@ -1494,7 +1670,11 @@
             "disunderstand",
             "misunderstand"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Disunderstand» no existe.",
+            "Mis- = mal: misunderstand."
+          ]
         },
         {
           "id": "b13-s6q7",
@@ -1503,7 +1683,11 @@
             "reliable",
             "reliful"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "-able = que se puede: reliable.",
+            "«Reliful» no existe."
+          ]
         }
       ],
       "produce": {
@@ -1663,7 +1847,11 @@
             "ingresos",
             "gastos"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Revenue = ingresos.",
+            "Gastos = expenses."
+          ]
         },
         {
           "id": "b13-s7q2",
@@ -1672,7 +1860,11 @@
             "recortar costes",
             "subir precios"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Cut costs = recortar costes.",
+            "Subir precios = raise prices."
+          ]
         },
         {
           "id": "b13-s7q3",
@@ -1681,7 +1873,11 @@
             "lo esencial / el resultado final",
             "la última línea del texto"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "The bottom line = lo esencial.",
+            "No es literal."
+          ]
         },
         {
           "id": "b13-s7q4",
@@ -1690,7 +1886,11 @@
             "cubrir gastos (ni pérdida ni ganancia)",
             "quebrar"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Break even = cubrir gastos.",
+            "Quebrar = go bankrupt."
+          ]
         },
         {
           "id": "b13-s7q5",
@@ -1699,7 +1899,11 @@
             "facturación",
             "rotación de personal solamente"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Turnover = facturación.",
+            "Rotación de personal es solo otro sentido."
+          ]
         },
         {
           "id": "b13-s7q6",
@@ -1708,7 +1912,11 @@
             "gastos fijos/generales",
             "ingresos extra"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Overheads = gastos generales.",
+            "Es lo contrario."
+          ]
         },
         {
           "id": "b13-s7q7",
@@ -1717,7 +1925,11 @@
             "previsión",
             "factura"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Forecast = previsión.",
+            "Factura = invoice."
+          ]
         }
       ],
       "produce": {
@@ -1880,7 +2092,11 @@
             "affect",
             "effect"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Affect = verbo (afectar).",
+            "Effect es sobre todo sustantivo."
+          ]
         },
         {
           "id": "b13-s8q2",
@@ -1889,7 +2105,11 @@
             "it's",
             "its"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "It's = it is.",
+            "Its = su (posesivo)."
+          ]
         },
         {
           "id": "b13-s8q3",
@@ -1898,7 +2118,11 @@
             "loose",
             "lose"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Loose = suelto.",
+            "Lose = perder."
+          ]
         },
         {
           "id": "b13-s8q4",
@@ -1907,7 +2131,11 @@
             "advice",
             "advise"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Advice = sustantivo.",
+            "Advise es el verbo."
+          ]
         },
         {
           "id": "b13-s8q5",
@@ -1916,7 +2144,11 @@
             "quiet",
             "quite"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Quiet = tranquilo.",
+            "Quite = bastante."
+          ]
         },
         {
           "id": "b13-s8q6",
@@ -1925,7 +2157,11 @@
             "accept",
             "except"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Accept = aceptar.",
+            "Except = excepto."
+          ]
         },
         {
           "id": "b13-s8q7",
@@ -1934,7 +2170,11 @@
             "Their",
             "They're"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Their = su (de ellos).",
+            "They're = they are."
+          ]
         }
       ],
       "produce": {
