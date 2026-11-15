@@ -1,5 +1,7 @@
 import { Fragment, useMemo, useState } from "react";
 import { CAMBRIDGE, partMeta, matchesAny } from "../data/cambridge";
+import { displayOrder } from "../order";
+import { Explanations } from "../components/Quiz";
 
 const LEVELS = ["B2", "C1"];
 
@@ -53,6 +55,8 @@ export default function CambridgeExam() {
     return matchesAny(resp[i], g.answers);
   }
 
+  const gapSeed = (i) => `${level}-${partIndex}-${i}`;
+
   // ---- render de un hueco dentro del texto (partes 1–3) ----
   function renderGap(i) {
     const g = task.gaps[i];
@@ -70,9 +74,9 @@ export default function CambridgeExam() {
             onChange={(e) => setAnswer(i, e.target.value === "" ? undefined : Number(e.target.value))}
           >
             <option value="">—</option>
-            {g.options.map((opt, oi) => (
+            {displayOrder(gapSeed(i), g.options.length).map((oi, pos) => (
               <option key={oi} value={oi}>
-                {String.fromCharCode(65 + oi)}. {opt}
+                {String.fromCharCode(65 + pos)}. {g.options[oi]}
               </option>
             ))}
           </select>
@@ -213,6 +217,8 @@ export default function CambridgeExam() {
         {score}
       </div>
 
+      {checked && <ExamExplanations task={task} resp={resp} gapSeed={gapSeed} isGapCorrect={isGapCorrect} />}
+
       {checked && task.type === "transformations" && (
         <p className="exam-note">
           Las transformaciones admiten varias formulaciones válidas: compara tu respuesta con la modelo.
@@ -220,5 +226,42 @@ export default function CambridgeExam() {
         </p>
       )}
     </div>
+  );
+}
+
+// Tras corregir: por qué es cada respuesta. En la parte 1 se explica cada
+// opción; en las partes 2–4 (respuesta escrita), la solución y su porqué.
+function ExamExplanations({ task, resp, gapSeed, isGapCorrect }) {
+  const gaps = task.type === "transformations" ? task.items : task.gaps;
+  if (!gaps.some((g) => g.explain || g.why)) return null;
+  return (
+    <section className="exam-why">
+      <h3>Explicaciones</h3>
+      <ol className="exam-why-list">
+        {gaps.map((g, i) => (
+          <li key={i} className={isGapCorrect(i, g) ? "pq-right" : "pq-wrong"}>
+            {task.type === "mcq-cloze" ? (
+              g.explain && (
+                <Explanations
+                  options={g.options}
+                  explain={g.explain}
+                  order={displayOrder(gapSeed(i), g.options.length)}
+                  correct={g.correctIndex}
+                  chosen={resp[i]}
+                />
+              )
+            ) : (
+              <p className="why why-ok">
+                <span className="why-mark" aria-hidden="true">✓</span>
+                <span>
+                  <b className="why-opt">{task.type === "transformations" ? g.model : g.answers.join(" / ")}</b>{" "}
+                  {resp[i] && !isGapCorrect(i, g) && <span className="why-tag">tú: {resp[i]}</span>} {g.why}
+                </span>
+              </p>
+            )}
+          </li>
+        ))}
+      </ol>
+    </section>
   );
 }

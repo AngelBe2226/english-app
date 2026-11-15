@@ -1,0 +1,201 @@
+# Verbos irregulares del inglés.
+# verbo|significado|pasado,participio[,gerundio]|complemento de ejemplo|marcas
+# Marcas: t = transitivo (tiene voz pasiva) · s = de estado (casi nunca en continuo)
+arise|surgir, presentarse|arose,arisen|when problems appear|
+awake|despertarse|awoke,awoken|early|
+be|ser, estar|was,been|ready|s
+bear|soportar; dar a luz|bore,borne|the pressure|t
+beat|vencer, ganar a; batir|beat,beaten|the competition|t
+become|llegar a ser, convertirse en|became,become|a manager|
+befall|acontecer, sucederle a alguien|befell,befallen|the village|t
+begin|empezar, comenzar|began,begun|the tour|t
+behold|contemplar|beheld,beheld|the view|t
+bend|doblar, inclinarse|bent,bent|the rules|t
+beset|acosar|beset,beset|the team|t
+bet|apostar|bet/betted,bet/betted|ten euros|t
+bid|pujar, ofrecer|bid,bid|for the contract|
+bind|atar, obligar|bound,bound|the parties|t
+bite|morder|bit,bitten|the apple|t
+bleed|sangrar|bled,bled|a little|
+blow|soplar|blew,blown|the candles out|t
+break|romper|broke,broken|the glass|t
+breed|criar|bred,bred|horses|t
+bring|traer|brought,brought|the menu|t
+broadcast|emitir, retransmitir|broadcast,broadcast|the match|t
+build|construir|built,built|a new wing|t
+burn|quemar|burnt/burned,burnt/burned|the toast|t
+burst|reventar, estallar|burst,burst|into tears|
+buy|comprar|bought,bought|the tickets|t
+cast|lanzar; dar un papel|cast,cast|a shadow|t
+catch|atrapar, coger (un tren, un resfriado)|caught,caught|the train|t
+choose|elegir|chose,chosen|the room|t
+cling|aferrarse|clung,clung|to the rope|
+come|venir|came,come|to the hotel|
+cost|costar|cost,cost|fifty euros|s
+creep|arrastrarse, avanzar sigilosamente|crept,crept|into the room|
+cut|cortar|cut,cut|the cake|t
+deal|tratar, ocuparse (deal with); repartir|dealt,dealt|with the complaint|
+dig|cavar|dug,dug|a hole|t
+dive|bucear, zambullirse|dived/dove,dived|into the pool|
+do|hacer|did,done|the paperwork|t
+draw|dibujar; sacar|drew,drawn|a map|t
+dream|soñar|dreamt/dreamed,dreamt/dreamed|about the beach|
+drink|beber|drank,drunk|a coffee|t
+drive|conducir|drove,driven|the van|t
+dwell|residir; darle vueltas (dwell on)|dwelt/dwelled,dwelt/dwelled|on the past|
+eat|comer|ate,eaten|dinner|t
+fall|caer|fell,fallen|asleep|
+feed|alimentar, dar de comer|fed,fed|the cat|t
+feel|sentir|felt,felt|better|s
+fight|pelear, luchar|fought,fought|for the deal|
+find|encontrar|found,found|the keys|t
+flee|huir|fled,fled|from the fire|
+fling|arrojar|flung,flung|the door open|t
+fly|volar|flew,flown|to London|
+forbid|prohibir|forbade,forbidden|smoking|t
+forecast|pronosticar|forecast,forecast|rain|t
+foresee|prever|foresaw,foreseen|the problem|t
+foretell|predecir|foretold,foretold|the future|t
+forget|olvidar|forgot,forgotten|the password|t
+forgive|perdonar|forgave,forgiven|the mistake|t
+forsake|abandonar|forsook,forsaken|their friends|t
+freeze|congelar(se)|froze,frozen|the meat|t
+get|conseguir, obtener; llegar; ponerse|got,got/gotten|the keys|t
+give|dar|gave,given|a discount|t
+go|ir|went,gone|to the airport|
+grind|moler|ground,ground|the coffee|t
+grow|crecer; cultivar|grew,grown|quickly|
+hang|colgar|hung,hung|the coat|t
+have|tener; tomar (comida)|had,had|a meeting|
+hear|oír|heard,heard|the alarm|t
+hide|esconder(se)|hid,hidden|the keys|t
+hit|golpear; alcanzar|hit,hit|the target|t
+hold|sostener; celebrar (una reunión)|held,held|the meeting|t
+hurt|herir, doler|hurt,hurt|his back|t
+input|introducir (datos)|input,input|the data|t
+keep|guardar, mantener; seguir|kept,kept|the receipt|t
+kneel|arrodillarse|knelt/kneeled,knelt/kneeled|on the floor|
+knit|tejer|knitted/knit,knitted/knit|a scarf|t
+know|saber, conocer|knew,known|the answer|ts
+lay|poner, colocar; poner la mesa|laid,laid|the table|t
+lead|guiar, dirigir|led,led|the team|t
+lean|apoyarse, inclinarse|leant/leaned,leant/leaned|on the wall|
+leap|saltar|leapt/leaped,leapt/leaped|over the fence|
+learn|aprender|learnt/learned,learnt/learned|English|t
+leave|irse, salir; dejar|left,left|the hotel|t
+lend|prestar|lent,lent|some money|t
+let|dejar, permitir|let,let|the guests in|t
+lie|tumbarse; estar situado|lay,lain|on the beach|
+light|encender|lit/lighted,lit/lighted|the fire|t
+lose|perder|lost,lost|the keys|t
+make|hacer, fabricar|made,made|a reservation|t
+mean|significar; querer decir|meant,meant|a lot|ts
+meet|conocer (a alguien); reunirse, quedar|met,met|the client|t
+mislay|extraviar|mislaid,mislaid|the file|t
+mislead|engañar, inducir a error|misled,misled|the buyers|t
+mistake|confundir|mistook,mistaken|him for the manager|t
+misunderstand|malinterpretar|misunderstood,misunderstood|the question|t
+mow|cortar (el césped)|mowed,mown/mowed|the lawn|t
+outdo|superar|outdid,outdone|the competition|t
+overcome|superar|overcame,overcome|the problem|t
+overdo|exagerar, pasarse|overdid,overdone|the salt|t
+overhear|oír por casualidad|overheard,overheard|the conversation|t
+oversee|supervisar|oversaw,overseen|the project|t
+oversleep|quedarse dormido|overslept,overslept|this morning|
+overtake|adelantar|overtook,overtaken|the bus|t
+overthrow|derrocar|overthrew,overthrown|the government|t
+pay|pagar|paid,paid|the bill|t
+plead|suplicar; declararse|pleaded/pled,pleaded/pled|guilty|
+prove|demostrar|proved,proved/proven|the point|t
+put|poner|put,put|the bags in the room|t
+quit|dejar, abandonar|quit,quit|the job|t
+read|leer|read,read|the contract|t
+rebuild|reconstruir|rebuilt,rebuilt|the terrace|t
+redo|rehacer|redid,redone|the report|t
+repay|devolver (dinero)|repaid,repaid|the loan|t
+reset|restablecer, reiniciar|reset,reset|the password|t
+retell|volver a contar|retold,retold|the story|t
+rewrite|reescribir|rewrote,rewritten|the email|t
+rid|librar (get rid of)|rid,rid|the house of pests|t
+ride|montar (en bici, a caballo)|rode,ridden|a bike|t
+ring|sonar; llamar por teléfono|rang,rung|the bell|t
+rise|subir, elevarse|rose,risen|every year|
+run|correr; dirigir (un negocio)|ran,run|the hotel|t
+saw|serrar|sawed,sawn/sawed|the wood|t
+say|decir|said,said|hello|t
+see|ver|saw,seen|the sea|ts
+seek|buscar|sought,sought|advice|t
+sell|vender|sold,sold|the flat|t
+send|enviar|sent,sent|the invoice|t
+set|poner, fijar; ponerse (el sol)|set,set|the table|t
+sew|coser|sewed,sewn/sewed|a button|t
+shake|agitar; estrechar (la mano)|shook,shaken|hands|t
+shed|despojarse de, perder|shed,shed|some weight|t
+shine|brillar|shone,shone|brightly|
+shoot|disparar; rodar (una película)|shot,shot|a video|t
+show|mostrar, enseñar|showed,shown|the room|t
+shrink|encoger|shrank,shrunk|in the wash|
+shut|cerrar|shut,shut|the door|t
+sing|cantar|sang,sung|a song|t
+sink|hundir(se)|sank,sunk|slowly|
+sit|sentarse|sat,sat|by the window|
+sleep|dormir|slept,slept|well|
+slide|deslizar(se)|slid,slid|down the hill|
+sling|lanzar, colgar|slung,slung|the bag over his shoulder|t
+slit|rajar|slit,slit|the envelope|t
+smell|oler|smelt/smelled,smelt/smelled|the coffee|ts
+sow|sembrar|sowed,sown|the seeds|t
+speak|hablar|spoke,spoken|English|t
+speed|ir a toda velocidad|sped/speeded,sped/speeded|down the road|
+spell|deletrear|spelt/spelled,spelt/spelled|the surname|t
+spend|gastar; pasar (tiempo)|spent,spent|the weekend here|t
+spill|derramar|spilt/spilled,spilt/spilled|the coffee|t
+spin|girar|spun,spun|the wheel|t
+spit|escupir|spat,spat|on the floor|
+split|dividir, partir|split,split|the bill|t
+spoil|estropear; mimar|spoilt/spoiled,spoilt/spoiled|the surprise|t
+spread|extender, difundir|spread,spread|the news|t
+spring|saltar, brotar|sprang,sprung|into action|
+stand|estar de pie; soportar|stood,stood|in the queue|
+steal|robar|stole,stolen|the wallet|t
+stick|pegar; atascarse|stuck,stuck|the label on the box|t
+sting|picar|stung,stung|his arm|t
+stink|apestar|stank,stunk|of smoke|
+stride|andar a zancadas|strode,stridden|into the office|
+strike|golpear; declararse en huelga|struck,struck|a deal|t
+string|ensartar|strung,strung|the lights|t
+strive|esforzarse|strove,striven|for excellence|
+swear|jurar; decir palabrotas|swore,sworn|to tell the truth|
+sweep|barrer|swept,swept|the floor|t
+swell|hincharse|swelled,swollen/swelled|after the fall|
+swim|nadar|swam,swum|in the pool|
+swing|columpiar(se), balancear|swung,swung|the door open|t
+take|tomar, coger; llevar|took,taken|a taxi|t
+teach|enseñar|taught,taught|English|t
+tear|rasgar, romper|tore,torn|the paper|t
+tell|decir, contar|told,told|the truth|t
+think|pensar, creer|thought,thought|about the offer|
+throw|lanzar, tirar|threw,thrown|the ball|t
+thrust|empujar con fuerza|thrust,thrust|the door open|t
+tread|pisar|trod,trodden|on the grass|
+undergo|someterse a, experimentar|underwent,undergone|a renovation|t
+underpay|pagar de menos|underpaid,underpaid|the staff|t
+understand|entender|understood,understood|the question|ts
+undertake|emprender|undertook,undertaken|the project|t
+underwrite|asegurar, suscribir|underwrote,underwritten|the policy|t
+undo|deshacer|undid,undone|the changes|t
+unwind|relajarse; desenrollar|unwound,unwound|after work|
+uphold|mantener, defender|upheld,upheld|the decision|t
+upset|disgustar, molestar|upset,upset|the guest|t
+wake|despertar(se)|woke,woken|up early|
+wear|llevar puesto|wore,worn|a uniform|t
+weave|tejer|wove,woven|a basket|t
+weep|llorar|wept,wept|quietly|
+wet|mojar|wet/wetted,wet/wetted|the towel|t
+win|ganar|won,won|the award|t
+wind|enrollar; dar cuerda|wound,wound|the clock|t
+withdraw|retirar; sacar (dinero)|withdrew,withdrawn|the money|t
+withhold|retener, ocultar|withheld,withheld|the information|t
+withstand|resistir|withstood,withstood|the storm|t
+wring|escurrir|wrung,wrung|the towel|t
+write|escribir|wrote,written|an email|t

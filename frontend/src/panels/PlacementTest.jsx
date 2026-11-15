@@ -2,6 +2,8 @@ import { useMemo, useState } from "react";
 import { QUESTIONS, BANDS, ROUTES, scorePlacement } from "../data/placement";
 import { useProgress } from "../progress";
 import { K_PLACEMENT } from "../keys";
+import { displayOrder } from "../order";
+import { Explanations } from "../components/Quiz";
 
 function parse(raw) {
   try {
@@ -88,7 +90,10 @@ export default function PlacementTest({ index, onSelectBlock, onGoToSection }) {
         </header>
 
         {shown ? (
-          <ResultCard shown={shown} titleOf={titleOf} onSelectBlock={onSelectBlock} onGoToSection={onGoToSection} />
+          <>
+            <ResultCard shown={shown} titleOf={titleOf} onSelectBlock={onSelectBlock} onGoToSection={onGoToSection} />
+            {result && <Review answers={answers} />}
+          </>
         ) : (
           <div className="placement-cta">
             <p>¿Listo? El test tarda unos 5 minutos.</p>
@@ -128,13 +133,13 @@ export default function PlacementTest({ index, onSelectBlock, onGoToSection }) {
                 <span className="pq-n">{i + 1}.</span> {qq.q}
               </p>
               <div className="pq-opts">
-                {qq.options.map((opt, oi) => (
+                {displayOrder(qq.id, qq.options.length).map((oi) => (
                   <button
                     key={oi}
                     className={"pq-opt" + (answers[qq.id] === oi ? " chosen" : "")}
                     onClick={() => choose(qq.id, oi)}
                   >
-                    {opt}
+                    {qq.options[oi]}
                   </button>
                 ))}
               </div>
@@ -207,5 +212,36 @@ function ResultCard({ shown, titleOf, onSelectBlock, onGoToSection }) {
         </p>
       </div>
     </div>
+  );
+}
+
+// Revisión del test recién hecho: cada pregunta con tu respuesta y la
+// explicación breve de cada opción. Los fallos van abiertos por defecto.
+function Review({ answers }) {
+  const wrong = QUESTIONS.filter((q) => answers[q.id] !== q.correctIndex).length;
+  return (
+    <details className="placement-review" open={wrong > 0}>
+      <summary>
+        Revisa tus respuestas · {wrong ? `${wrong} ${wrong === 1 ? "fallo" : "fallos"}` : "todo correcto"}
+      </summary>
+      <ol className="pq-list">
+        {QUESTIONS.map((q) => (
+          <li key={q.id} className={"pq pq-review" + (answers[q.id] === q.correctIndex ? " pq-right" : " pq-wrong")}>
+            <p className="pq-q">
+              <span className="pq-band-chip">{q.band}</span> {q.q}
+            </p>
+            {q.explain && (
+              <Explanations
+                options={q.options}
+                explain={q.explain}
+                order={displayOrder(q.id, q.options.length)}
+                correct={q.correctIndex}
+                chosen={answers[q.id]}
+              />
+            )}
+          </li>
+        ))}
+      </ol>
+    </details>
   );
 }

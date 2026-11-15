@@ -1,0 +1,808 @@
+# Verbos regulares (pasado y participio en -ed).
+# verbo|significado||complemento de ejemplo|marcas
+# Marcas: t = transitivo (voz pasiva) · s = de estado · d = dobla la consonante final (prefer → preferred)
+accelerate|acelerar||the process|t
+accept|aceptar||the offer|t
+access|acceder a||the account|t
+accommodate|alojar; adaptarse a||twenty guests|t
+accompany|acompañar||the guests|t
+accomplish|lograr, realizar||the goal|t
+accuse|acusar||the supplier|t
+achieve|lograr, conseguir||the target|t
+acknowledge|reconocer; acusar recibo de||the email|t
+acquire|adquirir||the company|t
+act|actuar||quickly|
+adapt|adaptar(se)||the menu|t
+add|añadir, sumar||some salt|t
+address|dirigirse a; abordar (un problema)||the issue|t
+adjust|ajustar||the price|t
+admire|admirar||the view|ts
+admit|admitir, reconocer||the mistake|td
+adopt|adoptar||a new policy|t
+advance|avanzar; adelantar||quickly|
+advertise|anunciar, hacer publicidad de||the flat|t
+advise|aconsejar||the guests|t
+affect|afectar||the price|t
+afford|permitirse (pagar)||a new car|ts
+agree|estar de acuerdo; acordar||with the client|
+aid|ayudar||the team|t
+aim|apuntar; tener como objetivo||high|
+alert|alertar, avisar||the staff|t
+allocate|asignar||the rooms|t
+allow|permitir||pets|t
+alter|modificar||the booking|t
+amaze|asombrar||the guests|t
+amend|enmendar, modificar||the contract|t
+analyse|analizar||the data|t
+announce|anunciar||the results|t
+annoy|molestar, fastidiar||the neighbours|t
+answer|responder, contestar||the phone|t
+anticipate|anticipar, prever||the guest's needs|t
+apologise|disculparse, pedir perdón||for the delay|
+appeal|apelar; atraer||to young buyers|
+appear|aparecer; parecer||on the screen|
+apply|solicitar (apply for); aplicar||for the job|
+appoint|nombrar, designar||a new manager|t
+appreciate|agradecer; apreciar||your help|ts
+approach|acercarse a; abordar||the guest|t
+approve|aprobar||the budget|t
+argue|discutir; sostener||about money|
+arrange|organizar, concertar||a viewing|t
+arrest|detener, arrestar||the thief|t
+arrive|llegar||at the hotel|
+ask|preguntar; pedir||a question|t
+assess|evaluar||the damage|t
+assign|asignar||the tasks|t
+assist|ayudar, asistir||the guests|t
+assume|suponer; asumir||the worst|t
+assure|asegurar, garantizar||the client|t
+attach|adjuntar; sujetar||the file|t
+attack|atacar||the problem|t
+attempt|intentar||a new approach|t
+attend|asistir a||the meeting|t
+attract|atraer||new clients|t
+avoid|evitar||the traffic|t
+award|otorgar, conceder||a prize|t
+bake|hornear||a cake|t
+balance|equilibrar||the budget|t
+ban|prohibir||smoking|t
+bang|golpear con fuerza||the door|t
+base|basar||the price on the market|t
+bathe|bañar(se)||in the sea|
+battle|luchar||against the odds|
+beg|rogar, suplicar||for help|
+behave|comportarse||well|
+believe|creer||the story|ts
+belong|pertenecer||to the hotel|s
+benefit|beneficiar(se)||from the offer|
+bill|facturar||the client|t
+blame|culpar||the staff|t
+bless|bendecir||the couple|t
+block|bloquear||the entrance|t
+board|embarcar||the plane|t
+boast|presumir; contar con||about the view|
+boil|hervir||the water|t
+book|reservar||a table|t
+boost|impulsar, aumentar||sales|t
+bore|aburrir||the audience|t
+borrow|pedir prestado||a pen|t
+bother|molestar; preocuparse||the guests|t
+bounce|rebotar||off the wall|
+brainstorm|hacer una lluvia de ideas||new ideas|t
+breathe|respirar||deeply|
+brief|informar (en una reunión breve)||the team|t
+browse|echar un vistazo, navegar||the menu|t
+brush|cepillar||your teeth|t
+budget|presupuestar||for the trip|
+bump|chocar, toparse||into an old friend|
+burst|reventar||into laughter|
+bury|enterrar||the treasure|t
+bustle|bullir, ajetrearse||with tourists|
+button|abrochar||the coat|t
+calculate|calcular||the total|t
+call|llamar||the client|t
+calm|calmar||the guest|t
+camp|acampar||by the lake|
+cancel|cancelar||the booking|t
+capture|capturar||the moment|t
+care|importar; cuidar (care for)||about the details|
+carry|llevar, cargar||the luggage|t
+cater|ofrecer catering; atender (cater for)||for vegetarians|
+cause|causar||a delay|t
+celebrate|celebrar||the anniversary|t
+challenge|desafiar, cuestionar||the decision|t
+change|cambiar||the sheets|t
+charge|cobrar; cargar (una batería)||a fee|t
+chase|perseguir||the payment|t
+chat|charlar||with the guests|
+cheat|hacer trampa, engañar||in the exam|
+check|comprobar, revisar; registrar||the booking|t
+cheer|animar, aclamar||the team|t
+chill|enfriar; relajarse (chill out)||the wine|t
+chip|desportillar||the plate|t
+chop|picar, trocear||the onions|t
+claim|reclamar; afirmar||a refund|t
+clap|aplaudir||loudly|
+clarify|aclarar||the terms|t
+clash|chocar, coincidir (fechas)||with the conference|
+classify|clasificar||the files|t
+clean|limpiar||the room|t
+clear|despejar; aclarar||the table|t
+click|hacer clic||on the link|
+climb|subir, escalar||the stairs|t
+close|cerrar||the deal|t
+coach|entrenar, formar||the new staff|t
+collaborate|colaborar||with other teams|
+collapse|derrumbarse||after the storm|
+collect|recoger; coleccionar||the keys|t
+colour|colorear||the map|t
+combine|combinar||the two offers|t
+comfort|consolar||the child|t
+command|ordenar, mandar||the troops|t
+comment|comentar||on the report|
+commit|comprometerse; cometer||to the project|td
+communicate|comunicar||the changes|t
+commute|desplazarse al trabajo||by train|
+compare|comparar||the prices|t
+compel|obligar||the tenant to leave|td
+compensate|compensar||the guest|t
+compete|competir||with big chains|
+compile|recopilar||a list|t
+complain|quejarse||about the noise|
+complete|completar||the form|t
+complicate|complicar||the process|t
+compliment|felicitar, elogiar||the chef|t
+comply|cumplir (comply with)||with the rules|
+compose|componer||a reply|t
+concentrate|concentrarse||on the task|
+concern|preocupar; concernir||the manager|ts
+conclude|concluir||the meeting|t
+conduct|llevar a cabo, dirigir||a survey|t
+confer|conceder; deliberar||with the team|d
+confess|confesar||the truth|t
+confirm|confirmar||the booking|t
+confuse|confundir||the guests|t
+congratulate|felicitar||the team|t
+connect|conectar||the laptop|t
+consider|considerar||the offer|t
+consist|consistir (consist of)||of three parts|s
+consult|consultar||a lawyer|t
+consume|consumir||less energy|t
+contact|contactar con||the owner|t
+contain|contener||gluten|ts
+continue|continuar, seguir||the tour|t
+contribute|contribuir||to the project|
+control|controlar||the costs|t
+convert|convertir||the attic into a bedroom|t
+convince|convencer||the buyer|t
+cook|cocinar||dinner|t
+cool|enfriar||the drinks|t
+cooperate|cooperar||with the police|
+coordinate|coordinar||the event|t
+cope|arreglárselas (cope with)||with the pressure|
+copy|copiar||the document|t
+correct|corregir||the invoice|t
+cough|toser||all night|
+count|contar||the money|t
+cover|cubrir||the costs|t
+crack|agrietar(se); descifrar||the code|t
+crash|chocar; colgarse (un sistema)||into a wall|
+crawl|gatear, arrastrarse||slowly|
+create|crear||a new menu|t
+criticise|criticar||the service|t
+cross|cruzar||the street|t
+crowd|abarrotar, agolparse||the lobby|t
+cry|llorar||at the end|
+cure|curar||the illness|t
+customise|personalizar||the package|t
+cycle|ir en bici||to work|
+damage|dañar||the car|t
+dance|bailar||all night|
+dare|atreverse||to ask|
+date|fechar; salir con||the letter|t
+decide|decidir||quickly|
+declare|declarar||the income|t
+decline|rechazar (cortésmente); disminuir||the invitation|t
+decorate|decorar||the room|t
+decrease|disminuir||every year|
+dedicate|dedicar||time to the project|t
+defend|defender||the decision|t
+defer|aplazar||the payment|td
+define|definir||the goals|t
+delay|retrasar||the flight|t
+delegate|delegar||the task|t
+delete|borrar, eliminar||the file|t
+delight|encantar, deleitar||the guests|t
+deliver|entregar, repartir||the parcel|t
+demand|exigir||a refund|t
+demonstrate|demostrar||the product|t
+deny|negar||the charges|t
+depart|salir, partir||at nine|
+depend|depender||on the weather|s
+deposit|depositar, ingresar||the money|t
+describe|describir||the room|t
+deserve|merecer||a break|ts
+design|diseñar||the website|t
+desire|desear||success|ts
+destroy|destruir||the evidence|t
+detail|detallar||the costs|t
+detect|detectar||the fault|t
+determine|determinar||the price|t
+develop|desarrollar||a new product|t
+dial|marcar (un número)||the number|t
+die|morir||young|
+dine|cenar||in the restaurant|
+dip|bajar ligeramente; mojar||in the pool|
+direct|dirigir; indicar el camino||the guests|t
+disagree|no estar de acuerdo||with the plan|
+disappear|desaparecer||suddenly|
+disappoint|decepcionar||the guests|t
+discover|descubrir||the truth|t
+discuss|discutir, hablar de||the price|t
+dislike|no gustar||crowded beaches|ts
+dismiss|despedir; desestimar||the idea|t
+display|mostrar, exponer||the prices|t
+distribute|distribuir||the leaflets|t
+disturb|molestar||the guests|t
+divide|dividir||the bill|t
+double|doblar, duplicar||the price|t
+doubt|dudar||the results|ts
+download|descargar||the app|t
+downgrade|bajar de categoría||the room|t
+drag|arrastrar||the suitcase|t
+drain|escurrir; agotar||the pasta|t
+dress|vestir(se)||smartly|
+drop|dejar caer; bajar; dejar (a alguien)||the price|t
+dry|secar||the towels|t
+dump|tirar, verter||the rubbish|t
+earn|ganar (dinero)||a good salary|t
+ease|aliviar||the pain|t
+echo|resonar, repetir||the idea|t
+edit|editar||the text|t
+educate|educar||the public|t
+elect|elegir (por votación)||a new president|t
+email|enviar un email||the client|t
+embarrass|avergonzar||the guest|t
+embrace|abrazar; adoptar||the change|t
+emerge|surgir, salir||from the meeting|
+emphasise|enfatizar||the benefits|t
+employ|emplear||fifty people|t
+empty|vaciar||the minibar|t
+enable|permitir, posibilitar||online check-in|t
+encourage|animar, fomentar||the staff|t
+end|terminar||the call|t
+endorse|respaldar||the plan|t
+engage|captar; implicarse||the audience|t
+enhance|mejorar, realzar||the experience|t
+enjoy|disfrutar||the view|t
+enquire|preguntar, informarse||about prices|
+ensure|asegurar, garantizar||quality|t
+enter|entrar (en); introducir||the room|t
+entertain|entretener||the guests|t
+equip|equipar||the kitchen|td
+escape|escapar||from the city|
+escort|acompañar, escoltar||the guest to the room|t
+establish|establecer||a routine|t
+estimate|estimar, calcular||the cost|t
+evaluate|evaluar||the results|t
+evaluate|evaluar||the proposal|t
+examine|examinar||the contract|t
+exceed|superar, exceder||expectations|t
+exchange|cambiar, intercambiar||money|t
+excite|entusiasmar||the fans|t
+excuse|disculpar||the delay|t
+exist|existir||today|s
+exit|salir||the building|t
+expand|ampliar, expandir||the business|t
+expect|esperar (que algo ocurra)||a reply|t
+experience|experimentar, vivir||problems|t
+expire|caducar, vencer||next month|
+explain|explicar||the rules|t
+explore|explorar||the old town|t
+export|exportar||wine|t
+express|expresar||our thanks|t
+extend|ampliar, prolongar||the stay|t
+face|enfrentarse a; dar a||the problem|t
+fail|fallar, suspender||the exam|t
+fancy|apetecer||a coffee|ts
+fasten|abrochar||your seatbelt|t
+favour|favorecer||the local market|t
+fax|enviar por fax||the form|t
+fear|temer||the worst|ts
+feature|presentar, incluir||a pool|t
+figure|figurar; deducir (figure out)||it out|t
+file|archivar||the documents|t
+fill|llenar||the form in|t
+film|filmar||the event|t
+finalise|ultimar||the contract|t
+finance|financiar||the project|t
+finish|terminar||the report|t
+fire|despedir; disparar||the employee|t
+fit|caber; quedar bien (ropa)||in the car|t
+fix|arreglar, fijar||the boiler|t
+flash|destellar||on the screen|
+flood|inundar||the basement|t
+flow|fluir||smoothly|
+fold|doblar (ropa)||the towels|t
+follow|seguir||the instructions|t
+fool|engañar||the customers|t
+force|forzar, obligar||the door|t
+form|formar||a team|t
+found|fundar||the company|t
+frame|enmarcar||the photo|t
+frighten|asustar||the children|t
+frown|fruncir el ceño||at the bill|
+fry|freír||the fish|t
+fuel|alimentar, avivar||the debate|t
+function|funcionar||properly|
+fund|financiar||the project|t
+gain|ganar, obtener||experience|t
+gather|reunir(se)||information|t
+gaze|mirar fijamente||at the sea|
+generate|generar||new leads|t
+glance|echar un vistazo||at the menu|
+glow|brillar||in the dark|
+grab|agarrar; tomar algo rápido||a coffee|t
+graduate|graduarse||next year|
+grant|conceder||permission|t
+greet|saludar, recibir||the guests|t
+grill|asar a la parrilla||the fish|t
+grin|sonreír de oreja a oreja||at the news|
+guarantee|garantizar||the best price|t
+guard|vigilar||the entrance|t
+guess|adivinar, suponer||the answer|t
+guide|guiar||the group|t
+hand|dar, entregar||the keys over|t
+handle|manejar, gestionar||the complaint|t
+happen|ocurrir, pasar||every year|
+harm|dañar||the environment|t
+hate|odiar||waiting|ts
+head|dirigirse; encabezar||to the airport|
+heal|curar(se)||quickly|
+heat|calentar||the pool|t
+help|ayudar||the guests|t
+hesitate|dudar, vacilar||to call us|
+highlight|destacar, resaltar||the key points|t
+hike|hacer senderismo||in the mountains|
+hire|contratar; alquilar||a car|t
+hope|esperar (desear)||for good weather|
+host|acoger, ser anfitrión de||the event|t
+hug|abrazar||the children|t
+hum|tararear||a song|t
+hunt|cazar||for a bargain|
+hurry|darse prisa||to the station|
+identify|identificar||the problem|t
+ignore|ignorar||the complaint|t
+illustrate|ilustrar||the point|t
+imagine|imaginar||the view|ts
+imitate|imitar||the accent|t
+implement|implementar, poner en marcha||the plan|t
+imply|implicar, dar a entender||a criticism|t
+import|importar||cheese|t
+impress|impresionar||the client|t
+improve|mejorar||the service|t
+include|incluir||breakfast|ts
+increase|aumentar||the price|t
+indicate|indicar||the exit|t
+influence|influir en||the decision|t
+inform|informar||the guests|t
+injure|herir, lesionar||his leg|t
+inquire|preguntar, informarse||about the room|
+insist|insistir||on paying|
+inspect|inspeccionar||the property|t
+inspire|inspirar||the team|t
+install|instalar||the software|t
+instruct|dar instrucciones||the staff|t
+insult|insultar||the waiter|t
+insure|asegurar||the house|t
+intend|tener la intención||to stay|
+interest|interesar||the buyers|ts
+interrupt|interrumpir||the meeting|t
+interview|entrevistar||the candidates|t
+introduce|presentar; introducir||the new chef|t
+invent|inventar||an excuse|t
+invest|invertir||in property|
+investigate|investigar||the complaint|t
+invite|invitar||the clients|t
+invoice|facturar||the client|t
+involve|implicar, involucrar||the whole team|ts
+iron|planchar||the shirts|t
+issue|emitir, expedir||a refund|t
+join|unirse a||the team|t
+joke|bromear||about the weather|
+judge|juzgar||the contest|t
+jump|saltar||into the pool|
+justify|justificar||the price|t
+kick|patear||the ball|t
+kill|matar||time|t
+kiss|besar||the bride|t
+knock|llamar (a la puerta); golpear||on the door|
+label|etiquetar||the boxes|t
+land|aterrizar||on time|
+last|durar||two hours|
+laugh|reír(se)||at the joke|
+launch|lanzar||a new product|t
+lease|arrendar||the office|t
+legislate|legislar||on rentals|
+lick|lamer||the spoon|t
+lift|levantar||the box|t
+like|gustar||the room|ts
+limit|limitar||the number of guests|t
+line|alinear(se)||up|
+link|enlazar, relacionar||the two ideas|t
+list|enumerar, poner en venta||the property|t
+listen|escuchar||to the guest|
+live|vivir||in Madrid|
+load|cargar||the van|t
+locate|localizar; situar||the problem|t
+lock|cerrar con llave||the door|t
+log|registrar; iniciar sesión (log in)||in|
+long|anhelar||for a holiday|
+look|mirar; parecer||at the menu|
+love|encantar, querer||the view|ts
+lower|bajar||the price|t
+maintain|mantener||the garden|t
+manage|gestionar; arreglárselas||the team|t
+mark|marcar; corregir||the date|t
+market|comercializar||the property|t
+marry|casarse con||her partner|t
+match|coincidir con; combinar con||the description|t
+matter|importar||a lot|s
+measure|medir||the room|t
+melt|derretir(se)||in the sun|
+memorise|memorizar||the list|t
+mend|reparar||the fence|t
+mention|mencionar||the discount|t
+merge|fusionar||the two files|t
+milk|ordeñar||the cows|t
+mind|importar (would you mind); cuidar||the gap|ts
+miss|echar de menos; perder (un tren)||the train|t
+mix|mezclar||the ingredients|t
+modify|modificar||the booking|t
+monitor|supervisar, controlar||the results|t
+motivate|motivar||the team|t
+move|mover(se); mudarse||to Barcelona|
+multiply|multiplicar||the numbers|t
+murder|asesinar||the victim|t
+name|nombrar, llamar||the baby|t
+need|necesitar||help|ts
+negotiate|negociar||the price|t
+nod|asentir con la cabeza||politely|
+note|anotar; señalar||the details|t
+notice|notar, darse cuenta||the mistake|t
+notify|notificar||the guests|t
+object|objetar, oponerse||to the plan|
+obey|obedecer||the rules|t
+obtain|obtener||a permit|t
+occupy|ocupar||the room|t
+occur|ocurrir||every year|d
+offend|ofender||the guest|t
+offer|ofrecer||a discount|t
+omit|omitir||the details|td
+open|abrir||the door|t
+operate|operar, funcionar||the machine|t
+oppose|oponerse a||the plan|t
+opt|optar||for the cheaper room|
+order|pedir (comida); ordenar||the fish|t
+organise|organizar||the event|t
+overbook|sobrevender (reservas)||the hotel|t
+overcook|cocinar demasiado||the pasta|t
+overlook|dar a (vistas); pasar por alto||the sea|t
+owe|deber (dinero)||money|ts
+own|poseer||a flat|ts
+pack|hacer la maleta; empaquetar||the suitcase|t
+paint|pintar||the walls|t
+park|aparcar||the car|t
+participate|participar||in the event|
+pass|pasar; aprobar||the exam|t
+paste|pegar||the text|t
+pause|hacer una pausa||for a moment|
+peel|pelar||the potatoes|t
+perceive|percibir||the change|ts
+perform|actuar; rendir; realizar||well|t
+permit|permitir||pets|td
+persuade|persuadir||the client|t
+phone|telefonear||the hotel|t
+photocopy|fotocopiar||the passport|t
+photograph|fotografiar||the property|t
+pick|elegir; recoger (pick up)||a date|t
+pile|amontonar||the plates|t
+place|colocar; hacer (un pedido)||an order|t
+plan|planear||the trip|t
+plant|plantar||trees|t
+play|jugar; tocar (música)||tennis|t
+please|agradar, complacer||the guests|t
+plug|enchufar||the charger in|t
+point|señalar||at the map|
+polish|pulir, sacar brillo||the glasses|t
+pop|pasar un momento; reventar||in for a coffee|
+possess|poseer||a licence|ts
+post|publicar; enviar por correo||the photos|t
+postpone|aplazar||the meeting|t
+pour|servir (líquido); llover a cántaros||the wine|t
+practise|practicar||English|t
+praise|elogiar||the staff|t
+pray|rezar||for good weather|
+predict|predecir||the weather|t
+prefer|preferir||the sea view|tsd
+prepare|preparar||the room|t
+present|presentar||the proposal|t
+preserve|conservar||the building|t
+press|presionar, pulsar||the button|t
+pretend|fingir||to be busy|
+prevent|evitar, impedir||accidents|t
+price|poner precio||the flat|t
+print|imprimir||the invoice|t
+proceed|proceder, continuar||to the gate|
+process|procesar, tramitar||the payment|t
+produce|producir||wine|t
+profit|beneficiarse||from the sale|
+programme|programar||the system|t
+progress|progresar||quickly|
+promise|prometer||a quick reply|t
+promote|promocionar; ascender||the event|t
+prompt|provocar, incitar||a reaction|t
+pronounce|pronunciar||the word|t
+propose|proponer||a solution|t
+protect|proteger||the data|t
+protest|protestar||against the changes|
+provide|proporcionar||towels|t
+publish|publicar||the results|t
+pull|tirar (de)||the door|t
+pump|bombear||water|t
+punish|castigar||the culprit|t
+purchase|comprar, adquirir||the property|t
+push|empujar||the door|t
+qualify|clasificarse; tener derecho||for a discount|
+question|cuestionar, interrogar||the decision|t
+queue|hacer cola||at the desk|
+quote|citar; presupuestar||a price|t
+race|correr, competir||to the station|
+rain|llover||all day|
+raise|subir, aumentar; plantear||the price|t
+rank|clasificar||the hotels|t
+rate|valorar, puntuar||the service|t
+reach|alcanzar, llegar a||the target|t
+react|reaccionar||quickly|
+realise|darse cuenta||the mistake|ts
+rebook|volver a reservar||the flight|t
+recall|recordar; retirar||the details|ts
+receive|recibir||the payment|t
+recognise|reconocer||the guest|ts
+recommend|recomendar||the fish|t
+record|grabar; registrar||the call|t
+recover|recuperar(se)||quickly|
+recruit|contratar||new staff|t
+recycle|reciclar||the bottles|t
+redecorate|redecorar||the lobby|t
+reduce|reducir||the price|t
+refer|referirse; derivar||to the contract|d
+reflect|reflejar||the light|t
+refresh|refrescar||the page|t
+refund|reembolsar||the deposit|t
+refurbish|reformar||the rooms|t
+refuse|negarse; rechazar||the offer|t
+regard|considerar||the matter as closed|t
+register|registrar(se)||the guests|t
+regret|lamentar, arrepentirse de||the decision|td
+reject|rechazar||the offer|t
+rejuvenate|rejuvenecer||the skin|t
+relate|relacionar||the two events|t
+relax|relajarse||by the pool|
+release|liberar; publicar||the information|t
+rely|confiar, depender (rely on)||on the team|
+remain|permanecer, seguir||calm|
+remark|comentar||on the view|
+remember|recordar||the name|ts
+remind|recordar (a alguien)||the guest|t
+remove|quitar, retirar||the stain|t
+renew|renovar||the contract|t
+renovate|reformar||the kitchen|t
+rent|alquilar||a flat|t
+reopen|reabrir||the pool|t
+repair|reparar||the lift|t
+repeat|repetir||the question|t
+replace|sustituir||the bulb|t
+reply|responder||to the email|
+report|informar de, denunciar||the problem|t
+represent|representar||the company|t
+request|solicitar||a late check-out|t
+require|requerir||a deposit|ts
+rescue|rescatar||the swimmer|t
+research|investigar||the market|t
+reserve|reservar||a table|t
+resign|dimitir||from the job|
+resist|resistir||the temptation|t
+resolve|resolver||the issue|t
+respect|respetar||the rules|t
+respond|responder||quickly|
+rest|descansar||after the trip|
+restart|reiniciar||the router|t
+restore|restaurar||the building|t
+restrict|restringir||access|t
+result|resultar||in a delay|
+retire|jubilarse||next year|
+return|volver; devolver||the keys|t
+reveal|revelar||the secret|t
+review|revisar; reseñar||the contract|t
+revise|repasar; revisar||for the exam|t
+reward|recompensar||loyal guests|t
+rob|robar (a alguien)||the bank|t
+roll|rodar; enrollar||down the hill|
+rub|frotar||your eyes|t
+ruin|arruinar||the holiday|t
+rule|gobernar; dictaminar||the country|t
+rush|apresurarse||to the airport|
+sack|despedir||the waiter|t
+sail|navegar||to the island|
+satisfy|satisfacer||the guests|t
+save|ahorrar; guardar; salvar||money|t
+scan|escanear||the passport|t
+scare|asustar||the children|t
+schedule|programar||the meeting|t
+score|marcar, puntuar||a goal|t
+scratch|rascar, arañar||the car|t
+scream|gritar||loudly|
+scrub|restregar||the floor|t
+seal|sellar, cerrar||the deal|t
+search|buscar||the room|t
+seat|sentar, acomodar||the guests|t
+secure|asegurar, conseguir||the deal|t
+seem|parecer||tired|s
+select|seleccionar||the wine|t
+separate|separar||the rubbish|t
+serve|servir||dinner|t
+service|revisar (un vehículo)||the car|t
+settle|asentarse; liquidar (una cuenta)||the bill|t
+share|compartir||a room|t
+shave|afeitarse||every morning|
+shift|cambiar, desplazar||the focus|t
+shiver|tiritar||with cold|
+shock|impactar||the public|t
+shop|comprar, ir de compras||online|
+shorten|acortar||the meeting|t
+shout|gritar||at the staff|
+sigh|suspirar||deeply|
+sign|firmar||the contract|t
+signal|señalar, indicar||a change|t
+simplify|simplificar||the process|t
+skate|patinar||on the ice|
+ski|esquiar||in the Alps|
+skip|saltarse||breakfast|t
+slice|cortar en rodajas||the bread|t
+slip|resbalar||on the ice|
+slow|ralentizar||down|
+smash|romper en pedazos||the window|t
+smile|sonreír||at the guests|
+smoke|fumar||in the room|t
+snow|nevar||a lot|
+soak|empapar; poner en remojo||the beans|t
+soar|dispararse, subir mucho||every summer|
+solve|resolver||the problem|t
+sort|ordenar, clasificar||the files|t
+sound|sonar, parecer||great|s
+source|obtener, abastecerse de||local products|t
+specialise|especializarse||in seafood|
+spot|detectar, divisar||the error|t
+sprain|torcerse (un tobillo)||an ankle|t
+squeeze|exprimir, apretar||the lemon|t
+staff|dotar de personal||the bar|t
+stain|manchar||the carpet|t
+stamp|sellar||the passport|t
+star|protagonizar||in the film|
+stare|mirar fijamente||at the screen|
+start|empezar||the meeting|t
+state|declarar, afirmar||the facts|t
+stay|quedarse; alojarse||at the hotel|
+steam|cocer al vapor||the vegetables|t
+step|dar un paso, pisar||inside|
+stir|remover||the soup|t
+stock|tener en existencia||local wines|t
+stop|parar, dejar de||the car|t
+store|almacenar, guardar||the luggage|t
+streamline|agilizar||the process|t
+strengthen|fortalecer||the relationship|t
+stress|recalcar; estresar||the importance|t
+stretch|estirar(se)||after the run|
+stroll|pasear||along the beach|
+struggle|tener dificultades, luchar||with the language|
+study|estudiar||English|t
+submit|presentar, enviar||the report|td
+succeed|tener éxito||in business|
+suffer|sufrir||from back pain|
+suggest|sugerir||a restaurant|t
+suit|quedar bien; convenir||the guest|ts
+summarise|resumir||the meeting|t
+supervise|supervisar||the staff|t
+supply|suministrar||the hotel|t
+support|apoyar||the team|t
+suppose|suponer||so|ts
+surprise|sorprender||the guests|t
+surround|rodear||the house|t
+survey|encuestar; inspeccionar||the guests|t
+survive|sobrevivir||the winter|t
+suspect|sospechar||fraud|ts
+swallow|tragar||the pill|t
+swap|intercambiar||rooms|t
+swerve|dar un volantazo||to avoid the dog|
+switch|cambiar; encender/apagar (switch on/off)||the lights off|t
+talk|hablar||to the manager|
+tap|tocar ligeramente||on the screen|
+target|dirigirse a, apuntar a||young buyers|t
+taste|probar; saber a||the wine|t
+tease|tomar el pelo||his sister|t
+telephone|telefonear||the hotel|t
+tempt|tentar||the buyers|t
+tend|tender (tend to)||to be busy|
+terrify|aterrorizar||the guests|t
+test|probar, examinar||the alarm|t
+text|mandar un mensaje||the client|t
+thank|agradecer||the guests|t
+threaten|amenazar||to leave|t
+tick|marcar (con una señal)||the box|t
+tidy|ordenar||the room|t
+tie|atar||the ropes|t
+tighten|apretar, endurecer||the rules|t
+tip|dar propina||the waiter|t
+toast|tostar; brindar||the bread|t
+tolerate|tolerar||the noise|t
+top|superar; coronar||the list|t
+total|sumar||1,000 euros|t
+touch|tocar||the screen|t
+tour|recorrer||the city|t
+tow|remolcar||the car|t
+trace|rastrear||the parcel|t
+track|seguir, rastrear||the order|t
+trade|comerciar||with Asia|
+train|entrenar, formar||the staff|t
+transfer|transferir, trasladar||the money|td
+translate|traducir||the menu|t
+transport|transportar||the luggage|t
+travel|viajar||abroad|
+treat|tratar; invitar||the guests well|t
+trust|confiar en||the team|ts
+try|intentar; probar||the paella|t
+turn|girar; cumplir (años)||left|
+type|teclear||the letter|t
+unlock|abrir (con llave)||the door|t
+unpack|deshacer la maleta||the suitcase|t
+update|actualizar||the website|t
+upgrade|mejorar (de categoría)||the room|t
+upload|subir (archivos)||the photos|t
+upsell|vender un extra o algo superior||a suite|t
+urge|instar, recomendar encarecidamente||the guests|t
+use|usar||the gym|t
+vacuum|aspirar||the carpet|t
+value|valorar||your opinion|t
+vanish|desaparecer||without a trace|
+verify|verificar||the identity|t
+view|ver; visitar (un inmueble)||the property|t
+visit|visitar||the museum|t
+volunteer|ofrecerse (voluntario)||to help|
+vote|votar||for the plan|
+wag|menear||its tail|t
+wait|esperar||for the bus|
+waive|eximir de, renunciar a||the fee|t
+walk|caminar||to the beach|
+wander|deambular||around the old town|
+want|querer||a room|ts
+warm|calentar||the plates|t
+warn|advertir||the guests|t
+wash|lavar||the dishes|t
+waste|desperdiciar||time|t
+watch|mirar, ver||the match|t
+water|regar||the plants|t
+wave|saludar con la mano||goodbye|
+weigh|pesar||the luggage|ts
+welcome|dar la bienvenida||the guests|t
+whisper|susurrar||a secret|t
+wipe|limpiar (pasando un paño)||the table|t
+wish|desear||you luck|ts
+wonder|preguntarse||about the price|
+work|trabajar; funcionar||at the hotel|
+worry|preocuparse||about the cost|
+wrap|envolver||the gift|t
+yawn|bostezar||at the meeting|
+yell|gritar||at the staff|
+yield|rendir, producir; ceder||good results|t
+zoom|hacer zoom||in on the map|
