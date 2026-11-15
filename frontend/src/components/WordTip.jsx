@@ -88,19 +88,26 @@ export default function WordTipLayer() {
       if (e.key === "Escape") close();
     }
     const onScroll = () => close();
+    // En móvil la barra del navegador cambia la altura al hacer scroll: solo
+    // se cierra si cambia el ancho (giro de pantalla, ventana redimensionada).
+    let lastWidth = window.innerWidth;
+    const onResize = () => {
+      if (window.innerWidth !== lastWidth) close();
+      lastWidth = window.innerWidth;
+    };
     document.addEventListener("pointerover", onOver);
     document.addEventListener("pointerout", onOut);
     document.addEventListener("click", onClick);
     document.addEventListener("keydown", onKey);
     window.addEventListener("scroll", onScroll, { passive: true, capture: true });
-    window.addEventListener("resize", onScroll);
+    window.addEventListener("resize", onResize);
     return () => {
       document.removeEventListener("pointerover", onOver);
       document.removeEventListener("pointerout", onOut);
       document.removeEventListener("click", onClick);
       document.removeEventListener("keydown", onKey);
       window.removeEventListener("scroll", onScroll, { capture: true });
-      window.removeEventListener("resize", onScroll);
+      window.removeEventListener("resize", onResize);
     };
   }, [show, close, tip?.pinned]);
 

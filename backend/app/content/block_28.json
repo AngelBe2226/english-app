@@ -4,8 +4,14 @@
   "kicker": "Bloque 28 · Sintaxis · B1–C1",
   "intro": "Aprende a <b class=\"hl\">analizar la oración</b> en inglés: identificar el sujeto, el verbo y los complementos (CD, CI, CC, atributo) y ver cómo se combinan. Cada epígrafe trae frases para <b class=\"hl\">analizar interactivamente</b> — intenta marcarlas mentalmente y pulsa <i>analizar</i> para comprobar, con cada función en su color. Entender la estructura te ayuda a construir frases más largas y correctas.",
   "legend": [
-    { "label": "analizar", "desc": "revela la función de cada parte con color y etiqueta" },
-    { "label": "colores", "desc": "cada función sintáctica tiene su color" }
+    {
+      "label": "analizar",
+      "desc": "revela la función de cada parte con color y etiqueta"
+    },
+    {
+      "label": "colores",
+      "desc": "cada función sintáctica tiene su color"
+    }
   ],
   "sections": [
     {
@@ -16,18 +22,152 @@
       "analysis": {
         "title": "Encuentra el sujeto",
         "items": [
-          { "parts": [ { "t": "The receptionist", "fn": "subj" }, { "t": "greets", "fn": "verb" }, { "t": "every guest", "fn": "cd" }, { "t": ".", "fn": "" } ] },
-          { "parts": [ { "t": "It", "fn": "subj" }, { "t": "is raining", "fn": "verb" }, { "t": ".", "fn": "" } ], "note": "'It' es sujeto gramatical: obligatorio aunque no tenga significado propio." },
-          { "parts": [ { "t": "The guests in room 12", "fn": "subj" }, { "t": "have", "fn": "verb" }, { "t": "an early flight", "fn": "cd" }, { "t": ".", "fn": "" } ], "note": "El sujeto puede ser un grupo largo: todo 'The guests in room 12'." },
-          { "parts": [ { "t": "My colleague and I", "fn": "subj" }, { "t": "handle", "fn": "verb" }, { "t": "the VIP accounts", "fn": "cd" }, { "t": ".", "fn": "" } ] }
+          {
+            "parts": [
+              {
+                "t": "The receptionist",
+                "fn": "subj"
+              },
+              {
+                "t": "greets",
+                "fn": "verb"
+              },
+              {
+                "t": "every guest",
+                "fn": "cd"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "It",
+                "fn": "subj"
+              },
+              {
+                "t": "is raining",
+                "fn": "verb"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "'It' es sujeto gramatical: obligatorio aunque no tenga significado propio."
+          },
+          {
+            "parts": [
+              {
+                "t": "The guests in room 12",
+                "fn": "subj"
+              },
+              {
+                "t": "have",
+                "fn": "verb"
+              },
+              {
+                "t": "an early flight",
+                "fn": "cd"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "El sujeto puede ser un grupo largo: todo 'The guests in room 12'."
+          },
+          {
+            "parts": [
+              {
+                "t": "My colleague and I",
+                "fn": "subj"
+              },
+              {
+                "t": "handle",
+                "fn": "verb"
+              },
+              {
+                "t": "the VIP accounts",
+                "fn": "cd"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ]
+          }
         ]
       },
       "quiz": [
-        { "id": "b28-s1q1", "question": "1. In 'The receptionist greets every guest', the subject is…", "options": ["The receptionist", "every guest"], "correctIndex": 0 },
-        { "id": "b28-s1q2", "question": "2. In 'It is raining', 'It' is…", "options": ["the grammatical subject", "a direct object"], "correctIndex": 0 },
-        { "id": "b28-s1q3", "question": "3. The subject…", "options": ["can be a long noun phrase", "is always a single word"], "correctIndex": 0 },
-        { "id": "b28-s1q4", "question": "4. In English, the subject is…", "options": ["almost always obligatory", "usually omitted"], "correctIndex": 0 },
-        { "id": "b28-s1q5", "question": "5. The núcleo (core) of the predicate is…", "options": ["the verb", "the object"], "correctIndex": 0 }
+        {
+          "id": "b28-s1q1",
+          "question": "1. In 'The receptionist greets every guest', the subject is…",
+          "options": [
+            "The receptionist",
+            "every guest"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Quien realiza la acción: sujeto.",
+            "Every guest es el CD."
+          ]
+        },
+        {
+          "id": "b28-s1q2",
+          "question": "2. In 'It is raining', 'It' is…",
+          "options": [
+            "the grammatical subject",
+            "a direct object"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "It es sujeto gramatical (vacío).",
+            "No es objeto."
+          ]
+        },
+        {
+          "id": "b28-s1q3",
+          "question": "3. The subject…",
+          "options": [
+            "can be a long noun phrase",
+            "is always a single word"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Puede ser un sintagma largo.",
+            "No siempre es una palabra."
+          ]
+        },
+        {
+          "id": "b28-s1q4",
+          "question": "4. In English, the subject is…",
+          "options": [
+            "almost always obligatory",
+            "usually omitted"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Casi siempre obligatorio.",
+            "No se omite."
+          ]
+        },
+        {
+          "id": "b28-s1q5",
+          "question": "5. The núcleo (core) of the predicate is…",
+          "options": [
+            "the verb",
+            "the object"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "El núcleo del predicado es el verbo.",
+            "El objeto no es el núcleo."
+          ]
+        }
       ],
       "produce": {
         "id": "b28-s1",
@@ -48,18 +188,172 @@
       "analysis": {
         "title": "Distingue CD y CI",
         "items": [
-          { "parts": [ { "t": "The porter", "fn": "subj" }, { "t": "brought", "fn": "verb" }, { "t": "the guests", "fn": "ci" }, { "t": "their luggage", "fn": "cd" }, { "t": ".", "fn": "" } ], "note": "Sin 'to': CI (a quién) antes del CD (qué)." },
-          { "parts": [ { "t": "I", "fn": "subj" }, { "t": "sent", "fn": "verb" }, { "t": "the invoice", "fn": "cd" }, { "t": "to the company", "fn": "ci" }, { "t": ".", "fn": "" } ], "note": "Con 'to': el CD va primero y el CI detrás." },
-          { "parts": [ { "t": "She", "fn": "subj" }, { "t": "gave", "fn": "verb" }, { "t": "the guest", "fn": "ci" }, { "t": "a map", "fn": "cd" }, { "t": ".", "fn": "" } ] },
-          { "parts": [ { "t": "We", "fn": "subj" }, { "t": "offered", "fn": "verb" }, { "t": "them", "fn": "ci" }, { "t": "a discount", "fn": "cd" }, { "t": ".", "fn": "" } ] }
+          {
+            "parts": [
+              {
+                "t": "The porter",
+                "fn": "subj"
+              },
+              {
+                "t": "brought",
+                "fn": "verb"
+              },
+              {
+                "t": "the guests",
+                "fn": "ci"
+              },
+              {
+                "t": "their luggage",
+                "fn": "cd"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "Sin 'to': CI (a quién) antes del CD (qué)."
+          },
+          {
+            "parts": [
+              {
+                "t": "I",
+                "fn": "subj"
+              },
+              {
+                "t": "sent",
+                "fn": "verb"
+              },
+              {
+                "t": "the invoice",
+                "fn": "cd"
+              },
+              {
+                "t": "to the company",
+                "fn": "ci"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "Con 'to': el CD va primero y el CI detrás."
+          },
+          {
+            "parts": [
+              {
+                "t": "She",
+                "fn": "subj"
+              },
+              {
+                "t": "gave",
+                "fn": "verb"
+              },
+              {
+                "t": "the guest",
+                "fn": "ci"
+              },
+              {
+                "t": "a map",
+                "fn": "cd"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "We",
+                "fn": "subj"
+              },
+              {
+                "t": "offered",
+                "fn": "verb"
+              },
+              {
+                "t": "them",
+                "fn": "ci"
+              },
+              {
+                "t": "a discount",
+                "fn": "cd"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ]
+          }
         ]
       },
       "quiz": [
-        { "id": "b28-s2q1", "question": "1. In 'She gave the guest a map', 'a map' is the…", "options": ["direct object (CD)", "indirect object (CI)"], "correctIndex": 0 },
-        { "id": "b28-s2q2", "question": "2. In 'She gave the guest a map', 'the guest' is the…", "options": ["indirect object (CI)", "direct object (CD)"], "correctIndex": 0 },
-        { "id": "b28-s2q3", "question": "3. Without 'to', the usual order is…", "options": ["CI + CD (gave the guest a map)", "CD + CI (gave a map the guest)"], "correctIndex": 0 },
-        { "id": "b28-s2q4", "question": "4. 'I sent the invoice to the company' — 'to the company' is…", "options": ["the indirect object", "the subject"], "correctIndex": 0 },
-        { "id": "b28-s2q5", "question": "5. The CD answers the question…", "options": ["what? (¿qué?)", "where? (¿dónde?)"], "correctIndex": 0 }
+        {
+          "id": "b28-s2q1",
+          "question": "1. In 'She gave the guest a map', 'a map' is the…",
+          "options": [
+            "direct object (CD)",
+            "indirect object (CI)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Lo que se da: CD.",
+            "El CI es quien recibe."
+          ]
+        },
+        {
+          "id": "b28-s2q2",
+          "question": "2. In 'She gave the guest a map', 'the guest' is the…",
+          "options": [
+            "indirect object (CI)",
+            "direct object (CD)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Quien recibe: CI.",
+            "El CD es a map."
+          ]
+        },
+        {
+          "id": "b28-s2q3",
+          "question": "3. Without 'to', the usual order is…",
+          "options": [
+            "CI + CD (gave the guest a map)",
+            "CD + CI (gave a map the guest)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Sin to: CI + CD.",
+            "Ese orden necesita to."
+          ]
+        },
+        {
+          "id": "b28-s2q4",
+          "question": "4. 'I sent the invoice to the company' — 'to the company' is…",
+          "options": [
+            "the indirect object",
+            "the subject"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "To the company = CI.",
+            "No es el sujeto."
+          ]
+        },
+        {
+          "id": "b28-s2q5",
+          "question": "5. The CD answers the question…",
+          "options": [
+            "what? (¿qué?)",
+            "where? (¿dónde?)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "CD = ¿qué?",
+            "¿Dónde? es CC de lugar."
+          ]
+        }
       ],
       "produce": {
         "id": "b28-s2",
@@ -80,18 +374,169 @@
       "analysis": {
         "title": "Localiza los CC",
         "items": [
-          { "parts": [ { "t": "The shuttle", "fn": "subj" }, { "t": "leaves", "fn": "verb" }, { "t": "every hour", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "CC de frecuencia: 'every hour'." },
-          { "parts": [ { "t": "We", "fn": "subj" }, { "t": "will meet", "fn": "verb" }, { "t": "at the lobby", "fn": "cc" }, { "t": "at noon", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "Dos CC: lugar (at the lobby) y tiempo (at noon)." },
-          { "parts": [ { "t": "The chef", "fn": "subj" }, { "t": "prepared", "fn": "verb" }, { "t": "the dish", "fn": "cd" }, { "t": "with great care", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "'with great care' es CC de modo (¿cómo?)." },
-          { "parts": [ { "t": "He", "fn": "subj" }, { "t": "works", "fn": "verb" }, { "t": "here", "fn": "cc" }, { "t": "on weekends", "fn": "cc" }, { "t": ".", "fn": "" } ] }
+          {
+            "parts": [
+              {
+                "t": "The shuttle",
+                "fn": "subj"
+              },
+              {
+                "t": "leaves",
+                "fn": "verb"
+              },
+              {
+                "t": "every hour",
+                "fn": "cc"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "CC de frecuencia: 'every hour'."
+          },
+          {
+            "parts": [
+              {
+                "t": "We",
+                "fn": "subj"
+              },
+              {
+                "t": "will meet",
+                "fn": "verb"
+              },
+              {
+                "t": "at the lobby",
+                "fn": "cc"
+              },
+              {
+                "t": "at noon",
+                "fn": "cc"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "Dos CC: lugar (at the lobby) y tiempo (at noon)."
+          },
+          {
+            "parts": [
+              {
+                "t": "The chef",
+                "fn": "subj"
+              },
+              {
+                "t": "prepared",
+                "fn": "verb"
+              },
+              {
+                "t": "the dish",
+                "fn": "cd"
+              },
+              {
+                "t": "with great care",
+                "fn": "cc"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "'with great care' es CC de modo (¿cómo?)."
+          },
+          {
+            "parts": [
+              {
+                "t": "He",
+                "fn": "subj"
+              },
+              {
+                "t": "works",
+                "fn": "verb"
+              },
+              {
+                "t": "here",
+                "fn": "cc"
+              },
+              {
+                "t": "on weekends",
+                "fn": "cc"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ]
+          }
         ]
       },
       "quiz": [
-        { "id": "b28-s3q1", "question": "1. In 'The shuttle leaves every hour', 'every hour' is a…", "options": ["CC (circumstantial)", "CD (direct object)"], "correctIndex": 0 },
-        { "id": "b28-s3q2", "question": "2. 'with great care' is a CC of…", "options": ["manner (modo)", "time (tiempo)"], "correctIndex": 0 },
-        { "id": "b28-s3q3", "question": "3. A sentence can have…", "options": ["several CC", "only one CC"], "correctIndex": 0 },
-        { "id": "b28-s3q4", "question": "4. A CC is…", "options": ["not essential (can be removed)", "always essential"], "correctIndex": 0 },
-        { "id": "b28-s3q5", "question": "5. Which CC can move to the front of the sentence?", "options": ["time or place", "none ever"], "correctIndex": 0 }
+        {
+          "id": "b28-s3q1",
+          "question": "1. In 'The shuttle leaves every hour', 'every hour' is a…",
+          "options": [
+            "CC (circumstantial)",
+            "CD (direct object)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Every hour = CC de tiempo.",
+            "No es CD."
+          ]
+        },
+        {
+          "id": "b28-s3q2",
+          "question": "2. 'with great care' is a CC of…",
+          "options": [
+            "manner (modo)",
+            "time (tiempo)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "CC de modo.",
+            "No es tiempo."
+          ]
+        },
+        {
+          "id": "b28-s3q3",
+          "question": "3. A sentence can have…",
+          "options": [
+            "several CC",
+            "only one CC"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Puede haber varios.",
+            "No solo uno."
+          ]
+        },
+        {
+          "id": "b28-s3q4",
+          "question": "4. A CC is…",
+          "options": [
+            "not essential (can be removed)",
+            "always essential"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Prescindible.",
+            "No es esencial."
+          ]
+        },
+        {
+          "id": "b28-s3q5",
+          "question": "5. Which CC can move to the front of the sentence?",
+          "options": [
+            "time or place",
+            "none ever"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Tiempo o lugar.",
+            "Sí pueden moverse."
+          ]
+        }
       ],
       "produce": {
         "id": "b28-s3",
@@ -112,18 +557,156 @@
       "analysis": {
         "title": "Identifica el atributo",
         "items": [
-          { "parts": [ { "t": "The room", "fn": "subj" }, { "t": "is", "fn": "verb" }, { "t": "very spacious", "fn": "attr" }, { "t": ".", "fn": "" } ] },
-          { "parts": [ { "t": "The soup", "fn": "subj" }, { "t": "tastes", "fn": "verb" }, { "t": "delicious", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "'taste' aquí es copulativo: 'tastes delicious' = 'is delicious' en sabor." },
-          { "parts": [ { "t": "Our guests", "fn": "subj" }, { "t": "seem", "fn": "verb" }, { "t": "happy", "fn": "attr" }, { "t": ".", "fn": "" } ] },
-          { "parts": [ { "t": "She", "fn": "subj" }, { "t": "became", "fn": "verb" }, { "t": "the new manager", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "El atributo puede ser un grupo nominal: 'the new manager'." }
+          {
+            "parts": [
+              {
+                "t": "The room",
+                "fn": "subj"
+              },
+              {
+                "t": "is",
+                "fn": "verb"
+              },
+              {
+                "t": "very spacious",
+                "fn": "attr"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "The soup",
+                "fn": "subj"
+              },
+              {
+                "t": "tastes",
+                "fn": "verb"
+              },
+              {
+                "t": "delicious",
+                "fn": "attr"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "'taste' aquí es copulativo: 'tastes delicious' = 'is delicious' en sabor."
+          },
+          {
+            "parts": [
+              {
+                "t": "Our guests",
+                "fn": "subj"
+              },
+              {
+                "t": "seem",
+                "fn": "verb"
+              },
+              {
+                "t": "happy",
+                "fn": "attr"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ]
+          },
+          {
+            "parts": [
+              {
+                "t": "She",
+                "fn": "subj"
+              },
+              {
+                "t": "became",
+                "fn": "verb"
+              },
+              {
+                "t": "the new manager",
+                "fn": "attr"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "El atributo puede ser un grupo nominal: 'the new manager'."
+          }
         ]
       },
       "quiz": [
-        { "id": "b28-s4q1", "question": "1. In 'The room is spacious', 'spacious' is…", "options": ["an attribute (atributo)", "a direct object"], "correctIndex": 0 },
-        { "id": "b28-s4q2", "question": "2. Copular verbs include…", "options": ["be, seem, look, become", "give, send, bring"], "correctIndex": 0 },
-        { "id": "b28-s4q3", "question": "3. In 'The soup tastes delicious', 'tastes' is…", "options": ["a copular verb (+ attribute)", "a transitive verb (+ CD)"], "correctIndex": 0 },
-        { "id": "b28-s4q4", "question": "4. An attribute describes…", "options": ["the subject", "the place"], "correctIndex": 0 },
-        { "id": "b28-s4q5", "question": "5. Trick to spot a copular verb:", "options": ["you can replace it with 'be'", "it always takes 'to'"], "correctIndex": 0 }
+        {
+          "id": "b28-s4q1",
+          "question": "1. In 'The room is spacious', 'spacious' is…",
+          "options": [
+            "an attribute (atributo)",
+            "a direct object"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Atributo tras be.",
+            "No es CD."
+          ]
+        },
+        {
+          "id": "b28-s4q2",
+          "question": "2. Copular verbs include…",
+          "options": [
+            "be, seem, look, become",
+            "give, send, bring"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Verbos copulativos.",
+            "Esos son transitivos."
+          ]
+        },
+        {
+          "id": "b28-s4q3",
+          "question": "3. In 'The soup tastes delicious', 'tastes' is…",
+          "options": [
+            "a copular verb (+ attribute)",
+            "a transitive verb (+ CD)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Copulativo + atributo.",
+            "No lleva CD."
+          ]
+        },
+        {
+          "id": "b28-s4q4",
+          "question": "4. An attribute describes…",
+          "options": [
+            "the subject",
+            "the place"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Describe al sujeto.",
+            "No al lugar."
+          ]
+        },
+        {
+          "id": "b28-s4q5",
+          "question": "5. Trick to spot a copular verb:",
+          "options": [
+            "you can replace it with 'be'",
+            "it always takes 'to'"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Se puede sustituir por be.",
+            "No lleva siempre to."
+          ]
+        }
       ],
       "produce": {
         "id": "b28-s4",
@@ -144,17 +727,177 @@
       "analysis": {
         "title": "Separa las oraciones y el nexo",
         "items": [
-          { "parts": [ { "t": "I", "fn": "subj" }, { "t": "called", "fn": "verb" }, { "t": "reception", "fn": "cd" }, { "t": "but", "fn": "conj" }, { "t": "nobody", "fn": "subj" }, { "t": "answered", "fn": "verb" }, { "t": ".", "fn": "" } ], "note": "'but' coordina dos oraciones; cada una con su propio sujeto y verbo." },
-          { "parts": [ { "t": "We", "fn": "subj" }, { "t": "upgraded", "fn": "verb" }, { "t": "the couple", "fn": "cd" }, { "t": "because", "fn": "conj" }, { "t": "it", "fn": "subj" }, { "t": "was", "fn": "verb" }, { "t": "their anniversary", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "'because' introduce una subordinada causal (depende de la principal)." },
-          { "parts": [ { "t": "She", "fn": "subj" }, { "t": "said", "fn": "verb" }, { "t": "that", "fn": "conj" }, { "t": "the room", "fn": "subj" }, { "t": "was", "fn": "verb" }, { "t": "ready", "fn": "attr" }, { "t": ".", "fn": "" } ], "note": "'that' introduce una subordinada que funciona como CD de 'said'." }
+          {
+            "parts": [
+              {
+                "t": "I",
+                "fn": "subj"
+              },
+              {
+                "t": "called",
+                "fn": "verb"
+              },
+              {
+                "t": "reception",
+                "fn": "cd"
+              },
+              {
+                "t": "but",
+                "fn": "conj"
+              },
+              {
+                "t": "nobody",
+                "fn": "subj"
+              },
+              {
+                "t": "answered",
+                "fn": "verb"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "'but' coordina dos oraciones; cada una con su propio sujeto y verbo."
+          },
+          {
+            "parts": [
+              {
+                "t": "We",
+                "fn": "subj"
+              },
+              {
+                "t": "upgraded",
+                "fn": "verb"
+              },
+              {
+                "t": "the couple",
+                "fn": "cd"
+              },
+              {
+                "t": "because",
+                "fn": "conj"
+              },
+              {
+                "t": "it",
+                "fn": "subj"
+              },
+              {
+                "t": "was",
+                "fn": "verb"
+              },
+              {
+                "t": "their anniversary",
+                "fn": "attr"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "'because' introduce una subordinada causal (depende de la principal)."
+          },
+          {
+            "parts": [
+              {
+                "t": "She",
+                "fn": "subj"
+              },
+              {
+                "t": "said",
+                "fn": "verb"
+              },
+              {
+                "t": "that",
+                "fn": "conj"
+              },
+              {
+                "t": "the room",
+                "fn": "subj"
+              },
+              {
+                "t": "was",
+                "fn": "verb"
+              },
+              {
+                "t": "ready",
+                "fn": "attr"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "'that' introduce una subordinada que funciona como CD de 'said'."
+          }
         ]
       },
       "quiz": [
-        { "id": "b28-s5q1", "question": "1. 'and, but, or, so' are…", "options": ["coordinating conjunctions", "subordinating conjunctions"], "correctIndex": 0 },
-        { "id": "b28-s5q2", "question": "2. 'because, although, when, if' introduce…", "options": ["subordinate clauses", "independent main clauses"], "correctIndex": 0 },
-        { "id": "b28-s5q3", "question": "3. In 'I called but nobody answered', how many clauses are there?", "options": ["two", "one"], "correctIndex": 0 },
-        { "id": "b28-s5q4", "question": "4. In coordination, each clause…", "options": ["keeps its own subject and verb", "shares one single verb"], "correctIndex": 0 },
-        { "id": "b28-s5q5", "question": "5. A subordinate clause…", "options": ["depends on the main clause", "stands fully on its own"], "correctIndex": 0 }
+        {
+          "id": "b28-s5q1",
+          "question": "1. 'and, but, or, so' are…",
+          "options": [
+            "coordinating conjunctions",
+            "subordinating conjunctions"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Coordinantes.",
+            "No son subordinantes."
+          ]
+        },
+        {
+          "id": "b28-s5q2",
+          "question": "2. 'because, although, when, if' introduce…",
+          "options": [
+            "subordinate clauses",
+            "independent main clauses"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Subordinadas.",
+            "No son principales."
+          ]
+        },
+        {
+          "id": "b28-s5q3",
+          "question": "3. In 'I called but nobody answered', how many clauses are there?",
+          "options": [
+            "two",
+            "one"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Dos oraciones unidas por but.",
+            "Hay dos verbos."
+          ]
+        },
+        {
+          "id": "b28-s5q4",
+          "question": "4. In coordination, each clause…",
+          "options": [
+            "keeps its own subject and verb",
+            "shares one single verb"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Cada una con su sujeto y verbo.",
+            "No comparten verbo."
+          ]
+        },
+        {
+          "id": "b28-s5q5",
+          "question": "5. A subordinate clause…",
+          "options": [
+            "depends on the main clause",
+            "stands fully on its own"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Depende de la principal.",
+            "No es independiente."
+          ]
+        }
       ],
       "produce": {
         "id": "b28-s5",
@@ -175,17 +918,177 @@
       "analysis": {
         "title": "Analiza la frase completa",
         "items": [
-          { "parts": [ { "t": "The concierge", "fn": "subj" }, { "t": "recommended", "fn": "verb" }, { "t": "us", "fn": "ci" }, { "t": "a lovely restaurant", "fn": "cd" }, { "t": "near the cathedral", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "Sujeto + verbo + CI (us) + CD (a lovely restaurant) + CC de lugar." },
-          { "parts": [ { "t": "After check-in", "fn": "cc" }, { "t": ",", "fn": "" }, { "t": "the porter", "fn": "subj" }, { "t": "took", "fn": "verb" }, { "t": "our bags", "fn": "cd" }, { "t": "to the room", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "El CC de tiempo 'After check-in' va al principio, antes del sujeto." },
-          { "parts": [ { "t": "Although", "fn": "conj" }, { "t": "the flight", "fn": "subj" }, { "t": "was", "fn": "verb" }, { "t": "delayed", "fn": "attr" }, { "t": ",", "fn": "" }, { "t": "the guests", "fn": "subj" }, { "t": "arrived", "fn": "verb" }, { "t": "on time", "fn": "cc" }, { "t": ".", "fn": "" } ], "note": "Subordinada concesiva ('Although… delayed') + oración principal ('the guests arrived on time')." }
+          {
+            "parts": [
+              {
+                "t": "The concierge",
+                "fn": "subj"
+              },
+              {
+                "t": "recommended",
+                "fn": "verb"
+              },
+              {
+                "t": "us",
+                "fn": "ci"
+              },
+              {
+                "t": "a lovely restaurant",
+                "fn": "cd"
+              },
+              {
+                "t": "near the cathedral",
+                "fn": "cc"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "Sujeto + verbo + CI (us) + CD (a lovely restaurant) + CC de lugar."
+          },
+          {
+            "parts": [
+              {
+                "t": "After check-in",
+                "fn": "cc"
+              },
+              {
+                "t": ",",
+                "fn": ""
+              },
+              {
+                "t": "the porter",
+                "fn": "subj"
+              },
+              {
+                "t": "took",
+                "fn": "verb"
+              },
+              {
+                "t": "our bags",
+                "fn": "cd"
+              },
+              {
+                "t": "to the room",
+                "fn": "cc"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "El CC de tiempo 'After check-in' va al principio, antes del sujeto."
+          },
+          {
+            "parts": [
+              {
+                "t": "Although",
+                "fn": "conj"
+              },
+              {
+                "t": "the flight",
+                "fn": "subj"
+              },
+              {
+                "t": "was",
+                "fn": "verb"
+              },
+              {
+                "t": "delayed",
+                "fn": "attr"
+              },
+              {
+                "t": ",",
+                "fn": ""
+              },
+              {
+                "t": "the guests",
+                "fn": "subj"
+              },
+              {
+                "t": "arrived",
+                "fn": "verb"
+              },
+              {
+                "t": "on time",
+                "fn": "cc"
+              },
+              {
+                "t": ".",
+                "fn": ""
+              }
+            ],
+            "note": "Subordinada concesiva ('Although… delayed') + oración principal ('the guests arrived on time')."
+          }
         ]
       },
       "quiz": [
-        { "id": "b28-s6q1", "question": "1. The first step to analyse a sentence is…", "options": ["find the main verb", "count the words"], "correctIndex": 0 },
-        { "id": "b28-s6q2", "question": "2. In 'recommended us a lovely restaurant', 'us' is the…", "options": ["indirect object (CI)", "direct object (CD)"], "correctIndex": 0 },
-        { "id": "b28-s6q3", "question": "3. In 'After check-in, the porter took…', 'After check-in' is…", "options": ["a CC of time at the front", "the subject"], "correctIndex": 0 },
-        { "id": "b28-s6q4", "question": "4. 'Although the flight was delayed' is…", "options": ["a subordinate (concessive) clause", "the main clause"], "correctIndex": 0 },
-        { "id": "b28-s6q5", "question": "5. In 'the guests arrived on time', 'on time' is…", "options": ["a CC (circumstantial)", "a direct object"], "correctIndex": 0 }
+        {
+          "id": "b28-s6q1",
+          "question": "1. The first step to analyse a sentence is…",
+          "options": [
+            "find the main verb",
+            "count the words"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Primero, el verbo principal.",
+            "Contar palabras no ayuda."
+          ]
+        },
+        {
+          "id": "b28-s6q2",
+          "question": "2. In 'recommended us a lovely restaurant', 'us' is the…",
+          "options": [
+            "indirect object (CI)",
+            "direct object (CD)"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Us = a quién: CI.",
+            "El CD es a lovely restaurant."
+          ]
+        },
+        {
+          "id": "b28-s6q3",
+          "question": "3. In 'After check-in, the porter took…', 'After check-in' is…",
+          "options": [
+            "a CC of time at the front",
+            "the subject"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "CC de tiempo adelantado.",
+            "El sujeto es the porter."
+          ]
+        },
+        {
+          "id": "b28-s6q4",
+          "question": "4. 'Although the flight was delayed' is…",
+          "options": [
+            "a subordinate (concessive) clause",
+            "the main clause"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "Subordinada concesiva.",
+            "No es la principal."
+          ]
+        },
+        {
+          "id": "b28-s6q5",
+          "question": "5. In 'the guests arrived on time', 'on time' is…",
+          "options": [
+            "a CC (circumstantial)",
+            "a direct object"
+          ],
+          "correctIndex": 0,
+          "explain": [
+            "On time = CC.",
+            "No es CD."
+          ]
+        }
       ],
       "produce": {
         "id": "b28-s6",
