@@ -158,7 +158,11 @@
             "in / in",
             "at / on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In para edificios vistos como lugar de trabajo (in a hotel) y para ciudades o zonas (in the city centre).",
+            "«At a hotel» es posible como punto, pero «on the city centre» no: una zona va con in."
+          ]
         },
         {
           "id": "b02-s1q2",
@@ -167,7 +171,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "In indica dentro de un espacio; una línea es una superficie.",
+            "On: sobre una línea o superficie (on the line)."
+          ]
         },
         {
           "id": "b02-s1q3",
@@ -176,7 +184,11 @@
             "at",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "At para un punto concreto: at the reception desk.",
+            "In indicaría dentro del mostrador, como un espacio cerrado."
+          ]
         },
         {
           "id": "b02-s1q4",
@@ -185,7 +197,11 @@
             "on",
             "in"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "On indicaría encima del maletero, no dentro.",
+            "In: dentro de un espacio con volumen (in the boot)."
+          ]
         },
         {
           "id": "b02-s1q5",
@@ -194,7 +210,11 @@
             "on",
             "at"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On: sobre una superficie (on the counter).",
+            "At the counter indica el lugar donde estás, no algo apoyado encima."
+          ]
         },
         {
           "id": "b02-s1q6",
@@ -203,7 +223,11 @@
             "in",
             "at"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "In the airport resalta el interior; para quedar en un punto se usa at.",
+            "At: punto de encuentro (at the airport)."
+          ]
         },
         {
           "id": "b02-s1q7",
@@ -212,7 +236,11 @@
             "next to",
             "under"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Next to = al lado de, side by side.",
+            "Under = debajo de."
+          ]
         },
         {
           "id": "b02-s1q8",
@@ -221,7 +249,11 @@
             "opposite",
             "between"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Opposite = enfrente, al otro lado de la calle.",
+            "Between = entre dos cosas."
+          ]
         }
       ],
       "produce": {
@@ -372,7 +404,11 @@
             "at",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "At con horas exactas: at 5 o'clock.",
+            "On se usa con días y fechas, no con horas."
+          ]
         },
         {
           "id": "b02-s2q2",
@@ -381,7 +417,11 @@
             "since",
             "for"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Since marca el punto de inicio (since Monday), no la duración.",
+            "For + periodo de tiempo: for two weeks."
+          ]
         },
         {
           "id": "b02-s2q3",
@@ -390,7 +430,11 @@
             "by",
             "until"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "By = como muy tarde, fecha límite.",
+            "Until indica que algo dura hasta ese momento, no un plazo."
+          ]
         },
         {
           "id": "b02-s2q4",
@@ -399,7 +443,11 @@
             "on",
             "in"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "On es para días y fechas concretas.",
+            "In con meses, años y estaciones: in December."
+          ]
         },
         {
           "id": "b02-s2q5",
@@ -408,7 +456,11 @@
             "at",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "At con horas: at 8 am.",
+            "In se usa con partes del día (in the morning) o periodos, no con horas."
+          ]
         },
         {
           "id": "b02-s2q6",
@@ -417,7 +469,11 @@
             "until",
             "by"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Until = hasta (algo continúa hasta ese momento).",
+            "By = plazo límite: lo necesito como muy tarde el viernes."
+          ]
         },
         {
           "id": "b02-s2q7",
@@ -426,7 +482,11 @@
             "for",
             "since"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "For + duración (for six years), no un año de inicio.",
+            "Since + punto de inicio: since 2019."
+          ]
         },
         {
           "id": "b02-s2q8",
@@ -435,7 +495,11 @@
             "during",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "During = durante, a lo largo de la noche.",
+            "On the night se usa para una noche concreta (on the night of the gala)."
+          ]
         }
       ],
       "produce": {
@@ -586,7 +650,11 @@
             "into",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Into = movimiento hacia dentro: entró en la habitación.",
+            "To indica dirección hacia, no la entrada en un espacio."
+          ]
         },
         {
           "id": "b02-s3q2",
@@ -595,7 +663,11 @@
             "along",
             "through"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Along = a lo largo de (por el lateral), no atravesando.",
+            "Through = a través de, de un lado a otro por dentro."
+          ]
         },
         {
           "id": "b02-s3q3",
@@ -604,7 +676,11 @@
             "along",
             "across"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Along = a lo largo de (paralelo al río).",
+            "Across = de un lado al otro, cruzando."
+          ]
         },
         {
           "id": "b02-s3q4",
@@ -613,7 +689,11 @@
             "into",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Into: movimiento de entrada en el agua.",
+            "In indica posición, no el movimiento de entrar."
+          ]
         },
         {
           "id": "b02-s3q5",
@@ -622,7 +702,11 @@
             "across",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Across = de un lado a otro de una superficie.",
+            "On indica estar encima, no el recorrido."
+          ]
         },
         {
           "id": "b02-s3q6",
@@ -631,7 +715,11 @@
             "from / to",
             "to / from"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "From = origen y to = destino.",
+            "Invertidas: to marca el destino y from el origen."
+          ]
         },
         {
           "id": "b02-s3q7",
@@ -640,7 +728,11 @@
             "out of",
             "off of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Out of = salir de un espacio cerrado (el ascensor).",
+            "«Off of» no es correcto en inglés estándar; con un ascensor se dice out of."
+          ]
         },
         {
           "id": "b02-s3q8",
@@ -649,7 +741,11 @@
             "past",
             "through"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Past = pasar por delante y dejarlo atrás.",
+            "Through = atravesar por dentro."
+          ]
         }
       ],
       "produce": {
@@ -800,7 +896,11 @@
             "due to",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Due to + sustantivo = debido a.",
+            "For no expresa causa en este uso."
+          ]
         },
         {
           "id": "b02-s4q2",
@@ -809,7 +909,11 @@
             "for",
             "by"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For indica destinatario o propósito: para ti.",
+            "By indica autor o medio, no el destinatario."
+          ]
         },
         {
           "id": "b02-s4q3",
@@ -818,7 +922,11 @@
             "Despite",
             "Because of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Despite = a pesar de: llegamos a tiempo pese al tráfico.",
+            "Because of = por culpa de; contradice que llegaran a tiempo."
+          ]
         },
         {
           "id": "b02-s4q4",
@@ -827,7 +935,11 @@
             "because of",
             "because"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Because of + sustantivo (the storm).",
+            "Because va seguido de una oración con verbo, no de un sustantivo."
+          ]
         },
         {
           "id": "b02-s4q5",
@@ -836,7 +948,11 @@
             "for",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "For = destinado a (business travellers).",
+            "To indica dirección o destinatario de un envío, no a quién va dirigido un producto."
+          ]
         },
         {
           "id": "b02-s4q6",
@@ -845,7 +961,11 @@
             "with",
             "by"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "With card suena raro; la forma de pago se dice by card.",
+            "By + medio de pago: by card, by bank transfer."
+          ]
         },
         {
           "id": "b02-s4q7",
@@ -854,7 +974,11 @@
             "Despite",
             "Although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Despite + sustantivo (the rain).",
+            "Although necesita una oración: although it was raining."
+          ]
         },
         {
           "id": "b02-s4q8",
@@ -863,7 +987,11 @@
             "without",
             "with"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Without = sin retraso.",
+            "With delay diría que hubo retraso."
+          ]
         }
       ],
       "produce": {
@@ -1031,7 +1159,11 @@
             "to see",
             "to seeing"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Aquí to es preposición, no infinitivo: necesita -ing.",
+            "Look forward to + -ing: to seeing."
+          ]
         },
         {
           "id": "b02-s5q2",
@@ -1040,7 +1172,11 @@
             "on",
             "of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Depend on = depender de.",
+            "«Depend of» es un calco del español."
+          ]
         },
         {
           "id": "b02-s5q3",
@@ -1049,7 +1185,11 @@
             "of",
             "for"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Apologise of» no existe.",
+            "Apologise for + motivo: for the mistake."
+          ]
         },
         {
           "id": "b02-s5q4",
@@ -1058,7 +1198,11 @@
             "depends of",
             "depends on"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Calco del español «depender de»: en inglés no es of.",
+            "Depend on = depender de."
+          ]
         },
         {
           "id": "b02-s5q5",
@@ -1067,7 +1211,11 @@
             "to",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Look forward to + -ing.",
+            "«Look forward for» no existe."
+          ]
         },
         {
           "id": "b02-s5q6",
@@ -1076,7 +1224,11 @@
             "to",
             "with"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Apologise to + persona.",
+            "«Apologise with» no se usa; la persona va con to."
+          ]
         },
         {
           "id": "b02-s5q7",
@@ -1085,7 +1237,11 @@
             "to",
             "at"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Listen to = escuchar a.",
+            "«Listen at» no se usa para escuchar a alguien."
+          ]
         },
         {
           "id": "b02-s5q8",
@@ -1094,7 +1250,11 @@
             "to",
             "with"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Comply to» no es la forma estándar.",
+            "Comply with = cumplir con."
+          ]
         }
       ],
       "produce": {
@@ -1262,7 +1422,11 @@
             "with",
             "to"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Calco del español «casado con»: en inglés no es with.",
+            "Married to = casado con."
+          ]
         },
         {
           "id": "b02-s6q2",
@@ -1271,7 +1435,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Interested in = interesado en.",
+            "«Interested on» es un error típico."
+          ]
         },
         {
           "id": "b02-s6q3",
@@ -1280,7 +1448,11 @@
             "for",
             "of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Responsible for = responsable de.",
+            "«Responsible of» es un calco del español."
+          ]
         },
         {
           "id": "b02-s6q4",
@@ -1289,7 +1461,11 @@
             "at",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Good at = bueno en (una habilidad).",
+            "«Good in» no se usa para habilidades."
+          ]
         },
         {
           "id": "b02-s6q5",
@@ -1298,7 +1474,11 @@
             "of",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Afraid of = tener miedo de, + -ing.",
+            "«Afraid to losing» es incorrecto; afraid to va con infinitivo (afraid to lose)."
+          ]
         },
         {
           "id": "b02-s6q6",
@@ -1307,7 +1487,11 @@
             "of",
             "for"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Responsible of» es un calco del español.",
+            "Responsible for = responsable de."
+          ]
         },
         {
           "id": "b02-s6q7",
@@ -1316,7 +1500,11 @@
             "from",
             "than"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Different from = diferente de.",
+            "Than se usa con comparativos (bigger than), no con different en inglés británico."
+          ]
         },
         {
           "id": "b02-s6q8",
@@ -1325,7 +1513,11 @@
             "to",
             "with"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Be used to + -ing = estar acostumbrado a.",
+            "«Used with» no existe con este sentido."
+          ]
         }
       ],
       "produce": {
@@ -1444,7 +1636,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "In es para meses y años, no para días.",
+            "On + día: on Monday."
+          ]
         },
         {
           "id": "b02-s7q2",
@@ -1453,7 +1649,11 @@
             "on",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On para plantas de un edificio: on the second floor.",
+            "In the floor diría «dentro del suelo»."
+          ]
         },
         {
           "id": "b02-s7q3",
@@ -1462,7 +1662,11 @@
             "at",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "At con horas: at 9 am.",
+            "In no va con horas exactas."
+          ]
         },
         {
           "id": "b02-s7q4",
@@ -1471,7 +1675,11 @@
             "at",
             "in"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "At sería un punto en un mapa; para vivir en una ciudad se usa in.",
+            "In con ciudades y países: in Barcelona."
+          ]
         },
         {
           "id": "b02-s7q5",
@@ -1480,7 +1688,11 @@
             "on",
             "in"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "On the car = encima del coche.",
+            "In: dentro del coche."
+          ]
         },
         {
           "id": "b02-s7q6",
@@ -1489,7 +1701,11 @@
             "on",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On con fechas y días concretos: on New Year's Eve.",
+            "In es para periodos largos (meses, años)."
+          ]
         },
         {
           "id": "b02-s7q7",
@@ -1498,7 +1714,11 @@
             "at",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "At para un punto: at the entrance.",
+            "In the entrance indicaría dentro del vestíbulo de entrada."
+          ]
         }
       ],
       "produce": {
@@ -1609,7 +1829,11 @@
             "since",
             "for"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Since necesita un punto de inicio, no una duración.",
+            "For + duración: for five years."
+          ]
         },
         {
           "id": "b02-s8q2",
@@ -1618,7 +1842,11 @@
             "for",
             "since"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "For va con duración (for three days), no con un día de inicio.",
+            "Since + punto de inicio: since Monday."
+          ]
         },
         {
           "id": "b02-s8q3",
@@ -1627,7 +1855,11 @@
             "during",
             "while"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "During + sustantivo: during the presentation.",
+            "While necesita oración: while she's presenting."
+          ]
         },
         {
           "id": "b02-s8q4",
@@ -1636,7 +1868,11 @@
             "during",
             "while"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "During va con sustantivo, no con una oración.",
+            "While + oración: while we were eating."
+          ]
         },
         {
           "id": "b02-s8q5",
@@ -1645,7 +1881,11 @@
             "until",
             "by"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Until indicaría que trabajas en ello hasta el viernes.",
+            "By = como muy tarde el viernes."
+          ]
         },
         {
           "id": "b02-s8q6",
@@ -1654,7 +1894,11 @@
             "by",
             "until"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "By = como muy tarde; no indica cuánto dura algo abierto.",
+            "Until = hasta: abrimos hasta medianoche."
+          ]
         },
         {
           "id": "b02-s8q7",
@@ -1663,7 +1907,11 @@
             "until",
             "by"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Until = hasta que: espero hasta que estés listo.",
+            "By es un plazo; con esperar se usa until."
+          ]
         }
       ],
       "produce": {
@@ -1823,7 +2071,11 @@
             "of",
             "for"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Reason of» es un calco del español.",
+            "Reason for = el motivo de."
+          ]
         },
         {
           "id": "b02-s9q2",
@@ -1832,7 +2084,11 @@
             "in",
             "of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Increase in = aumento de (en algo).",
+            "«Increase of» se usa con cifras (an increase of 10 %), no con lo que aumenta."
+          ]
         },
         {
           "id": "b02-s9q3",
@@ -1841,7 +2097,11 @@
             "to",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Solution to = solución a.",
+            "«Solution for» es menos natural con un problema concreto."
+          ]
         },
         {
           "id": "b02-s9q4",
@@ -1850,7 +2110,11 @@
             "of",
             "for"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Demand of» es un calco.",
+            "Demand for = demanda de."
+          ]
         },
         {
           "id": "b02-s9q5",
@@ -1859,7 +2123,11 @@
             "to",
             "of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Reply to = respuesta a.",
+            "«Reply of» no se usa."
+          ]
         },
         {
           "id": "b02-s9q6",
@@ -1868,7 +2136,11 @@
             "on",
             "in"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Interest on» se usa para intereses bancarios, no para interés en algo.",
+            "Interest in = interés en."
+          ]
         },
         {
           "id": "b02-s9q7",
@@ -1877,7 +2149,11 @@
             "between",
             "of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Difference between = diferencia entre (dos cosas).",
+            "«Difference of» no se usa así."
+          ]
         }
       ],
       "produce": {
@@ -1988,7 +2264,11 @@
             "by",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "By + transporte, sin artículo: by train.",
+            "On the train es posible, pero «on train» sin artículo no."
+          ]
         },
         {
           "id": "b02-s10q2",
@@ -1997,7 +2277,11 @@
             "by",
             "on"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«By foot» se oye, pero lo correcto es on foot.",
+            "On foot = a pie."
+          ]
         },
         {
           "id": "b02-s10q3",
@@ -2006,7 +2290,11 @@
             "by",
             "in"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "By card = con tarjeta.",
+            "«In card» no existe; in cash sí."
+          ]
         },
         {
           "id": "b02-s10q4",
@@ -2015,7 +2303,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "In time = con tiempo suficiente, no puntual.",
+            "On time = puntual, a la hora prevista."
+          ]
         },
         {
           "id": "b02-s10q5",
@@ -2024,7 +2316,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In charge of = a cargo de.",
+            "«On charge» no existe."
+          ]
         },
         {
           "id": "b02-s10q6",
@@ -2033,7 +2329,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«In holiday» no se usa.",
+            "On holiday = de vacaciones."
+          ]
         },
         {
           "id": "b02-s10q7",
@@ -2042,7 +2342,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In advance = por adelantado.",
+            "«On advance» no existe."
+          ]
         }
       ],
       "produce": {
@@ -2153,7 +2457,11 @@
             "because",
             "because of"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Because va con oración, no con sustantivo.",
+            "Because of + sustantivo: because of the storm."
+          ]
         },
         {
           "id": "b02-s11q2",
@@ -2162,7 +2470,11 @@
             "Despite",
             "Although"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Despite + sustantivo: despite the rain.",
+            "Although necesita oración con verbo."
+          ]
         },
         {
           "id": "b02-s11q3",
@@ -2171,7 +2483,11 @@
             "instead of",
             "instead"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Instead of + sustantivo = en lugar de.",
+            "Instead va solo, al final de la frase, sin sustantivo detrás."
+          ]
         },
         {
           "id": "b02-s11q4",
@@ -2180,7 +2496,11 @@
             "on behalf of",
             "on behalf"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "On behalf of = en nombre de.",
+            "Sin of no puede llevar complemento detrás."
+          ]
         },
         {
           "id": "b02-s11q5",
@@ -2189,7 +2509,11 @@
             "In addition to",
             "In addition"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In addition to + sustantivo = además de.",
+            "In addition va solo (= además) y no lleva sustantivo detrás."
+          ]
         },
         {
           "id": "b02-s11q6",
@@ -2198,7 +2522,11 @@
             "In spite of",
             "In spite"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "In spite of + sustantivo = a pesar de.",
+            "Sin of no puede ir seguido de sustantivo."
+          ]
         },
         {
           "id": "b02-s11q7",
@@ -2207,7 +2535,11 @@
             "apart from",
             "apart"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Apart from = salvo, aparte de.",
+            "Apart solo, sin from, no puede llevar complemento."
+          ]
         }
       ],
       "produce": {
@@ -2318,7 +2650,11 @@
             "for",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Wait for = esperar a; la preposición va al final en la pregunta.",
+            "«Wait to» no se usa para esperar a alguien."
+          ]
         },
         {
           "id": "b02-s12q2",
@@ -2327,7 +2663,11 @@
             "with",
             "about"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Deal with = tratar con; queda al final en la relativa.",
+            "Deal about no existe; deal with = tratar con."
+          ]
         },
         {
           "id": "b02-s12q3",
@@ -2336,7 +2676,11 @@
             "about",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Think about = pensar en.",
+            "«Think on» es raro; lo natural es think about."
+          ]
         },
         {
           "id": "b02-s12q4",
@@ -2345,7 +2689,11 @@
             "to",
             "at"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Lead to = llevar a.",
+            "«Lead at» no se usa."
+          ]
         },
         {
           "id": "b02-s12q5",
@@ -2354,7 +2702,11 @@
             "to",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Give something to someone: la preposición queda al final.",
+            "Give es «dar a» alguien: to, no for."
+          ]
         },
         {
           "id": "b02-s12q6",
@@ -2363,7 +2715,11 @@
             "in",
             "on"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Based in» se usa para lugares (based in Madrid).",
+            "Based on = basado en."
+          ]
         },
         {
           "id": "b02-s12q7",
@@ -2372,7 +2728,11 @@
             "on",
             "of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Rely on = depender de, confiar en.",
+            "«Rely of» no existe."
+          ]
         }
       ],
       "produce": {
@@ -2483,7 +2843,11 @@
             "to",
             "for"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Look forward to + -ing.",
+            "«Look forward for» no existe."
+          ]
         },
         {
           "id": "b02-s13q2",
@@ -2492,7 +2856,11 @@
             "with",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Put up with = tolerar, aguantar.",
+            "«Put up on» no tiene ese sentido."
+          ]
         },
         {
           "id": "b02-s13q3",
@@ -2501,7 +2869,11 @@
             "out",
             "off"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Run out of = quedarse sin.",
+            "Run off = salir corriendo; no significa quedarse sin."
+          ]
         },
         {
           "id": "b02-s13q4",
@@ -2510,7 +2882,11 @@
             "with",
             "to"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Get on with = llevarse bien con.",
+            "«Get on to» significa contactar con alguien."
+          ]
         },
         {
           "id": "b02-s13q5",
@@ -2519,7 +2895,11 @@
             "with",
             "on"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Come up with = idear, proponer.",
+            "«Come up on» no tiene ese sentido."
+          ]
         },
         {
           "id": "b02-s13q6",
@@ -2528,7 +2908,11 @@
             "on",
             "with"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Catch up on + tarea = ponerse al día con.",
+            "Catch up with se usa con personas (alcanzar a alguien)."
+          ]
         },
         {
           "id": "b02-s13q7",
@@ -2537,7 +2921,11 @@
             "with",
             "of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Keep up with = seguir el ritmo de.",
+            "«Keep up of» no existe."
+          ]
         }
       ],
       "produce": {
