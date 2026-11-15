@@ -13,7 +13,7 @@ export function doubles(base, flags = "") {
   if (flags.includes("d")) return true;
   const w = base.replace(/qu/g, "q");
   // Británico: vocal simple + l se dobla (travel, cancel, control, label).
-  if (/[^aeiou][aeiou]l$/.test(w) && w.length > 3) return true;
+  if (/([^aeiou][aeiou]|ua|ue|ia)l$/.test(w) && w.length > 3) return true;
   // Monosílabo terminado en consonante-vocal-consonante (no w, x, y).
   return syllables(w) === 1 && /(^|[^aeiou])[aeiou][bcdfgklmnprstvz]$/.test(w);
 }
@@ -30,7 +30,7 @@ export function ingForm(base, flags = "") {
   if (base === "be") return "being";
   if (/ie$/.test(base)) return base.slice(0, -2) + "ying";
   if (/(ee|ye|oe)$/.test(base)) return base + "ing";
-  if (/[^aeiou]e$/.test(base) || /[aeiou]{1}[^aeiou]e$/.test(base) || /ue$/.test(base)) return base.slice(0, -1) + "ing";
+  if (/([^aeiou]|u)e$/.test(base)) return base.slice(0, -1) + "ing";
   if (doubles(base, flags)) return base + base.slice(-1) + "ing";
   return base + "ing";
 }

@@ -749,3 +749,19 @@ yesterday|adv|ayer||
 yet|adv|todavía; ya (en preguntas)||«not yet» = todavía no. «Have you finished yet?».
 yoga|nu|yoga||
 young|adj|joven||
+nosy|adj|cotilla||
+quiz|n|cuestionario, test|quizzes|
+reminder|n|recordatorio||
+sense|n|sentido||«make sense» = tener sentido.
+sofa|n|sofá||
+socket|n|enchufe (de pared)||
+soothing|adj|relajante, calmante|more|
+yam|n|ñame, boniato||
+wick|n|mecha||
+microphone|n|micrófono||
+michelin|adj|Michelin (guía de restaurantes)|-|
+pickup|n|recogida||
+regular|n|cliente habitual||
+strapped|adj|«cash-strapped» = sin liquidez|-|
+vowel|n|vocal||
+schwa|n|schwa (vocal neutra /ə/)||

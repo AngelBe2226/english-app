@@ -285,7 +285,6 @@ escort|acompañar, escoltar||the guest to the room|t
 establish|establecer||a routine|t
 estimate|estimar, calcular||the cost|t
 evaluate|evaluar||the results|t
-evaluate|evaluar||the proposal|t
 examine|examinar||the contract|t
 exceed|superar, exceder||expectations|t
 exchange|cambiar, intercambiar||money|t
@@ -769,7 +768,6 @@ unpack|deshacer la maleta||the suitcase|t
 update|actualizar||the website|t
 upgrade|mejorar (de categoría)||the room|t
 upload|subir (archivos)||the photos|t
-upsell|vender un extra o algo superior||a suite|t
 urge|instar, recomendar encarecidamente||the guests|t
 use|usar||the gym|t
 vacuum|aspirar||the carpet|t
@@ -806,3 +804,15 @@ yawn|bostezar||at the meeting|
 yell|gritar||at the staff|
 yield|rendir, producir; ceder||good results|t
 zoom|hacer zoom||in on the map|
+backfire|salir el tiro por la culata||badly|
+crease|arrugar||the shirt|t
+leak|filtrarse; gotear||to the press|
+mandate|ordenar, exigir por ley||a new rule|t
+refill|rellenar||the glasses|t
+stream|retransmitir en directo||the event|t
+ground|castigar sin salir; dejar en tierra||the flight|t
+shadow|seguir de cerca, acompañar para aprender||a colleague|t
+nick|birlar (informal)||a pen|t
+edge|bordear; avanzar poco a poco||closer|
+fuse|fundir(se)||the two ideas|t
+loop|enlazar, dar vueltas||back to the start|

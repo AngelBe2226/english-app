@@ -803,3 +803,22 @@ luck|nu|suerte||
 luggage|nu|equipaje||Incontable: «a piece of luggage».
 lunch|n|comida, almuerzo||
 luxury|nu|lujo||
+bass|n|lubina; graves (sonido)||
+born|adj|nacido|-|«I was born in…» = nací en…
+cons|n|inconvenientes||«pros and cons» = ventajas e inconvenientes.
+convincingly|adv|de forma convincente||
+cramped|adj|estrecho, sin espacio|more|
+cyclist|n|ciclista||
+changer|n|«game-changer» = algo que lo cambia todo||
+dividend|n|dividendo||«pay dividends» = dar fruto.
+finger|n|dedo||
+fixer|n|«fixer-upper» = casa para reformar||
+forgettable|adj|olvidable|more|
+front|n|parte delantera||«in front of» = delante de.
+gazpacho|nu|gazpacho||
+goodly|adj|considerable (formal)|-|
+hiker|n|excursionista, senderista||
+lighthouse|n|faro||
+add-on|n|extra, complemento||
+extra|n|extra, suplemento||
+comparable|n|inmueble comparable (para tasar)||

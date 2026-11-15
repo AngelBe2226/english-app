@@ -8,10 +8,10 @@ bear|soportar; dar a luz|bore,borne|the pressure|t
 beat|vencer, ganar a; batir|beat,beaten|the competition|t
 become|llegar a ser, convertirse en|became,become|a manager|
 befall|acontecer, sucederle a alguien|befell,befallen|the village|t
-begin|empezar, comenzar|began,begun|the tour|t
+begin|empezar, comenzar|began,begun|the tour|td
 behold|contemplar|beheld,beheld|the view|t
 bend|doblar, inclinarse|bent,bent|the rules|t
-beset|acosar|beset,beset|the team|t
+beset|acosar|beset,beset|the team|td
 bet|apostar|bet/betted,bet/betted|ten euros|t
 bid|pujar, ofrecer|bid,bid|for the contract|
 bind|atar, obligar|bound,bound|the parties|t
@@ -52,11 +52,11 @@ find|encontrar|found,found|the keys|t
 flee|huir|fled,fled|from the fire|
 fling|arrojar|flung,flung|the door open|t
 fly|volar|flew,flown|to London|
-forbid|prohibir|forbade,forbidden|smoking|t
+forbid|prohibir|forbade,forbidden|smoking|td
 forecast|pronosticar|forecast,forecast|rain|t
 foresee|prever|foresaw,foreseen|the problem|t
 foretell|predecir|foretold,foretold|the future|t
-forget|olvidar|forgot,forgotten|the password|t
+forget|olvidar|forgot,forgotten|the password|td
 forgive|perdonar|forgave,forgiven|the mistake|t
 forsake|abandonar|forsook,forsaken|their friends|t
 freeze|congelar(se)|froze,frozen|the meat|t
@@ -72,7 +72,7 @@ hide|esconder(se)|hid,hidden|the keys|t
 hit|golpear; alcanzar|hit,hit|the target|t
 hold|sostener; celebrar (una reunión)|held,held|the meeting|t
 hurt|herir, doler|hurt,hurt|his back|t
-input|introducir (datos)|input,input|the data|t
+input|introducir (datos)|input,input|the data|td
 keep|guardar, mantener; seguir|kept,kept|the receipt|t
 kneel|arrodillarse|knelt/kneeled,knelt/kneeled|on the floor|
 knit|tejer|knitted/knit,knitted/knit|a scarf|t
@@ -131,7 +131,7 @@ set|poner, fijar; ponerse (el sol)|set,set|the table|t
 sew|coser|sewed,sewn/sewed|a button|t
 shake|agitar; estrechar (la mano)|shook,shaken|hands|t
 shed|despojarse de, perder|shed,shed|some weight|t
-shine|brillar|shone,shone|brightly|
+shine|brillar|shone/shined,shone/shined|brightly|
 shoot|disparar; rodar (una película)|shot,shot|a video|t
 show|mostrar, enseñar|showed,shown|the room|t
 shrink|encoger|shrank,shrunk|in the wash|
@@ -186,7 +186,7 @@ underwrite|asegurar, suscribir|underwrote,underwritten|the policy|t
 undo|deshacer|undid,undone|the changes|t
 unwind|relajarse; desenrollar|unwound,unwound|after work|
 uphold|mantener, defender|upheld,upheld|the decision|t
-upset|disgustar, molestar|upset,upset|the guest|t
+upset|disgustar, molestar|upset,upset|the guest|td
 wake|despertar(se)|woke,woken|up early|
 wear|llevar puesto|wore,worn|a uniform|t
 weave|tejer|wove,woven|a basket|t
@@ -199,3 +199,5 @@ withhold|retener, ocultar|withheld,withheld|the information|t
 withstand|resistir|withstood,withstood|the storm|t
 wring|escurrir|wrung,wrung|the towel|t
 write|escribir|wrote,written|an email|t
+
+upsell|vender un extra o algo superior|upsold,upsold|a suite|t

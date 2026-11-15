@@ -286,3 +286,13 @@ fourth|num|cuarto||
 eleventh|num|undécimo||
 once|adv|una vez||
 twice|adv|dos veces||
+near|adj|cercano|nearer,nearest|
+soon|adv|pronto|sooner,soonest|«as soon as possible».
+non|adv|no (prefijo: non-smoking)||
+aught|pron|nada; cero (antiguo)||
+g'day|int|hola (Australia)||
+wanna|ctr|quiero, quieres… (want to)||Habla coloquial.
+gonna|ctr|voy a… (going to)||Habla coloquial.
+lotsa|ctr|muchos (lots of)||Habla rápida.
+meetcha|ctr|conocerte (meet you)||Unión de sonidos en habla rápida.
+wadaya|ctr|¿qué…? (what do you)||Unión de sonidos en habla rápida.
