@@ -1,5 +1,6 @@
 import { useState } from "react";
 import HighlightButton from "./HighlightButton";
+import EnText from "./EnText";
 
 // Etiquetas en español de cada función sintáctica.
 const FN_LABEL = {
@@ -53,7 +54,7 @@ export default function Analysis({ analysis, hlId }) {
               <p className={"an-sentence" + (on ? " an-on" : "")}>
                 {(it.parts || []).map((p, j) => (
                   <span key={j} className={on && p.fn ? "an-part an-" + p.fn : "an-part"}>
-                    <span className="an-text">{p.t}</span>
+                    <EnText className="an-text" html={p.t} />
                     {on && p.fn && <span className="an-fn">{FN_LABEL[p.fn] || p.fn}</span>}
                   </span>
                 ))}

@@ -138,7 +138,11 @@
             "They",
             "Them"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pronombre sujeto: va delante del verbo («ellos son…»).",
+            "«Them» es objeto: va detrás del verbo o de una preposición, nunca como sujeto."
+          ]
         },
         {
           "id": "b01-s1q2",
@@ -147,7 +151,11 @@
             "I",
             "me"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«I» es sujeto; detrás del verbo help hace falta el objeto.",
+            "Pronombre objeto: va detrás del verbo (help me = ayúdame)."
+          ]
         },
         {
           "id": "b01-s1q3",
@@ -156,7 +164,11 @@
             "we",
             "us"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«We» es sujeto; aquí «nosotros» recibe la acción de trained.",
+            "Objeto de trained: «nos formó» = trained us."
+          ]
         },
         {
           "id": "b01-s1q4",
@@ -165,7 +177,11 @@
             "we",
             "us"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«We» solo puede ser sujeto; aquí es el objeto de thanked.",
+            "Objeto de thanked: «nos dio las gracias» = thanked us."
+          ]
         },
         {
           "id": "b01-s1q5",
@@ -174,7 +190,11 @@
             "Them",
             "They"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Them» es objeto; no puede ser sujeto de speak.",
+            "Pronombre sujeto delante del verbo: They speak…"
+          ]
         },
         {
           "id": "b01-s1q6",
@@ -183,7 +203,11 @@
             "he",
             "him"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras la preposición to va pronombre objeto, no «he».",
+            "Tras una preposición (to) se usa el objeto: to him."
+          ]
         },
         {
           "id": "b01-s1q7",
@@ -192,7 +216,11 @@
             "She",
             "Her"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Sujeto compuesto: She and I = ella y yo hicimos…",
+            "«Her» es objeto; como sujeto (aunque vaya con «and I») es She."
+          ]
         },
         {
           "id": "b01-s1q8",
@@ -201,7 +229,11 @@
             "I",
             "me"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«I» es sujeto; aquí «a mí» es el objeto indirecto de emailed.",
+            "Objeto indirecto: emailed me the receipt = me envió el recibo."
+          ]
         }
       ],
       "produce": {
@@ -332,7 +364,11 @@
             "my",
             "mine"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«My» necesita un sustantivo detrás (my book); aquí va solo.",
+            "Pronombre posesivo: va solo, sin sustantivo (It's mine)."
+          ]
         },
         {
           "id": "b01-s2q2",
@@ -341,7 +377,11 @@
             "Their",
             "Theirs"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Determinante posesivo delante del sustantivo: their team.",
+            "«Theirs» va solo; delante de team hace falta their."
+          ]
         },
         {
           "id": "b01-s2q3",
@@ -350,7 +390,11 @@
             "your",
             "yours"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Your» necesita sustantivo detrás (your phone); aquí va solo.",
+            "Pronombre posesivo: «el tuyo» sin sustantivo = yours."
+          ]
         },
         {
           "id": "b01-s2q4",
@@ -359,7 +403,11 @@
             "her",
             "hers"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Her» como posesivo necesita sustantivo (her coat).",
+            "Posesivo que va solo: it's hers = es suyo (de ella)."
+          ]
         },
         {
           "id": "b01-s2q5",
@@ -368,7 +416,11 @@
             "its",
             "it's"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Posesivo de cosa, sin apóstrofo: its licence = su licencia.",
+            "«It's» es la contracción de it is: «it is license» no tiene sentido."
+          ]
         },
         {
           "id": "b01-s2q6",
@@ -377,7 +429,11 @@
             "our",
             "ours"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Our» necesita sustantivo detrás (our room).",
+            "Posesivo que va solo: ours isn't = el nuestro no lo está."
+          ]
         },
         {
           "id": "b01-s2q7",
@@ -386,7 +442,11 @@
             "Their",
             "Theirs"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Delante del sustantivo luggage: their luggage.",
+            "«Theirs» va solo; delante de un sustantivo es their."
+          ]
         },
         {
           "id": "b01-s2q8",
@@ -395,7 +455,11 @@
             "my",
             "mine"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«My» necesita sustantivo (my pen); aquí la palabra va sola.",
+            "Respuesta a «Whose…?» con el posesivo que va solo: It's mine."
+          ]
         }
       ],
       "produce": {
@@ -526,7 +590,11 @@
             "When",
             "What"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "When pregunta por el momento: ¿cuándo es tu cumpleaños?",
+            "«What is your birthday?» pregunta qué es, no cuándo."
+          ]
         },
         {
           "id": "b01-s3q2",
@@ -535,7 +603,11 @@
             "Who",
             "Whose"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Who» pregunta por la persona, no por la posesión.",
+            "Whose + sustantivo pregunta de quién es: Whose car…?"
+          ]
         },
         {
           "id": "b01-s3q3",
@@ -544,7 +616,11 @@
             "How",
             "Why"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "How pregunta por el medio o la manera: ¿cómo llegaste?",
+            "Why pregunta por el motivo (¿por qué?), no por el medio."
+          ]
         },
         {
           "id": "b01-s3q4",
@@ -553,7 +629,11 @@
             "How",
             "What"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "How much = cuánto (precio o cantidad incontable).",
+            "«What much» no existe; la cantidad se pregunta con How much."
+          ]
         },
         {
           "id": "b01-s3q5",
@@ -562,7 +642,11 @@
             "What",
             "Which"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "What se usa para opciones abiertas; aquí hay dos concretas.",
+            "Which = cuál entre opciones limitadas (of the two)."
+          ]
         },
         {
           "id": "b01-s3q6",
@@ -571,7 +655,11 @@
             "Where",
             "When"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Where pregunta por el lugar (¿adónde?), no por el momento.",
+            "When pregunta por el momento: ¿cuándo te vas?"
+          ]
         },
         {
           "id": "b01-s3q7",
@@ -580,7 +668,11 @@
             "Who",
             "Whom"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Who como sujeto: Who booked…? = ¿quién reservó…?",
+            "Whom solo funciona como objeto y es formal; aquí es el sujeto."
+          ]
         },
         {
           "id": "b01-s3q8",
@@ -589,7 +681,11 @@
             "Who's",
             "Whose"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Who's» es who is: «¿quién es llaves…?» no tiene sentido.",
+            "Whose + sustantivo = de quién: Whose keys are these?"
+          ]
         }
       ],
       "produce": {
@@ -720,7 +816,11 @@
             "These",
             "Those"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "These = estos, para cosas cercanas; las manzanas están «over there».",
+            "Those = aquellos: plural y lejos (over there)."
+          ]
         },
         {
           "id": "b01-s4q2",
@@ -729,7 +829,11 @@
             "This",
             "That"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "This = esto, cercano (lo tienes en la mano).",
+            "That señala algo alejado, no lo que tienes en la mano."
+          ]
         },
         {
           "id": "b01-s4q3",
@@ -738,7 +842,11 @@
             "These",
             "This"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "These = estos: plural y cerca (on my desk).",
+            "«This» es singular; documents es plural."
+          ]
         },
         {
           "id": "b01-s4q4",
@@ -747,7 +855,11 @@
             "This",
             "That"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "This = este: singular y cerca (here).",
+            "«That» es para algo alejado; aquí dice here."
+          ]
         },
         {
           "id": "b01-s4q5",
@@ -756,7 +868,11 @@
             "These",
             "Those"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "These indica cercanía; las montañas están a lo lejos.",
+            "Those = aquellas: plural y lejos (in the distance)."
+          ]
         },
         {
           "id": "b01-s4q6",
@@ -765,7 +881,11 @@
             "these",
             "those"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«These» es para cosas cercanas; las cajas están over there.",
+            "Those: plural y alejado (over there)."
+          ]
         },
         {
           "id": "b01-s4q7",
@@ -774,7 +894,11 @@
             "This",
             "That"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "This: la llave está en tu mano, cerca.",
+            "That sería para algo alejado; aquí la tienes en la mano."
+          ]
         },
         {
           "id": "b01-s4q8",
@@ -783,7 +907,11 @@
             "this",
             "that"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«This night» sería esta noche (ahora); aquí es una noche pasada.",
+            "That: lejano en el tiempo (aquella noche)."
+          ]
         }
       ],
       "produce": {
@@ -914,7 +1042,11 @@
             "who",
             "which"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Who es para personas; un libro es una cosa.",
+            "Which: relativo para cosas (the book which…)."
+          ]
         },
         {
           "id": "b01-s5q2",
@@ -923,7 +1055,11 @@
             "who",
             "whose"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Who no expresa posesión; hace falta «cuyo».",
+            "Whose = cuyo: the client whose bag… (el cliente cuyo bolso)."
+          ]
         },
         {
           "id": "b01-s5q3",
@@ -932,7 +1068,11 @@
             "where",
             "which"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Where = donde, para lugares: the hotel where I used to work.",
+            "«Which» necesitaría preposición: the hotel which I used to work at."
+          ]
         },
         {
           "id": "b01-s5q4",
@@ -941,7 +1081,11 @@
             "which",
             "who"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Which es para cosas; el camarero es una persona.",
+            "Who: relativo para personas (the waiter who served us)."
+          ]
         },
         {
           "id": "b01-s5q5",
@@ -950,7 +1094,11 @@
             "who",
             "which"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Who es para personas; un email es una cosa.",
+            "Which: relativo para cosas (the email which arrived…)."
+          ]
         },
         {
           "id": "b01-s5q6",
@@ -959,7 +1107,11 @@
             "whose",
             "who's"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Whose = cuyo: the guest whose passport (el huésped cuyo pasaporte).",
+            "«Who's» es who is: no expresa posesión."
+          ]
         },
         {
           "id": "b01-s5q7",
@@ -968,7 +1120,11 @@
             "which",
             "where"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Which» necesitaría preposición al final (which I work in).",
+            "Where = donde: the office where I work."
+          ]
         },
         {
           "id": "b01-s5q8",
@@ -977,7 +1133,11 @@
             "that",
             "who"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Tras coma (relativa explicativa) no se usa that.",
+            "Tras coma y con persona: who (my boss, who called me…)."
+          ]
         }
       ],
       "produce": {
@@ -1108,7 +1268,11 @@
             "them",
             "themselves"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Them» haría referencia a otras personas, no a ellos mismos.",
+            "Reflexivo: el sujeto y el objeto son los mismos (blamed themselves)."
+          ]
         },
         {
           "id": "b01-s6q2",
@@ -1117,7 +1281,11 @@
             "myself",
             "me"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Enfático: «yo mismo», lo hice sin ayuda.",
+            "«Me» no da el sentido de «yo mismo»; I made this cake me es incorrecto."
+          ]
         },
         {
           "id": "b01-s6q3",
@@ -1126,7 +1294,11 @@
             "you",
             "yourself"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Make you at home» no es la expresión; necesita reflexivo.",
+            "Make yourself at home = estás en tu casa."
+          ]
         },
         {
           "id": "b01-s6q4",
@@ -1135,7 +1307,11 @@
             "him",
             "himself"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«He cut him» sería a otra persona.",
+            "Reflexivo: se cortó a sí mismo (cut himself)."
+          ]
         },
         {
           "id": "b01-s6q5",
@@ -1144,7 +1320,11 @@
             "ourselves",
             "us"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Enfático: lo pintamos nosotros mismos, sin ayuda.",
+            "«Us» no tiene valor enfático ni reflexivo aquí."
+          ]
         },
         {
           "id": "b01-s6q6",
@@ -1153,7 +1333,11 @@
             "yourself",
             "yourselves"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Yourself» es singular; everyone indica varias personas.",
+            "Plural porque se dirige a todos: help yourselves."
+          ]
         },
         {
           "id": "b01-s6q7",
@@ -1162,7 +1346,11 @@
             "it",
             "itself"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Updates it» sería actualizar otra cosa.",
+            "Reflexivo de cosa: la app se actualiza sola (itself)."
+          ]
         },
         {
           "id": "b01-s6q8",
@@ -1171,7 +1359,11 @@
             "herself",
             "her"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Enfático: lo escribió ella misma.",
+            "«Her» haría pensar en otra persona; no es enfático."
+          ]
         }
       ],
       "produce": {
@@ -1302,7 +1494,11 @@
             "Nobody",
             "Anybody"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Nobody ya es negativo: con verbo afirmativo significa nadie.",
+            "«Anybody was at home» no es correcto como negación; se usa con verbo negativo."
+          ]
         },
         {
           "id": "b01-s7q2",
@@ -1311,7 +1507,11 @@
             "something",
             "anything"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En ofrecimientos se usa some-: something to drink.",
+            "Anything se usa en preguntas neutras y negativas, no en ofrecimientos."
+          ]
         },
         {
           "id": "b01-s7q3",
@@ -1320,7 +1520,11 @@
             "nobody",
             "anybody"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con verbo ya negativo (didn't) no se usa nobody: sería doble negación.",
+            "Con verbo negativo, any-: I didn't tell anybody."
+          ]
         },
         {
           "id": "b01-s7q4",
@@ -1329,7 +1533,11 @@
             "Someone",
             "Anyone"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Someone en pregunta suena a que esperas que alguien lo sepa; aquí es una pregunta abierta.",
+            "Pregunta abierta: Anyone knows…? (¿alguien sabe…?)."
+          ]
         },
         {
           "id": "b01-s7q5",
@@ -1338,7 +1546,11 @@
             "nothing",
             "anything"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Nothing con verbo afirmativo = no hay nada.",
+            "«There's anything» no niega; necesitaría verbo negativo (isn't anything)."
+          ]
         },
         {
           "id": "b01-s7q6",
@@ -1347,7 +1559,11 @@
             "anything",
             "something"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "En afirmativas no se usa anything con el sentido de «algo».",
+            "En afirmativas y peticiones: something to eat."
+          ]
         },
         {
           "id": "b01-s7q7",
@@ -1356,7 +1572,11 @@
             "nobody",
             "anybody"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con verbo negativo (couldn't), nobody sería doble negación.",
+            "Con verbo negativo, any-: couldn't reach anybody."
+          ]
         },
         {
           "id": "b01-s7q8",
@@ -1365,7 +1585,11 @@
             "Everything",
             "Anything"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Everything = todo: todo estuvo listo a tiempo.",
+            "«Anything was ready» no tiene sentido en afirmativa."
+          ]
         }
       ],
       "produce": {
@@ -1496,7 +1720,11 @@
             "somewhere",
             "everywhere"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Somewhere = en algún sitio; aquí es por todas partes.",
+            "Everywhere = en todas partes."
+          ]
         },
         {
           "id": "b01-s8q2",
@@ -1505,7 +1733,11 @@
             "nowhere",
             "anywhere"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Nowhere con verbo afirmativo = no hay ningún sitio.",
+            "«There's anywhere» no niega; haría falta isn't anywhere."
+          ]
         },
         {
           "id": "b01-s8q3",
@@ -1514,7 +1746,11 @@
             "anywhere",
             "somewhere"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En preguntas neutras, any-: anywhere near here?",
+            "Somewhere en pregunta presupone que sí existe; la pregunta neutra pide anywhere."
+          ]
         },
         {
           "id": "b01-s8q4",
@@ -1523,7 +1759,11 @@
             "to here",
             "here"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Come to here» es incorrecto: here no lleva preposición.",
+            "Here ya indica lugar: Come here."
+          ]
         },
         {
           "id": "b01-s8q5",
@@ -1532,7 +1772,11 @@
             "everywhere",
             "somewhere"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Everywhere = he buscado por todas partes.",
+            "Somewhere = en algún sitio; no expresa «por todas partes»."
+          ]
         },
         {
           "id": "b01-s8q6",
@@ -1541,7 +1785,11 @@
             "anywhere",
             "nowhere"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«There's anywhere» no niega; haría falta isn't anywhere.",
+            "Nowhere con verbo afirmativo = en ningún sitio."
+          ]
         },
         {
           "id": "b01-s8q7",
@@ -1550,7 +1798,11 @@
             "anywhere",
             "somewhere"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pregunta neutra: anywhere around here?",
+            "Somewhere en pregunta da por hecho que existe; aquí se pregunta en general."
+          ]
         },
         {
           "id": "b01-s8q8",
@@ -1559,7 +1811,11 @@
             "anywhere",
             "somewhere"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "En afirmativa, anywhere significa «cualquier sitio», no «algún sitio».",
+            "Afirmativa: somewhere quiet = algún sitio tranquilo."
+          ]
         }
       ],
       "produce": {
@@ -1690,7 +1946,11 @@
             "a",
             "an"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Honour empieza por sonido vocálico (la h no suena): an.",
+            "Delante de sonido vocálico (/ɒ/ de honour) se usa an."
+          ]
         },
         {
           "id": "b01-s9q2",
@@ -1699,7 +1959,11 @@
             "a",
             "the"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Primera mención de un hotel cualquiera: a hotel.",
+            "The se usa cuando ya se sabe de qué hotel se habla."
+          ]
         },
         {
           "id": "b01-s9q3",
@@ -1708,7 +1972,11 @@
             "a",
             "the"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«A door» sería una puerta cualquiera; aquí se sabe cuál.",
+            "The: la puerta concreta (la que tienes detrás)."
+          ]
         },
         {
           "id": "b01-s9q4",
@@ -1717,7 +1985,11 @@
             "a",
             "an"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Hour se pronuncia con sonido vocálico (/aʊ/): an hour.",
+            "An delante de sonido vocálico: an hour."
+          ]
         },
         {
           "id": "b01-s9q5",
@@ -1726,7 +1998,11 @@
             "Ø (sin artículo)",
             "The"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Plural en sentido general: sin artículo (guests appreciate…).",
+            "«The guests» serían unos huéspedes concretos, no en general."
+          ]
         },
         {
           "id": "b01-s9q6",
@@ -1735,7 +2011,11 @@
             "a",
             "an"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "University empieza con sonido /j/ (consonante): a university.",
+            "«An» va con sonido vocálico; university suena /ju/."
+          ]
         },
         {
           "id": "b01-s9q7",
@@ -1744,7 +2024,11 @@
             "a",
             "the"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«A book» sería un libro cualquiera, pero ya sabemos cuál.",
+            "The: el libro concreto que me recomendaste."
+          ]
         },
         {
           "id": "b01-s9q8",
@@ -1753,7 +2037,11 @@
             "the",
             "Ø (sin artículo)"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«The free parking» sería un aparcamiento concreto ya mencionado.",
+            "Incontable en sentido general: sin artículo."
+          ]
         }
       ],
       "produce": {
@@ -1884,7 +2172,11 @@
             "some",
             "any"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Some en afirmativas: there are some messages.",
+            "Any se usa en negativas y preguntas, no en afirmativas así."
+          ]
         },
         {
           "id": "b01-s10q2",
@@ -1893,7 +2185,11 @@
             "some",
             "any"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Some no va con frase negativa (don't need).",
+            "Negativa: any (I don't need any help)."
+          ]
         },
         {
           "id": "b01-s10q3",
@@ -1902,7 +2198,11 @@
             "some",
             "any"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "En ofrecimientos se usa some aunque sea pregunta.",
+            "Any en un ofrecimiento suena menos amable; se espera some."
+          ]
         },
         {
           "id": "b01-s10q4",
@@ -1911,7 +2211,11 @@
             "no",
             "any"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "No + verbo afirmativo = no hay nada de tiempo que perder.",
+            "«There's any time» no niega; necesitaría isn't any."
+          ]
         },
         {
           "id": "b01-s10q5",
@@ -1920,7 +2224,11 @@
             "some",
             "any"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Some en pregunta presupone que sí hay; aquí es pregunta neutra.",
+            "Pregunta neutra: Is there any coffee left?"
+          ]
         },
         {
           "id": "b01-s10q6",
@@ -1929,7 +2237,11 @@
             "any",
             "no"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Any en afirmativa = cualquiera: cualquier mesa vale.",
+            "«No table is fine» diría que ninguna mesa está bien."
+          ]
         },
         {
           "id": "b01-s10q7",
@@ -1938,7 +2250,11 @@
             "any",
             "some"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Any no va en afirmativas con sentido de «algo de».",
+            "Afirmativa con incontable: some progress."
+          ]
         },
         {
           "id": "b01-s10q8",
@@ -1947,7 +2263,11 @@
             "no",
             "any"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "No + verbo afirmativo: no tienen ni idea.",
+            "«Have any idea» en afirmativa no niega; haría falta don't have any."
+          ]
         }
       ],
       "produce": {
@@ -2078,7 +2398,11 @@
             "many",
             "much"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Many va con contables; luggage es incontable.",
+            "Much con incontables: How much luggage…?"
+          ]
         },
         {
           "id": "b01-s11q2",
@@ -2087,7 +2411,11 @@
             "a lot of",
             "much"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A lot of sirve con contables en afirmativa: a lot of tourists.",
+            "Much casi no se usa en afirmativas, y tourists es contable."
+          ]
         },
         {
           "id": "b01-s11q3",
@@ -2096,7 +2424,11 @@
             "a few",
             "few"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A few = unas pocas (sentido positivo: aún quedan).",
+            "Few = pocas (sentido negativo, casi ninguna); aquí se anima a reservar."
+          ]
         },
         {
           "id": "b01-s11q4",
@@ -2105,7 +2437,11 @@
             "a few",
             "few"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "A few tiene sentido positivo; aquí es una pena (sadly).",
+            "Few = casi nadie (sentido negativo)."
+          ]
         },
         {
           "id": "b01-s11q5",
@@ -2114,7 +2450,11 @@
             "a little",
             "a few"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "A little = un poco, con incontables (salt).",
+            "A few va con contables; salt es incontable."
+          ]
         },
         {
           "id": "b01-s11q6",
@@ -2123,7 +2463,11 @@
             "much",
             "many"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Much va con incontables; nights es contable.",
+            "Many con contables: How many nights…?"
+          ]
         },
         {
           "id": "b01-s11q7",
@@ -2132,7 +2476,11 @@
             "a little",
             "little"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "A little tiene sentido positivo («un poco»); aquí es casi nada.",
+            "Little = poco, casi nada (sentido negativo)."
+          ]
         },
         {
           "id": "b01-s11q8",
@@ -2141,7 +2489,11 @@
             "many",
             "much"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Many va con contables; time es incontable.",
+            "Much con incontables en negativa: much time."
+          ]
         }
       ],
       "produce": {
@@ -2272,7 +2624,11 @@
             "Every",
             "All"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Every + sustantivo singular: every room has…",
+            "All necesita plural (all rooms have) o incontable."
+          ]
         },
         {
           "id": "b01-s12q2",
@@ -2281,7 +2637,11 @@
             "Both",
             "All"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Both es solo para dos; aquí son más de dos hoteles.",
+            "All: todos (tres o más)."
+          ]
         },
         {
           "id": "b01-s12q3",
@@ -2290,7 +2650,11 @@
             "both",
             "every"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Both = los dos, exactamente dos.",
+            "Every no se usa para dos elementos y va con singular."
+          ]
         },
         {
           "id": "b01-s12q4",
@@ -2299,7 +2663,11 @@
             "Every",
             "Each"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Every no se usa con «of the two» ni para dos elementos.",
+            "Each = cada uno, también de dos: each of the two."
+          ]
         },
         {
           "id": "b01-s12q5",
@@ -2308,7 +2676,11 @@
             "all",
             "every"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "All summer = todo el verano.",
+            "Every summer = cada verano (todos los veranos), otro sentido."
+          ]
         },
         {
           "id": "b01-s12q6",
@@ -2317,7 +2689,11 @@
             "Each",
             "Every"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Each subraya cada uno por separado; para una generalización encaja mejor every.",
+            "Every generaliza: todo huésped merece atención."
+          ]
         },
         {
           "id": "b01-s12q7",
@@ -2326,7 +2702,11 @@
             "Both",
             "All"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Both es solo para dos personas.",
+            "All of us: todos nosotros (tres o más)."
+          ]
         },
         {
           "id": "b01-s12q8",
@@ -2335,7 +2715,11 @@
             "each",
             "all"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Each = cada uno por separado: a cada niño un regalo.",
+            "All necesita plural (all the children)."
+          ]
         }
       ],
       "produce": {
@@ -2466,7 +2850,11 @@
             "Neither",
             "None"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Neither = ninguno de los dos, con verbo afirmativo.",
+            "None se usa para tres o más."
+          ]
         },
         {
           "id": "b01-s13q2",
@@ -2475,7 +2863,11 @@
             "Neither",
             "None"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Neither es solo para dos; aquí son diez.",
+            "None = ninguno de un grupo de tres o más."
+          ]
         },
         {
           "id": "b01-s13q3",
@@ -2484,7 +2876,11 @@
             "either",
             "none"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Either = cualquiera de los dos lados.",
+            "None no se usa con side ni para dos."
+          ]
         },
         {
           "id": "b01-s13q4",
@@ -2493,7 +2889,11 @@
             "or",
             "nor"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Neither… or no es correcto: neither va con nor.",
+            "Neither… nor = ni… ni."
+          ]
         },
         {
           "id": "b01-s13q5",
@@ -2502,7 +2902,11 @@
             "either",
             "neither"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Either… or = o… o (uno u otro).",
+            "Neither va con nor y significa «ni… ni»."
+          ]
         },
         {
           "id": "b01-s13q6",
@@ -2511,7 +2915,11 @@
             "None",
             "Neither"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "None se usa con tres o más, y no va directamente delante de sustantivo.",
+            "Neither + singular = ninguna de las dos."
+          ]
         },
         {
           "id": "b01-s13q7",
@@ -2520,7 +2928,11 @@
             "Neither",
             "Either"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Neither am I = yo tampoco (respuesta a una negativa).",
+            "Either va al final: I'm not either. No se dice «Either am I»."
+          ]
         },
         {
           "id": "b01-s13q8",
@@ -2529,7 +2941,11 @@
             "Neither",
             "None"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Neither es solo para dos; los huéspedes son un grupo.",
+            "None of = ninguno de un grupo."
+          ]
         }
       ],
       "produce": {
@@ -2660,7 +3076,11 @@
             "boss's",
             "boss of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Persona singular + 's: the boss's car.",
+            "«The boss of car» es incorrecto; para personas se usa 's."
+          ]
         },
         {
           "id": "b01-s14q2",
@@ -2669,7 +3089,11 @@
             "guests's",
             "guests'"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Guests's» es incorrecto: el plural en -s solo lleva apóstrofo.",
+            "Plural en -s: apóstrofo detrás (guests')."
+          ]
         },
         {
           "id": "b01-s14q3",
@@ -2678,7 +3102,11 @@
             "price of",
             "price's"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Con cosas se prefiere of: the price of the tour.",
+            "El genitivo 's es sobre todo para personas, no para cosas así."
+          ]
         },
         {
           "id": "b01-s14q4",
@@ -2687,7 +3115,11 @@
             "childrens'",
             "children's"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Childrens'» es incorrecto: children no acaba en -s.",
+            "Plural irregular sin -s: se añade 's (children's)."
+          ]
         },
         {
           "id": "b01-s14q5",
@@ -2696,7 +3128,11 @@
             "hour delay",
             "hour's delay"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Con expresiones de tiempo se usa el genitivo: an hour's delay.",
+            "Expresión de tiempo: an hour's delay = un retraso de una hora."
+          ]
         },
         {
           "id": "b01-s14q6",
@@ -2705,7 +3141,11 @@
             "design of",
             "design's"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Con cosas se usa of: the design of the building.",
+            "«The design's» no se usa con edificios; es para personas."
+          ]
         },
         {
           "id": "b01-s14q7",
@@ -2714,7 +3154,11 @@
             "Ana's and Luis's",
             "Ana and Luis's"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«Ana's and Luis's report» indicaría dos informes distintos.",
+            "Posesión compartida: solo el último lleva 's."
+          ]
         },
         {
           "id": "b01-s14q8",
@@ -2723,7 +3167,11 @@
             "company's",
             "company of"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Empresa (grupo de personas) + 's: the company's decision.",
+            "«The company of decision» es incorrecto; sería the decision of the company."
+          ]
         }
       ],
       "produce": {
@@ -2854,7 +3302,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "One sustituye a un sustantivo contable singular (room).",
+            "Ones es plural; room es singular."
+          ]
         },
         {
           "id": "b01-s15q2",
@@ -2863,7 +3315,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "One es singular; chairs es plural.",
+            "Ones sustituye a un plural (the old ones)."
+          ]
         },
         {
           "id": "b01-s15q3",
@@ -2872,7 +3328,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "One: cuál (habitación, cosa singular).",
+            "Ones es plural; aquí se elige una sola cosa."
+          ]
         },
         {
           "id": "b01-s15q4",
@@ -2881,7 +3341,11 @@
             "correcto",
             "incorrecto: no se usa 'one'"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "One no puede sustituir a un incontable como water.",
+            "Correcto: con incontables no se usa one (some water)."
+          ]
         },
         {
           "id": "b01-s15q5",
@@ -2890,7 +3354,11 @@
             "one",
             "it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "One = uno cualquiera: olvidé traer uno.",
+            "It sería el mismo cargador concreto, no «uno»."
+          ]
         },
         {
           "id": "b01-s15q6",
@@ -2899,7 +3367,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "One es singular; el verbo are pide plural.",
+            "Ones: plural (the quiet ones are…)."
+          ]
         },
         {
           "id": "b01-s15q7",
@@ -2908,7 +3380,11 @@
             "ones",
             "one"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "Ones es plural; key es singular.",
+            "One: singular (the other one)."
+          ]
         },
         {
           "id": "b01-s15q8",
@@ -2917,7 +3393,11 @@
             "one",
             "ones"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "One es singular; el verbo are pide plural.",
+            "Ones: plural (Which ones are…?)."
+          ]
         }
       ],
       "produce": {
@@ -3048,7 +3528,11 @@
             "There is",
             "It is"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "There is = hay (existencia, singular).",
+            "«It is a problem» no significa «hay un problema»."
+          ]
         },
         {
           "id": "b01-s16q2",
@@ -3057,7 +3541,11 @@
             "There's",
             "It's"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«There's raining» no existe: el tiempo atmosférico va con it.",
+            "It's para el tiempo: It's raining."
+          ]
         },
         {
           "id": "b01-s16q3",
@@ -3066,7 +3554,11 @@
             "There are",
             "It are"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "There are = hay (plural).",
+            "«It are» es incorrecto: it es singular y no expresa existencia."
+          ]
         },
         {
           "id": "b01-s16q4",
@@ -3075,7 +3567,11 @@
             "There's",
             "It's"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "La hora no va con there.",
+            "It's para la hora: It's two o'clock."
+          ]
         },
         {
           "id": "b01-s16q5",
@@ -3084,7 +3580,11 @@
             "Are there",
             "Is it"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "Pregunta de existencia en plural: Are there any…?",
+            "«Is it any rooms» no tiene sentido; hay = there is/are."
+          ]
         },
         {
           "id": "b01-s16q6",
@@ -3093,7 +3593,11 @@
             "There's",
             "It's"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "La distancia no va con there.",
+            "It's para la distancia: It's a long way."
+          ]
         },
         {
           "id": "b01-s16q7",
@@ -3102,7 +3606,11 @@
             "It's",
             "There's"
           ],
-          "correctIndex": 1
+          "correctIndex": 1,
+          "explain": [
+            "«It's no hot water» no expresa existencia.",
+            "There's no = no hay."
+          ]
         },
         {
           "id": "b01-s16q8",
@@ -3111,7 +3619,11 @@
             "It's",
             "There's"
           ],
-          "correctIndex": 0
+          "correctIndex": 0,
+          "explain": [
+            "It's + adjetivo + to: It's important to arrive early.",
+            "There's no se usa para valorar (important)."
+          ]
         }
       ],
       "produce": {

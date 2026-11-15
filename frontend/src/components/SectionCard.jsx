@@ -1,4 +1,5 @@
 import RichText from "./RichText";
+import EnText from "./EnText";
 import Table from "./Table";
 import Quiz from "./Quiz";
 import ProduceBox from "./ProduceBox";
@@ -87,7 +88,7 @@ export default function SectionCard({ section }) {
           {section.examples.map((ex, i) => (
             <li key={i}>
               <HighlightButton id={`hl:${section.idx}-ex${i}`} label="ejemplo destacado" />
-              <RichText className="ex-en" html={ex.en} />
+              <EnText className="ex-en" html={ex.en} />
               <SpeakButton text={ex.en} title="Escuchar el ejemplo" className="ex-speak" />
               {ex.es && <span className="ex-es">{ex.es}</span>}
             </li>

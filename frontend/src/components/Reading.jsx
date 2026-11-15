@@ -1,5 +1,6 @@
 import { useState } from "react";
 import RichText from "./RichText";
+import EnText from "./EnText";
 import HighlightButton from "./HighlightButton";
 import SpeakButton from "./SpeakButton";
 
@@ -28,7 +29,7 @@ export default function Reading({ reading, hlId }) {
         </p>
       )}
 
-      <RichText as="div" className="reading-text" html={r.text} />
+      <EnText as="div" className="reading-text" html={r.text} />
 
       {glossary.length > 0 && (
         <div className="reading-gloss">
@@ -44,7 +45,7 @@ export default function Reading({ reading, hlId }) {
               {glossary.map((g, i) => (
                 <div key={i} className="reading-gloss-row">
                   <dt>
-                    <RichText as="span" html={g.en} />
+                    <EnText as="span" html={g.en} />
                   </dt>
                   <dd>{g.es}</dd>
                 </div>

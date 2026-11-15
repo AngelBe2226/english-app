@@ -79,6 +79,7 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
       expanded !== "placement" &&
       expanded !== "cambridge" &&
       expanded !== "srs" &&
+      expanded !== "verbs" &&
       expanded !== "sync" &&
       !secCache[expanded]
     ) {
@@ -294,6 +295,26 @@ export default function Sidebar({ index, current, onSelectBlock, onGoToSection }
               />
             </svg>
             Repaso diario
+          </button>
+          </div>
+
+          <div className="nav-group">
+            <span className="nav-group-label">Anexo</span>
+          <button
+            className={"nav-pin" + (current === "verbs" ? " current" : "")}
+            onClick={() => onSelectBlock("verbs")}
+          >
+            <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true">
+              <path
+                d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z M5 17a3 3 0 0 1 3-3h11 M9 8h6"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.7"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            Verbos y conjugación
           </button>
           </div>
 

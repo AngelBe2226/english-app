@@ -86,10 +86,6 @@ export default function WordTipLayer() {
     }
     function onKey(e) {
       if (e.key === "Escape") close();
-      if ((e.key === "Enter" || e.key === " ") && isWord(e.target)) {
-        e.preventDefault();
-        show(e.target, true);
-      }
     }
     const onScroll = () => close();
     document.addEventListener("pointerover", onOver);
@@ -191,10 +187,10 @@ function VerbForms({ v }) {
   return (
     <>
       <dl className="wt-parts">
-        <div><dt>infinitivo</dt><dd>{p.base}</dd></div>
+        <div><dt>base</dt><dd>{p.base}</dd></div>
         <div><dt>3ª pers.</dt><dd>{p.s3}</dd></div>
         <div><dt>pasado</dt><dd>{p.past.join(" / ")}</dd></div>
-        <div><dt>participio</dt><dd>{p.pp.join(" / ")}</dd></div>
+        <div><dt>particip.</dt><dd>{p.pp.join(" / ")}</dd></div>
         <div><dt>-ing</dt><dd>{p.ing}</dd></div>
       </dl>
       <div className="wt-actions">

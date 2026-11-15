@@ -1,5 +1,6 @@
 import { useState } from "react";
 import RichText from "./RichText";
+import EnText from "./EnText";
 import HighlightButton from "./HighlightButton";
 
 // Traducción inversa (ES → EN): el alumno lee la frase en español, intenta
@@ -41,7 +42,7 @@ export default function Translate({ items, title, hlId }) {
             <li key={i} className="tr-row">
               <span className="tr-es">{it.es}</span>
               {shown ? (
-                <RichText className="tr-en" html={it.en} />
+                <EnText className="tr-en" html={it.en} />
               ) : (
                 <button
                   className="tr-reveal"

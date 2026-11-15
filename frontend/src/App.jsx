@@ -13,10 +13,12 @@ import CambridgeExam from "./panels/CambridgeExam";
 import SrsReview from "./panels/SrsReview";
 import HomePage from "./panels/HomePage";
 import SyncPanel from "./panels/SyncPanel";
+import VerbsPanel from "./panels/VerbsPanel";
+import WordTipLayer from "./components/WordTip";
 import { LoadingSkeleton, ErrorState } from "./components/StateViews";
 
 // Vistas que no son bloques de contenido (no se cargan del API).
-const PANELS = new Set(["home", "highlights", "placement", "cambridge", "srs", "sync"]);
+const PANELS = new Set(["home", "highlights", "placement", "cambridge", "srs", "sync", "verbs"]);
 const PANEL_TITLES = {
   home: "Inicio",
   highlights: "Destacados",
@@ -24,6 +26,7 @@ const PANEL_TITLES = {
   cambridge: "Simulacro Cambridge",
   srs: "Repaso diario",
   sync: "Sincronizar",
+  verbs: "Verbos",
 };
 
 function scrollToSection(idx) {
@@ -131,6 +134,19 @@ export default function App() {
     setMenuOpen(false);
   }
 
+  // «Conjugación completa →» desde la ficha de una palabra abre el anexo.
+  const [verbToOpen, setVerbToOpen] = useState(null);
+  useEffect(() => {
+    const onOpen = (e) => {
+      setVerbToOpen(e.detail);
+      setCurrent("verbs");
+      setMenuOpen(false);
+      window.scrollTo({ top: 0, behavior: "instant" });
+    };
+    window.addEventListener("open-verb", onOpen);
+    return () => window.removeEventListener("open-verb", onOpen);
+  }, []);
+
   function goToSection(targetBlock, idx) {
     setMenuOpen(false);
     if (targetBlock === current) {
@@ -196,6 +212,7 @@ export default function App() {
         </div>
       </aside>
 
+      <WordTipLayer />
       <main className="content">
         {!loaded || loadingBlock ? (
           <LoadingSkeleton />
@@ -211,6 +228,8 @@ export default function App() {
           <SrsReview />
         ) : current === "sync" ? (
           <SyncPanel />
+        ) : current === "verbs" ? (
+          <VerbsPanel initialVerb={verbToOpen} />
         ) : !block ? (
           <ErrorState blockId={current} onRetry={() => setReloadNonce((n) => n + 1)} />
         ) : current === "15" ? (

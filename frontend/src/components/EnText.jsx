@@ -21,11 +21,11 @@ export function wrapWords(html, lex) {
     .split(/(<[^>]+>)/)
     .map((chunk) => {
       if (chunk.startsWith("<")) return chunk;
-      return chunk.replace(/[\u0001\u0002]|&#?\w+;|[A-Za-z]+(?:['’][A-Za-z]+)*/g, (t) => {
+      return chunk.replace(/[\u0001\u0002]|&#?\w+;|(?<![0-9A-Za-z])[A-Za-z]+(?:['’][A-Za-z]+)*(?![0-9])/g, (t) => {
         if (t === "\u0001") return (skip++, "");
         if (t === "\u0002") return (skip--, "");
         if (skip > 0 || t.startsWith("&")) return t;
-        return lex.lookup(t) ? `<span class="w" data-w="${t}" tabindex="0">${t}</span>` : t;
+        return lex.lookup(t) ? `<span class="w" data-w="${t}">${t}</span>` : t;
       });
     })
     .join("");

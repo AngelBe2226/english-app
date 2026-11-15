@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import RichText from "./RichText";
+import EnText from "./EnText";
 import { useProgress } from "../progress";
 import HighlightButton from "./HighlightButton";
 
@@ -76,7 +77,7 @@ export default function ProduceBox({ produce }) {
       {produce.model && showModel && (
         <div className="produce-model">
           <span className="model-tag">ejemplo modelo</span>
-          <RichText as="div" className="model-body" html={produce.model} />
+          <EnText as="div" className="model-body" html={produce.model} />
         </div>
       )}
     </div>

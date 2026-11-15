@@ -1,5 +1,6 @@
 import { useState } from "react";
 import RichText from "./RichText";
+import EnText from "./EnText";
 import HighlightButton from "./HighlightButton";
 import SpeakButton from "./SpeakButton";
 import { stripHtml } from "../speech";
@@ -76,7 +77,7 @@ export default function Dialogue({ dialogue, title, hlId }) {
                 ) : (
                   <>
                     <span className="dlg-en-row">
-                      <RichText className="dlg-en" html={t.en} />
+                      <EnText className="dlg-en" html={t.en} />
                       <SpeakButton text={t.en} title="Escuchar esta frase" className="dlg-speak" />
                     </span>
                     {t.es && <span className="dlg-es">{t.es}</span>}
