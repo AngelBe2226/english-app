@@ -24,3 +24,6 @@ frontend/public/content/
 
 # Registro local del generador de audios
 scripts/audio/.state/
+scripts/audio/.venv/
+scripts/audio/.models/
+scripts/audio/.samples/
