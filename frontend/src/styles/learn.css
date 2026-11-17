@@ -411,3 +411,38 @@
   .verb-parts { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 0.6rem; }
   .verb-parts > div:nth-child(3) { border-left: 0; padding-left: 0; }
 }
+
+/* ---------- Botón de audio (icono propio) ---------- */
+.speak-btn { color: var(--iris); }
+.speak-ico { display: block; overflow: visible; }
+.speak-stop { opacity: 0; transition: opacity 0.12s; }
+.speak-btn.speaking:hover .speak-stop { opacity: 1; }
+.speak-btn.speaking:hover .speak-ico > path { opacity: 0; }
+.speak-btn.speaking .speak-wave { animation: speak-pulse 0.9s ease-in-out infinite; }
+.speak-btn.speaking .w2 { animation-delay: 0.18s; }
+@keyframes speak-pulse {
+  0%, 100% { opacity: 0.25; }
+  50% { opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .speak-btn.speaking .speak-wave { animation: none; }
+}
+
+/* Filas de la conjugación: se pueden escuchar tocándolas. */
+.tense-row { cursor: pointer; }
+.tense-row td { position: relative; padding-right: 1.6rem; }
+.tense-row .row-ico {
+  position: absolute;
+  right: 0.1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--iris);
+  opacity: 0.35;
+  transition: opacity 0.12s;
+}
+.tense-row:hover .row-ico,
+.tense-row:focus-visible .row-ico,
+.tense-row.playing .row-ico { opacity: 1; }
+.tense-row.playing td { color: var(--iris); }
+.tense-row:focus-visible { outline: 2px solid var(--iris); outline-offset: -2px; }
+.ai-voice-note { font-size: 0.78rem; color: var(--ink-faint); margin: 0.4rem 0 0; }

@@ -39,6 +39,17 @@ export default defineConfig({
         navigateFallbackDenylist: [/^\/api\//],
         runtimeCaching: [
           {
+            // Audios de voz real (R2): lo escuchado una vez queda guardado y
+            // suena sin conexión. Nombre = hash del texto, así que nunca cambia.
+            urlPattern: ({ url }) => /\/[\w-]+\/[0-9a-f]{2}\/[0-9a-f]{14}\.mp3$/.test(url.pathname),
+            handler: "CacheFirst",
+            options: {
+              cacheName: "voice-audio",
+              expiration: { maxEntries: 60000, maxAgeSeconds: 60 * 60 * 24 * 730 },
+              cacheableResponse: { statuses: [200] },
+            },
+          },
+          {
             // Google Fonts (hoja de estilos) — disponible offline tras la 1ª carga.
             urlPattern: ({ url }) => url.origin === "https://fonts.googleapis.com",
             handler: "StaleWhileRevalidate",

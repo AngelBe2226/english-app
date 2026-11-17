@@ -3,7 +3,6 @@ import RichText from "./RichText";
 import EnText from "./EnText";
 import HighlightButton from "./HighlightButton";
 import SpeakButton from "./SpeakButton";
-import { stripHtml } from "../speech";
 
 // A conversation block for thematic units. Renders speaker turns (English +
 // optional Spanish gloss) and offers a role-play mode: pick a speaker and
@@ -29,7 +28,7 @@ export default function Dialogue({ dialogue, title, hlId }) {
         <SpeakButton
           className="dlg-speak-all"
           title="Escuchar todo el diálogo"
-          text={() => turns.map((t) => stripHtml(t.en)).join(". ")}
+          text={() => turns.map((t) => t.en)}
         />
       </div>
 

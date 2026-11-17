@@ -5,6 +5,7 @@ import { ROUTES } from "../data/placement";
 import { srsFromProgress, stats, earnedBadges } from "../srs";
 import { K_LAST_BLOCK, K_PLACEMENT } from "../keys";
 import SpeakButton from "../components/SpeakButton";
+import { audioEnabled } from "../audio/player";
 
 function parse(raw) {
   try {
@@ -154,6 +155,7 @@ export default function HomePage({ index, onSelectBlock }) {
             <span className="hl">{phrase.en}</span>
             <SpeakButton text={phrase.en} title="Escuchar la frase" />
           </p>
+          {audioEnabled() && <p className="ai-voice-note">Las voces en inglés están generadas con IA (OpenAI).</p>}
         </section>
       </div>
 

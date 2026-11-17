@@ -195,3 +195,9 @@ export function otherForms(V, { passive = false, tail = "" } = {}) {
 }
 
 export const PASSIVE_TENSES = Object.keys(P);
+
+// Texto que se oye al tocar una fila de la tabla: «he / she / it checks» se
+// lee «he, she, it checks». Lo usan la app y el generador de audios.
+export function rowSpeech(text) {
+  return String(text).replace(/\s\/\s/g, ", ");
+}

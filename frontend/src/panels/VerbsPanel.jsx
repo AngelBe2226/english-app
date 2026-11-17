@@ -1,9 +1,11 @@
 import { useEffect, useMemo, useState } from "react";
 import { useLexicon } from "../lexiconStore";
 import { verbParts } from "../data/lexicon/inflect";
-import { TENSES, PASSIVE_TENSES, conjugateTense, otherForms } from "../data/lexicon/conjugate";
-import SpeakButton from "../components/SpeakButton";
+import { TENSES, PASSIVE_TENSES, conjugateTense, otherForms, rowSpeech } from "../data/lexicon/conjugate";
+import SpeakButton, { SpeakerIcon } from "../components/SpeakButton";
+import { audioEnabled, playTexts, stopAll, unlockAudio } from "../audio/player";
 import { LoadingSkeleton } from "../components/StateViews";
+import { MODALS } from "../data/modals";
 
 // Anexo de verbos: busca o elige un verbo y ve su conjugación completa en
 // todos los tiempos y modos (afirmativa, negativa, pregunta; activa y
@@ -19,21 +21,6 @@ const MODES = [
   ["aff", "Afirmativa"],
   ["neg", "Negativa"],
   ["q", "Pregunta"],
-];
-
-// Los modales no se conjugan: tienen una sola forma y equivalentes para los
-// tiempos que les faltan.
-const MODALS = [
-  { base: "can", es: "poder; saber hacer algo", neg: "can't / cannot", past: "could", other: "be able to (will be able to, have been able to)", ex: "She can speak three languages." },
-  { base: "could", es: "podía, podría; pude", neg: "couldn't", past: "could have + participio", other: "pasado de can y forma cortés", ex: "Could you call a taxi for me?" },
-  { base: "may", es: "poder (permiso formal, posibilidad)", neg: "may not", past: "may have + participio", other: "be allowed to", ex: "May I see your passport, please?" },
-  { base: "might", es: "podría, quizás", neg: "might not", past: "might have + participio", other: "posibilidad más remota que may", ex: "We might need an extra bed." },
-  { base: "must", es: "deber, tener que; deducción segura", neg: "mustn't (prohibición)", past: "had to (obligación) · must have + participio (deducción)", other: "have to", ex: "Guests must check out by noon." },
-  { base: "shall", es: "ofrecimientos y sugerencias", neg: "shan't (raro)", past: "—", other: "sobre todo en preguntas con I / we", ex: "Shall I carry your bags?" },
-  { base: "should", es: "debería (consejo)", neg: "shouldn't", past: "should have + participio", other: "ought to", ex: "You should book the table in advance." },
-  { base: "will", es: "futuro; decisiones y promesas", neg: "won't", past: "would", other: "be going to", ex: "I'll send you the invoice today." },
-  { base: "would", es: "condicional; cortesía", neg: "wouldn't", past: "would have + participio", other: "used to (hábitos pasados)", ex: "Would you like a window seat?" },
-  { base: "ought to", es: "debería (más formal)", neg: "ought not to", past: "ought to have + participio", other: "should", ex: "You ought to apologise to the guest." },
 ];
 
 const norm = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
@@ -98,7 +85,9 @@ export default function VerbsPanel({ initialVerb }) {
           {all.length.toLocaleString("es-ES")} verbos ({irregularCount} irregulares) con su conjugación
           completa: todos los tiempos y modos, en afirmativa, negativa y pregunta, voz activa y pasiva, y un
           ejemplo para cada tiempo. Si buscas uno que no está, se conjuga con las reglas de los regulares.
+          Toca cualquier fila o ejemplo para escucharlo.
         </p>
+        {audioEnabled() && <p className="ai-voice-note">Las voces en inglés están generadas con IA (OpenAI).</p>}
       </header>
 
       <div className="verbs-layout">
@@ -272,10 +261,7 @@ function VerbDetail({ verb, mode, setMode, passive, setPassive }) {
               <table className="tense-table">
                 <tbody>
                   {o.rows.map(([k, v]) => (
-                    <tr key={k}>
-                      <th scope="row">{k}</th>
-                      <td>{v}</td>
-                    </tr>
+                    <SpeakRow key={k} label={k} text={v} />
                   ))}
                 </tbody>
               </table>
@@ -305,10 +291,7 @@ function TenseCard({ t, c }) {
       <table className="tense-table">
         <tbody>
           {c.rows.map((r, i) => (
-            <tr key={i}>
-              <th scope="row">{r.person}</th>
-              <td>{r.text.replace(/^(I|you|he \/ she \/ it|we|they) /, "")}</td>
-            </tr>
+            <SpeakRow key={i} label={r.person} text={r.text} shown={r.text.replace(/^(I|you|he \/ she \/ it|we|they) /, "")} />
           ))}
         </tbody>
       </table>
@@ -350,9 +333,9 @@ function ModalCard({ m }) {
           <div className="tense-name"><b>Formas</b><span>Forms</span></div>
           <table className="tense-table">
             <tbody>
-              <tr><th scope="row">afirmativa</th><td>I / she / they {m.base} work</td></tr>
-              <tr><th scope="row">negativa</th><td>I / she / they {m.neg} work</td></tr>
-              <tr><th scope="row">pregunta</th><td>{m.base === "ought to" ? "Ought I to work?" : `${m.base.charAt(0).toUpperCase() + m.base.slice(1)} I / she / they work?`}</td></tr>
+              <SpeakRow label="afirmativa" text={`I / she / they ${m.base} work`} />
+              <SpeakRow label="negativa" text={`I / she / they ${m.neg.split(" (")[0]} work`} shown={`I / she / they ${m.neg} work`} />
+              <SpeakRow label="pregunta" text={m.base === "ought to" ? "Ought I to work?" : `${m.base.charAt(0).toUpperCase() + m.base.slice(1)} I / she / they work?`} />
               <tr><th scope="row">pasado / perfecto</th><td>{m.past}</td></tr>
               <tr><th scope="row">equivalente</th><td>{m.other}</td></tr>
             </tbody>
@@ -361,5 +344,40 @@ function ModalCard({ m }) {
         </div>
       </div>
     </article>
+  );
+}
+
+// Fila de una tabla de conjugación que se escucha al tocarla.
+let stopCurrentRow = null;
+function SpeakRow({ label, text, shown }) {
+  const [playing, setPlaying] = useState(false);
+  function play() {
+    if (playing) {
+      stopAll();
+      setPlaying(false);
+      return;
+    }
+    stopCurrentRow?.();
+    unlockAudio();
+    setPlaying(true);
+    stopCurrentRow = () => setPlaying(false);
+    playTexts(rowSpeech(text)).finally(() => setPlaying(false));
+  }
+  return (
+    <tr
+      className={"tense-row" + (playing ? " playing" : "")}
+      onClick={play}
+      onKeyDown={(e) => (e.key === "Enter" || e.key === " ") && (e.preventDefault(), play())}
+      tabIndex={0}
+      title="Escuchar"
+    >
+      <th scope="row">{label}</th>
+      <td>
+        {shown ?? text}
+        <span className="row-ico">
+          <SpeakerIcon playing={false} />
+        </span>
+      </td>
+    </tr>
   );
 }
