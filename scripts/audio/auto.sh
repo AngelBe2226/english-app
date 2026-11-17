@@ -8,7 +8,8 @@ REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 ENV_FILE="$REPO_DIR/.env.local"
 [ -f "$ENV_FILE" ] || exit 0
 grep -qE '^\s*AUDIO_AUTO\s*=\s*1' "$ENV_FILE" || exit 0
-grep -qE '^\s*OPENAI_API_KEY\s*=' "$ENV_FILE" || exit 0
+# Sin R2 no se genera en automático (los audios se acumularían en el disco).
+grep -qE '^\s*R2_SECRET_ACCESS_KEY\s*=\s*\S' "$ENV_FILE" || exit 0
 
 LOCK="$REPO_DIR/scripts/audio/.state/auto.lock"
 mkdir -p "$REPO_DIR/scripts/audio/.state"

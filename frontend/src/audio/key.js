@@ -39,7 +39,7 @@ export function audioKey(text) {
 
 // Carpeta de la voz: si cambian la voz o las instrucciones, se cambia aquí y
 // se regenera todo en una carpeta nueva (los audios viejos no se mezclan).
-export const AUDIO_VOICE = "marin-gb-v1";
+export const AUDIO_VOICE = "heart-us-v1";
 
 export function audioPath(text) {
   const k = audioKey(text);

@@ -87,7 +87,7 @@ export default function VerbsPanel({ initialVerb }) {
           ejemplo para cada tiempo. Si buscas uno que no está, se conjuga con las reglas de los regulares.
           Toca cualquier fila o ejemplo para escucharlo.
         </p>
-        {audioEnabled() && <p className="ai-voice-note">Las voces en inglés están generadas con IA (OpenAI).</p>}
+        {audioEnabled() && <p className="ai-voice-note">Las voces en inglés están generadas con IA.</p>}
       </header>
 
       <div className="verbs-layout">

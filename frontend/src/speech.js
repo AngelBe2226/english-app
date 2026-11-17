@@ -23,10 +23,10 @@ function pickEnglishVoice() {
   const voices = synth.getVoices() || [];
   if (!voices.length) return undefined; // aún no cargadas
   const en = voices.filter((v) => /^en(-|_|$)/i.test(v.lang));
-  // Preferencia: británica > estadounidense > cualquier inglés.
+  // Preferencia: estadounidense > británica > cualquier inglés.
   cachedVoice =
-    en.find((v) => /en-GB/i.test(v.lang)) ||
     en.find((v) => /en-US/i.test(v.lang)) ||
+    en.find((v) => /en-GB/i.test(v.lang)) ||
     en[0] ||
     null;
   return cachedVoice;
@@ -48,7 +48,7 @@ export function speak(text, { onend } = {}) {
   if (!clean) return false;
   synth.cancel();
   const u = new SpeechSynthesisUtterance(clean);
-  u.lang = "en-GB";
+  u.lang = "en-US";
   const v = pickEnglishVoice();
   if (v) u.voice = v;
   u.rate = 0.95;

@@ -27,3 +27,4 @@ scripts/audio/.state/
 scripts/audio/.venv/
 scripts/audio/.models/
 scripts/audio/.samples/
+scripts/audio/.cache/

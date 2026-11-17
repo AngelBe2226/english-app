@@ -2,7 +2,7 @@ import { AUDIO_BASE } from "./config";
 import { audioPath, normText } from "./key";
 import { speak, stopSpeaking, speechSupported } from "../speech";
 
-// Reproductor: voz real (MP3 generado con OpenAI y guardado en R2) y, si no
+// Reproductor: voz real (MP3 generado con Kokoro y guardado en R2) y, si no
 // hay audio para ese texto o no hay conexión, la voz del sistema.
 // Los MP3 se piden con fetch: el service worker los guarda (CacheFirst), así
 // lo ya escuchado suena también sin conexión.

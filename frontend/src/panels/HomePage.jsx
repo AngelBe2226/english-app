@@ -155,7 +155,7 @@ export default function HomePage({ index, onSelectBlock }) {
             <span className="hl">{phrase.en}</span>
             <SpeakButton text={phrase.en} title="Escuchar la frase" />
           </p>
-          {audioEnabled() && <p className="ai-voice-note">Las voces en inglés están generadas con IA (OpenAI).</p>}
+          {audioEnabled() && <p className="ai-voice-note">Las voces en inglés están generadas con IA.</p>}
         </section>
       </div>
 
