@@ -21,3 +21,6 @@ frontend/public/content/
 # Variables de entorno locales (nunca al repo)
 .env.local
 *.local
+
+# Registro local del generador de audios
+scripts/audio/.state/
