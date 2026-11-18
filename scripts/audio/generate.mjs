@@ -36,6 +36,9 @@ const opt = (n, d) => {
 };
 const maxPhase = Number(opt("--phase", 5));
 const maxChars = Number(opt("--max-chars", Infinity));
+// --until 8: parar al llegar a esa hora local (franja nocturna).
+const untilHour = opt("--until", null);
+const pastUntil = () => untilHour !== null && new Date().getHours() >= Number(untilHour) && new Date().getHours() < 23;
 const quiet = flag("--quiet");
 const log = (...m) => !quiet && console.log(...m);
 
@@ -222,6 +225,10 @@ async function runKokoro(items) {
   (async () => {
     for (const it of items) {
       if (stopped) break;
+      if (pastUntil()) {
+        stopped = `fin de la franja horaria (${untilHour}:00)`;
+        break;
+      }
       if (made % 200 === 0 && !r2 && freeGB() < MIN_FREE_GB) {
         stopped = "poco espacio en disco";
         break;
