@@ -2,12 +2,8 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "frontend",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--", "--host", "127.0.0.1", "--port", "5180", "--strictPort"],
-      "cwd": "frontend",
-      "port": 5180,
-      "autoPort": false
+      "name": "english-app",
+      "url": "http://localhost:8001"
     }
   ]
 }
