@@ -78,6 +78,30 @@ if (flag("--if-changed") && fs.existsSync(STAMP_FILE) && fs.readFileSync(STAMP_F
   process.exit(0);
 }
 
+// Nunca dos generaciones a la vez (la manual y la automática del Mac).
+const LOCK_FILE = path.join(STATE_DIR, "generate.lock");
+if (!flag("--dry-run")) {
+  const other = fs.existsSync(LOCK_FILE) ? Number(fs.readFileSync(LOCK_FILE, "utf8")) : 0;
+  let alive = false;
+  try {
+    alive = other > 0 && other !== process.pid && process.kill(other, 0);
+  } catch {
+    alive = false;
+  }
+  if (alive) {
+    log(`Ya hay una generación en marcha (proceso ${other}).`);
+    process.exit(0);
+  }
+  fs.writeFileSync(LOCK_FILE, String(process.pid));
+  const release = () => {
+    try {
+      if (fs.readFileSync(LOCK_FILE, "utf8") === String(process.pid)) fs.unlinkSync(LOCK_FILE);
+    } catch {}
+  };
+  process.on("exit", release);
+  for (const sig of ["SIGINT", "SIGTERM"]) process.on(sig, () => process.exit(130));
+}
+
 const r2 =
   env.R2_ACCOUNT_ID && env.R2_ACCESS_KEY_ID && env.R2_SECRET_ACCESS_KEY && env.R2_BUCKET
     ? r2Client({

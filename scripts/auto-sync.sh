@@ -136,9 +136,6 @@ fi
 # Reconstruye el frontend si su fuente cambió (ediciones locales o cambios traídos por el pull).
 rebuild_frontend_if_changed
 
-# Audios de voz real para el contenido nuevo (solo si .env.local lo activa).
-"$REPO_DIR/scripts/audio/auto.sh" || true
-
 if ! git push origin main >/tmp/english-app-sync-push.log 2>&1; then
     log "Push falló — se reintentará en el siguiente ciclo. Detalle en /tmp/english-app-sync-push.log"
     exit 1
